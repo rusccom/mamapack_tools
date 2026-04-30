@@ -1,0 +1,184 @@
+Приоритет 6. Контентный кластер
+
+Цель
+- создать информационные статьи, которые подводят трафик к коммерческим collections
+- усилить topical relevance сайта
+- увеличить число страниц, которые работают на продажи через внутренние ссылки
+
+Почему это важно
+- у сайта мало контентных URL
+- без статей коммерческие collections получают меньше тематической поддержки
+- контент нужен не ради блога как раздела, а ради усиления основных страниц
+
+Основной принцип
+- каждая статья должна отвечать на один информационный запрос и вести пользователя к коммерческому следующему шагу
+
+План публикации
+- 6-8 статей за 6-8 недель
+- минимум 1 статья в неделю
+- первые 4 статьи публиковать сразу после обновления главной и ключевых collections
+
+Минимальный стандарт статьи
+1. Один четкий H1.
+2. Вступление, которое обещает конкретную пользу.
+3. 3-6 подзаголовков H2.
+4. Практический чек-лист или список.
+5. 3-5 внутренних ссылок на коммерческие pages.
+6. Блок следующего шага: смотри готовые наборы, смотри вещи для mamy, смотри вещи dla noworodka.
+
+Статья 1
+Тема
+- Lista do szpitala dla mamy
+
+Задача статьи
+- закрыть информационный спрос про список вещей для мамы
+- вести пользователя в formam и gotowe-torby
+
+Структура
+1. Co zabrać do szpitala dla mamy.
+2. Dokumenty i rzeczy osobiste.
+3. Higiena i produkty na połóg.
+4. Ubrania i rzeczy na pobyt w szpitalu.
+5. Czego nie warto pakować za dużo.
+6. Gotowa lista kontrolna.
+
+Коммерческие ссылки
+- formam
+- gotowe-torby
+
+Статья 2
+Тема
+- Lista do szpitala dla noworodka
+
+Задача статьи
+- вести пользователя в forbaby и gotowe-torby
+
+Структура
+1. Co jest potrzebne noworodkowi w szpitalu.
+2. Pieluszki i przewijanie.
+3. Ubranka.
+4. Kosmetyki i higiena.
+5. Rzeczy na wypis.
+6. Lista kontrolna.
+
+Коммерческие ссылки
+- forbaby
+- gotowe-torby
+
+Статья 3
+Тема
+- Kiedy spakować torbę do porodu
+
+Задача статьи
+- закрыть частый информационный запрос
+- вести на gotowe-torby и будущую torba-do-porodu
+
+Структура
+1. W którym tygodniu najlepiej zacząć.
+2. Co spakować wcześniej.
+3. Co zostawić na ostatni moment.
+4. Jak nie zapomnieć o ważnych rzeczach.
+5. Czy gotowa torba oszczędza czas.
+
+Статья 4
+Тема
+- Wyprawka do cesarskiego cięcia
+
+Задача статьи
+- получить трафик по частному, но коммерчески ценному сценарию
+- вести в formam и gotowe-torby
+
+Структура
+1. Czym różni się wyprawka po cesarskim cięciu.
+2. Produkty przydatne dla mamy.
+3. Higiena i komfort po porodzie.
+4. Jak spakować torbę bez nadmiaru rzeczy.
+
+Статья 5
+Тема
+- Torba do porodu zimą
+
+Задача статьи
+- закрыть сезонный запрос
+- вести в gotowe-torby и forbaby
+
+Структура
+1. Czego potrzeba zimą.
+2. Jak ubrać noworodka na wyjście.
+3. Jak nie przeładować torby.
+4. Gotowe zestawy a sezonowe dodatki.
+
+Статья 6
+Тема
+- Torba do porodu latem
+
+Задача статьи
+- закрыть сезонный запрос
+- вести в gotowe-torby и formam
+
+Структура
+1. Co warto zmienić latem.
+2. Produkty na upał i komfort mamy.
+3. Ubranka i tekstylia dla dziecka.
+4. Jak ograniczyć liczbę rzeczy.
+
+Статья 7
+Тема
+- Ile pieluch zabrać do szpitala
+
+Задача статьи
+- закрыть прикладной запрос
+- вести в forbaby и страницы с pieluszki
+
+Структура
+1. Od czego zależy liczba pieluch.
+2. Jakie rozmiary zwykle się przydają.
+3. Co jeszcze warto mieć do przewijania.
+4. Najczęstsze błędy przy pakowaniu.
+
+Статья 8
+Тема
+- Czy lepiej kupić gotową wyprawkę czy kompletować samodzielnie
+
+Задача статьи
+- работать на нижнюю часть воронки
+- вести в gotowe-torby и szerokie SEO collections
+
+Структура
+1. Plusy gotowej wyprawki.
+2. Plusy kompletowania samodzielnego.
+3. Kiedy które rozwiązanie ma sens.
+4. Jak uniknąć niepotrzebnych wydatków.
+
+Общие правила перелинковки из статей
+1. Каждая статья должна вести минимум на 2 релевантные коммерческие страницы.
+2. Ссылки должны стоять внутри смысла, а не только в блоке в конце.
+3. На коммерческих страницах должны появиться обратные ссылки на лучшие статьи.
+
+Общие правила tone of voice
+1. Писать полезно и конкретно.
+2. Не превращать статью в SEO-перечень ключей.
+3. Давать человеку ощущение, что статья помогает принять решение.
+4. Не обещать то, чего нет в ассортименте.
+
+Редакционный workflow
+1. Выбрать тему.
+2. Зафиксировать главный запрос.
+3. Назначить целевую collection, которую статья усиливает.
+4. Подготовить структуру H2.
+5. Написать статью.
+6. Вставить коммерческие ссылки.
+7. Проверить title, description, H1.
+8. Опубликовать и добавить ссылки с collection назад на статью.
+
+Проверка качества статьи
+1. Тема статьи совпадает с запросом.
+2. В статье есть практическая ценность.
+3. Есть внутренние ссылки на коммерческие страницы.
+4. Нет переоптимизации.
+5. Статья действительно поддерживает конкретную collection.
+
+Критерий готовности
+- есть контентный план минимум на 6-8 недель
+- опубликованы первые 4 статьи
+- каждая статья встроена в общую SEO-архитектуру сайта

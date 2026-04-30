@@ -1,0 +1,252 @@
+SEO-аудит mamapack.pl против przyszla-mama.pl
+Дата проверки: 2026-04-25
+
+Короткий вывод
+Главная причина, почему mamapack.pl слабее конкурента в органике, не в robots.txt, sitemap или скорости. По публичному crawl у MamaPack техническая база Shopify в целом рабочая: 334 URL в sitemap, все проверенные URL отвечают 200, canonical есть везде, Product schema есть на всех 281 товарах. Главная проблема - слабее коммерческая SEO-структура: меньше индексируемых страниц, меньше категорий под спрос, слабые title/H1 на ключевых collections, пустой H1 на главной, мало точных посадок под "wyprawka do szpitala", "torba do porodu", "wyprawka dla mamy", "wyprawka dla noworodka".
+
+Конкурент przyszla-mama.pl не идеален технически, но выигрывает покрытием спроса: 697 URL против 334, 80 категорий против 37, 570 товаров против 281, средний текст категории 1633 слова против 843 у MamaPack. У конкурента есть сильные посадки вроде /31-wyprawka с title "Wyprawka dla ciężarnej do szpitala - Przyszła Mama", 3955 словами на странице и BreadcrumbList schema.
+
+Ограничение аудита
+Проверка сделана по публичным данным: live crawl, robots/sitemap, HTML, structured data, локальный Lighthouse desktop, SERP-снимки. Нет доступа к Google Search Console, GA4, заказам, backlink-инструментам и реальным Core Web Vitals. Поэтому выводы по позициям - технически обоснованная диагностика, но не замена данным GSC.
+
+Сравнение по данным crawl
+Показатель | mamapack.pl | przyszla-mama.pl | Что это значит
+Sitemap URL | 334 | 697 | У конкурента почти в 2,1 раза больше индексируемой поверхности.
+Products | 281 | 570 | У конкурента шире ассортимент и больше long-tail входов.
+Collections/categories | 37 | 80 | У конкурента больше посадок под категорийный спрос.
+Missing meta description | 6 | 56 | У MamaPack тут лучше, но пустые description есть на важных страницах.
+Long meta description >170 | 20 | 59 | У MamaPack проблема точечная, но главная и gotowe-torby слишком длинные.
+Title >65 | 10 | 42 | У MamaPack проблема точечная.
+Missing H1 | 0 | 1 | Формально норм, но у MamaPack есть пустой H1.
+Empty H1 | 2 | 0 | Критично: главная MamaPack имеет пустой H1.
+Multi H1 | 18 | 62 | У обоих есть проблема, у MamaPack она в основном в product descriptions.
+Product schema | 281/281 | 570/570 | У обоих Product schema есть.
+BreadcrumbList на товарах | 0/281 | 570/570 | Конкурент сильнее по rich/entity structure.
+Средний текст категории | 843 слова | 1633 слова | Категории конкурента лучше раскрывают intent.
+Lighthouse desktop home | Performance 97 / SEO 100 | Performance 65 / SEO 92 | Скорость не объясняет проигрыш MamaPack.
+
+Почему конкурент лучше ранжируется
+1. У него больше посадочных страниц под коммерческий спрос. У MamaPack есть товары и базовые collections, но нет четкой карты посадок под главные запросы: "wyprawka do szpitala", "torba do porodu", "gotowa torba do szpitala", "wyprawka dla mamy do szpitala", "wyprawka dla noworodka do szpitala".
+
+2. У конкурента категории названы ближе к поиску. Пример: /31-wyprawka имеет title "Wyprawka dla ciężarnej do szpitala - Przyszła Mama". У MamaPack ключевая страница /collections/gotowe-torby имеет title "ZESTAWY DLA MALUSZKA - mamapack" и H1 "Kolekcja: ZESTAWY DLA MALUSZKA", то есть страница не бьет прямо в "gotowe torby do szpitala" или "torba do porodu".
+
+3. Главная MamaPack технически ослаблена: title 77 символов, meta description 304 символа, H1 пустой. У конкурента title главной 64 символа, description 167 символов, есть коммерческие H1, пусть их и два.
+
+4. Категории MamaPack часто имеют шаблонный H1 с префиксом "Kolekcja:", слишком общие названия или mismatch между title и H1. Для Google и пользователя это слабее, чем прямой H1 под intent.
+
+5. У конкурента BreadcrumbList schema есть на товарах и категориях. У MamaPack Product schema есть, но BreadcrumbList отсутствует на всех 281 товарных страницах.
+
+6. У конкурента сильнее текстовый слой: /31-wyprawka содержит около 3955 слов, /23-odziez-ciazowa около 4346 слов, /18-koszule-nocne-ciazowe-i-do-karmienia около 2081 слов. У MamaPack gotowe-torby - около 732 слов, при этом значительная часть текста - фильтры, карточки товаров и шаблон.
+
+7. В SERP-снимке по запросам вокруг "wyprawka do szpitala" видны отдельные страницы MamaPack и Przyszła Mama, но у MamaPack часто ранжируются главная или товар, а не правильная категорийная посадка. Это признак, что Google не видит сильную целевую category page под intent.
+
+Что не является главным блокером
+1. Robots.txt: у MamaPack стандартный Shopify robots, sitemap указан, критичного запрета коммерческих страниц нет.
+2. Sitemap: 334 URL, все проверенные URL отвечают 200.
+3. Product schema: на всех товарах есть Product/ProductGroup.
+4. Скорость desktop: MamaPack быстрее конкурента. Оптимизацию скорости делать стоит, но она не главный разрыв с przyszla-mama.pl.
+
+Приоритет 1 - главная страница https://mamapack.pl/
+Текущее состояние:
+- title: "Wyprawka do szpitala dla mamy i noworodka - Gotowe torby do porodu - mamapack", 77 символов
+- meta description: 304 символа
+- H1: пустой
+- H2: "Spakuj własną torbę", "Gotowe torby", "Zestawy dla mamy", "Porady i artykuły", "Kontakt"
+
+Что чинить:
+1. Убрать пустой H1 и поставить один видимый H1.
+2. Сократить title до 50-65 символов.
+3. Сократить meta description до 140-170 символов.
+4. Добавить вводный SEO-текст 80-150 слов сразу под первым экраном.
+5. Добавить текстовые ссылки на главные collections.
+
+Как чинить в Shopify:
+1. В теме найти section главной, который рендерит пустой h1. Вероятно это hero/banner или heading block без текста.
+2. В Shopify Admin проверить Online Store -> Preferences для home title/description.
+3. Если title/description берутся из theme.liquid, проверить, что используются стандартные Liquid-переменные page_title, page_description и canonical_url.
+4. H1 должен быть не логотипом и не пустым декоративным тегом.
+
+Рекомендуемые значения:
+- H1: Wyprawka do szpitala dla mamy i noworodka
+- Title: Wyprawka do szpitala dla mamy i noworodka | mamapack
+- Description: Gotowe torby do porodu i wyprawka do szpitala dla mamy i noworodka. Sprawdzone zestawy, szybka dostawa i wygodne zakupy w jednym miejscu.
+
+Приоритет 2 - пересобрать ключевые collections
+1. https://mamapack.pl/collections/gotowe-torby
+Текущее: title "ZESTAWY DLA MALUSZKA - mamapack", description 313 символов, H1 "Kolekcja: ZESTAWY DLA MALUSZKA".
+Исправить:
+- H1: Gotowe torby do szpitala
+- Title: Gotowe torby do szpitala dla mamy i noworodka | mamapack
+- Description 140-170 символов про gotowe torby, poród, mamę, noworodka.
+- Добавить 300-700 слов полезного текста и FAQ 4-6 вопросов.
+- Добавить ссылки на formam, forbaby, статьи про список в szpital и torba do porodu.
+
+2. https://mamapack.pl/collections/formam
+Текущее: title "Dla mamy - mamapack", description отсутствует, H1 "Kolekcja: Dla mamy".
+Исправить:
+- H1: Wyprawka dla mamy do szpitala
+- Title: Wyprawka dla mamy do szpitala | mamapack
+- Description 140-170 символов.
+- Текстовые блоки: higiena, poród, połóg, laktacja, odzież do szpitala.
+
+3. https://mamapack.pl/collections/forbaby
+Текущее: title "Dla dziecka - mamapack", description отсутствует, H1 "Kolekcja: Dla dziecka".
+Исправить:
+- H1: Wyprawka dla noworodka do szpitala
+- Title: Wyprawka dla noworodka do szpitala | mamapack
+- Description 140-170 символов.
+- Текстовые блоки: pieluszki, kosmetyki, ubranka, karmienie, akcesoria dla noworodka.
+
+Как чинить в Shopify:
+1. В Collection admin заполнить Search engine listing: page title и meta description.
+2. Title коллекции можно менять на SEO-нормальный, если это не ломает навигацию.
+3. Если тема автоматически добавляет "Kolekcja:" в H1, убрать префикс в collection template.
+4. Если нужен красивый короткий visual-title отдельно от SEO-H1, добавить отдельное metafield-поле, но не плодить второй H1.
+
+Приоритет 3 - создать карту SEO-посадок до запуска новых URL
+Не создавать сразу много похожих collections. Сначала развести intent:
+- /collections/wyprawka-do-szpitala - широкая категория для всей выправки.
+- /collections/torba-do-porodu - страница про формат torba, упаковку и подготовку к родам.
+- /collections/gotowa-torba-do-szpitala - прямой коммерческий intent готового решения.
+- /collections/formam - только вещи для мамы.
+- /collections/forbaby - только вещи для новорожденного.
+
+Правило: один главный запрос = одна главная страница. Если новая страница полностью заменяет gotowe-torby, нужен 301 redirect. Если gotowe-torby остается отдельной ассортиментной страницей, title/H1/товары/FAQ/ссылки должны отличаться от новой страницы.
+
+Приоритет 4 - BreadcrumbList schema
+Проблема: у MamaPack Product schema есть на всех товарах, но BreadcrumbList schema отсутствует на 281/281 product pages. У конкурента BreadcrumbList есть на всех проверенных товарах.
+
+Как чинить:
+1. Добавить видимые breadcrumbs на product и collection templates.
+2. Добавить JSON-LD BreadcrumbList в тему.
+3. Для товаров использовать путь Home -> Collection -> Product, если товар принадлежит основной SEO-collection.
+4. Не использовать фейковые breadcrumbs, которых нет на странице.
+5. Проверить Rich Results Test после внедрения.
+
+Shopify-ориентир: product | structured_data покрывает Product/ProductGroup, но BreadcrumbList нужно добавлять отдельно в theme Liquid.
+
+Приоритет 5 - H1 на товарах
+Проблема: 18 страниц с несколькими H1 и 2 страницы с пустым H1. Примеры:
+- /products/5903933668482-pieluszki-dada-extra-care-rozm-1-2-5-kg-26-szt: H1 "DADA Extra Care..." + H1 "Pieluszki Dada Extra Care"
+- /products/akuku-a0306-laktator-reczny: H1 "AKUKU A0306 - Laktator ręczny" + H1 "Laktator ręczny"
+- /products/akuku-a0458-zestaw-manicure-rozowy: H1 продукта + пустой H1
+- /products/canpol-zestaw-wyprawkowy-do-szpitala: H1 продукта + H1 из описания
+- /products/me-figi-l-bialy: одинаковый H1 продублирован дважды
+
+Как чинить:
+1. В product template оставить один H1 - название товара.
+2. В product description заменить все h1 на h2/h3.
+3. Проверить импортированные описания товаров: не должны содержать h1.
+4. Если пустой H1 генерирует custom section или bundle app, убрать тег или заполнить корректным H2.
+
+Приоритет 6 - metadata cleanup
+Страницы без meta description:
+- /blogs/news
+- /blogs/przydatne-artykuly
+- /collections/forbaby
+- /collections/formam
+- /collections/zabawa-i-edukacja
+- /pages/contact
+
+Страницы с явными проблемами title/description:
+- / - title 77, description 304
+- /collections/gotowe-torby - description 313, слабый title
+- /collections/oslonki-laktacyjne - title содержит склейку: "Osłonki laktacyjnOsłonki..."
+- /collections/higieniczne-wkladki - title 68
+- /collections/jednorazowe-majtki - title 75
+- /collections/kosmetyki-dla-mam, /collections/laktatory, /collections/podklady-higieniczne, /collections/szczotki-i-grzebienie, /collections/zestawy-dla-maluszka - description около 320 символов
+
+Как чинить:
+1. Для каждой важной collection: title 50-65 символов, description 140-170 символов.
+2. Description писать вручную, не автогенерировать из длинного описания.
+3. Убрать технические слова из H1: "Kolekcja:".
+4. Убрать склейки и повторения в title.
+
+Приоритет 7 - контентный кластер
+Сейчас блог есть, но он слаб как SEO-поддержка коммерческих страниц: blog index без description, многие article descriptions около 316-320 символов, в статьях мало нормальной H2-структуры.
+
+Что добавить за 6-8 недель:
+1. Lista do szpitala dla mamy -> ссылки на formam и gotowe-torby.
+2. Lista do szpitala dla noworodka -> ссылки на forbaby и gotowe-torby.
+3. Kiedy spakować torbę do porodu -> ссылки на gotowe-torby и torba-do-porodu.
+4. Wyprawka do cesarskiego cięcia -> ссылки на formam и gotowe-torby.
+5. Torba do porodu zimą -> ссылки на gotowe-torby и forbaby.
+6. Torba do porodu latem -> ссылки на gotowe-torby и formam.
+7. Ile pieluch zabrać do szpitala -> ссылки на forbaby и pieluszki.
+8. Gotowa wyprawka czy kompletowanie samodzielnie -> ссылки на gotowe-torby и wyprawka-do-szpitala.
+
+Стандарт статьи:
+- 1200-2500 слов
+- один H1
+- 3-6 H2
+- практический checklist
+- 3-5 внутренних ссылок на коммерческие collections
+- без медицинских обещаний и без советов, которые должен давать врач
+
+Приоритет 8 - внутренняя перелинковка
+Что сделать:
+1. С главной дать текстовые ссылки на gotowe-torby, formam, forbaby, будущую wyprawka-do-szpitala.
+2. На gotowe-torby добавить ссылки на formam, forbaby и 2-3 статьи.
+3. На formam и forbaby добавить блок "Powiązane kategorie".
+4. Из каждого blog article вести на 2-4 коммерческие pages.
+5. На product pages добавить ссылку на основную category, если она полезна пользователю.
+
+Приоритет 9 - изображения и скорость
+Lighthouse desktop показал:
+- mamapack home: Performance 97, LCP 1.0 s, TBT 30 ms, unused JS 133 KiB, responsive image savings 181 KiB
+- mamapack gotowe-torby: Performance 87, LCP 1.8 s, TBT 160 ms, unused JS 149 KiB
+- przyszla-mama /31-wyprawka: Performance 61, LCP 1.9 s, TBT 500 ms, unused JS 1050 KiB
+
+Вывод: скорость не главная причина проигрыша MamaPack. Но нужно:
+1. Добавить alt для важных изображений: на главной 7 img без alt.
+2. Проверить размеры hero/card images, Lighthouse нашел экономию 181 KiB на главной.
+3. Убрать неиспользуемый JS приложений Shopify, если есть отключенные app embeds.
+4. Не добавлять тяжелые визуальные блоки при SEO-доработках.
+
+Порядок работ на 30 дней
+Неделя 1:
+- исправить H1/title/description главной
+- исправить gotowe-torby, formam, forbaby
+- убрать "Kolekcja:" из H1 collections
+- заполнить 6 пустых meta description
+
+Неделя 2:
+- почистить 18 multi-H1 товаров и 2 empty-H1 URL
+- добавить BreadcrumbList schema
+- исправить битые/склеенные collection titles
+
+Неделя 3:
+- утвердить карту SEO-посадок
+- подготовить /wyprawka-do-szpitala и /torba-do-porodu без каннибализации
+- настроить внутренние ссылки с главной и collections
+
+Неделя 4:
+- опубликовать первые 4 статьи кластера
+- отправить новые/обновленные URL на переобход в Google Search Console
+- проверить Rich Results, indexed/crawled status, CTR и запросы по каждой посадке
+
+Что измерять после правок
+1. В GSC: impressions/clicks по запросам "wyprawka do szpitala", "torba do porodu", "wyprawka dla mamy", "wyprawka dla noworodka".
+2. В GSC: какая URL ранжируется по каждому запросу. Если ранжируется товар вместо категории, category все еще слабая.
+3. CTR главной и collections после переписывания title/description.
+4. Индексацию новых collections.
+5. Rich Results для Product и BreadcrumbList.
+6. Органические заказы/добавления в корзину по обновленным landing pages.
+
+Источники и проверенные URL
+- https://mamapack.pl/
+- https://mamapack.pl/robots.txt
+- https://mamapack.pl/sitemap.xml
+- https://mamapack.pl/collections/gotowe-torby
+- https://mamapack.pl/collections/formam
+- https://mamapack.pl/collections/forbaby
+- https://mamapack.pl/blogs/przydatne-artykuly
+- https://przyszla-mama.pl/
+- https://przyszla-mama.pl/robots.txt
+- https://przyszla-mama.pl/1_index_sitemap.xml
+- https://przyszla-mama.pl/31-wyprawka
+- https://przyszla-mama.pl/23-odziez-ciazowa
+- https://przyszla-mama.pl/18-koszule-nocne-ciazowe-i-do-karmienia
+- Shopify SEO metadata docs: https://shopify.dev/docs/storefronts/themes/seo/metadata
+- Shopify structured_data Liquid filter: https://shopify.dev/docs/api/liquid/filters/structured_data
+- Shopify note on collection-context product URLs and SEO implications: https://shopify.dev/docs/api/liquid/filters/within

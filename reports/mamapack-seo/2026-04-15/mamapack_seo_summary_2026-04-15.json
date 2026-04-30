@@ -1,0 +1,21 @@
+{
+  "total_urls": 330,
+  "by_type": {
+    "home": 1,
+    "products": 277,
+    "pages": 3,
+    "collections": 37,
+    "blogs": 12
+  },
+  "missing_desc_count": 6,
+  "missing_h1_count": 58,
+  "multi_h1_count": 15,
+  "missing_product_schema_count": 108,
+  "copy_url_count": 8,
+  "variant_like_url_count": 11,
+  "long_title_count": 195,
+  "long_desc_count": 247,
+  "priority_rows_count": 302,
+  "csv_path": "c:\\Users\\User\\Desktop\\GameWeb\\Price\\mamapack_seo_audit_2026-04-15.csv",
+  "priority_path": "c:\\Users\\User\\Desktop\\GameWeb\\Price\\mamapack_seo_priority_2026-04-15.csv"
+}

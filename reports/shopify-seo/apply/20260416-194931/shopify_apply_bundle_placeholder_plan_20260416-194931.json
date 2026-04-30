@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "legacy_id": 10517866021197,
+      "product_id": "gid://shopify/Product/10517866021197",
+      "title": "Torba do szpitala dla MAMY – gotowa wyprawka ROZSZERZONA",
+      "old_handle": "bundle-product-14",
+      "new_handle": "torba-do-szpitala-mamy-gotowa-wyprawka-rozszerzona",
+      "old_path": "/products/bundle-product-14",
+      "new_path": "/products/torba-do-szpitala-mamy-gotowa-wyprawka-rozszerzona",
+      "seo_title": "Torba do szpitala dla Mamy – wyprawka Rozszerzona – mamapack",
+      "seo_description": "Torba do szpitala dla Mamy – gotowa wyprawka Rozszerzona. Zestaw Rozszerzony (dla mamy) – 15 produktów MamaPack to wygodny sposób na skompletowanie"
+    },
+    {
+      "legacy_id": 10517867528525,
+      "product_id": "gid://shopify/Product/10517867528525",
+      "title": "Torba do szpitala dla MAMY – gotowa wyprawka KOMPLETNA",
+      "old_handle": "bundle-product-15",
+      "new_handle": "torba-do-szpitala-mamy-gotowa-wyprawka-kompletna",
+      "old_path": "/products/bundle-product-15",
+      "new_path": "/products/torba-do-szpitala-mamy-gotowa-wyprawka-kompletna",
+      "seo_title": "Torba do szpitala dla Mamy – gotowa wyprawka Kompletna – mamapack",
+      "seo_description": "Torba do szpitala dla Mamy – gotowa wyprawka Kompletna. Zestaw Kompletny (dla mamy) – 18 produktów MamaPack to wygodny sposób na skompletowanie zestawu w"
+    },
+    {
+      "legacy_id": 10517869068621,
+      "product_id": "gid://shopify/Product/10517869068621",
+      "title": "Torba do szpitala dla MAMY – gotowa wyprawka Premium",
+      "old_handle": "bundle-product-16",
+      "new_handle": "torba-do-szpitala-mamy-gotowa-wyprawka-premium",
+      "old_path": "/products/bundle-product-16",
+      "new_path": "/products/torba-do-szpitala-mamy-gotowa-wyprawka-premium",
+      "seo_title": "Torba do szpitala dla Mamy – gotowa wyprawka Premium – mamapack",
+      "seo_description": "Torba do szpitala dla Mamy – gotowa wyprawka Premium. Zestaw Premium (dla mamy) – 21 produktów MamaPack to wygodny sposób na skompletowanie zestawu w"
+    },
+    {
+      "legacy_id": 10526795039053,
+      "product_id": "gid://shopify/Product/10526795039053",
+      "title": "Torba do szpitala dla MAMY – gotowa wyprawka PODSTAWOWA",
+      "old_handle": "bundle-product-13",
+      "new_handle": "torba-do-szpitala-mamy-gotowa-wyprawka-podstawowa",
+      "old_path": "/products/bundle-product-13",
+      "new_path": "/products/torba-do-szpitala-mamy-gotowa-wyprawka-podstawowa",
+      "seo_title": "Torba do szpitala dla Mamy – wyprawka Podstawowa – mamapack",
+      "seo_description": "Torba do szpitala dla Mamy – gotowa wyprawka Podstawowa. Zestaw Podstawowy (dla mamy) – 11 produktów MamaPack to wygodny sposób na skompletowanie zestawu"
+    },
+    {
+      "legacy_id": 10537603203405,
+      "product_id": "gid://shopify/Product/10537603203405",
+      "title": "Torba do szpitala dla noworodka - gotowa wyprawka PREMIUM",
+      "old_handle": "bundle-product-21",
+      "new_handle": "torba-do-szpitala-noworodka-gotowa-wyprawka-premium",
+      "old_path": "/products/bundle-product-21",
+      "new_path": "/products/torba-do-szpitala-noworodka-gotowa-wyprawka-premium",
+      "seo_title": "Torba do szpitala dla noworodka - wyprawka Premium – mamapack",
+      "seo_description": "Torba do szpitala dla noworodka - gotowa wyprawka Premium. Dzięki temu dopasujemy kolor wybranych elementów, takich jak smoczek, pieluszki/pieluchy oraz"
+    }
+  ],
+  "count": 5
+}

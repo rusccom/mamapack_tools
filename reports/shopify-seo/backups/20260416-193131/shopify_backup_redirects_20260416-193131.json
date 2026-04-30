@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "id": "gid://shopify/UrlRedirect/844624363853",
+      "path": "/collections/forbaby2",
+      "target": "/collections/forbaby"
+    },
+    {
+      "id": "gid://shopify/UrlRedirect/882322702669",
+      "path": "/collections/na-wypis",
+      "target": "/collections/oslonki-laktacyjne"
+    }
+  ],
+  "count": 2
+}

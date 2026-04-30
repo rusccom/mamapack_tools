@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "legacy_id": 10517866021197,
+      "title": "Torba do szpitala dla MAMY – gotowa wyprawka ROZSZERZONA",
+      "old_handle": "bundle-product-14",
+      "new_handle": "torba-do-szpitala-mamy-gotowa-wyprawka-rozszerzona",
+      "redirect_path": "/products/bundle-product-14",
+      "redirect_target": "/products/torba-do-szpitala-mamy-gotowa-wyprawka-rozszerzona",
+      "success": true
+    },
+    {
+      "legacy_id": 10517867528525,
+      "title": "Torba do szpitala dla MAMY – gotowa wyprawka KOMPLETNA",
+      "old_handle": "bundle-product-15",
+      "new_handle": "torba-do-szpitala-mamy-gotowa-wyprawka-kompletna",
+      "redirect_path": "/products/bundle-product-15",
+      "redirect_target": "/products/torba-do-szpitala-mamy-gotowa-wyprawka-kompletna",
+      "success": true
+    },
+    {
+      "legacy_id": 10517869068621,
+      "title": "Torba do szpitala dla MAMY – gotowa wyprawka Premium",
+      "old_handle": "bundle-product-16",
+      "new_handle": "torba-do-szpitala-mamy-gotowa-wyprawka-premium",
+      "redirect_path": "/products/bundle-product-16",
+      "redirect_target": "/products/torba-do-szpitala-mamy-gotowa-wyprawka-premium",
+      "success": true
+    },
+    {
+      "legacy_id": 10526795039053,
+      "title": "Torba do szpitala dla MAMY – gotowa wyprawka PODSTAWOWA",
+      "old_handle": "bundle-product-13",
+      "new_handle": "torba-do-szpitala-mamy-gotowa-wyprawka-podstawowa",
+      "redirect_path": "/products/bundle-product-13",
+      "redirect_target": "/products/torba-do-szpitala-mamy-gotowa-wyprawka-podstawowa",
+      "success": true
+    },
+    {
+      "legacy_id": 10537603203405,
+      "title": "Torba do szpitala dla noworodka - gotowa wyprawka PREMIUM",
+      "old_handle": "bundle-product-21",
+      "new_handle": "torba-do-szpitala-noworodka-gotowa-wyprawka-premium",
+      "redirect_path": "/products/bundle-product-21",
+      "redirect_target": "/products/torba-do-szpitala-noworodka-gotowa-wyprawka-premium",
+      "success": true
+    }
+  ],
+  "count": 5
+}

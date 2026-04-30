@@ -1,0 +1,285 @@
+Точный SEO-план по страницам mamapack.pl
+Дата: 2026-04-13
+
+Что делаем точно
+
+1. Главная страница https://mamapack.pl/
+Статус:
+- должна индексироваться
+- должна быть главной SEO-посадкой под общий запрос
+
+Что исправить обязательно:
+- убрать пустой H1 с логотипом
+- добавить один нормальный текстовый H1 в первом экране
+- сократить title
+- сократить meta description
+- добавить короткий вводный SEO-текст перед карточками или сразу после первого экрана
+
+Что поставить:
+- Title:
+  Wyprawka do szpitala dla mamy i noworodka | mamapack
+- Meta description:
+  Gotowe torby do porodu i wyprawka do szpitala dla mamy i noworodka. Złóż własny zestaw albo wybierz gotową torbę.
+- H1:
+  Wyprawka do szpitala dla mamy i noworodka
+
+Как перестроить первый экран:
+- H1: Wyprawka do szpitala dla mamy i noworodka
+- 1 короткий абзац:
+  Złóż własną torbę krok po kroku albo wybierz gotową wyprawkę dla mamy, dla noworodka lub dla mamy i dziecka.
+- 3 основные карточки с H2:
+  Złóż torbę samodzielnie
+  Gotowe torby do szpitala
+  Gotowe zestawy i akcesoria
+
+Что важно:
+- логотип не должен быть единственным H1
+- на главной должна быть явная текстовая релевантность под запросы:
+  wyprawka do szpitala
+  torba do porodu
+  wyprawka dla mamy
+  wyprawka dla noworodka
+
+2. Страница сборки сумки https://mamapack.pl/pages/zlozsam
+Статус:
+- в текущем виде должна быть noindex
+- причина: страница серверно рендерит огромное количество товарных названий, цен и повторяющихся элементов
+- сейчас это не чистая SEO-страница, а рабочий интерфейс-конфигуратор
+
+Почему noindex нужен именно сейчас:
+- страница содержит очень много товарного контента прямо в HTML
+- поисковик видит на ней реальные карточки товаров, цены и названия
+- это создает риск каннибализации и мусорной индексации
+- при этом страница не оформлена как нормальная посадочная под отдельный intent
+
+Что сделать точно:
+- оставить canonical на саму страницу
+- добавить meta robots:
+  noindex,follow
+- не выводить Product schema на этой странице
+- не пытаться продвигать эту страницу в текущем виде как SEO-страницу
+
+Какие SEO-поля поставить все равно:
+- Title:
+  Złóż własną wyprawkę do szpitala krok po kroku | mamapack
+- Meta description:
+  Wygodny kreator, w którym samodzielnie skompletujesz wyprawkę do szpitala dla mamy i noworodka krok po kroku.
+- H1:
+  Złóż własną wyprawkę do szpitala
+
+Что должно остаться на странице:
+- короткий вводный абзац
+- инструкция как пользоваться
+- список этапов
+- FAQ
+
+Что не должно работать как SEO-контент:
+- список товаров в виде индексируемой товарной витрины
+- повторяющиеся товарные названия и цены как основной контент страницы
+
+Если позже захочешь индексировать эту страницу:
+- сначала нужно перестроить ее архитектуру
+- индексируемой оставить только верхнюю часть страницы:
+  H1
+  intro
+  jak działa kreator
+  FAQ
+- сам список товаров грузить после действия пользователя или через JS-интерфейс
+- карточки товаров внутри конструктора делать кнопками, а не SEO-ссылками
+
+Итог по этой странице:
+- прямо сейчас: index = НЕТ
+- meta robots = noindex,follow
+
+3. Страница готовых торб https://mamapack.pl/pages/gotowe-torby
+Статус:
+- должна индексироваться
+- это должна быть универсальная landing page под общий запрос по готовым сумкам
+- но она не должна расползаться в SEO за счет ссылок на десятки отдельных комплектующих
+
+Что вижу сейчас:
+- на странице нет H1
+- нет meta description
+- title слишком общий
+- на странице найдено 63 ссылки на /products/
+- из них только 14 похожи на сами бандлы/готовые сумки
+- остальные 49 ведут на отдельные комплектующие внутри таблиц сравнения
+
+Это главная проблема страницы:
+- сейчас поисковик видит не только сами готовые сумки
+- он видит еще и десятки ссылок на отдельные подкладки, бутылочки, chusteczki, lanolina и т.д.
+- это размывает тему страницы
+
+Что сделать точно:
+- оставить индексируемой саму страницу /pages/gotowe-torby
+- добавить один H1
+- добавить уникальный title
+- добавить meta description
+- оставить кликабельными только:
+  карточки самих готовых сумок
+  названия самих готовых сумок
+  CTA-кнопки к самим готовым сумкам
+- убрать ссылки с комплектующих внутри сравнительных таблиц
+
+Что должно быть кликабельным:
+- bundle card
+- bundle title
+- button "Zobacz torbę"
+
+Что должно быть НЕкликабельным:
+- все товары, которые входят внутрь готовой сумки
+- все строки сравнения содержимого
+- все элементы комплектации внутри comparison table
+
+То есть:
+- AKUKU A0501, BELLA, lanolina, butelka, pieluszki и прочие должны быть текстом или иконкой, но не ссылкой
+- ссылки на отдельные компоненты внутри этой страницы надо убрать
+
+Какие SEO-поля поставить:
+- Title:
+  Gotowe torby do szpitala dla mamy i noworodka | mamapack
+- Meta description:
+  Porównaj gotowe torby do szpitala dla mamy, dla noworodka oraz dla mamy i dziecka. Wybierz wariant najlepiej dopasowany do potrzeb.
+- H1:
+  Gotowe torby do szpitala
+
+Какой смысл страницы:
+- это selector / comparison landing
+- она ранжируется по широкому intent:
+  gotowe torby do szpitala
+  gotowa wyprawka do szpitala
+  torba do porodu gotowa
+- а уже внутри нее пользователь переходит на отдельные бандлы
+
+Итог по этой странице:
+- index = ДА
+- кликабельны только бандлы
+- комплектующие внутри таблиц = без ссылок
+
+4. Что делать с бандлами и готовыми сумками
+Статус:
+- сами готовые сумки должны индексироваться отдельно
+- но не через универсальную страницу как куча смешанных ссылок на все подряд
+
+Как сделать правильно:
+- создать отдельную indexable collection только под готовые сумки
+- например:
+  /collections/gotowe-torby-do-szpitala
+  или
+  /collections/gotowe-wyprawki-do-szpitala
+
+В эту collection включить только bundle products:
+- torby dla mamy
+- torby dla noworodka
+- torby dla mamy i noworodka
+
+Что не должно туда попадать:
+- одиночные комплектующие
+- подкладки
+- бутылочки
+- chusteczki
+- lanolina
+- majtki poporodowe
+- другие обычные product pages
+
+Структура должна быть такой:
+- /pages/gotowe-torby = landing/selector/comparison
+- /collections/gotowe-torby-do-szpitala = SEO-категория всех готовых сумок
+- /products/... = отдельные bundle product pages
+
+5. Что сделать с URL самих bundle products
+Проблема:
+- часть URL сейчас имеют плохие handle вида:
+  /products/bundle-product-13
+  /products/bundle-product-14
+  /products/bundle-product-15
+  /products/bundle-product-16
+  /products/bundle-product-21
+
+Если эти товары должны индексироваться, такие handle надо менять.
+
+Как должно быть:
+- /products/torba-do-szpitala-dla-mamy-podstawowa
+- /products/torba-do-szpitala-dla-mamy-rozszerzona
+- /products/torba-do-szpitala-dla-mamy-kompletna
+- /products/torba-do-szpitala-dla-mamy-premium
+
+То же самое для noworodka и mamy-z-dzieckiem.
+
+Важно:
+- после смены handle настроить 301 redirect со старого URL на новый
+
+6. Что делать с индексацией комплектующих внутри кастомных страниц
+Правильное правило:
+- комплектующие могут индексироваться как отдельные товары сами по себе, если это нужно магазину
+- но они не должны быть массово перелинкованы из selector/comparison страниц
+
+Точное решение:
+- на /pages/gotowe-torby убрать href со строк comparison table
+- на /pages/zlozsam не давать поисковику индексируемую товарную витрину
+
+7. Что внедрить в Shopify theme.liquid
+Официальная база Shopify:
+- title, meta description и canonical выводятся в theme.liquid через page_title, page_description и canonical_url
+- для кастомного noindex можно условно вывести meta robots по page.handle
+
+Шаблон логики:
+
+{% if request.page_type == 'page' and page.handle == 'zlozsam' %}
+  <title>Złóż własną wyprawkę do szpitala krok po kroku | mamapack</title>
+  <meta name="description" content="Wygodny kreator, w którym samodzielnie skompletujesz wyprawkę do szpitala dla mamy i noworodka krok po kroku.">
+  <meta name="robots" content="noindex,follow">
+  <link rel="canonical" href="{{ canonical_url }}">
+{% elsif request.page_type == 'page' and page.handle == 'gotowe-torby' %}
+  <title>Gotowe torby do szpitala dla mamy i noworodka | mamapack</title>
+  <meta name="description" content="Porównaj gotowe torby do szpitala dla mamy, dla noworodka oraz dla mamy i dziecka. Wybierz wariant najlepiej dopasowany do potrzeb.">
+  <link rel="canonical" href="{{ canonical_url }}">
+{% else %}
+  <title>
+    {{ page_title -}}
+    {%- if current_tags %} &ndash; tagged "{{ current_tags | join: ', ' }}"{% endif -%}
+    {%- if current_page != 1 %} &ndash; Page {{ current_page }}{% endif -%}
+    {%- unless page_title contains shop.name %} &ndash; {{ shop.name }}{% endunless -%}
+  </title>
+  {% if page_description %}
+    <meta name="description" content="{{ page_description | escape }}">
+  {% endif %}
+  <link rel="canonical" href="{{ canonical_url }}">
+{% endif %}
+
+8. Что сделать сначала, без обсуждений
+Первый этап:
+- Главная:
+  добавить H1
+  переписать title
+  переписать meta description
+- /pages/zlozsam:
+  поставить noindex,follow
+  добавить уникальные title + description + H1
+- /pages/gotowe-torby:
+  добавить title + description + H1
+  убрать ссылки с комплектующих
+  оставить ссылки только на bundle products
+- Bundle products:
+  выделить в отдельную collection
+  заменить плохие handle bundle-product-13 и т.д. на нормальные SEO-handle
+
+9. Проверка после внедрения
+После правок проверить:
+- главная имеет 1 H1
+- zlozsam отдает meta robots noindex,follow
+- gotowe-torby имеет 1 H1 и только bundle links
+- в исходном HTML gotowe-torby нет десятков ссылок на комплектующие
+- bundle products входят в отдельную collection
+- bundle products имеют нормальные URL и 301 redirect со старых handle
+
+Источники
+- https://mamapack.pl/
+- https://mamapack.pl/pages/zlozsam
+- https://mamapack.pl/pages/gotowe-torby
+- Shopify docs via Context7:
+  https://shopify.dev/docs/storefronts/themes/seo/metadata
+  https://shopify.dev/docs/storefronts/themes/store/requirements
+  https://shopify.dev/docs/api/liquid/objects/request
+  https://shopify.dev/docs/api/liquid/objects/template
+  https://shopify.dev/docs/api/liquid/objects/page

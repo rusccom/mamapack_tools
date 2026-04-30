@@ -1,0 +1,264 @@
+SEO-аудит: mamapack.pl vs przyszla-mama.pl
+Дата: 2026-04-13
+
+Короткий вывод
+Основная проблема mamapack.pl не в robots.txt или sitemap.
+Главная разница с конкурентом в том, что у конкурента SEO заточено под реальные поисковые запросы на уровне категорий, H1, title и текстов на страницах категорий.
+У mamapack.pl техническая база в целом есть, но семантическая структура и посадочные страницы слабее.
+
+Что я проверил
+- Главные страницы двух сайтов
+- robots.txt
+- sitemap
+- Примеры товарных страниц
+- Примеры категорий
+- Видимую структуру заголовков, canonical, meta description, schema
+
+Факты по mamapack.pl
+- Есть robots.txt и sitemap: https://mamapack.pl/robots.txt и https://mamapack.pl/sitemap.xml
+- В sitemap примерно 329 URL:
+  products = 274
+  categories = 37
+  blog/article = 12
+  other pages = 6
+- Главная страница:
+  title = 84 символа
+  meta description = 304 символа
+  H1 отсутствует
+  есть только H2: "Spakuj własną torbę", "Gotowe torby", "GOTOWE ZESTAWY", "Porady i artykuły", "Kontakt"
+- Категория https://mamapack.pl/collections/gotowe-torby:
+  title = "ZESTAWY DLA MALUSZKA – mamapack"
+  H1 = "Kolekcja: ZESTAWY DLA MALUSZKA"
+  meta description = 313 символов
+  страница не бьет точно в запросы типа "wyprawka do szpitala", "torba do porodu", "gotowa torba do szpitala"
+- Категории https://mamapack.pl/collections/formam и https://mamapack.pl/collections/forbaby:
+  title очень общие
+  meta description отсутствует
+- Товарные страницы у mamapack.pl в целом нормальные:
+  есть canonical
+  есть Product schema
+  есть H1
+  есть текст описания
+- Блог есть, но он небольшой: 12 URL
+- Статьи в блоге в основном из 2024 года, то есть контентный рост сейчас слабый
+
+Факты по przyszla-mama.pl
+- Есть robots.txt и sitemap: https://przyszla-mama.pl/robots.txt и https://przyszla-mama.pl/1_index_sitemap.xml
+- В sitemap примерно 697 URL:
+  products = 570
+  categories = 80
+  other pages = 47
+- Главная страница:
+  title = 64 символа
+  meta description = 167 символов
+  есть 2 H1 с коммерческим смыслом:
+  "Wysokiej jakości, modne ubrania ciążowe"
+  "Wszystko, czego potrzebuje Twoje maleństwo"
+- Категория https://przyszla-mama.pl/31-wyprawka:
+  title = "Wyprawka dla ciężarnej do szpitala - Przyszła Mama"
+  H1 = "Wyprawka"
+  есть длинное текстовое описание категории с ключевыми словами и коммерческим интентом
+- Другие категории тоже заточены под спрос:
+  https://przyszla-mama.pl/23-odziez-ciazowa
+  https://przyszla-mama.pl/18-koszule-nocne-ciazowe-i-do-karmienia
+- На товарной странице есть canonical, Product schema и BreadcrumbList schema
+
+Главный вывод по сравнению
+- Конкурент выигрывает не потому, что у него идеальная техническая SEO-настройка.
+- У конкурента тоже есть шероховатости.
+- Но у него намного сильнее:
+  1. покрытие спроса категориями
+  2. title и H1 под реальные ключи
+  3. длинные SEO-тексты на категориях
+  4. больше индексируемых коммерческих URL
+
+Почему mamapack.pl сейчас проигрывает
+1. Главная страница не имеет нормального H1.
+2. Главная и категории используют слишком длинные meta description.
+3. Категории названы слишком общо или не под поисковый спрос.
+4. У части категорий нет meta description вообще.
+5. Ключевой коммерческий спрос не вынесен в отдельные SEO-посадочные страницы.
+6. Контентный раздел слишком маленький, чтобы стабильно усиливать коммерческие страницы.
+7. Структура категорий слабее, чем у конкурента: 37 против 80.
+
+Что делать в первую очередь
+
+Приоритет 1. Исправить главную страницу
+Сделать на главной один нормальный H1.
+Рекомендуемый вариант H1:
+"Wyprawka do szpitala dla mamy i noworodka"
+
+Переписать title главной.
+Текущий title слишком длинный.
+Рекомендуемый вариант:
+"Wyprawka do szpitala dla mamy i noworodka | mamapack"
+
+Переписать meta description главной до 140-170 символов.
+Пример:
+"Gotowe torby do porodu i wyprawka do szpitala dla mamy i noworodka. Sprawdzone zestawy, szybka dostawa i wygodne zakupy w jednym miejscu."
+
+Добавить на главную короткий вводный SEO-блок 80-150 слов над или сразу под первым экраном.
+В тексте использовать естественно:
+- wyprawka do szpitala
+- torba do porodu
+- wyprawka dla mamy
+- wyprawka dla noworodka
+
+Приоритет 2. Переписать ключевые категории под спрос
+Самая важная проблема сейчас: URL и intent не совпадают.
+
+Что сделать:
+- Для https://mamapack.pl/collections/gotowe-torby сменить SEO-фокус
+- Убрать слишком общее "ZESTAWY DLA MALUSZKA"
+- Сделать title и H1 под коммерческий запрос
+
+Рекомендуемый вариант для этой страницы:
+- title: "Gotowe torby do szpitala dla mamy i noworodka | mamapack"
+- H1: "Gotowe torby do szpitala"
+- meta description: 140-170 символов
+- текст категории: 250-500 слов
+
+Для https://mamapack.pl/collections/formam:
+- title: "Wyprawka dla mamy do szpitala | mamapack"
+- H1: "Wyprawka dla mamy do szpitala"
+- добавить meta description
+- добавить SEO-текст с подблоками: higiena, poród, laktacja, odzież do szpitala
+
+Для https://mamapack.pl/collections/forbaby:
+- title: "Wyprawka dla noworodka do szpitala | mamapack"
+- H1: "Wyprawka dla noworodka do szpitala"
+- добавить meta description
+- добавить SEO-текст с подблоками: pieluszki, kosmetyki, ubranka, karmienie
+
+Приоритет 3. Создать отдельные SEO-посадочные страницы под самые денежные запросы
+Сейчас у сайта мало страниц, которые точно отвечают на коммерческий intent.
+Нужно не просто держать товары, а закрывать спрос отдельными посадочными.
+
+Минимальный набор новых страниц:
+- /collections/wyprawka-do-szpitala
+- /collections/torba-do-porodu
+- /collections/wyprawka-dla-mamy
+- /collections/wyprawka-dla-noworodka
+- /collections/gotowa-torba-do-szpitala
+
+Важно:
+- если создаешь новые URL, ставь 301 redirect со старых пересекающихся страниц, где это уместно
+- не плодить дубли, а разводить intent по отдельным посадочным
+
+Приоритет 4. Усилить текст на категориях
+У конкурента категории реально продают через текст.
+У тебя категории в этом месте слабые.
+
+Для каждой важной категории сделать:
+- 1 основной H1
+- 1 короткий лид 60-100 слов
+- 3-5 подзаголовков H2
+- 250-500 слов полезного текста
+- блок FAQ на 4-6 вопросов
+- ссылки на соседние категории и на статьи
+
+Шаблон H2 для категорий:
+- Co powinna zawierać wyprawka?
+- Jak wybrać torbę do porodu?
+- Co przyda się mamie w szpitalu?
+- Co zabrać dla noworodka?
+
+Приоритет 5. Улучшить внутреннюю перелинковку
+Сейчас blog и collection-страницы можно связать намного сильнее.
+
+Что сделать:
+- С главной дать текстовые ссылки на 4-6 приоритетных категорий
+- Из каждой статьи блога ссылаться на 2-4 коммерческие категории
+- На категориях добавить блок "Powiązane kategorie"
+- На товарных страницах добавить ссылки на главную SEO-категорию
+
+Приоритет 6. Усилить товарные страницы
+Товарные страницы у тебя уже лучше, чем категории, но их можно усилить.
+
+Что добавить:
+- блок "Dla kogo ten produkt?"
+- блок "Kiedy zabrać do szpitala?"
+- блок "Z czym kupują najczęściej?"
+- FAQ по товару
+- хлебные крошки на странице
+
+Из structured data добавить или проверить:
+- Product
+- BreadcrumbList
+- AggregateRating, только если отзывы реальные и видимые
+
+Приоритет 7. Расширить контентный кластер
+12 статей для этой ниши мало.
+Нужен контент, который подводит трафик к категориям.
+
+Темы, которые стоит добавить:
+- lista do szpitala dla mamy
+- lista do szpitala dla noworodka
+- kiedy spakować torbę do porodu
+- wyprawka do cesarskiego cięcia
+- torba do porodu zimą / latem
+- co kupić na baby shower
+- ile pieluch zabrać do szpitala
+- czy lepiej kupić gotową wyprawkę czy kompletować samodzielnie
+
+Контент-план на старт:
+- 8 новых статей за 6-8 недель
+- каждая статья 1200-2500 слов
+- в каждой статье 3-5 ссылок на коммерческие категории
+
+Приоритет 8. Проверить шаблонные SEO-поля на всех collection pages
+Нужно пройтись по всем коллекциям и проверить:
+- есть ли уникальный title
+- есть ли уникальный H1
+- есть ли meta description
+- нет ли слишком общих названий
+- совпадает ли страница с реальным поисковым интентом
+
+Минимальный стандарт для каждой collection page:
+- title 50-65 символов
+- meta description 140-170 символов
+- один H1
+- хотя бы 150-300 слов уникального текста
+
+Приоритет 9. Не трогать то, что уже работает
+Сейчас robots.txt и sitemap у mamapack.pl в целом в порядке.
+Это не первичный источник проблемы.
+Не надо начинать с микрофиксов robots.txt.
+Самый большой рост даст не это, а:
+- новые SEO-категории
+- правильные title/H1
+- тексты категорий
+- внутренняя перелинковка
+
+Порядок работ на 14 дней
+1. Исправить главную: H1, title, meta description, intro block.
+2. Исправить 3 ключевые категории: gotowe-torby, formam, forbaby.
+3. Создать 3-5 новых SEO-посадочных страниц под ключевые запросы.
+4. Добавить тексты и FAQ на категории.
+5. Добавить BreadcrumbList и хлебные крошки.
+6. Сделать перелинковку из главной и блога в категории.
+7. Подготовить и опубликовать минимум 4 новые статьи.
+
+Что я бы сделал первым, если цель — рост органики быстрее всего
+1. Переделал бы страницу gotowe-torby под запрос "gotowe torby do szpitala".
+2. Сделал бы отдельную категорию под "wyprawka do szpitala".
+3. Переделал бы formam и forbaby в коммерческие SEO-посадки.
+4. Добавил бы сильный H1 и SEO-вступление на главную.
+5. Запустил бы контент-кластер вокруг "lista do szpitala" и "torba do porodu".
+
+Источники
+- https://mamapack.pl/
+- https://mamapack.pl/robots.txt
+- https://mamapack.pl/sitemap.xml
+- https://mamapack.pl/collections/gotowe-torby
+- https://mamapack.pl/collections/formam
+- https://mamapack.pl/collections/forbaby
+- https://mamapack.pl/products/bocioland-bl151-podklad-jenorazowy-60x90-cm-op-10-szt
+- https://mamapack.pl/sitemap_blogs_1.xml
+- https://przyszla-mama.pl/
+- https://przyszla-mama.pl/robots.txt
+- https://przyszla-mama.pl/1_index_sitemap.xml
+- https://przyszla-mama.pl/31-wyprawka
+- https://przyszla-mama.pl/23-odziez-ciazowa
+- https://przyszla-mama.pl/18-koszule-nocne-ciazowe-i-do-karmienia
+- https://przyszla-mama.pl/jeansy-ciazowe/462-spodnie-ciazowe-jeans-rurki-czarne.html

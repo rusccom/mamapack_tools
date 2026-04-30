@@ -1,0 +1,220 @@
+Приоритет 1. Главная и ключевые collections
+
+Цель
+- быстро усилить страницы, которые сильнее всего влияют на коммерческую семантику сайта
+- закрыть ключевые поисковые интенты без запуска новых дублей
+- привести главную, gotowe-torby, formam и forbaby к понятной SEO-структуре
+
+Почему это первый приоритет
+- главная уже является самым сильным URL домена
+- gotowe-torby, formam и forbaby сейчас ближе всего к деньгам
+- у этих страниц есть живые проблемы: слишком общий SEO-фокус, пустые description, слабый текстовый слой
+
+Страницы в работе
+- https://mamapack.pl/
+- https://mamapack.pl/collections/gotowe-torby
+- https://mamapack.pl/collections/formam
+- https://mamapack.pl/collections/forbaby
+
+Результат, который должен быть после выполнения
+- каждая страница отвечает на один главный коммерческий запрос
+- у каждой страницы есть один непустой H1
+- у каждой страницы есть title 50-65 символов
+- у каждой страницы есть meta description 140-170 символов
+- у каждой страницы есть лид и основной SEO-текст
+- между страницами есть текстовая перелинковка
+
+Блок 1. Главная страница
+
+Что проверить перед правками
+1. Где именно рендерится текущий пустой H1.
+2. Пустой H1 приходит из hero, theme section, hidden heading или из шаблона header.
+3. Нет ли второго альтернативного заголовка, который визуально выглядит как H1, но размечен H2 или div.
+4. Не дублируется ли смысл главной между H1, первым текстовым блоком и title.
+
+Что сделать по разметке
+1. Оставить на главной один контентный H1.
+2. H1 должен стоять в hero или сразу под hero.
+3. H1 не должен быть пустым.
+4. H1 не должен быть текстом логотипа.
+5. Если header сейчас отдает H1 через логотип, убрать это поведение.
+
+Рекомендуемый H1
+- Wyprawka do szpitala dla mamy i noworodka
+
+Что сделать по title
+1. Убрать лишнее удвоение смыслов вроде wyprawka + gotowe torby + бренд, если длина уходит слишком далеко.
+2. Оставить только главный запрос и бренд.
+
+Рекомендуемый title
+- Wyprawka do szpitala dla mamy i noworodka | mamapack
+
+Что сделать по meta description
+1. Описать страницу как коммерческую входную точку.
+2. Упомянуть выгоду.
+3. Упомянуть формат предложения: gotowe torby, zestawy, szybka dostawa.
+4. Не делать description длиннее 170 символов.
+
+Рекомендуемый description
+- Gotowe torby do porodu i wyprawka do szpitala dla mamy i noworodka. Sprawdzone zestawy, szybka dostawa i wygodne zakupy w jednym miejscu.
+
+Что сделать по контенту на главной
+1. Добавить вводный SEO-блок 80-150 слов.
+2. Поставить его сразу под первым экраном или внутри первого смыслового текстового блока.
+3. В тексте естественно использовать:
+- wyprawka do szpitala
+- torba do porodu
+- wyprawka dla mamy
+- wyprawka dla noworodka
+4. Не превращать текст в спамовый блок из ключей.
+5. Сразу после текста дать 3-4 текстовые ссылки на главные collections.
+
+Пример структуры главной
+1. Hero с H1 и коротким сабтайтлом.
+2. Вводный SEO-текст.
+3. Ссылки на gotowe-torby, formam, forbaby.
+4. Блок доверия: доставка, готовые наборы, oszczędność czasu.
+5. Блок статей или FAQ.
+
+Блок 2. Коллекция gotowe-torby
+
+Главная задача страницы
+- стать посадкой под запросы про gotowe torby do szpitala и gotowa torba do porodu
+
+Что сейчас нужно изменить
+1. Убрать общий фокус ZESTAWY DLA MALUSZKA.
+2. Перевести title и H1 в прямой коммерческий intent.
+3. Переписать длинный description.
+4. Добавить нормальный текстовый слой.
+
+Рекомендуемый H1
+- Gotowe torby do szpitala
+
+Рекомендуемый title
+- Gotowe torby do szpitala dla mamy i noworodka | mamapack
+
+Рекомендуемый смысл description
+- готовые комплекты для szpital, экономия времени, удобный выбор, разные варианты для мамы и dziecka
+
+Что должно быть на странице
+1. Короткий лид 60-100 слов над списком товаров.
+2. Основной текст 250-500 слов.
+3. FAQ на 4-6 вопросов.
+4. Ссылки на formam и forbaby.
+5. Ссылки на статьи вроде lista do szpitala, kiedy spakować torbę.
+
+Какие смысловые блоки сделать в тексте
+1. Komu przyda się gotowa torba do szpitala.
+2. Co zwykle zawiera gotowy zestaw.
+3. Jak wybrać wariant dla mamy i noworodka.
+4. Czy lepiej kupić gotową torbę czy kompletować samodzielnie.
+
+Блок 3. Коллекция formam
+
+Главная задача страницы
+- стать посадкой под запросы про wyprawka dla mamy do szpitala
+
+Что сделать
+1. Заменить слишком общий title Dla mamy.
+2. Поставить коммерческий H1.
+3. Добавить meta description.
+4. Добавить лид 60-100 слов.
+5. Добавить 250-500 слов текста.
+6. Добавить FAQ.
+7. Добавить ссылки на gotowe-torby и статьи про poród, połóg, torba dla mamy.
+
+Рекомендуемый H1
+- Wyprawka dla mamy do szpitala
+
+Рекомендуемый title
+- Wyprawka dla mamy do szpitala | mamapack
+
+Какие подблоки нужны
+1. Higiena i podkłady.
+2. Rzeczy potrzebne podczas porodu.
+3. Produkty na połóg.
+4. Akcesoria do laktacji.
+5. Odzież do szpitala.
+
+Блок 4. Коллекция forbaby
+
+Главная задача страницы
+- стать посадкой под запросы про wyprawka dla noworodka do szpitala
+
+Что сделать
+1. Заменить слишком общий title Dla dziecka.
+2. Поставить коммерческий H1.
+3. Добавить meta description.
+4. Добавить лид 60-100 слов.
+5. Добавить 250-500 слов текста.
+6. Добавить FAQ.
+7. Добавить ссылки на gotowe-torby и статьи по теме noworodek, pieluszki, lista do szpitala.
+
+Рекомендуемый H1
+- Wyprawka dla noworodka do szpitala
+
+Рекомендуемый title
+- Wyprawka dla noworodka do szpitala | mamapack
+
+Какие подблоки нужны
+1. Pieluszki i przewijanie.
+2. Kosmetyki dla noworodka.
+3. Ubranka do szpitala.
+4. Karmienie i akcesoria.
+5. Co zabrać dla dziecka w pierwsze dni.
+
+Блок 5. Контент и FAQ для трех collections
+
+Общий стандарт для gotowe-torby, formam, forbaby
+1. Один H1.
+2. Один лид 60-100 слов.
+3. Один основной SEO-текст 250-500 слов.
+4. 3-5 H2.
+5. Один FAQ-блок на 4-6 вопросов.
+6. Минимум 2 внутренние ссылки на соседние collections.
+7. Минимум 2 внутренние ссылки на статьи блога.
+
+Шаблон FAQ
+1. Co powinna zawierać wyprawka do szpitala?
+2. Kiedy najlepiej spakować torbę do porodu?
+3. Co jest potrzebne mamie po porodzie?
+4. Co trzeba zabrać dla noworodka do szpitala?
+5. Czy lepiej kupić gotowy zestaw czy kompletować osobno?
+
+Кто делает
+- theme developer
+- Shopify admin manager
+- SEO
+- copywriter
+
+Зависимости
+- сначала нужно определить финальные H1 и title
+- потом писать тексты
+- потом добавлять перелинковку
+
+Риски
+- если писать тексты до фикса H1 и title, может получиться разъезд смысла
+- если одновременно создать новые SEO-посадки, можно создать каннибализацию
+- если description будут писаться из product feed или автогенератора, они снова станут длинными
+
+Порядок выполнения
+1. Починить H1 и metadata на главной.
+2. Переписать gotowe-torby.
+3. Переписать formam.
+4. Переписать forbaby.
+5. Добавить лиды, основной текст и FAQ.
+6. Добавить перелинковку между страницами.
+7. Перепроверить HTML и сниппет.
+
+Проверка после внедрения
+1. У главной есть 1 непустой H1.
+2. У gotowe-torby title и H1 совпадают по intent.
+3. У formam больше нет пустого description.
+4. У forbaby больше нет пустого description.
+5. Все 4 страницы имеют нормальные сниппеты.
+6. На страницах нет второго H1 в скрытых блоках.
+
+Критерий готовности
+- главная, gotowe-torby, formam и forbaby полностью приведены к новой структуре
+- каждая страница отвечает на один главный запрос
+- на каждой странице есть законченный коммерческий SEO-слой
