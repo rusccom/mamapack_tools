@@ -1,3 +1,6 @@
+from dataclasses import replace
+
+
 PRODUCT_BY_HANDLE_QUERY = """
 query productLookup($query: String!) {
   products(first: 1, query: $query) {
@@ -66,3 +69,22 @@ def is_available_handle(client, handle: str, used_handles: set[str]) -> bool:
 
 def is_available_sku(client, sku: str, used_skus: set[str]) -> bool:
     return sku not in used_skus and not variant_sku_exists(client, sku)
+
+
+def assign_unique_identities(client, products):
+    used_handles = set()
+    used_skus = set()
+    result = []
+    for product in products:
+        handle = make_unique_handle(client, product.handle, used_handles)
+        variants = unique_variants(client, product, used_skus)
+        result.append(replace(product, handle=handle, variants=variants))
+    return result
+
+
+def unique_variants(client, product, used_skus: set[str]):
+    variants = []
+    for variant in product.variants:
+        sku = make_unique_sku(client, variant.sku, used_skus)
+        variants.append(replace(variant, sku=sku))
+    return tuple(variants)

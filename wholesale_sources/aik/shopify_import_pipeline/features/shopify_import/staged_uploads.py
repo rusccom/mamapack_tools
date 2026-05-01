@@ -1,1 +1,0 @@
-from shopify_store.media.staged_uploads import staged_files_map

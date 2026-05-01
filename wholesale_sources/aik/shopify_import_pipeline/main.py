@@ -14,11 +14,11 @@ from features.baselinker_import.product_sync import get_inventory_context, sync_
 from features.baselinker_import.settings import load_baselinker_credentials
 from features.b2b_catalog.catalog_client import collect_catalog_variants
 from features.product_data.build_products import build_shopify_products
-from features.shopify_import.graphql_client import ShopifyGraphQLClient
-from features.shopify_import.identity_guard import assign_unique_identities
-from features.shopify_import.product_sync import sync_products
-from features.shopify_import.settings import load_shopify_credentials
-from features.shopify_import.verification import verify_product
+from features.shopify_verification.verification import verify_product
+from shopify_store.core.credentials import load_shopify_access
+from shopify_store.core.graphql import ShopifyGraphQL
+from shopify_store.products.identity import assign_unique_identities
+from shopify_store.products.sync import sync_products
 from shared.text_tools import slugify
 
 
@@ -71,10 +71,14 @@ def write_preview(search_text, products):
 
 
 def shopify_client():
-    credentials = load_shopify_credentials()
-    if not credentials:
+    return ShopifyGraphQL(shopify_access())
+
+
+def shopify_access():
+    try:
+        return load_shopify_access(PROJECT_ROOT)
+    except RuntimeError:
         raise SystemExit("Нужны SHOPIFY_STORE_DOMAIN и SHOPIFY_ADMIN_TOKEN.")
-    return ShopifyGraphQLClient(credentials)
 
 
 def baselinker_client():
@@ -95,7 +99,7 @@ def sync_to_shopify(products):
 
 
 def sync_to_baselinker(verified_products):
-    shopify = load_shopify_credentials()
+    shopify = shopify_access()
     settings, client = baselinker_client()
     context = get_inventory_context(client, settings, shopify.store_domain)
     return sync_baselinker_products(client, context, verified_products)
