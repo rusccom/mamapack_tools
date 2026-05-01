@@ -5,7 +5,7 @@ from urllib.parse import urlparse
 import requests
 
 
-IMAGE_DIR = Path("data") / "shopify_product_content"
+IMAGE_DIR = Path("shopify_store") / "product_import" / "data" / "product_content"
 IMAGE_URLS = (
     "https://us.bibsworld.com/cdn/shop/files/bibs-colour-pacifier-blush_8f2f91d0-2e81-4d08-a0cb-10545b64fba9_grande.png?v=1733321868",
     "https://us.bibsworld.com/cdn/shop/files/211244_5713795240197_BIBS_COLOUR_Ana_Latex_S2_Blush_1_1000x1000_98421d57-41f8-4673-a6c6-14b8d5e2bf9e_grande.png?v=1693208682",

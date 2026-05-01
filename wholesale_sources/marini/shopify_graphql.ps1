@@ -21,7 +21,8 @@ function Find-ShopifyKeyFile {
   $candidates = @(
     (Join-Path (Get-Location) "key.md"),
     (Join-Path $PSScriptRoot "key.md"),
-    (Join-Path (Split-Path $PSScriptRoot -Parent) "key.md")
+    (Join-Path (Split-Path $PSScriptRoot -Parent) "key.md"),
+    (Join-Path (Split-Path (Split-Path $PSScriptRoot -Parent) -Parent) "key.md")
   )
   foreach ($path in $candidates) {
     if (Test-Path $path) { return $path }

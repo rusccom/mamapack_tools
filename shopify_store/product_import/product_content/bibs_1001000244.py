@@ -1,7 +1,7 @@
 import time
 from pathlib import Path
 
-from shopify_seo.api import ShopifyGraphQL, load_shopify_access
+from shopify_store.seo.api import ShopifyGraphQL, load_shopify_access
 
 from .content import build_description_html
 from .media import download_images, stage_media

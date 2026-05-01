@@ -14,7 +14,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 BASE = "https://e.aico.com.pl/"
 SEARCH_URL = urljoin(BASE, "ProduktyWyszukiwanie.aspx")
-OUTPUT = Path(r"c:\Users\User\Desktop\GameWeb\Price\bibs-shopify-import.csv")
+OUTPUT = Path(__file__).resolve().parent / "bibs-shopify-import.csv"
 IMAGE_AUTH_BASE = "https://b2b:aico2012@e.aico.com.pl/"
 DETAIL_AUTH = ("b2b", "aico2012")
 FORM_LOGIN = "smarttradeorg"

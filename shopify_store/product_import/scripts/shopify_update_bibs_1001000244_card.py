@@ -3,13 +3,13 @@ from pathlib import Path
 
 
 def add_project_root() -> None:
-    project_root = Path(__file__).resolve().parents[2]
+    project_root = Path(__file__).resolve().parents[3]
     sys.path.insert(0, str(project_root))
 
 
 add_project_root()
 
-from shopify_product_content import run
+from shopify_store.product_import.product_content import run
 
 
 def configure_stdout() -> None:

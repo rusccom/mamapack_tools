@@ -4,15 +4,15 @@ import sys
 
 SCRIPT_PATH = Path(__file__).resolve()
 ROOT = next(
-    (candidate for candidate in [SCRIPT_PATH.parent, *SCRIPT_PATH.parents] if (candidate / "shopify_seo").is_dir()),
+    (candidate for candidate in [SCRIPT_PATH.parent, *SCRIPT_PATH.parents] if (candidate / "shopify_store").is_dir()),
     SCRIPT_PATH.parent,
 )
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from shopify_seo.api import ShopifyGraphQL, fetch_all_products, fetch_all_redirects, load_shopify_access
-from shopify_seo.backup import dataclass_rows, write_backup_csv, write_backup_json
-from shopify_seo.paths import project_root_from, shopify_backup_dir
+from shopify_store.seo.api import ShopifyGraphQL, fetch_all_products, fetch_all_redirects, load_shopify_access
+from shopify_store.seo.backup import dataclass_rows, write_backup_csv, write_backup_json
+from shopify_store.seo.paths import project_root_from, shopify_backup_dir
 
 
 def main() -> None:
