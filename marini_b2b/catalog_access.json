@@ -1,0 +1,164 @@
+﻿{
+    "checkedAt":  "2026-04-30T18:09:14.1311723+03:00",
+    "baseUrl":  "https://b2b.marini.pl",
+    "loginRoute":  "/login",
+    "loginSelectors":  {
+                           "company":  "input[name=\u0027customerName\u0027]",
+                           "employee":  "input[name=\u0027userName\u0027]",
+                           "password":  "input[name=\u0027password\u0027]",
+                           "terms":  "input[name=\u0027LoginConfirmation\u0027]",
+                           "submit":  "form button.action.primary-action"
+                       },
+    "loginState":  {
+                       "clicked":  true,
+                       "url":  "https://b2b.marini.pl/login",
+                       "fields":  [
+                                      {
+                                          "name":  "customerName",
+                                          "type":  "text",
+                                          "checked":  false
+                                      },
+                                      {
+                                          "name":  "userName",
+                                          "type":  "text",
+                                          "checked":  false
+                                      },
+                                      {
+                                          "name":  "password",
+                                          "type":  "password",
+                                          "filled":  true,
+                                          "checked":  false
+                                      },
+                                      {
+                                          "name":  "rememberMe",
+                                          "type":  "checkbox",
+                                          "checked":  false
+                                      },
+                                      {
+                                          "name":  "LoginConfirmation",
+                                          "type":  "checkbox",
+                                          "checked":  true
+                                      },
+                                      {
+                                          "name":  "",
+                                          "type":  "checkbox",
+                                          "checked":  true
+                                      },
+                                      {
+                                          "name":  "",
+                                          "type":  "checkbox",
+                                          "checked":  false
+                                      },
+                                      {
+                                          "name":  "",
+                                          "type":  "checkbox",
+                                          "checked":  false
+                                      },
+                                      {
+                                          "name":  "",
+                                          "type":  "checkbox",
+                                          "checked":  false
+                                      },
+                                      {
+                                          "name":  "",
+                                          "type":  "checkbox",
+                                          "checked":  false
+                                      }
+                                  ]
+                   },
+    "catalog":  {
+                    "url":  "https://b2b.marini.pl/",
+                    "loggedIn":  true,
+                    "searchInputSelector":  "input[name=\u0027searchPhrase\u0027]",
+                    "categoryLinkSelector":  "a[href*=\u0027/items/\u0027][href*=\u0027parent=0\u0027]",
+                    "rootCatalogRoute":  "/items/0",
+                    "searchRoutePattern":  "/items/0?searchPhrase={query}\u0026sortMode=Accuracy",
+                    "categoryCount":  166,
+                    "sampleCategories":  [
+                                             {
+                                                 "text":  "\u003eNOWOŚCI\u003c",
+                                                 "route":  "/items/25286?parent=0"
+                                             },
+                                             {
+                                                 "text":  "NOWA NIŻSZA CENA",
+                                                 "route":  "/items/63141?parent=0"
+                                             },
+                                             {
+                                                 "text":  "\u003eAKTUALNE PROMOCJE\u003c",
+                                                 "route":  "/items/25287?parent=0"
+                                             },
+                                             {
+                                                 "text":  "DUET BABY- MARINI",
+                                                 "route":  "/items/1?parent=0"
+                                             },
+                                             {
+                                                 "text":  "UBRANKA- op. hurtowe",
+                                                 "route":  "/items/393?parent=0"
+                                             },
+                                             {
+                                                 "text":  "3 SPROUTS",
+                                                 "route":  "/items/61126?parent=0"
+                                             },
+                                             {
+                                                 "text":  "4BABY",
+                                                 "route":  "/items/10?parent=0"
+                                             },
+                                             {
+                                                 "text":  "ABAKUS",
+                                                 "route":  "/items/20?parent=0"
+                                             },
+                                             {
+                                                 "text":  "ADBOR",
+                                                 "route":  "/items/25639?parent=0"
+                                             },
+                                             {
+                                                 "text":  "AKCESORIA DO WÓZKÓW",
+                                                 "route":  "/items/23642?parent=0"
+                                             },
+                                             {
+                                                 "text":  "AKUKU",
+                                                 "route":  "/items/22?parent=0"
+                                             },
+                                             {
+                                                 "text":  "ALBERO MIO",
+                                                 "route":  "/items/36947?parent=0"
+                                             },
+                                             {
+                                                 "text":  "ALEKSANDRA",
+                                                 "route":  "/items/32?parent=0"
+                                             },
+                                             {
+                                                 "text":  "AMY",
+                                                 "route":  "/items/58?parent=0"
+                                             },
+                                             {
+                                                 "text":  "ANIMALI",
+                                                 "route":  "/items/59?parent=0"
+                                             },
+                                             {
+                                                 "text":  "ARDO",
+                                                 "route":  "/items/48210?parent=0"
+                                             },
+                                             {
+                                                 "text":  "ART GAL",
+                                                 "route":  "/items/64?parent=0"
+                                             },
+                                             {
+                                                 "text":  "ARTYK",
+                                                 "route":  "/items/25097?parent=0"
+                                             },
+                                             {
+                                                 "text":  "ASPIRATORY DO NOSA",
+                                                 "route":  "/items/60?parent=0"
+                                             },
+                                             {
+                                                 "text":  "ATK- op. hurtowe",
+                                                 "route":  "/items/65?parent=0"
+                                             }
+                                         ],
+                    "bibsCategory":  {
+                                         "text":  "BIBS",
+                                         "route":  "/items/23619?parent=0"
+                                     }
+                }
+}

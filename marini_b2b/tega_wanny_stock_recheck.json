@@ -1,0 +1,964 @@
+﻿{
+    "url":  "https://b2b.marini.pl/items/352?parent=0",
+    "rowCount":  50,
+    "inStockCount":  50,
+    "inStockMatches":  [
+                           "In Stock: 13",
+                           "In Stock: 4",
+                           "In Stock: 17",
+                           "In Stock: 24",
+                           "In Stock: 14",
+                           "In Stock: 49",
+                           "In Stock: 29",
+                           "In Stock: 29",
+                           "In Stock: 58",
+                           "In Stock: 11",
+                           "In Stock: 14",
+                           "In Stock: 11",
+                           "In Stock: 9",
+                           "In Stock: 12",
+                           "In Stock: 14",
+                           "In Stock: 12",
+                           "In Stock: 5",
+                           "In Stock: 26",
+                           "In Stock: 7",
+                           "In Stock: 7",
+                           "In Stock: 6",
+                           "In Stock: 5",
+                           "In Stock: 11",
+                           "In Stock: 12",
+                           "In Stock: 10",
+                           "In Stock: 20",
+                           "In Stock: 14",
+                           "In Stock: 18",
+                           "In Stock: 26",
+                           "In Stock: 32",
+                           "In Stock: 8",
+                           "In Stock: 7",
+                           "In Stock: 8",
+                           "In Stock: 2",
+                           "In Stock: 14",
+                           "In Stock: 10",
+                           "In Stock: 10",
+                           "In Stock: 9",
+                           "In Stock: 5",
+                           "In Stock: 9",
+                           "In Stock: 8",
+                           "In Stock: 9",
+                           "In Stock: 8",
+                           "In Stock: 1",
+                           "In Stock: 1",
+                           "In Stock: 6",
+                           "In Stock: 4",
+                           "In Stock: 16",
+                           "In Stock: 11",
+                           "In Stock: 17"
+                       ],
+    "positive":  [
+                     {
+                         "index":  0,
+                         "name":  "TEGA DK-004-122 Wanna dziecięca 86 cm KACZKA j.szary",
+                         "code":  "772185",
+                         "href":  "https://b2b.marini.pl/itemdetails/38104?group=352",
+                         "stock":  13,
+                         "hasStockText":  true,
+                         "text":  "TEGA DK-004-122 Wanna dziecięca 86 cm KACZKA j.szary 772185 In Stock: 13 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  1,
+                         "name":  "TEGA DK-004-129 Wanna dziecięca 86 cm KACZKA j.niebieska",
+                         "code":  "771956",
+                         "href":  "https://b2b.marini.pl/itemdetails/37873?group=352",
+                         "stock":  4,
+                         "hasStockText":  true,
+                         "text":  "TEGA DK-004-129 Wanna dziecięca 86 cm KACZKA j.niebieska 771956 In Stock: 4 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  2,
+                         "name":  "TEGA DK-004-130 Wanna dziecięca 86 cm KACZKA j.róż",
+                         "code":  "772049",
+                         "href":  "https://b2b.marini.pl/itemdetails/37967?group=352",
+                         "stock":  17,
+                         "hasStockText":  true,
+                         "text":  "TEGA DK-004-130 Wanna dziecięca 86 cm KACZKA j.róż 772049 In Stock: 17 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  3,
+                         "name":  "TEGA DK-004-131 Wanna dziecięca 86 cm KACZKA j.zielony",
+                         "code":  "772050",
+                         "href":  "https://b2b.marini.pl/itemdetails/37968?group=352",
+                         "stock":  24,
+                         "hasStockText":  true,
+                         "text":  "TEGA DK-004-131 Wanna dziecięca 86 cm KACZKA j.zielony 772050 In Stock: 24 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  4,
+                         "name":  "TEGA DK-004-132 Wanna dziecięca 86 cm KACZKA j.żółty",
+                         "code":  "772051",
+                         "href":  "https://b2b.marini.pl/itemdetails/37969?group=352",
+                         "stock":  14,
+                         "hasStockText":  true,
+                         "text":  "TEGA DK-004-132 Wanna dziecięca 86 cm KACZKA j.żółty 772051 In Stock: 14 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  5,
+                         "name":  "TEGA DK-005-122 Wanna dziecięca 102 cm KACZKA j.szary",
+                         "code":  "772187",
+                         "href":  "https://b2b.marini.pl/itemdetails/38106?group=352",
+                         "stock":  49,
+                         "hasStockText":  true,
+                         "text":  "TEGA DK-005-122 Wanna dziecięca 102 cm KACZKA j.szary 772187 In Stock: 49 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  6,
+                         "name":  "TEGA DK-005-129 Wanna dziecięca 102 cm KACZKA j.niebieska",
+                         "code":  "771957",
+                         "href":  "https://b2b.marini.pl/itemdetails/37874?group=352",
+                         "stock":  29,
+                         "hasStockText":  true,
+                         "text":  "TEGA DK-005-129 Wanna dziecięca 102 cm KACZKA j.niebieska 771957 In Stock: 29 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  7,
+                         "name":  "TEGA DK-005-130 Wanna dziecięca 102 cm KACZKA j.róż",
+                         "code":  "772044",
+                         "href":  "https://b2b.marini.pl/itemdetails/37962?group=352",
+                         "stock":  29,
+                         "hasStockText":  true,
+                         "text":  "TEGA DK-005-130 Wanna dziecięca 102 cm KACZKA j.róż 772044 In Stock: 29 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  8,
+                         "name":  "TEGA DK-005-131 Wanna dziecięca 102 cm KACZKA j.zielona",
+                         "code":  "772045",
+                         "href":  "https://b2b.marini.pl/itemdetails/37963?group=352",
+                         "stock":  58,
+                         "hasStockText":  true,
+                         "text":  "TEGA DK-005-131 Wanna dziecięca 102 cm KACZKA j.zielona 772045 In Stock: 58 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  9,
+                         "name":  "TEGA DK-005-132 Wanna dziecięca 102 cm KACZKA j.żółta",
+                         "code":  "772046",
+                         "href":  "https://b2b.marini.pl/itemdetails/37964?group=352",
+                         "stock":  11,
+                         "hasStockText":  true,
+                         "text":  "TEGA DK-005-132 Wanna dziecięca 102 cm KACZKA j.żółta 772046 In Stock: 11 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  10,
+                         "name":  "TEGA DZ-004-103-JELONEK Wanna 86 cm DZIKI ZACHÓD",
+                         "code":  "779257",
+                         "href":  "https://b2b.marini.pl/itemdetails/45380?group=352",
+                         "stock":  14,
+                         "hasStockText":  true,
+                         "text":  "TEGA DZ-004-103-JELONEK Wanna 86 cm DZIKI ZACHÓD 779257 In Stock: 14 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  11,
+                         "name":  "TEGA DZ-004-103-SŁONIK Wanna 86 cm DZIKI ZACHÓD",
+                         "code":  "779245",
+                         "href":  "https://b2b.marini.pl/itemdetails/45368?group=352",
+                         "stock":  11,
+                         "hasStockText":  true,
+                         "text":  "TEGA DZ-004-103-SŁONIK Wanna 86 cm DZIKI ZACHÓD 779245 In Stock: 11 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  12,
+                         "name":  "TEGA DZ-004-ODPŁYW-103-JELONEK Wanna 86 cm z odpływem DZIKI ZACHÓD",
+                         "code":  "779258",
+                         "href":  "https://b2b.marini.pl/itemdetails/45381?group=352",
+                         "stock":  9,
+                         "hasStockText":  true,
+                         "text":  "TEGA DZ-004-ODPŁYW-103-JELONEK Wanna 86 cm z odpływem DZIKI ZACHÓD 779258 In Stock: 9 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  13,
+                         "name":  "TEGA DZ-004-ODPŁYW-103-SŁONIK Wanna 86 cm z odpływem DZIKI ZACHÓD",
+                         "code":  "779246",
+                         "href":  "https://b2b.marini.pl/itemdetails/45369?group=352",
+                         "stock":  12,
+                         "hasStockText":  true,
+                         "text":  "TEGA DZ-004-ODPŁYW-103-SŁONIK Wanna 86 cm z odpływem DZIKI ZACHÓD 779246 In Stock: 12 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  14,
+                         "name":  "TEGA DZ-005-103-JELONEK Wanna 102 cm DZIKI ZACHÓD",
+                         "code":  "779256",
+                         "href":  "https://b2b.marini.pl/itemdetails/45379?group=352",
+                         "stock":  14,
+                         "hasStockText":  true,
+                         "text":  "TEGA DZ-005-103-JELONEK Wanna 102 cm DZIKI ZACHÓD 779256 In Stock: 14 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  15,
+                         "name":  "TEGA DZ-005-103-SŁONIK Wanna 102 cm DZIKI ZACHÓD",
+                         "code":  "779244",
+                         "href":  "https://b2b.marini.pl/itemdetails/45367?group=352",
+                         "stock":  12,
+                         "hasStockText":  true,
+                         "text":  "TEGA DZ-005-103-SŁONIK Wanna 102 cm DZIKI ZACHÓD 779244 In Stock: 12 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  16,
+                         "name":  "TEGA FB-004-106 Wanienka składana z odpływem szary",
+                         "code":  "5914716",
+                         "href":  "https://b2b.marini.pl/itemdetails/72507?group=352",
+                         "stock":  5,
+                         "hasStockText":  true,
+                         "text":  "TEGA FB-004-106 Wanienka składana z odpływem szary 5914716 In Stock: 5 44,74 PLN Subtotal 38,92 PLN 55,03 PLN Total 47,87 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  17,
+                         "name":  "TEGA FB-004-119 Wanienka składana z odpływem beżowy",
+                         "code":  "5914538",
+                         "href":  "https://b2b.marini.pl/itemdetails/72315?group=352",
+                         "stock":  26,
+                         "hasStockText":  true,
+                         "text":  "TEGA FB-004-119 Wanienka składana z odpływem beżowy 5914538 In Stock: 26 44,74 PLN Subtotal 38,92 PLN 55,03 PLN Total 47,87 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  18,
+                         "name":  "TEGA FB-004-129 Wanienka składana z odpływem j.niebieski",
+                         "code":  "5914539",
+                         "href":  "https://b2b.marini.pl/itemdetails/72316?group=352",
+                         "stock":  7,
+                         "hasStockText":  true,
+                         "text":  "TEGA FB-004-129 Wanienka składana z odpływem j.niebieski 5914539 In Stock: 7 44,74 PLN Subtotal 38,92 PLN 55,03 PLN Total 47,87 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  19,
+                         "name":  "TEGA FB-004-130 Wanienka składana z odpływem j.różowy",
+                         "code":  "5914540",
+                         "href":  "https://b2b.marini.pl/itemdetails/72317?group=352",
+                         "stock":  7,
+                         "hasStockText":  true,
+                         "text":  "TEGA FB-004-130 Wanienka składana z odpływem j.różowy 5914540 In Stock: 7 44,74 PLN Subtotal 38,92 PLN 55,03 PLN Total 47,87 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  20,
+                         "name":  "TEGA FF-004-107 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.różowy",
+                         "code":  "772420",
+                         "href":  "https://b2b.marini.pl/itemdetails/38344?group=352",
+                         "stock":  6,
+                         "hasStockText":  true,
+                         "text":  "TEGA FF-004-107 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.różowy 772420 In Stock: 6 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  21,
+                         "name":  "TEGA FF-004-108 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.niebieski",
+                         "code":  "772419",
+                         "href":  "https://b2b.marini.pl/itemdetails/38343?group=352",
+                         "stock":  5,
+                         "hasStockText":  true,
+                         "text":  "TEGA FF-004-108 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.niebieski 772419 In Stock: 5 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  22,
+                         "name":  "TEGA FF-004-109 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.żółty",
+                         "code":  "772422",
+                         "href":  "https://b2b.marini.pl/itemdetails/38346?group=352",
+                         "stock":  11,
+                         "hasStockText":  true,
+                         "text":  "TEGA FF-004-109 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.żółty 772422 In Stock: 11 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  23,
+                         "name":  "TEGA FF-004-111 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.beżowy",
+                         "code":  "772418",
+                         "href":  "https://b2b.marini.pl/itemdetails/38342?group=352",
+                         "stock":  12,
+                         "hasStockText":  true,
+                         "text":  "TEGA FF-004-111 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.beżowy 772418 In Stock: 12 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  24,
+                         "name":  "TEGA FF-004-112 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.zielony",
+                         "code":  "772421",
+                         "href":  "https://b2b.marini.pl/itemdetails/38345?group=352",
+                         "stock":  10,
+                         "hasStockText":  true,
+                         "text":  "TEGA FF-004-112 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.zielony 772421 In Stock: 10 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  25,
+                         "name":  "TEGA FF-005-107 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.różowy",
+                         "code":  "772415",
+                         "href":  "https://b2b.marini.pl/itemdetails/38339?group=352",
+                         "stock":  20,
+                         "hasStockText":  true,
+                         "text":  "TEGA FF-005-107 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.różowy 772415 In Stock: 20 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  26,
+                         "name":  "TEGA FF-005-108 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.niebieski",
+                         "code":  "772414",
+                         "href":  "https://b2b.marini.pl/itemdetails/38338?group=352",
+                         "stock":  14,
+                         "hasStockText":  true,
+                         "text":  "TEGA FF-005-108 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.niebieski 772414 In Stock: 14 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  27,
+                         "name":  "TEGA FF-005-109 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.żółty",
+                         "code":  "772417",
+                         "href":  "https://b2b.marini.pl/itemdetails/38341?group=352",
+                         "stock":  18,
+                         "hasStockText":  true,
+                         "text":  "TEGA FF-005-109 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.żółty 772417 In Stock: 18 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  28,
+                         "name":  "TEGA FF-005-111 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.beżowy",
+                         "code":  "772413",
+                         "href":  "https://b2b.marini.pl/itemdetails/38337?group=352",
+                         "stock":  26,
+                         "hasStockText":  true,
+                         "text":  "TEGA FF-005-111 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.beżowy 772413 In Stock: 26 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  29,
+                         "name":  "TEGA FF-005-112 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.zielony",
+                         "code":  "772416",
+                         "href":  "https://b2b.marini.pl/itemdetails/38340?group=352",
+                         "stock":  32,
+                         "hasStockText":  true,
+                         "text":  "TEGA FF-005-112 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.zielony 772416 In Stock: 32 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  30,
+                         "name":  "TEGA KR-004-103 Wanna 86 cm KRÓLICZKI z odpływem biały",
+                         "code":  "762787",
+                         "href":  "https://b2b.marini.pl/itemdetails/26348?group=352",
+                         "stock":  8,
+                         "hasStockText":  true,
+                         "text":  "TEGA KR-004-103 Wanna 86 cm KRÓLICZKI z odpływem biały 762787 In Stock: 8 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  31,
+                         "name":  "TEGA KR-004-104 Wanna 86 cm KRÓLICZKI z odpływem j.różowy",
+                         "code":  "788738",
+                         "href":  "https://b2b.marini.pl/itemdetails/55223?group=352",
+                         "stock":  7,
+                         "hasStockText":  true,
+                         "text":  "TEGA KR-004-104 Wanna 86 cm KRÓLICZKI z odpływem j.różowy 788738 In Stock: 7 26,30 PLN Subtotal 22,88 PLN 32,35 PLN Total 28,14 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  32,
+                         "name":  "TEGA KR-004-105 Wanna 86 cm KRÓLICZKI z odpływem j.zielony",
+                         "code":  "788737",
+                         "href":  "https://b2b.marini.pl/itemdetails/55222?group=352",
+                         "stock":  8,
+                         "hasStockText":  true,
+                         "text":  "TEGA KR-004-105 Wanna 86 cm KRÓLICZKI z odpływem j.zielony 788737 In Stock: 8 26,30 PLN Subtotal 22,88 PLN 32,35 PLN Total 28,14 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  33,
+                         "name":  "TEGA KR-005-103 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem biały",
+                         "code":  "762788",
+                         "href":  "https://b2b.marini.pl/itemdetails/26349?group=352",
+                         "stock":  2,
+                         "hasStockText":  true,
+                         "text":  "TEGA KR-005-103 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem biały 762788 In Stock: 2 30,26 PLN Subtotal 26,33 PLN 37,22 PLN Total 32,39 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  34,
+                         "name":  "TEGA KR-005-104 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem j.różowy",
+                         "code":  "791380",
+                         "href":  "https://b2b.marini.pl/itemdetails/57997?group=352",
+                         "stock":  14,
+                         "hasStockText":  true,
+                         "text":  "TEGA KR-005-104 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem j.różowy 791380 In Stock: 14 30,26 PLN Subtotal 26,33 PLN 37,22 PLN Total 32,39 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  35,
+                         "name":  "TEGA KR-005-105 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem j.zielony",
+                         "code":  "791381",
+                         "href":  "https://b2b.marini.pl/itemdetails/57998?group=352",
+                         "stock":  10,
+                         "hasStockText":  true,
+                         "text":  "TEGA KR-005-105 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem j.zielony 791381 In Stock: 10 30,26 PLN Subtotal 26,33 PLN 37,22 PLN Total 32,39 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  36,
+                         "name":  "TEGA ME-004 ODPŁYW-123 Wanna 86 cm METEO z odpływem różowy",
+                         "code":  "786682",
+                         "href":  "https://b2b.marini.pl/itemdetails/53081?group=352",
+                         "stock":  10,
+                         "hasStockText":  true,
+                         "text":  "TEGA ME-004 ODPŁYW-123 Wanna 86 cm METEO z odpływem różowy 786682 In Stock: 10 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  37,
+                         "name":  "TEGA ME-004 ODPŁYW-164 Wanna 86 cm METEO z odpływem granatowy",
+                         "code":  "786680",
+                         "href":  "https://b2b.marini.pl/itemdetails/53078?group=352",
+                         "stock":  9,
+                         "hasStockText":  true,
+                         "text":  "TEGA ME-004 ODPŁYW-164 Wanna 86 cm METEO z odpływem granatowy 786680 In Stock: 9 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  38,
+                         "name":  "TEGA ME-004 ODPŁYW-165 Wanna 86 cm METEO z odpływem turkusowy",
+                         "code":  "786683",
+                         "href":  "https://b2b.marini.pl/itemdetails/53082?group=352",
+                         "stock":  5,
+                         "hasStockText":  true,
+                         "text":  "TEGA ME-004 ODPŁYW-165 Wanna 86 cm METEO z odpływem turkusowy 786683 In Stock: 5 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  39,
+                         "name":  "TEGA ME-005 ODPŁYW-123 Wanna 102 cm LUX METEO z odpływem różowy",
+                         "code":  "786679",
+                         "href":  "https://b2b.marini.pl/itemdetails/53077?group=352",
+                         "stock":  9,
+                         "hasStockText":  true,
+                         "text":  "TEGA ME-005 ODPŁYW-123 Wanna 102 cm LUX METEO z odpływem różowy 786679 In Stock: 9 40,79 PLN Subtotal 35,49 PLN 50,17 PLN Total 43,65 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  40,
+                         "name":  "TEGA ME-005 ODPŁYW-164 Wanna 102 cm LUX METEO z odpływem granatowy",
+                         "code":  "786676",
+                         "href":  "https://b2b.marini.pl/itemdetails/53074?group=352",
+                         "stock":  8,
+                         "hasStockText":  true,
+                         "text":  "TEGA ME-005 ODPŁYW-164 Wanna 102 cm LUX METEO z odpływem granatowy 786676 In Stock: 8 30,26 PLN Subtotal 26,33 PLN 37,22 PLN Total 32,39 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  41,
+                         "name":  "TEGA ME-005 ODPŁYW-165 Wanna 102 cm LUX METEO z odpływem turkusowy",
+                         "code":  "786678",
+                         "href":  "https://b2b.marini.pl/itemdetails/53076?group=352",
+                         "stock":  9,
+                         "hasStockText":  true,
+                         "text":  "TEGA ME-005 ODPŁYW-165 Wanna 102 cm LUX METEO z odpływem turkusowy 786678 In Stock: 9 30,26 PLN Subtotal 26,33 PLN 37,22 PLN Total 32,39 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  42,
+                         "name":  "TEGA MN-004-124 Wanienka mała 86 cm Monsters z odpływem żółty",
+                         "code":  "5906227",
+                         "href":  "https://b2b.marini.pl/itemdetails/62215?group=352",
+                         "stock":  8,
+                         "hasStockText":  true,
+                         "text":  "TEGA MN-004-124 Wanienka mała 86 cm Monsters z odpływem żółty 5906227 In Stock: 8 23,67 PLN Subtotal 19,41 PLN 29,11 PLN Total 23,87 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  43,
+                         "name":  "TEGA MN-004-126 Wanienka mała 86 cm z odpływem Monsters niebieski",
+                         "code":  "5906226",
+                         "href":  "https://b2b.marini.pl/itemdetails/62214?group=352",
+                         "stock":  1,
+                         "hasStockText":  true,
+                         "text":  "TEGA MN-004-126 Wanienka mała 86 cm z odpływem Monsters niebieski 5906226 In Stock: 1 26,30 PLN Subtotal 21,57 PLN 32,35 PLN Total 26,53 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  44,
+                         "name":  "TEGA MN-004-127 Wanienka mała 86 cm z odpływem Monsters c.różowy",
+                         "code":  "5906225",
+                         "href":  "https://b2b.marini.pl/itemdetails/62213?group=352",
+                         "stock":  1,
+                         "hasStockText":  true,
+                         "text":  "TEGA MN-004-127 Wanienka mała 86 cm z odpływem Monsters c.różowy 5906225 In Stock: 1 23,67 PLN Subtotal 19,41 PLN 29,11 PLN Total 23,87 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  45,
+                         "name":  "TEGA MN-005-124 Wanienka duża 102cm LUX Monsters z odpływem żółty",
+                         "code":  "5906224",
+                         "href":  "https://b2b.marini.pl/itemdetails/62212?group=352",
+                         "stock":  6,
+                         "hasStockText":  true,
+                         "text":  "TEGA MN-005-124 Wanienka duża 102cm LUX Monsters z odpływem żółty 5906224 In Stock: 6 28,56 PLN Subtotal 24,85 PLN 35,13 PLN Total 30,57 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  46,
+                         "name":  "TEGA MN-005-126 Wanienka duża 102 cm LUX Monsters z odpływem niebieski",
+                         "code":  "5906223",
+                         "href":  "https://b2b.marini.pl/itemdetails/62211?group=352",
+                         "stock":  4,
+                         "hasStockText":  true,
+                         "text":  "TEGA MN-005-126 Wanienka duża 102 cm LUX Monsters z odpływem niebieski 5906223 In Stock: 4 26,30 PLN Subtotal 21,57 PLN 32,35 PLN Total 26,53 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  47,
+                         "name":  "TEGA MS-004-118 Wanna dziecięca 86 cm MIŚ biała perła",
+                         "code":  "788739",
+                         "href":  "https://b2b.marini.pl/itemdetails/55224?group=352",
+                         "stock":  16,
+                         "hasStockText":  true,
+                         "text":  "TEGA MS-004-118 Wanna dziecięca 86 cm MIŚ biała perła 788739 In Stock: 16 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  48,
+                         "name":  "TEGA MS-004-119 Wanna dziecięca 86 cm MIŚ beżowy",
+                         "code":  "10953",
+                         "href":  "https://b2b.marini.pl/itemdetails/20965?group=352",
+                         "stock":  11,
+                         "hasStockText":  true,
+                         "text":  "TEGA MS-004-119 Wanna dziecięca 86 cm MIŚ beżowy 10953 In Stock: 11 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                     },
+                     {
+                         "index":  49,
+                         "name":  "TEGA MS-005-LUX-118 Wanna dziecięca 102 cm MIŚ biała perła",
+                         "code":  "771546",
+                         "href":  "https://b2b.marini.pl/itemdetails/37436?group=352",
+                         "stock":  17,
+                         "hasStockText":  true,
+                         "text":  "TEGA MS-005-LUX-118 Wanna dziecięca 102 cm MIŚ biała perła 771546 In Stock: 17 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                     }
+                 ],
+    "missingRows":  [
+
+                    ],
+    "rows":  [
+                 {
+                     "index":  0,
+                     "name":  "TEGA DK-004-122 Wanna dziecięca 86 cm KACZKA j.szary",
+                     "code":  "772185",
+                     "href":  "https://b2b.marini.pl/itemdetails/38104?group=352",
+                     "stock":  13,
+                     "hasStockText":  true,
+                     "text":  "TEGA DK-004-122 Wanna dziecięca 86 cm KACZKA j.szary 772185 In Stock: 13 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  1,
+                     "name":  "TEGA DK-004-129 Wanna dziecięca 86 cm KACZKA j.niebieska",
+                     "code":  "771956",
+                     "href":  "https://b2b.marini.pl/itemdetails/37873?group=352",
+                     "stock":  4,
+                     "hasStockText":  true,
+                     "text":  "TEGA DK-004-129 Wanna dziecięca 86 cm KACZKA j.niebieska 771956 In Stock: 4 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  2,
+                     "name":  "TEGA DK-004-130 Wanna dziecięca 86 cm KACZKA j.róż",
+                     "code":  "772049",
+                     "href":  "https://b2b.marini.pl/itemdetails/37967?group=352",
+                     "stock":  17,
+                     "hasStockText":  true,
+                     "text":  "TEGA DK-004-130 Wanna dziecięca 86 cm KACZKA j.róż 772049 In Stock: 17 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  3,
+                     "name":  "TEGA DK-004-131 Wanna dziecięca 86 cm KACZKA j.zielony",
+                     "code":  "772050",
+                     "href":  "https://b2b.marini.pl/itemdetails/37968?group=352",
+                     "stock":  24,
+                     "hasStockText":  true,
+                     "text":  "TEGA DK-004-131 Wanna dziecięca 86 cm KACZKA j.zielony 772050 In Stock: 24 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  4,
+                     "name":  "TEGA DK-004-132 Wanna dziecięca 86 cm KACZKA j.żółty",
+                     "code":  "772051",
+                     "href":  "https://b2b.marini.pl/itemdetails/37969?group=352",
+                     "stock":  14,
+                     "hasStockText":  true,
+                     "text":  "TEGA DK-004-132 Wanna dziecięca 86 cm KACZKA j.żółty 772051 In Stock: 14 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  5,
+                     "name":  "TEGA DK-005-122 Wanna dziecięca 102 cm KACZKA j.szary",
+                     "code":  "772187",
+                     "href":  "https://b2b.marini.pl/itemdetails/38106?group=352",
+                     "stock":  49,
+                     "hasStockText":  true,
+                     "text":  "TEGA DK-005-122 Wanna dziecięca 102 cm KACZKA j.szary 772187 In Stock: 49 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  6,
+                     "name":  "TEGA DK-005-129 Wanna dziecięca 102 cm KACZKA j.niebieska",
+                     "code":  "771957",
+                     "href":  "https://b2b.marini.pl/itemdetails/37874?group=352",
+                     "stock":  29,
+                     "hasStockText":  true,
+                     "text":  "TEGA DK-005-129 Wanna dziecięca 102 cm KACZKA j.niebieska 771957 In Stock: 29 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  7,
+                     "name":  "TEGA DK-005-130 Wanna dziecięca 102 cm KACZKA j.róż",
+                     "code":  "772044",
+                     "href":  "https://b2b.marini.pl/itemdetails/37962?group=352",
+                     "stock":  29,
+                     "hasStockText":  true,
+                     "text":  "TEGA DK-005-130 Wanna dziecięca 102 cm KACZKA j.róż 772044 In Stock: 29 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  8,
+                     "name":  "TEGA DK-005-131 Wanna dziecięca 102 cm KACZKA j.zielona",
+                     "code":  "772045",
+                     "href":  "https://b2b.marini.pl/itemdetails/37963?group=352",
+                     "stock":  58,
+                     "hasStockText":  true,
+                     "text":  "TEGA DK-005-131 Wanna dziecięca 102 cm KACZKA j.zielona 772045 In Stock: 58 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  9,
+                     "name":  "TEGA DK-005-132 Wanna dziecięca 102 cm KACZKA j.żółta",
+                     "code":  "772046",
+                     "href":  "https://b2b.marini.pl/itemdetails/37964?group=352",
+                     "stock":  11,
+                     "hasStockText":  true,
+                     "text":  "TEGA DK-005-132 Wanna dziecięca 102 cm KACZKA j.żółta 772046 In Stock: 11 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  10,
+                     "name":  "TEGA DZ-004-103-JELONEK Wanna 86 cm DZIKI ZACHÓD",
+                     "code":  "779257",
+                     "href":  "https://b2b.marini.pl/itemdetails/45380?group=352",
+                     "stock":  14,
+                     "hasStockText":  true,
+                     "text":  "TEGA DZ-004-103-JELONEK Wanna 86 cm DZIKI ZACHÓD 779257 In Stock: 14 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  11,
+                     "name":  "TEGA DZ-004-103-SŁONIK Wanna 86 cm DZIKI ZACHÓD",
+                     "code":  "779245",
+                     "href":  "https://b2b.marini.pl/itemdetails/45368?group=352",
+                     "stock":  11,
+                     "hasStockText":  true,
+                     "text":  "TEGA DZ-004-103-SŁONIK Wanna 86 cm DZIKI ZACHÓD 779245 In Stock: 11 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  12,
+                     "name":  "TEGA DZ-004-ODPŁYW-103-JELONEK Wanna 86 cm z odpływem DZIKI ZACHÓD",
+                     "code":  "779258",
+                     "href":  "https://b2b.marini.pl/itemdetails/45381?group=352",
+                     "stock":  9,
+                     "hasStockText":  true,
+                     "text":  "TEGA DZ-004-ODPŁYW-103-JELONEK Wanna 86 cm z odpływem DZIKI ZACHÓD 779258 In Stock: 9 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  13,
+                     "name":  "TEGA DZ-004-ODPŁYW-103-SŁONIK Wanna 86 cm z odpływem DZIKI ZACHÓD",
+                     "code":  "779246",
+                     "href":  "https://b2b.marini.pl/itemdetails/45369?group=352",
+                     "stock":  12,
+                     "hasStockText":  true,
+                     "text":  "TEGA DZ-004-ODPŁYW-103-SŁONIK Wanna 86 cm z odpływem DZIKI ZACHÓD 779246 In Stock: 12 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  14,
+                     "name":  "TEGA DZ-005-103-JELONEK Wanna 102 cm DZIKI ZACHÓD",
+                     "code":  "779256",
+                     "href":  "https://b2b.marini.pl/itemdetails/45379?group=352",
+                     "stock":  14,
+                     "hasStockText":  true,
+                     "text":  "TEGA DZ-005-103-JELONEK Wanna 102 cm DZIKI ZACHÓD 779256 In Stock: 14 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  15,
+                     "name":  "TEGA DZ-005-103-SŁONIK Wanna 102 cm DZIKI ZACHÓD",
+                     "code":  "779244",
+                     "href":  "https://b2b.marini.pl/itemdetails/45367?group=352",
+                     "stock":  12,
+                     "hasStockText":  true,
+                     "text":  "TEGA DZ-005-103-SŁONIK Wanna 102 cm DZIKI ZACHÓD 779244 In Stock: 12 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  16,
+                     "name":  "TEGA FB-004-106 Wanienka składana z odpływem szary",
+                     "code":  "5914716",
+                     "href":  "https://b2b.marini.pl/itemdetails/72507?group=352",
+                     "stock":  5,
+                     "hasStockText":  true,
+                     "text":  "TEGA FB-004-106 Wanienka składana z odpływem szary 5914716 In Stock: 5 44,74 PLN Subtotal 38,92 PLN 55,03 PLN Total 47,87 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  17,
+                     "name":  "TEGA FB-004-119 Wanienka składana z odpływem beżowy",
+                     "code":  "5914538",
+                     "href":  "https://b2b.marini.pl/itemdetails/72315?group=352",
+                     "stock":  26,
+                     "hasStockText":  true,
+                     "text":  "TEGA FB-004-119 Wanienka składana z odpływem beżowy 5914538 In Stock: 26 44,74 PLN Subtotal 38,92 PLN 55,03 PLN Total 47,87 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  18,
+                     "name":  "TEGA FB-004-129 Wanienka składana z odpływem j.niebieski",
+                     "code":  "5914539",
+                     "href":  "https://b2b.marini.pl/itemdetails/72316?group=352",
+                     "stock":  7,
+                     "hasStockText":  true,
+                     "text":  "TEGA FB-004-129 Wanienka składana z odpływem j.niebieski 5914539 In Stock: 7 44,74 PLN Subtotal 38,92 PLN 55,03 PLN Total 47,87 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  19,
+                     "name":  "TEGA FB-004-130 Wanienka składana z odpływem j.różowy",
+                     "code":  "5914540",
+                     "href":  "https://b2b.marini.pl/itemdetails/72317?group=352",
+                     "stock":  7,
+                     "hasStockText":  true,
+                     "text":  "TEGA FB-004-130 Wanienka składana z odpływem j.różowy 5914540 In Stock: 7 44,74 PLN Subtotal 38,92 PLN 55,03 PLN Total 47,87 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  20,
+                     "name":  "TEGA FF-004-107 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.różowy",
+                     "code":  "772420",
+                     "href":  "https://b2b.marini.pl/itemdetails/38344?group=352",
+                     "stock":  6,
+                     "hasStockText":  true,
+                     "text":  "TEGA FF-004-107 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.różowy 772420 In Stock: 6 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  21,
+                     "name":  "TEGA FF-004-108 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.niebieski",
+                     "code":  "772419",
+                     "href":  "https://b2b.marini.pl/itemdetails/38343?group=352",
+                     "stock":  5,
+                     "hasStockText":  true,
+                     "text":  "TEGA FF-004-108 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.niebieski 772419 In Stock: 5 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  22,
+                     "name":  "TEGA FF-004-109 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.żółty",
+                     "code":  "772422",
+                     "href":  "https://b2b.marini.pl/itemdetails/38346?group=352",
+                     "stock":  11,
+                     "hasStockText":  true,
+                     "text":  "TEGA FF-004-109 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.żółty 772422 In Stock: 11 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  23,
+                     "name":  "TEGA FF-004-111 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.beżowy",
+                     "code":  "772418",
+                     "href":  "https://b2b.marini.pl/itemdetails/38342?group=352",
+                     "stock":  12,
+                     "hasStockText":  true,
+                     "text":  "TEGA FF-004-111 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.beżowy 772418 In Stock: 12 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  24,
+                     "name":  "TEGA FF-004-112 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.zielony",
+                     "code":  "772421",
+                     "href":  "https://b2b.marini.pl/itemdetails/38345?group=352",
+                     "stock":  10,
+                     "hasStockText":  true,
+                     "text":  "TEGA FF-004-112 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.zielony 772421 In Stock: 10 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  25,
+                     "name":  "TEGA FF-005-107 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.różowy",
+                     "code":  "772415",
+                     "href":  "https://b2b.marini.pl/itemdetails/38339?group=352",
+                     "stock":  20,
+                     "hasStockText":  true,
+                     "text":  "TEGA FF-005-107 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.różowy 772415 In Stock: 20 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  26,
+                     "name":  "TEGA FF-005-108 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.niebieski",
+                     "code":  "772414",
+                     "href":  "https://b2b.marini.pl/itemdetails/38338?group=352",
+                     "stock":  14,
+                     "hasStockText":  true,
+                     "text":  "TEGA FF-005-108 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.niebieski 772414 In Stock: 14 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  27,
+                     "name":  "TEGA FF-005-109 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.żółty",
+                     "code":  "772417",
+                     "href":  "https://b2b.marini.pl/itemdetails/38341?group=352",
+                     "stock":  18,
+                     "hasStockText":  true,
+                     "text":  "TEGA FF-005-109 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.żółty 772417 In Stock: 18 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  28,
+                     "name":  "TEGA FF-005-111 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.beżowy",
+                     "code":  "772413",
+                     "href":  "https://b2b.marini.pl/itemdetails/38337?group=352",
+                     "stock":  26,
+                     "hasStockText":  true,
+                     "text":  "TEGA FF-005-111 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.beżowy 772413 In Stock: 26 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  29,
+                     "name":  "TEGA FF-005-112 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.zielony",
+                     "code":  "772416",
+                     "href":  "https://b2b.marini.pl/itemdetails/38340?group=352",
+                     "stock":  32,
+                     "hasStockText":  true,
+                     "text":  "TEGA FF-005-112 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.zielony 772416 In Stock: 32 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  30,
+                     "name":  "TEGA KR-004-103 Wanna 86 cm KRÓLICZKI z odpływem biały",
+                     "code":  "762787",
+                     "href":  "https://b2b.marini.pl/itemdetails/26348?group=352",
+                     "stock":  8,
+                     "hasStockText":  true,
+                     "text":  "TEGA KR-004-103 Wanna 86 cm KRÓLICZKI z odpływem biały 762787 In Stock: 8 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  31,
+                     "name":  "TEGA KR-004-104 Wanna 86 cm KRÓLICZKI z odpływem j.różowy",
+                     "code":  "788738",
+                     "href":  "https://b2b.marini.pl/itemdetails/55223?group=352",
+                     "stock":  7,
+                     "hasStockText":  true,
+                     "text":  "TEGA KR-004-104 Wanna 86 cm KRÓLICZKI z odpływem j.różowy 788738 In Stock: 7 26,30 PLN Subtotal 22,88 PLN 32,35 PLN Total 28,14 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  32,
+                     "name":  "TEGA KR-004-105 Wanna 86 cm KRÓLICZKI z odpływem j.zielony",
+                     "code":  "788737",
+                     "href":  "https://b2b.marini.pl/itemdetails/55222?group=352",
+                     "stock":  8,
+                     "hasStockText":  true,
+                     "text":  "TEGA KR-004-105 Wanna 86 cm KRÓLICZKI z odpływem j.zielony 788737 In Stock: 8 26,30 PLN Subtotal 22,88 PLN 32,35 PLN Total 28,14 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  33,
+                     "name":  "TEGA KR-005-103 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem biały",
+                     "code":  "762788",
+                     "href":  "https://b2b.marini.pl/itemdetails/26349?group=352",
+                     "stock":  2,
+                     "hasStockText":  true,
+                     "text":  "TEGA KR-005-103 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem biały 762788 In Stock: 2 30,26 PLN Subtotal 26,33 PLN 37,22 PLN Total 32,39 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  34,
+                     "name":  "TEGA KR-005-104 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem j.różowy",
+                     "code":  "791380",
+                     "href":  "https://b2b.marini.pl/itemdetails/57997?group=352",
+                     "stock":  14,
+                     "hasStockText":  true,
+                     "text":  "TEGA KR-005-104 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem j.różowy 791380 In Stock: 14 30,26 PLN Subtotal 26,33 PLN 37,22 PLN Total 32,39 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  35,
+                     "name":  "TEGA KR-005-105 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem j.zielony",
+                     "code":  "791381",
+                     "href":  "https://b2b.marini.pl/itemdetails/57998?group=352",
+                     "stock":  10,
+                     "hasStockText":  true,
+                     "text":  "TEGA KR-005-105 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem j.zielony 791381 In Stock: 10 30,26 PLN Subtotal 26,33 PLN 37,22 PLN Total 32,39 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  36,
+                     "name":  "TEGA ME-004 ODPŁYW-123 Wanna 86 cm METEO z odpływem różowy",
+                     "code":  "786682",
+                     "href":  "https://b2b.marini.pl/itemdetails/53081?group=352",
+                     "stock":  10,
+                     "hasStockText":  true,
+                     "text":  "TEGA ME-004 ODPŁYW-123 Wanna 86 cm METEO z odpływem różowy 786682 In Stock: 10 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  37,
+                     "name":  "TEGA ME-004 ODPŁYW-164 Wanna 86 cm METEO z odpływem granatowy",
+                     "code":  "786680",
+                     "href":  "https://b2b.marini.pl/itemdetails/53078?group=352",
+                     "stock":  9,
+                     "hasStockText":  true,
+                     "text":  "TEGA ME-004 ODPŁYW-164 Wanna 86 cm METEO z odpływem granatowy 786680 In Stock: 9 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  38,
+                     "name":  "TEGA ME-004 ODPŁYW-165 Wanna 86 cm METEO z odpływem turkusowy",
+                     "code":  "786683",
+                     "href":  "https://b2b.marini.pl/itemdetails/53082?group=352",
+                     "stock":  5,
+                     "hasStockText":  true,
+                     "text":  "TEGA ME-004 ODPŁYW-165 Wanna 86 cm METEO z odpływem turkusowy 786683 In Stock: 5 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  39,
+                     "name":  "TEGA ME-005 ODPŁYW-123 Wanna 102 cm LUX METEO z odpływem różowy",
+                     "code":  "786679",
+                     "href":  "https://b2b.marini.pl/itemdetails/53077?group=352",
+                     "stock":  9,
+                     "hasStockText":  true,
+                     "text":  "TEGA ME-005 ODPŁYW-123 Wanna 102 cm LUX METEO z odpływem różowy 786679 In Stock: 9 40,79 PLN Subtotal 35,49 PLN 50,17 PLN Total 43,65 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  40,
+                     "name":  "TEGA ME-005 ODPŁYW-164 Wanna 102 cm LUX METEO z odpływem granatowy",
+                     "code":  "786676",
+                     "href":  "https://b2b.marini.pl/itemdetails/53074?group=352",
+                     "stock":  8,
+                     "hasStockText":  true,
+                     "text":  "TEGA ME-005 ODPŁYW-164 Wanna 102 cm LUX METEO z odpływem granatowy 786676 In Stock: 8 30,26 PLN Subtotal 26,33 PLN 37,22 PLN Total 32,39 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  41,
+                     "name":  "TEGA ME-005 ODPŁYW-165 Wanna 102 cm LUX METEO z odpływem turkusowy",
+                     "code":  "786678",
+                     "href":  "https://b2b.marini.pl/itemdetails/53076?group=352",
+                     "stock":  9,
+                     "hasStockText":  true,
+                     "text":  "TEGA ME-005 ODPŁYW-165 Wanna 102 cm LUX METEO z odpływem turkusowy 786678 In Stock: 9 30,26 PLN Subtotal 26,33 PLN 37,22 PLN Total 32,39 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  42,
+                     "name":  "TEGA MN-004-124 Wanienka mała 86 cm Monsters z odpływem żółty",
+                     "code":  "5906227",
+                     "href":  "https://b2b.marini.pl/itemdetails/62215?group=352",
+                     "stock":  8,
+                     "hasStockText":  true,
+                     "text":  "TEGA MN-004-124 Wanienka mała 86 cm Monsters z odpływem żółty 5906227 In Stock: 8 23,67 PLN Subtotal 19,41 PLN 29,11 PLN Total 23,87 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  43,
+                     "name":  "TEGA MN-004-126 Wanienka mała 86 cm z odpływem Monsters niebieski",
+                     "code":  "5906226",
+                     "href":  "https://b2b.marini.pl/itemdetails/62214?group=352",
+                     "stock":  1,
+                     "hasStockText":  true,
+                     "text":  "TEGA MN-004-126 Wanienka mała 86 cm z odpływem Monsters niebieski 5906226 In Stock: 1 26,30 PLN Subtotal 21,57 PLN 32,35 PLN Total 26,53 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  44,
+                     "name":  "TEGA MN-004-127 Wanienka mała 86 cm z odpływem Monsters c.różowy",
+                     "code":  "5906225",
+                     "href":  "https://b2b.marini.pl/itemdetails/62213?group=352",
+                     "stock":  1,
+                     "hasStockText":  true,
+                     "text":  "TEGA MN-004-127 Wanienka mała 86 cm z odpływem Monsters c.różowy 5906225 In Stock: 1 23,67 PLN Subtotal 19,41 PLN 29,11 PLN Total 23,87 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  45,
+                     "name":  "TEGA MN-005-124 Wanienka duża 102cm LUX Monsters z odpływem żółty",
+                     "code":  "5906224",
+                     "href":  "https://b2b.marini.pl/itemdetails/62212?group=352",
+                     "stock":  6,
+                     "hasStockText":  true,
+                     "text":  "TEGA MN-005-124 Wanienka duża 102cm LUX Monsters z odpływem żółty 5906224 In Stock: 6 28,56 PLN Subtotal 24,85 PLN 35,13 PLN Total 30,57 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  46,
+                     "name":  "TEGA MN-005-126 Wanienka duża 102 cm LUX Monsters z odpływem niebieski",
+                     "code":  "5906223",
+                     "href":  "https://b2b.marini.pl/itemdetails/62211?group=352",
+                     "stock":  4,
+                     "hasStockText":  true,
+                     "text":  "TEGA MN-005-126 Wanienka duża 102 cm LUX Monsters z odpływem niebieski 5906223 In Stock: 4 26,30 PLN Subtotal 21,57 PLN 32,35 PLN Total 26,53 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  47,
+                     "name":  "TEGA MS-004-118 Wanna dziecięca 86 cm MIŚ biała perła",
+                     "code":  "788739",
+                     "href":  "https://b2b.marini.pl/itemdetails/55224?group=352",
+                     "stock":  16,
+                     "hasStockText":  true,
+                     "text":  "TEGA MS-004-118 Wanna dziecięca 86 cm MIŚ biała perła 788739 In Stock: 16 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  48,
+                     "name":  "TEGA MS-004-119 Wanna dziecięca 86 cm MIŚ beżowy",
+                     "code":  "10953",
+                     "href":  "https://b2b.marini.pl/itemdetails/20965?group=352",
+                     "stock":  11,
+                     "hasStockText":  true,
+                     "text":  "TEGA MS-004-119 Wanna dziecięca 86 cm MIŚ beżowy 10953 In Stock: 11 25,00 PLN Subtotal 21,75 PLN 30,75 PLN Total 26,75 PLN szt. New Cart Add To Cart"
+                 },
+                 {
+                     "index":  49,
+                     "name":  "TEGA MS-005-LUX-118 Wanna dziecięca 102 cm MIŚ biała perła",
+                     "code":  "771546",
+                     "href":  "https://b2b.marini.pl/itemdetails/37436?group=352",
+                     "stock":  17,
+                     "hasStockText":  true,
+                     "text":  "TEGA MS-005-LUX-118 Wanna dziecięca 102 cm MIŚ biała perła 771546 In Stock: 17 27,63 PLN Subtotal 24,04 PLN 33,98 PLN Total 29,57 PLN szt. New Cart Add To Cart"
+                 }
+             ]
+}

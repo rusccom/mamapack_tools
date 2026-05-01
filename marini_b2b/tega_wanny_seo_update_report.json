@@ -1,0 +1,359 @@
+﻿{
+    "updatedAt":  "2026-04-30T19:23:47.1785375+03:00",
+    "dryRun":  false,
+    "productCount":  44,
+    "products":  [
+                     {
+                         "productId":  "gid://shopify/Product/10644508737869",
+                         "sourceSku":  "772185",
+                         "shopifySku":  "772185",
+                         "handle":  "wanienka-tega-baby-kaczka-86-cm-szary-772185",
+                         "seoTitle":  "Wanienka Tega Baby Kaczka 86 cm szara",
+                         "seoDescription":  "Wanienka Tega Baby Kaczka 86 cm w kolorze szarym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli dziecka."
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644508803405",
+                         "sourceSku":  "771956",
+                         "shopifySku":  "771956",
+                         "handle":  "wanienka-tega-baby-kaczka-86-cm-niebieska-771956",
+                         "seoTitle":  "Wanienka Tega Baby Kaczka 86 cm niebieska",
+                         "seoDescription":  "Wanienka Tega Baby Kaczka 86 cm w kolorze niebieskim. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli dziecka."
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644508868941",
+                         "sourceSku":  "772049",
+                         "shopifySku":  "772049",
+                         "handle":  "wanienka-tega-baby-kaczka-86-cm-rozowy-772049",
+                         "seoTitle":  "Wanienka Tega Baby Kaczka 86 cm różowa",
+                         "seoDescription":  "Wanienka Tega Baby Kaczka 86 cm w kolorze różowym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli dziecka."
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644508934477",
+                         "sourceSku":  "772050",
+                         "shopifySku":  "772050",
+                         "handle":  "wanienka-tega-baby-kaczka-86-cm-zielony-772050",
+                         "seoTitle":  "Wanienka Tega Baby Kaczka 86 cm zielona",
+                         "seoDescription":  "Wanienka Tega Baby Kaczka 86 cm w kolorze zielonym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli dziecka."
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644508967245",
+                         "sourceSku":  "772051",
+                         "shopifySku":  "772051",
+                         "handle":  "wanienka-tega-baby-kaczka-86-cm-zolty-772051",
+                         "seoTitle":  "Wanienka Tega Baby Kaczka 86 cm żółta",
+                         "seoDescription":  "Wanienka Tega Baby Kaczka 86 cm w kolorze żółtym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli dziecka."
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644509065549",
+                         "sourceSku":  "772187",
+                         "shopifySku":  "772187",
+                         "handle":  "wanienka-tega-baby-kaczka-102-cm-szary-772187",
+                         "seoTitle":  "Wanienka Tega Baby Kaczka 102 cm szara",
+                         "seoDescription":  "Wanienka Tega Baby Kaczka 102 cm w kolorze szarym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli dziecka."
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644509131085",
+                         "sourceSku":  "771957",
+                         "shopifySku":  "771957",
+                         "handle":  "wanienka-tega-baby-kaczka-102-cm-niebieska-771957",
+                         "seoTitle":  "Wanienka Tega Baby Kaczka 102 cm niebieska",
+                         "seoDescription":  "Wanienka Tega Baby Kaczka 102 cm w kolorze niebieskim. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli dziecka."
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644509196621",
+                         "sourceSku":  "772044",
+                         "shopifySku":  "772044",
+                         "handle":  "wanienka-tega-baby-kaczka-102-cm-rozowy-772044",
+                         "seoTitle":  "Wanienka Tega Baby Kaczka 102 cm różowa",
+                         "seoDescription":  "Wanienka Tega Baby Kaczka 102 cm w kolorze różowym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli dziecka."
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644509262157",
+                         "sourceSku":  "772045",
+                         "shopifySku":  "772045",
+                         "handle":  "wanienka-tega-baby-kaczka-102-cm-zielona-772045",
+                         "seoTitle":  "Wanienka Tega Baby Kaczka 102 cm zielona",
+                         "seoDescription":  "Wanienka Tega Baby Kaczka 102 cm w kolorze zielonym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli dziecka."
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644509327693",
+                         "sourceSku":  "772046",
+                         "shopifySku":  "772046",
+                         "handle":  "wanienka-tega-baby-kaczka-102-cm-zolta-772046",
+                         "seoTitle":  "Wanienka Tega Baby Kaczka 102 cm żółta",
+                         "seoDescription":  "Wanienka Tega Baby Kaczka 102 cm w kolorze żółtym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli dziecka."
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644509393229",
+                         "sourceSku":  "779257",
+                         "shopifySku":  "779257",
+                         "handle":  "wanienka-tega-baby-dziki-zachod-86-cm-motyw-jelonek-779257",
+                         "seoTitle":  "Wanienka Tega Baby Dziki Zachód 86 cm motyw Jelonek",
+                         "seoDescription":  "Wanienka Tega Baby Dziki Zachód 86 cm z motywem Jelonek. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644509458765",
+                         "sourceSku":  "779245",
+                         "shopifySku":  "779245",
+                         "handle":  "wanienka-tega-baby-dziki-zachod-86-cm-motyw-slonik-779245",
+                         "seoTitle":  "Wanienka Tega Baby Dziki Zachód 86 cm motyw Słonik",
+                         "seoDescription":  "Wanienka Tega Baby Dziki Zachód 86 cm z motywem Słonik. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli dziecka."
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644509524301",
+                         "sourceSku":  "779258",
+                         "shopifySku":  "779258",
+                         "handle":  "wanienka-tega-baby-dziki-zachod-86-cm-z-odplywem-motyw-jelonek-779258",
+                         "seoTitle":  "Wanienka Tega Baby Dziki Zachód 86 cm z odpływem motyw Jelonek",
+                         "seoDescription":  "Wanienka Tega Baby Dziki Zachód 86 cm z odpływem z motywem Jelonek. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644509557069",
+                         "sourceSku":  "779246",
+                         "shopifySku":  "779246",
+                         "handle":  "wanienka-tega-baby-dziki-zachod-86-cm-z-odplywem-motyw-slonik-779246",
+                         "seoTitle":  "Wanienka Tega Baby Dziki Zachód 86 cm z odpływem motyw Słonik",
+                         "seoDescription":  "Wanienka Tega Baby Dziki Zachód 86 cm z odpływem z motywem Słonik. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644509622605",
+                         "sourceSku":  "779256",
+                         "shopifySku":  "779256",
+                         "handle":  "wanienka-tega-baby-dziki-zachod-102-cm-motyw-jelonek-779256",
+                         "seoTitle":  "Wanienka Tega Baby Dziki Zachód 102 cm motyw Jelonek",
+                         "seoDescription":  "Wanienka Tega Baby Dziki Zachód 102 cm z motywem Jelonek. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644509688141",
+                         "sourceSku":  "779244",
+                         "shopifySku":  "779244",
+                         "handle":  "wanienka-tega-baby-dziki-zachod-102-cm-motyw-slonik-779244",
+                         "seoTitle":  "Wanienka Tega Baby Dziki Zachód 102 cm motyw Słonik",
+                         "seoDescription":  "Wanienka Tega Baby Dziki Zachód 102 cm z motywem Słonik. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644509720909",
+                         "sourceSku":  "5914538",
+                         "shopifySku":  "5914538",
+                         "handle":  "wanienka-skladana-tega-baby-z-odplywem-bezowy-5914538",
+                         "seoTitle":  "Wanienka składana Tega Baby z odpływem beżowa",
+                         "seoDescription":  "Składana wanienka Tega Baby z odpływem w kolorze beżowym. Łatwa do składania, czyszczenia i przechowywania. Praktyczna do codziennej kąpieli dziecka."
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644509819213",
+                         "sourceSku":  "5914539",
+                         "shopifySku":  "5914539",
+                         "handle":  "wanienka-skladana-tega-baby-z-odplywem-jasny-niebieski-5914539",
+                         "seoTitle":  "Wanienka składana Tega Baby z odpływem jasny niebieski",
+                         "seoDescription":  "Składana wanienka Tega Baby z odpływem w kolorze jasny niebieski. Łatwa do składania, czyszczenia i przechowywania. Praktyczna do codziennej kąpieli"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644509884749",
+                         "sourceSku":  "5914540",
+                         "shopifySku":  "5914540",
+                         "handle":  "wanienka-skladana-tega-baby-z-odplywem-jasny-rozowy-5914540",
+                         "seoTitle":  "Wanienka składana Tega Baby z odpływem jasny różowy",
+                         "seoDescription":  "Składana wanienka Tega Baby z odpływem w kolorze jasny różowy. Łatwa do składania, czyszczenia i przechowywania. Praktyczna do codziennej kąpieli dziecka."
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644509950285",
+                         "sourceSku":  "772420",
+                         "shopifySku":  "772420",
+                         "handle":  "wanienka-tega-baby-lesna-opowiesc-86-cm-rozowy-772420",
+                         "seoTitle":  "Wanienka Tega Baby Leśna Opowieść 86 cm różowa",
+                         "seoDescription":  "Wanienka Tega Baby Leśna Opowieść 86 cm w kolorze różowym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510015821",
+                         "sourceSku":  "772419",
+                         "shopifySku":  "772419",
+                         "handle":  "wanienka-tega-baby-lesna-opowiesc-86-cm-niebieski-772419",
+                         "seoTitle":  "Wanienka Tega Baby Leśna Opowieść 86 cm niebieski",
+                         "seoDescription":  "Wanienka Tega Baby Leśna Opowieść 86 cm w kolorze niebieski. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510081357",
+                         "sourceSku":  "772422",
+                         "shopifySku":  "772422",
+                         "handle":  "wanienka-tega-baby-lesna-opowiesc-86-cm-zolty-772422",
+                         "seoTitle":  "Wanienka Tega Baby Leśna Opowieść 86 cm żółta",
+                         "seoDescription":  "Wanienka Tega Baby Leśna Opowieść 86 cm w kolorze żółtym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510146893",
+                         "sourceSku":  "772418",
+                         "shopifySku":  "772418",
+                         "handle":  "wanienka-tega-baby-lesna-opowiesc-86-cm-bezowy-772418",
+                         "seoTitle":  "Wanienka Tega Baby Leśna Opowieść 86 cm beżowa",
+                         "seoDescription":  "Wanienka Tega Baby Leśna Opowieść 86 cm w kolorze beżowym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510212429",
+                         "sourceSku":  "772421",
+                         "shopifySku":  "772421",
+                         "handle":  "wanienka-tega-baby-lesna-opowiesc-86-cm-zielony-772421",
+                         "seoTitle":  "Wanienka Tega Baby Leśna Opowieść 86 cm zielona",
+                         "seoDescription":  "Wanienka Tega Baby Leśna Opowieść 86 cm w kolorze zielonym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510245197",
+                         "sourceSku":  "772415",
+                         "shopifySku":  "772415",
+                         "handle":  "wanienka-tega-baby-lesna-opowiesc-102-cm-rozowy-772415",
+                         "seoTitle":  "Wanienka Tega Baby Leśna Opowieść 102 cm różowa",
+                         "seoDescription":  "Wanienka Tega Baby Leśna Opowieść 102 cm w kolorze różowym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510310733",
+                         "sourceSku":  "772414",
+                         "shopifySku":  "772414",
+                         "handle":  "wanienka-tega-baby-lesna-opowiesc-102-cm-niebieski-772414",
+                         "seoTitle":  "Wanienka Tega Baby Leśna Opowieść 102 cm niebieski",
+                         "seoDescription":  "Wanienka Tega Baby Leśna Opowieść 102 cm w kolorze niebieski. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510376269",
+                         "sourceSku":  "772417",
+                         "shopifySku":  "772417",
+                         "handle":  "wanienka-tega-baby-lesna-opowiesc-102-cm-zolty-772417",
+                         "seoTitle":  "Wanienka Tega Baby Leśna Opowieść 102 cm żółta",
+                         "seoDescription":  "Wanienka Tega Baby Leśna Opowieść 102 cm w kolorze żółtym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510441805",
+                         "sourceSku":  "772413",
+                         "shopifySku":  "772413",
+                         "handle":  "wanienka-tega-baby-lesna-opowiesc-102-cm-bezowy-772413",
+                         "seoTitle":  "Wanienka Tega Baby Leśna Opowieść 102 cm beżowa",
+                         "seoDescription":  "Wanienka Tega Baby Leśna Opowieść 102 cm w kolorze beżowym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510474573",
+                         "sourceSku":  "772416",
+                         "shopifySku":  "772416",
+                         "handle":  "wanienka-tega-baby-lesna-opowiesc-102-cm-zielony-772416",
+                         "seoTitle":  "Wanienka Tega Baby Leśna Opowieść 102 cm zielona",
+                         "seoDescription":  "Wanienka Tega Baby Leśna Opowieść 102 cm w kolorze zielonym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510540109",
+                         "sourceSku":  "762787",
+                         "shopifySku":  "762787",
+                         "handle":  "wanienka-tega-baby-kroliczki-86-cm-z-odplywem-bialy-762787",
+                         "seoTitle":  "Wanienka Tega Baby Króliczki 86 cm z odpływem biała",
+                         "seoDescription":  "Wanienka Tega Baby Króliczki 86 cm z odpływem w kolorze białym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510605645",
+                         "sourceSku":  "788737",
+                         "shopifySku":  "788737",
+                         "handle":  "wanienka-tega-baby-kroliczki-86-cm-z-odplywem-jasny-zielony-788737",
+                         "seoTitle":  "Wanienka Tega Baby Króliczki 86 cm z odpływem jasny zielony",
+                         "seoDescription":  "Wanienka Tega Baby Króliczki 86 cm z odpływem w kolorze jasny zielony. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510671181",
+                         "sourceSku":  "762788",
+                         "shopifySku":  "762788",
+                         "handle":  "wanienka-tega-baby-kroliczki-102-cm-z-odplywem-bialy-762788",
+                         "seoTitle":  "Wanienka Tega Baby Króliczki 102 cm z odpływem biała",
+                         "seoDescription":  "Wanienka Tega Baby Króliczki 102 cm z odpływem w kolorze białym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510736717",
+                         "sourceSku":  "791380",
+                         "shopifySku":  "791380",
+                         "handle":  "wanienka-tega-baby-kroliczki-102-cm-z-odplywem-jasny-rozowy-791380",
+                         "seoTitle":  "Wanienka Tega Baby Króliczki 102 cm z odpływem jasny różowy",
+                         "seoDescription":  "Wanienka Tega Baby Króliczki 102 cm z odpływem w kolorze jasny różowy. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510769485",
+                         "sourceSku":  "791381",
+                         "shopifySku":  "791381",
+                         "handle":  "wanienka-tega-baby-kroliczki-102-cm-z-odplywem-jasny-zielony-791381",
+                         "seoTitle":  "Wanienka Tega Baby Króliczki 102 cm z odpływem jasny zielony",
+                         "seoDescription":  "Wanienka Tega Baby Króliczki 102 cm z odpływem w kolorze jasny zielony. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510835021",
+                         "sourceSku":  "786682",
+                         "shopifySku":  "786682",
+                         "handle":  "wanienka-tega-baby-meteo-86-cm-z-odplywem-rozowy-786682",
+                         "seoTitle":  "Wanienka Tega Baby Meteo 86 cm z odpływem różowa",
+                         "seoDescription":  "Wanienka Tega Baby Meteo 86 cm z odpływem w kolorze różowym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510900557",
+                         "sourceSku":  "786680",
+                         "shopifySku":  "786680",
+                         "handle":  "wanienka-tega-baby-meteo-86-cm-z-odplywem-granatowy-786680",
+                         "seoTitle":  "Wanienka Tega Baby Meteo 86 cm z odpływem granatowa",
+                         "seoDescription":  "Wanienka Tega Baby Meteo 86 cm z odpływem w kolorze granatowym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510933325",
+                         "sourceSku":  "786683",
+                         "shopifySku":  "786683",
+                         "handle":  "wanienka-tega-baby-meteo-86-cm-z-odplywem-turkusowy-786683",
+                         "seoTitle":  "Wanienka Tega Baby Meteo 86 cm z odpływem turkusowa",
+                         "seoDescription":  "Wanienka Tega Baby Meteo 86 cm z odpływem w kolorze turkusowym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644510998861",
+                         "sourceSku":  "786679",
+                         "shopifySku":  "786679",
+                         "handle":  "wanienka-tega-baby-meteo-102-cm-z-odplywem-rozowy-786679",
+                         "seoTitle":  "Wanienka Tega Baby Meteo 102 cm z odpływem różowa",
+                         "seoDescription":  "Wanienka Tega Baby Meteo 102 cm z odpływem w kolorze różowym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644511064397",
+                         "sourceSku":  "786676",
+                         "shopifySku":  "786676",
+                         "handle":  "wanienka-tega-baby-meteo-102-cm-z-odplywem-granatowy-786676",
+                         "seoTitle":  "Wanienka Tega Baby Meteo 102 cm z odpływem granatowa",
+                         "seoDescription":  "Wanienka Tega Baby Meteo 102 cm z odpływem w kolorze granatowym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644511129933",
+                         "sourceSku":  "786678",
+                         "shopifySku":  "786678",
+                         "handle":  "wanienka-tega-baby-meteo-102-cm-z-odplywem-turkusowy-786678",
+                         "seoTitle":  "Wanienka Tega Baby Meteo 102 cm z odpływem turkusowa",
+                         "seoDescription":  "Wanienka Tega Baby Meteo 102 cm z odpływem w kolorze turkusowym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644511195469",
+                         "sourceSku":  "5906227",
+                         "shopifySku":  "5906227",
+                         "handle":  "wanienka-tega-baby-monsters-86-cm-z-odplywem-zolty-5906227",
+                         "seoTitle":  "Wanienka Tega Baby Monsters 86 cm z odpływem żółta",
+                         "seoDescription":  "Wanienka Tega Baby Monsters 86 cm z odpływem w kolorze żółtym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644511228237",
+                         "sourceSku":  "5906224",
+                         "shopifySku":  "5906224",
+                         "handle":  "wanienka-tega-baby-monsters-102-cm-z-odplywem-zolty-5906224",
+                         "seoTitle":  "Wanienka Tega Baby Monsters 102 cm z odpływem żółta",
+                         "seoDescription":  "Wanienka Tega Baby Monsters 102 cm z odpływem w kolorze żółtym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej"
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644511293773",
+                         "sourceSku":  "10953",
+                         "shopifySku":  "10953",
+                         "handle":  "wanienka-tega-baby-mis-86-cm-bezowy-10953",
+                         "seoTitle":  "Wanienka Tega Baby Miś 86 cm beżowa",
+                         "seoDescription":  "Wanienka Tega Baby Miś 86 cm w kolorze beżowym. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli dziecka."
+                     },
+                     {
+                         "productId":  "gid://shopify/Product/10644511359309",
+                         "sourceSku":  "771546",
+                         "shopifySku":  "771546",
+                         "handle":  "wanienka-tega-baby-mis-102-cm-biala-perla-771546",
+                         "seoTitle":  "Wanienka Tega Baby Miś 102 cm biała perła",
+                         "seoDescription":  "Wanienka Tega Baby Miś 102 cm w kolorze białej perle. Anatomiczny kształt, trwała grafika IML i łatwe czyszczenie. Idealna do codziennej kąpieli dziecka."
+                     }
+                 ]
+}

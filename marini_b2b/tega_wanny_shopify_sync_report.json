@@ -1,0 +1,486 @@
+﻿{
+    "syncedAt":  "2026-04-30T19:14:03.1903991+03:00",
+    "parentCollectionId":  "gid://shopify/Collection/616586740045",
+    "childCollection":  {
+                            "id":  "gid://shopify/Collection/660457816397",
+                            "title":  "Wanienki",
+                            "handle":  "wanienki"
+                        },
+    "productCount":  44,
+    "skippedWithoutImagesCount":  6,
+    "skippedWithoutImages":  [
+                                 {
+                                     "sku":  "5914716",
+                                     "title":  "Tega Baby FB-004-106 Wanienka składana z odpływem szary",
+                                     "sourceUrl":  "https://b2b.marini.pl/itemdetails/72507?group=352"
+                                 },
+                                 {
+                                     "sku":  "788738",
+                                     "title":  "Tega Baby KR-004-104 Wanna 86 cm KRÓLICZKI z odpływem j.różowy",
+                                     "sourceUrl":  "https://b2b.marini.pl/itemdetails/55223?group=352"
+                                 },
+                                 {
+                                     "sku":  "5906226",
+                                     "title":  "Tega Baby MN-004-126 Wanienka mała 86 cm z odpływem Monsters niebieski",
+                                     "sourceUrl":  "https://b2b.marini.pl/itemdetails/62214?group=352"
+                                 },
+                                 {
+                                     "sku":  "5906225",
+                                     "title":  "Tega Baby MN-004-127 Wanienka mała 86 cm z odpływem Monsters c.różowy",
+                                     "sourceUrl":  "https://b2b.marini.pl/itemdetails/62213?group=352"
+                                 },
+                                 {
+                                     "sku":  "5906223",
+                                     "title":  "Tega Baby MN-005-126 Wanienka duża 102 cm LUX Monsters z odpływem niebieski",
+                                     "sourceUrl":  "https://b2b.marini.pl/itemdetails/62211?group=352"
+                                 },
+                                 {
+                                     "sku":  "788739",
+                                     "title":  "Tega Baby MS-004-118 Wanna dziecięca 86 cm MIŚ biała perła",
+                                     "sourceUrl":  "https://b2b.marini.pl/itemdetails/55224?group=352"
+                                 }
+                             ],
+    "products":  [
+                     {
+                         "sourceSku":  "772185",
+                         "shopifySku":  "772185",
+                         "handle":  "tega-baby-dk-004-122-wanna-dziecieca-86-cm-kaczka-j-szary",
+                         "productId":  "gid://shopify/Product/10644508737869",
+                         "legacyResourceId":  "10644508737869",
+                         "title":  "Tega Baby DK-004-122 Wanna dziecięca 86 cm KACZKA j.szary",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/38104?group=352"
+                     },
+                     {
+                         "sourceSku":  "771956",
+                         "shopifySku":  "771956",
+                         "handle":  "tega-baby-dk-004-129-wanna-dziecieca-86-cm-kaczka-j-niebieska",
+                         "productId":  "gid://shopify/Product/10644508803405",
+                         "legacyResourceId":  "10644508803405",
+                         "title":  "Tega Baby DK-004-129 Wanna dziecięca 86 cm KACZKA j.niebieska",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/37873?group=352"
+                     },
+                     {
+                         "sourceSku":  "772049",
+                         "shopifySku":  "772049",
+                         "handle":  "tega-baby-dk-004-130-wanna-dziecieca-86-cm-kaczka-j-roz",
+                         "productId":  "gid://shopify/Product/10644508868941",
+                         "legacyResourceId":  "10644508868941",
+                         "title":  "Tega Baby DK-004-130 Wanna dziecięca 86 cm KACZKA j.róż",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/37967?group=352"
+                     },
+                     {
+                         "sourceSku":  "772050",
+                         "shopifySku":  "772050",
+                         "handle":  "tega-baby-dk-004-131-wanna-dziecieca-86-cm-kaczka-j-zielony",
+                         "productId":  "gid://shopify/Product/10644508934477",
+                         "legacyResourceId":  "10644508934477",
+                         "title":  "Tega Baby DK-004-131 Wanna dziecięca 86 cm KACZKA j.zielony",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/37968?group=352"
+                     },
+                     {
+                         "sourceSku":  "772051",
+                         "shopifySku":  "772051",
+                         "handle":  "tega-baby-dk-004-132-wanna-dziecieca-86-cm-kaczka-j-zolty",
+                         "productId":  "gid://shopify/Product/10644508967245",
+                         "legacyResourceId":  "10644508967245",
+                         "title":  "Tega Baby DK-004-132 Wanna dziecięca 86 cm KACZKA j.żółty",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/37969?group=352"
+                     },
+                     {
+                         "sourceSku":  "772187",
+                         "shopifySku":  "772187",
+                         "handle":  "tega-baby-dk-005-122-wanna-dziecieca-102-cm-kaczka-j-szary",
+                         "productId":  "gid://shopify/Product/10644509065549",
+                         "legacyResourceId":  "10644509065549",
+                         "title":  "Tega Baby DK-005-122 Wanna dziecięca 102 cm KACZKA j.szary",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/38106?group=352"
+                     },
+                     {
+                         "sourceSku":  "771957",
+                         "shopifySku":  "771957",
+                         "handle":  "tega-baby-dk-005-129-wanna-dziecieca-102-cm-kaczka-j-niebieska",
+                         "productId":  "gid://shopify/Product/10644509131085",
+                         "legacyResourceId":  "10644509131085",
+                         "title":  "Tega Baby DK-005-129 Wanna dziecięca 102 cm KACZKA j.niebieska",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/37874?group=352"
+                     },
+                     {
+                         "sourceSku":  "772044",
+                         "shopifySku":  "772044",
+                         "handle":  "tega-baby-dk-005-130-wanna-dziecieca-102-cm-kaczka-j-roz",
+                         "productId":  "gid://shopify/Product/10644509196621",
+                         "legacyResourceId":  "10644509196621",
+                         "title":  "Tega Baby DK-005-130 Wanna dziecięca 102 cm KACZKA j.róż",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/37962?group=352"
+                     },
+                     {
+                         "sourceSku":  "772045",
+                         "shopifySku":  "772045",
+                         "handle":  "tega-baby-dk-005-131-wanna-dziecieca-102-cm-kaczka-j-zielona",
+                         "productId":  "gid://shopify/Product/10644509262157",
+                         "legacyResourceId":  "10644509262157",
+                         "title":  "Tega Baby DK-005-131 Wanna dziecięca 102 cm KACZKA j.zielona",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/37963?group=352"
+                     },
+                     {
+                         "sourceSku":  "772046",
+                         "shopifySku":  "772046",
+                         "handle":  "tega-baby-dk-005-132-wanna-dziecieca-102-cm-kaczka-j-zolta",
+                         "productId":  "gid://shopify/Product/10644509327693",
+                         "legacyResourceId":  "10644509327693",
+                         "title":  "Tega Baby DK-005-132 Wanna dziecięca 102 cm KACZKA j.żółta",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/37964?group=352"
+                     },
+                     {
+                         "sourceSku":  "779257",
+                         "shopifySku":  "779257",
+                         "handle":  "tega-baby-dz-004-103-jelonek-wanna-86-cm-dziki-zachod",
+                         "productId":  "gid://shopify/Product/10644509393229",
+                         "legacyResourceId":  "10644509393229",
+                         "title":  "Tega Baby DZ-004-103-JELONEK Wanna 86 cm DZIKI ZACHÓD",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/45380?group=352"
+                     },
+                     {
+                         "sourceSku":  "779245",
+                         "shopifySku":  "779245",
+                         "handle":  "tega-baby-dz-004-103-slonik-wanna-86-cm-dziki-zachod",
+                         "productId":  "gid://shopify/Product/10644509458765",
+                         "legacyResourceId":  "10644509458765",
+                         "title":  "Tega Baby DZ-004-103-SŁONIK Wanna 86 cm DZIKI ZACHÓD",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/45368?group=352"
+                     },
+                     {
+                         "sourceSku":  "779258",
+                         "shopifySku":  "779258",
+                         "handle":  "tega-baby-dz-004-odplyw-103-jelonek-wanna-86-cm-z-odplywem-dziki-zachod",
+                         "productId":  "gid://shopify/Product/10644509524301",
+                         "legacyResourceId":  "10644509524301",
+                         "title":  "Tega Baby DZ-004-ODPŁYW-103-JELONEK Wanna 86 cm z odpływem DZIKI ZACHÓD",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/45381?group=352"
+                     },
+                     {
+                         "sourceSku":  "779246",
+                         "shopifySku":  "779246",
+                         "handle":  "tega-baby-dz-004-odplyw-103-slonik-wanna-86-cm-z-odplywem-dziki-zachod",
+                         "productId":  "gid://shopify/Product/10644509557069",
+                         "legacyResourceId":  "10644509557069",
+                         "title":  "Tega Baby DZ-004-ODPŁYW-103-SŁONIK Wanna 86 cm z odpływem DZIKI ZACHÓD",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/45369?group=352"
+                     },
+                     {
+                         "sourceSku":  "779256",
+                         "shopifySku":  "779256",
+                         "handle":  "tega-baby-dz-005-103-jelonek-wanna-102-cm-dziki-zachod",
+                         "productId":  "gid://shopify/Product/10644509622605",
+                         "legacyResourceId":  "10644509622605",
+                         "title":  "Tega Baby DZ-005-103-JELONEK Wanna 102 cm DZIKI ZACHÓD",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/45379?group=352"
+                     },
+                     {
+                         "sourceSku":  "779244",
+                         "shopifySku":  "779244",
+                         "handle":  "tega-baby-dz-005-103-slonik-wanna-102-cm-dziki-zachod",
+                         "productId":  "gid://shopify/Product/10644509688141",
+                         "legacyResourceId":  "10644509688141",
+                         "title":  "Tega Baby DZ-005-103-SŁONIK Wanna 102 cm DZIKI ZACHÓD",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/45367?group=352"
+                     },
+                     {
+                         "sourceSku":  "5914538",
+                         "shopifySku":  "5914538",
+                         "handle":  "tega-baby-fb-004-119-wanienka-skladana-z-odplywem-bezowy",
+                         "productId":  "gid://shopify/Product/10644509720909",
+                         "legacyResourceId":  "10644509720909",
+                         "title":  "Tega Baby FB-004-119 Wanienka składana z odpływem beżowy",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/72315?group=352"
+                     },
+                     {
+                         "sourceSku":  "5914539",
+                         "shopifySku":  "5914539",
+                         "handle":  "tega-baby-fb-004-129-wanienka-skladana-z-odplywem-j-niebieski",
+                         "productId":  "gid://shopify/Product/10644509819213",
+                         "legacyResourceId":  "10644509819213",
+                         "title":  "Tega Baby FB-004-129 Wanienka składana z odpływem j.niebieski",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/72316?group=352"
+                     },
+                     {
+                         "sourceSku":  "5914540",
+                         "shopifySku":  "5914540",
+                         "handle":  "tega-baby-fb-004-130-wanienka-skladana-z-odplywem-j-rozowy",
+                         "productId":  "gid://shopify/Product/10644509884749",
+                         "legacyResourceId":  "10644509884749",
+                         "title":  "Tega Baby FB-004-130 Wanienka składana z odpływem j.różowy",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/72317?group=352"
+                     },
+                     {
+                         "sourceSku":  "772420",
+                         "shopifySku":  "772420",
+                         "handle":  "tega-baby-ff-004-107-wanna-dziecieca-86-cm-lesna-opowiesc-j-rozowy",
+                         "productId":  "gid://shopify/Product/10644509950285",
+                         "legacyResourceId":  "10644509950285",
+                         "title":  "Tega Baby FF-004-107 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.różowy",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/38344?group=352"
+                     },
+                     {
+                         "sourceSku":  "772419",
+                         "shopifySku":  "772419",
+                         "handle":  "tega-baby-ff-004-108-wanna-dziecieca-86-cm-lesna-opowiesc-j-niebieski",
+                         "productId":  "gid://shopify/Product/10644510015821",
+                         "legacyResourceId":  "10644510015821",
+                         "title":  "Tega Baby FF-004-108 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.niebieski",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/38343?group=352"
+                     },
+                     {
+                         "sourceSku":  "772422",
+                         "shopifySku":  "772422",
+                         "handle":  "tega-baby-ff-004-109-wanna-dziecieca-86-cm-lesna-opowiesc-j-zolty",
+                         "productId":  "gid://shopify/Product/10644510081357",
+                         "legacyResourceId":  "10644510081357",
+                         "title":  "Tega Baby FF-004-109 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.żółty",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/38346?group=352"
+                     },
+                     {
+                         "sourceSku":  "772418",
+                         "shopifySku":  "772418",
+                         "handle":  "tega-baby-ff-004-111-wanna-dziecieca-86-cm-lesna-opowiesc-j-bezowy",
+                         "productId":  "gid://shopify/Product/10644510146893",
+                         "legacyResourceId":  "10644510146893",
+                         "title":  "Tega Baby FF-004-111 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.beżowy",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/38342?group=352"
+                     },
+                     {
+                         "sourceSku":  "772421",
+                         "shopifySku":  "772421",
+                         "handle":  "tega-baby-ff-004-112-wanna-dziecieca-86-cm-lesna-opowiesc-j-zielony",
+                         "productId":  "gid://shopify/Product/10644510212429",
+                         "legacyResourceId":  "10644510212429",
+                         "title":  "Tega Baby FF-004-112 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.zielony",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/38345?group=352"
+                     },
+                     {
+                         "sourceSku":  "772415",
+                         "shopifySku":  "772415",
+                         "handle":  "tega-baby-ff-005-107-wanna-dziecieca-102-cm-lux-lesna-opowiesc-j-rozowy",
+                         "productId":  "gid://shopify/Product/10644510245197",
+                         "legacyResourceId":  "10644510245197",
+                         "title":  "Tega Baby FF-005-107 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.różowy",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/38339?group=352"
+                     },
+                     {
+                         "sourceSku":  "772414",
+                         "shopifySku":  "772414",
+                         "handle":  "tega-baby-ff-005-108-wanna-dziecieca-102-cm-lux-lesna-opowiesc-j-niebieski",
+                         "productId":  "gid://shopify/Product/10644510310733",
+                         "legacyResourceId":  "10644510310733",
+                         "title":  "Tega Baby FF-005-108 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.niebieski",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/38338?group=352"
+                     },
+                     {
+                         "sourceSku":  "772417",
+                         "shopifySku":  "772417",
+                         "handle":  "tega-baby-ff-005-109-wanna-dziecieca-102-cm-lux-lesna-opowiesc-j-zolty",
+                         "productId":  "gid://shopify/Product/10644510376269",
+                         "legacyResourceId":  "10644510376269",
+                         "title":  "Tega Baby FF-005-109 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.żółty",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/38341?group=352"
+                     },
+                     {
+                         "sourceSku":  "772413",
+                         "shopifySku":  "772413",
+                         "handle":  "tega-baby-ff-005-111-wanna-dziecieca-102-cm-lux-lesna-opowiesc-j-bezowy",
+                         "productId":  "gid://shopify/Product/10644510441805",
+                         "legacyResourceId":  "10644510441805",
+                         "title":  "Tega Baby FF-005-111 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.beżowy",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/38337?group=352"
+                     },
+                     {
+                         "sourceSku":  "772416",
+                         "shopifySku":  "772416",
+                         "handle":  "tega-baby-ff-005-112-wanna-dziecieca-102-cm-lux-lesna-opowiesc-j-zielony",
+                         "productId":  "gid://shopify/Product/10644510474573",
+                         "legacyResourceId":  "10644510474573",
+                         "title":  "Tega Baby FF-005-112 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.zielony",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/38340?group=352"
+                     },
+                     {
+                         "sourceSku":  "762787",
+                         "shopifySku":  "762787",
+                         "handle":  "tega-baby-kr-004-103-wanna-86-cm-kroliczki-z-odplywem-bialy",
+                         "productId":  "gid://shopify/Product/10644510540109",
+                         "legacyResourceId":  "10644510540109",
+                         "title":  "Tega Baby KR-004-103 Wanna 86 cm KRÓLICZKI z odpływem biały",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/26348?group=352"
+                     },
+                     {
+                         "sourceSku":  "788737",
+                         "shopifySku":  "788737",
+                         "handle":  "tega-baby-kr-004-105-wanna-86-cm-kroliczki-z-odplywem-j-zielony",
+                         "productId":  "gid://shopify/Product/10644510605645",
+                         "legacyResourceId":  "10644510605645",
+                         "title":  "Tega Baby KR-004-105 Wanna 86 cm KRÓLICZKI z odpływem j.zielony",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/55222?group=352"
+                     },
+                     {
+                         "sourceSku":  "762788",
+                         "shopifySku":  "762788",
+                         "handle":  "tega-baby-kr-005-103-wanna-dziecieca-102-cm-lux-kroliczki-z-odplywem-bialy",
+                         "productId":  "gid://shopify/Product/10644510671181",
+                         "legacyResourceId":  "10644510671181",
+                         "title":  "Tega Baby KR-005-103 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem biały",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/26349?group=352"
+                     },
+                     {
+                         "sourceSku":  "791380",
+                         "shopifySku":  "791380",
+                         "handle":  "tega-baby-kr-005-104-wanna-dziecieca-102-cm-lux-kroliczki-z-odplywem-j-rozowy",
+                         "productId":  "gid://shopify/Product/10644510736717",
+                         "legacyResourceId":  "10644510736717",
+                         "title":  "Tega Baby KR-005-104 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem j.różowy",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/57997?group=352"
+                     },
+                     {
+                         "sourceSku":  "791381",
+                         "shopifySku":  "791381",
+                         "handle":  "tega-baby-kr-005-105-wanna-dziecieca-102-cm-lux-kroliczki-z-odplywem-j-zielony",
+                         "productId":  "gid://shopify/Product/10644510769485",
+                         "legacyResourceId":  "10644510769485",
+                         "title":  "Tega Baby KR-005-105 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem j.zielony",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/57998?group=352"
+                     },
+                     {
+                         "sourceSku":  "786682",
+                         "shopifySku":  "786682",
+                         "handle":  "tega-baby-me-004-odplyw-123-wanna-86-cm-meteo-z-odplywem-rozowy",
+                         "productId":  "gid://shopify/Product/10644510835021",
+                         "legacyResourceId":  "10644510835021",
+                         "title":  "Tega Baby ME-004 ODPŁYW-123 Wanna 86 cm METEO z odpływem różowy",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/53081?group=352"
+                     },
+                     {
+                         "sourceSku":  "786680",
+                         "shopifySku":  "786680",
+                         "handle":  "tega-baby-me-004-odplyw-164-wanna-86-cm-meteo-z-odplywem-granatowy",
+                         "productId":  "gid://shopify/Product/10644510900557",
+                         "legacyResourceId":  "10644510900557",
+                         "title":  "Tega Baby ME-004 ODPŁYW-164 Wanna 86 cm METEO z odpływem granatowy",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/53078?group=352"
+                     },
+                     {
+                         "sourceSku":  "786683",
+                         "shopifySku":  "786683",
+                         "handle":  "tega-baby-me-004-odplyw-165-wanna-86-cm-meteo-z-odplywem-turkusowy",
+                         "productId":  "gid://shopify/Product/10644510933325",
+                         "legacyResourceId":  "10644510933325",
+                         "title":  "Tega Baby ME-004 ODPŁYW-165 Wanna 86 cm METEO z odpływem turkusowy",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/53082?group=352"
+                     },
+                     {
+                         "sourceSku":  "786679",
+                         "shopifySku":  "786679",
+                         "handle":  "tega-baby-me-005-odplyw-123-wanna-102-cm-lux-meteo-z-odplywem-rozowy",
+                         "productId":  "gid://shopify/Product/10644510998861",
+                         "legacyResourceId":  "10644510998861",
+                         "title":  "Tega Baby ME-005 ODPŁYW-123 Wanna 102 cm LUX METEO z odpływem różowy",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/53077?group=352"
+                     },
+                     {
+                         "sourceSku":  "786676",
+                         "shopifySku":  "786676",
+                         "handle":  "tega-baby-me-005-odplyw-164-wanna-102-cm-lux-meteo-z-odplywem-granatowy",
+                         "productId":  "gid://shopify/Product/10644511064397",
+                         "legacyResourceId":  "10644511064397",
+                         "title":  "Tega Baby ME-005 ODPŁYW-164 Wanna 102 cm LUX METEO z odpływem granatowy",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/53074?group=352"
+                     },
+                     {
+                         "sourceSku":  "786678",
+                         "shopifySku":  "786678",
+                         "handle":  "tega-baby-me-005-odplyw-165-wanna-102-cm-lux-meteo-z-odplywem-turkusowy",
+                         "productId":  "gid://shopify/Product/10644511129933",
+                         "legacyResourceId":  "10644511129933",
+                         "title":  "Tega Baby ME-005 ODPŁYW-165 Wanna 102 cm LUX METEO z odpływem turkusowy",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/53076?group=352"
+                     },
+                     {
+                         "sourceSku":  "5906227",
+                         "shopifySku":  "5906227",
+                         "handle":  "tega-baby-mn-004-124-wanienka-mala-86-cm-monsters-z-odplywem-zolty",
+                         "productId":  "gid://shopify/Product/10644511195469",
+                         "legacyResourceId":  "10644511195469",
+                         "title":  "Tega Baby MN-004-124 Wanienka mała 86 cm Monsters z odpływem żółty",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/62215?group=352"
+                     },
+                     {
+                         "sourceSku":  "5906224",
+                         "shopifySku":  "5906224",
+                         "handle":  "tega-baby-mn-005-124-wanienka-duza-102cm-lux-monsters-z-odplywem-zolty",
+                         "productId":  "gid://shopify/Product/10644511228237",
+                         "legacyResourceId":  "10644511228237",
+                         "title":  "Tega Baby MN-005-124 Wanienka duża 102cm LUX Monsters z odpływem żółty",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/62212?group=352"
+                     },
+                     {
+                         "sourceSku":  "10953",
+                         "shopifySku":  "10953",
+                         "handle":  "tega-baby-ms-004-119-wanna-dziecieca-86-cm-mis-bezowy",
+                         "productId":  "gid://shopify/Product/10644511293773",
+                         "legacyResourceId":  "10644511293773",
+                         "title":  "Tega Baby MS-004-119 Wanna dziecięca 86 cm MIŚ beżowy",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/20965?group=352"
+                     },
+                     {
+                         "sourceSku":  "771546",
+                         "shopifySku":  "771546",
+                         "handle":  "tega-baby-ms-005-lux-118-wanna-dziecieca-102-cm-mis-biala-perla",
+                         "productId":  "gid://shopify/Product/10644511359309",
+                         "legacyResourceId":  "10644511359309",
+                         "title":  "Tega Baby MS-005-LUX-118 Wanna dziecięca 102 cm MIŚ biała perła",
+                         "status":  "DRAFT",
+                         "sourceUrl":  "https://b2b.marini.pl/itemdetails/37436?group=352"
+                     }
+                 ],
+    "sourceCategoryUrl":  "https://b2b.marini.pl/items/352?parent=0"
+}
