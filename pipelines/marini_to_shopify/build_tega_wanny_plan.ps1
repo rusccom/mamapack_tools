@@ -3,10 +3,12 @@ Set-StrictMode -Version Latest
 
 . (Join-Path $PSScriptRoot "tega_description_style.ps1")
 
+$ProjectRoot = Split-Path (Split-Path $PSScriptRoot -Parent) -Parent
+$SourceRoot = Join-Path $ProjectRoot "wholesale_sources\marini"
 $XmlUrl = "https://marini.pl/b2b/marini-b2b.xml"
-$XmlPath = Join-Path $PSScriptRoot "marini-b2b.xml"
-$PageExtractPath = Join-Path $PSScriptRoot "tega_wanny_page_extract.json"
-$StockRecheckPath = Join-Path $PSScriptRoot "tega_wanny_stock_recheck.json"
+$XmlPath = Join-Path $SourceRoot "marini-b2b.xml"
+$PageExtractPath = Join-Path $SourceRoot "tega_wanny_page_extract.json"
+$StockRecheckPath = Join-Path $SourceRoot "tega_wanny_stock_recheck.json"
 $OutputPath = Join-Path $PSScriptRoot "tega_wanny_shopify_plan.json"
 
 function Ensure-MariniXml {

@@ -3,7 +3,8 @@
 $ErrorActionPreference = "Stop"
 Set-StrictMode -Version Latest
 
-. (Join-Path $PSScriptRoot "shopify_graphql.ps1")
+$ProjectRoot = Split-Path (Split-Path $PSScriptRoot -Parent) -Parent
+. (Join-Path $ProjectRoot "shopify_store\powershell\shopify_graphql.ps1")
 
 $PlanPath = Join-Path $PSScriptRoot "tega_wanny_shopify_plan.json"
 $ReportPath = Join-Path $PSScriptRoot "tega_wanny_shopify_sync_report.json"

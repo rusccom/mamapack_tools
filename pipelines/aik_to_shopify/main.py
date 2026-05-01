@@ -5,14 +5,13 @@ import sys
 from pathlib import Path
 
 
-PROJECT_ROOT = Path(__file__).resolve().parents[3]
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from features.baselinker_import.client import BaselinkerClient
 from features.baselinker_import.product_sync import get_inventory_context, sync_products as sync_baselinker_products
 from features.baselinker_import.settings import load_baselinker_credentials
-from features.b2b_catalog.catalog_client import collect_catalog_variants
 from features.product_data.build_products import build_shopify_products
 from features.shopify_verification.verification import verify_product
 from shopify_store.core.credentials import load_shopify_access
@@ -20,6 +19,7 @@ from shopify_store.core.graphql import ShopifyGraphQL
 from shopify_store.products.identity import assign_unique_identities
 from shopify_store.products.sync import sync_products
 from shared.text_tools import slugify
+from wholesale_sources.aik.catalog.catalog_client import collect_catalog_variants
 
 
 def parse_args():

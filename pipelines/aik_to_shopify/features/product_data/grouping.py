@@ -2,7 +2,7 @@ import re
 from collections import defaultdict
 
 from shared.text_tools import short_vendor, slugify, smart_title, trim_sku
-from .models import CatalogVariant, ShopifyProductDraft, ShopifyVariantDraft
+from .models import ShopifyVariantDraft
 
 
 GROUP_OVERRIDES = {

@@ -30,11 +30,11 @@ tools to resolve library id and get library docs without me having to explicitly
 - Фото можно передавать в Shopify через `originalSource` по прямой ссылке поставщика. После успешной загрузки обязательно проверить, что media в Shopify имеет статус `READY`; после этого Shopify хранит свою копию на CDN.
 - Если поставщик не отдает фото в XML/API/detail-page, товар пропускать и фиксировать SKU в отчете.
 - Для Marini наличие товара проверять по строке страницы `In Stock: N`; загружать только если `N > 0`.
-- Для Marini рабочий код и отчеты держать в папке `wholesale_sources/marini`.
-- Для AIK/AICO рабочий код держать в папке `wholesale_sources/aik`.
-- Общий Shopify код держать в папке `shopify_store`.
+- `wholesale_sources/<source>` отвечает только за входные данные поставщика: авторизация, каталог, XML/API/detail-page, парсинг и локальные supplier-артефакты.
+- Пайплайны, которые соединяют поставщика с Shopify/BaseLinker, держать в `pipelines/<source>_to_shopify` или отдельной feature-папке внутри `pipelines`.
+- Общий Shopify код держать в папке `shopify_store`: API-клиент, товары, media, collections, SEO и повторно используемые операции магазина.
 - Shopify SEO, SEO-скрипты и SEO-отчеты держать в папке `shopify_store/seo`.
-- Shopify product import, product-content скрипты и локальные файлы для загрузки держать в папке `shopify_store/product_import`.
+- Shopify product-content скрипты и локальные файлы для ручной загрузки держать в папке `shopify_store/product_import`.
 - После массовой загрузки всегда сохранять JSON-отчет с Shopify product IDs, source SKU, final SKU, handle, статусом и пропущенными товарами.
 - После загрузки обязательно читать товары обратно из Shopify и проверять: статус `DRAFT`, наличие media, готовность media, коллекции, SKU.
 - Для категорий использовать Shopify collections. Если нужна новая категория внутри существующей, создать/найти отдельную коллекцию и добавить товары и в родительскую, и в новую коллекцию.

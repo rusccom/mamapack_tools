@@ -5,8 +5,8 @@ from urllib.parse import urljoin
 import requests
 import urllib3
 
-from features.product_data.models import CatalogVariant
-from shared.html_tools import match_one, strip_tags, unique_urls
+from .html_tools import match_one, strip_tags, unique_urls
+from .models import CatalogVariant
 from .settings import BASE_URL, DETAIL_AUTH, FORM_LOGIN, FORM_PASSWORD, IMAGE_AUTH_BASE, SEARCH_PATH
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
