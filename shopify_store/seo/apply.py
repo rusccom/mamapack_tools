@@ -98,40 +98,58 @@ def apply_single(client, product: ProductRecord, item: ProductRecommendation) ->
     old_path = f"/products/{product.handle}"
     new_path = f"/products/{item.recommended_handle}"
     try:
-        update_payload = update_product(
-            client,
-            item.product_id,
-            item.recommended_handle if item.change_handle else product.handle,
-            item.recommended_seo_title,
-            item.recommended_seo_description,
-        )
-        raise_for_user_errors(update_payload["userErrors"])
+        update_recommendation(client, product, item)
         redirect_created = create_redirect_if_needed(client, item, old_path, new_path)
-        return ApplyResult(
-            legacy_id=item.legacy_id,
-            title=item.title,
-            old_handle=product.handle,
-            new_handle=item.recommended_handle,
-            seo_title_updated=item.change_seo_title,
-            seo_description_updated=item.change_seo_description,
-            handle_updated=item.change_handle,
-            redirect_created=redirect_created,
-            success=True,
-            error="",
-        )
+        return success_result(product, item, redirect_created)
     except Exception as exc:
-        return ApplyResult(
-            legacy_id=item.legacy_id,
-            title=item.title,
-            old_handle=product.handle,
-            new_handle=item.recommended_handle,
-            seo_title_updated=False,
-            seo_description_updated=False,
-            handle_updated=False,
-            redirect_created=False,
-            success=False,
-            error=str(exc),
-        )
+        return error_result(product, item, exc)
+
+
+def update_recommendation(client, product: ProductRecord, item: ProductRecommendation) -> None:
+    handle = item.recommended_handle if item.change_handle else product.handle
+    payload = update_product(
+        client,
+        item.product_id,
+        handle,
+        item.recommended_seo_title,
+        item.recommended_seo_description,
+    )
+    raise_for_user_errors(payload["userErrors"])
+
+
+def success_result(product: ProductRecord, item: ProductRecommendation, redirect_created: bool) -> ApplyResult:
+    fields = result_fields(product, item)
+    fields.update(
+        seo_title_updated=item.change_seo_title,
+        seo_description_updated=item.change_seo_description,
+        handle_updated=item.change_handle,
+        redirect_created=redirect_created,
+        success=True,
+        error="",
+    )
+    return ApplyResult(**fields)
+
+
+def error_result(product: ProductRecord, item: ProductRecommendation, exc: Exception) -> ApplyResult:
+    fields = result_fields(product, item)
+    fields.update(
+        seo_title_updated=False,
+        seo_description_updated=False,
+        handle_updated=False,
+        redirect_created=False,
+        success=False,
+        error=str(exc),
+    )
+    return ApplyResult(**fields)
+
+
+def result_fields(product: ProductRecord, item: ProductRecommendation) -> dict:
+    return dict(
+        legacy_id=item.legacy_id,
+        title=item.title,
+        old_handle=product.handle,
+        new_handle=item.recommended_handle,
+    )
 
 
 def create_redirect_if_needed(client, item: ProductRecommendation, old_path: str, new_path: str) -> bool:

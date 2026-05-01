@@ -117,17 +117,25 @@ def main():
     variants = collect_catalog_variants(search_text, args.limit)
     products = build_shopify_products(variants)
     if args.dry_run:
-        target = write_preview(search_text, products)
-        print(f"Search: {search_text}")
-        print(f"Variants: {len(variants)}")
-        print(f"Products: {len(products)}")
-        print(f"Preview: {target}")
+        run_dry(search_text, variants, products)
         return
     try:
-        _, guarded, verified = sync_to_shopify(products)
-        baselinker_ids = sync_to_baselinker(verified)
+        run_sync(search_text, variants, products)
     except RuntimeError as error:
         raise SystemExit(str(error))
+
+
+def run_dry(search_text, variants, products):
+    target = write_preview(search_text, products)
+    print(f"Search: {search_text}")
+    print(f"Variants: {len(variants)}")
+    print(f"Products: {len(products)}")
+    print(f"Preview: {target}")
+
+
+def run_sync(search_text, variants, products):
+    _, guarded, verified = sync_to_shopify(products)
+    baselinker_ids = sync_to_baselinker(verified)
     print(f"Search: {search_text}")
     print(f"Variants: {len(variants)}")
     print(f"Products: {len(guarded)}")

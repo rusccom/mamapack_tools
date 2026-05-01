@@ -32,9 +32,9 @@ tools to resolve library id and get library docs without me having to explicitly
 - Для Marini наличие товара проверять по строке страницы `In Stock: N`; загружать только если `N > 0`.
 - `wholesale_sources/<source>` отвечает только за входные данные поставщика: авторизация, каталог, XML/API/detail-page, парсинг и локальные supplier-артефакты.
 - Пайплайны, которые соединяют поставщика с Shopify/BaseLinker, держать в `pipelines/<source>_to_shopify` или отдельной feature-папке внутри `pipelines`.
+- Старые CSV/ручные импорты не держать рядом с рабочим пайплайном: один источник должен иметь один актуальный путь загрузки.
 - Общий Shopify код держать в папке `shopify_store`: API-клиент, товары, media, collections, SEO и повторно используемые операции магазина.
 - Shopify SEO, SEO-скрипты и SEO-отчеты держать в папке `shopify_store/seo`.
-- Shopify product-content скрипты и локальные файлы для ручной загрузки держать в папке `shopify_store/product_import`.
 - После массовой загрузки всегда сохранять JSON-отчет с Shopify product IDs, source SKU, final SKU, handle, статусом и пропущенными товарами.
 - После загрузки обязательно читать товары обратно из Shopify и проверять: статус `DRAFT`, наличие media, готовность media, коллекции, SKU.
 - Для категорий использовать Shopify collections. Если нужна новая категория внутри существующей, создать/найти отдельную коллекцию и добавить товары и в родительскую, и в новую коллекцию.

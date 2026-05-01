@@ -82,6 +82,10 @@ def verify_product(client, product_id, draft):
     data = client.execute(VERIFY_PRODUCT, {"id": product_id})
     node = data["product"]
     validate_product(node, draft)
+    return synced_product(node, draft, synced_variants(node, draft))
+
+
+def synced_variants(node, draft):
     variants = variant_map(node)
     synced = []
     for draft_variant in draft.variants:
@@ -89,6 +93,10 @@ def verify_product(client, product_id, draft):
         if not node_variant:
             raise RuntimeError(f"Shopify variant missing after create: {draft_variant.sku}")
         synced.append(synced_variant(draft_variant, node_variant))
+    return tuple(synced)
+
+
+def synced_product(node, draft, variants):
     return ShopifySyncedProduct(
         handle=node["handle"],
         title=draft.title,
@@ -102,5 +110,5 @@ def verify_product(client, product_id, draft):
         legacy_resource_id=int(node["legacyResourceId"]),
         status=node["status"],
         media_urls=media_urls(node["media"]["nodes"]),
-        variants=tuple(synced),
+        variants=variants,
     )

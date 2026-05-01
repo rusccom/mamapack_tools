@@ -1,6 +1,4 @@
-﻿param([switch]$AllowMissingImages)
-
-$ErrorActionPreference = "Stop"
+﻿$ErrorActionPreference = "Stop"
 Set-StrictMode -Version Latest
 
 $ProjectRoot = Split-Path (Split-Path $PSScriptRoot -Parent) -Parent
@@ -32,7 +30,6 @@ function Get-ProductsWithoutImages {
 
 function New-FilteredPlan {
   param($Plan)
-  if ($AllowMissingImages) { return $Plan }
   $products = @($Plan.products | Where-Object { $_.imageUrls -and $_.imageUrls.Count -gt 0 })
   [pscustomobject][ordered]@{
     sourceCategoryUrl = $Plan.sourceCategoryUrl
