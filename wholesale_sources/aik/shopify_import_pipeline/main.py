@@ -4,6 +4,11 @@ import json
 import sys
 from pathlib import Path
 
+
+PROJECT_ROOT = Path(__file__).resolve().parents[3]
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+
 from features.baselinker_import.client import BaselinkerClient
 from features.baselinker_import.product_sync import get_inventory_context, sync_products as sync_baselinker_products
 from features.baselinker_import.settings import load_baselinker_credentials

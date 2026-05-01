@@ -122,30 +122,7 @@ function Remove-EmptyProperties {
 
 function Sync-ShopifyProduct {
   param($Product, [string]$Sku, [string]$Handle)
-  $mutation = @'
-mutation ProductSetSync($input: ProductSetInput!, $synchronous: Boolean!) {
-  productSet(input: $input, synchronous: $synchronous) {
-    product {
-      id
-      legacyResourceId
-      handle
-      title
-      status
-      variants(first: 10) {
-        nodes { id sku barcode price }
-      }
-    }
-    userErrors { field message }
-  }
-}
-'@
-  $variables = @{
-    input = New-ProductSetInput $Product $Sku $Handle
-    synchronous = $true
-  }
-  $result = Invoke-ShopifyGraphQL $mutation $variables
-  Assert-ShopifyUserErrors $result.productSet.userErrors
-  return $result.productSet.product
+  return Invoke-ShopifyProductSet (New-ProductSetInput $Product $Sku $Handle)
 }
 
 function Sync-PlanProducts {

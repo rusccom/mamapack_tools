@@ -1,7 +1,8 @@
 import time
 from pathlib import Path
 
-from shopify_store.seo.api import ShopifyGraphQL, load_shopify_access
+from shopify_store.core.credentials import load_shopify_access
+from shopify_store.core.graphql import ShopifyGraphQL
 
 from .content import build_description_html
 from .media import download_images, stage_media
@@ -77,8 +78,7 @@ def run(root: Path) -> dict:
 
 
 def build_client(root: Path) -> ShopifyGraphQL:
-    domain, token, version = load_shopify_access(root)
-    return ShopifyGraphQL(domain, token, version)
+    return ShopifyGraphQL(load_shopify_access(root))
 
 
 def fetch_product(client: ShopifyGraphQL) -> dict:

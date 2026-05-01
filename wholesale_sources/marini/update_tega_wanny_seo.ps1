@@ -210,29 +210,11 @@ function Get-CharCategory {
 
 function Update-ShopifySeo {
   param($Item)
-  $mutation = @'
-mutation UpdateProductSeo($product: ProductUpdateInput!) {
-  productUpdate(product: $product) {
-    product {
-      id
-      handle
-      seo { title description }
-    }
-    userErrors { field message }
-  }
-}
-'@
-  $input = @{
-    id = [string]$Item.productId
-    handle = [string]$Item.handle
-    seo = @{
-      title = [string]$Item.seoTitle
-      description = [string]$Item.seoDescription
-    }
-  }
-  $result = Invoke-ShopifyGraphQL $mutation @{ product = $input }
-  Assert-ShopifyUserErrors $result.productUpdate.userErrors
-  return $result.productUpdate.product
+  return Update-ShopifyProductSeo `
+    ([string]$Item.productId) `
+    ([string]$Item.handle) `
+    ([string]$Item.seoTitle) `
+    ([string]$Item.seoDescription)
 }
 
 function New-UpdatedItem {

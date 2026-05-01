@@ -1,17 +1,6 @@
 from pathlib import Path
 
-
-def project_root_from(file_path: str) -> Path:
-    current = Path(file_path).resolve()
-    for candidate in [current.parent, *current.parents]:
-        if (candidate / "shopify_store").is_dir():
-            return candidate
-    return current.parent
-
-
-def ensure_dir(path: Path) -> Path:
-    path.mkdir(parents=True, exist_ok=True)
-    return path
+from shopify_store.core.paths import ensure_dir, project_root_from
 
 
 def mamapack_report_dir(root: Path, stamp: str) -> Path:
