@@ -1,0 +1,1448 @@
+{
+  "createdAt": "2026-05-09T21:50:32.783965+03:00",
+  "sourceReport": "C:\\Users\\User\\Desktop\\projects\\mamaPack\\pipelines\\marini_to_shopify\\forbaby_wozki_shopify_sync_report.json",
+  "inventoryId": 43540,
+  "shopifyStorageId": "shop_5022274",
+  "priceGroupId": 22945,
+  "category": {
+    "category_id": 7988297,
+    "name": "Spacerówki",
+    "parent_id": 2920334,
+    "created": false
+  },
+  "productCount": 5,
+  "variantSkuCount": 15,
+  "createdOrUpdatedParentIds": [
+    "590513353",
+    "590513376",
+    "590513381",
+    "590513382",
+    "590513387"
+  ],
+  "parentPriceFixes": [
+    {
+      "parentProductId": "590513353",
+      "price": 504.0,
+      "response": {
+        "status": "SUCCESS",
+        "product_id": 590513353,
+        "warnings": {}
+      }
+    },
+    {
+      "parentProductId": "590513376",
+      "price": 862.56,
+      "response": {
+        "status": "SUCCESS",
+        "product_id": 590513376,
+        "warnings": {}
+      }
+    },
+    {
+      "parentProductId": "590513382",
+      "price": 732.96,
+      "response": {
+        "status": "SUCCESS",
+        "product_id": 590513382,
+        "warnings": {}
+      }
+    },
+    {
+      "parentProductId": "590513387",
+      "price": 580.32,
+      "response": {
+        "status": "SUCCESS",
+        "product_id": 590513387,
+        "warnings": {}
+      }
+    }
+  ],
+  "shopifyProducts": [
+    {
+      "title": "4 Baby Rapid XXIV wózek spacerowy",
+      "shopifyProductId": "gid://shopify/Product/10655512101197",
+      "shopifyLegacyResourceId": 10655512101197,
+      "optionName": "Kolor",
+      "variants": [
+        {
+          "sku": "5909632",
+          "barcode": "5901691959149",
+          "optionValue": "czarny",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868749947213",
+          "shopifyVariantLegacyResourceId": 53868749947213
+        },
+        {
+          "sku": "5908285",
+          "barcode": "5901691959156",
+          "optionValue": "grafitowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868749979981",
+          "shopifyVariantLegacyResourceId": 53868749979981
+        },
+        {
+          "sku": "5908489",
+          "barcode": "5901691959170",
+          "optionValue": "khaki",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868750012749",
+          "shopifyVariantLegacyResourceId": 53868750012749
+        },
+        {
+          "sku": "5908490",
+          "barcode": "5901691959163",
+          "optionValue": "mokka",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868750045517",
+          "shopifyVariantLegacyResourceId": 53868750045517
+        }
+      ]
+    },
+    {
+      "title": "4 Baby Stinger PRO wózek spacerowy",
+      "shopifyProductId": "gid://shopify/Product/10655512133965",
+      "shopifyLegacyResourceId": 10655512133965,
+      "optionName": "Kolor",
+      "variants": [
+        {
+          "sku": "5902703",
+          "barcode": "5901691958364",
+          "optionValue": "czarny",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868750078285",
+          "shopifyVariantLegacyResourceId": 53868750078285
+        },
+        {
+          "sku": "5902707",
+          "barcode": "5901691958401",
+          "optionValue": "melange jasnoszary",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868750111053",
+          "shopifyVariantLegacyResourceId": 53868750111053
+        },
+        {
+          "sku": "5907734",
+          "barcode": "5901691958968",
+          "optionValue": "oliwkowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868750143821",
+          "shopifyVariantLegacyResourceId": 53868750143821
+        }
+      ]
+    },
+    {
+      "title": "4 Baby Stinger XXIII wózek spacerowy",
+      "shopifyProductId": "gid://shopify/Product/10655512166733",
+      "shopifyLegacyResourceId": 10655512166733,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "5902709",
+          "barcode": "5901691958258",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868750176589",
+          "shopifyVariantLegacyResourceId": 53868750176589
+        }
+      ]
+    },
+    {
+      "title": "4 Baby Stinger XXIV wózek spacerowy",
+      "shopifyProductId": "gid://shopify/Product/10655512297805",
+      "shopifyLegacyResourceId": 10655512297805,
+      "optionName": "Kolor",
+      "variants": [
+        {
+          "sku": "5902710",
+          "barcode": "5901691958265",
+          "optionValue": "zielony",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868750897485",
+          "shopifyVariantLegacyResourceId": 53868750897485
+        },
+        {
+          "sku": "5908153",
+          "barcode": "5901691958975",
+          "optionValue": "khaki",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868750930253",
+          "shopifyVariantLegacyResourceId": 53868750930253
+        },
+        {
+          "sku": "5902712",
+          "barcode": "5901691958289",
+          "optionValue": "melange jasnoszary",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868750963021",
+          "shopifyVariantLegacyResourceId": 53868750963021
+        },
+        {
+          "sku": "5908155",
+          "barcode": "5901691958999",
+          "optionValue": "oliwkowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868750995789",
+          "shopifyVariantLegacyResourceId": 53868750995789
+        }
+      ]
+    },
+    {
+      "title": "4 Baby Twizzy XXIII wózek spacerowy",
+      "shopifyProductId": "gid://shopify/Product/10655512330573",
+      "shopifyLegacyResourceId": 10655512330573,
+      "optionName": "Kolor",
+      "variants": [
+        {
+          "sku": "5908770",
+          "barcode": "5901691958807",
+          "optionValue": "grafitowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868751028557",
+          "shopifyVariantLegacyResourceId": 53868751028557
+        },
+        {
+          "sku": "5908766",
+          "barcode": "5901691958814",
+          "optionValue": "szary",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868751061325",
+          "shopifyVariantLegacyResourceId": 53868751061325
+        },
+        {
+          "sku": "5908768",
+          "barcode": "5901691958838",
+          "optionValue": "oliwkowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868751094093",
+          "shopifyVariantLegacyResourceId": 53868751094093
+        }
+      ]
+    }
+  ],
+  "baselinkerDetails": {
+    "590513353": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Rapid XXIV wózek spacerowy",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Rapid XXIV wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka RAPID XXIV do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Regulowana rączka, oparcie i podnóżek.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Amortyzacja przód i tył.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Uchwyt na kubek i osłona na nogi.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Stabilna konstrukcja pomaga w codziennym prowadzeniu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">RAPID XXIV</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">czarny, grafitowy, khaki, mokka</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 504
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512101197",
+          "variant_id": "0"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "variants": {
+        "590513354": {
+          "name": "4 Baby Rapid XXIV wózek spacerowy - Kolor: czarny",
+          "ean": "5901691959149",
+          "asin": "",
+          "sku": "5909632",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "504.00"
+          }
+        },
+        "590513355": {
+          "name": "4 Baby Rapid XXIV wózek spacerowy - Kolor: grafitowy",
+          "ean": "5901691959156",
+          "asin": "",
+          "sku": "5908285",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "504.00"
+          }
+        },
+        "590513357": {
+          "name": "4 Baby Rapid XXIV wózek spacerowy - Kolor: khaki",
+          "ean": "5901691959170",
+          "asin": "",
+          "sku": "5908489",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "504.00"
+          }
+        },
+        "590513368": {
+          "name": "4 Baby Rapid XXIV wózek spacerowy - Kolor: mokka",
+          "ean": "5901691959163",
+          "asin": "",
+          "sku": "5908490",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "504.00"
+          }
+        }
+      },
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908285-1.jpg?v=1778352087",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5909632-1.jpg?v=1778352087",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908489-1.jpg?v=1778352087",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908490-1.jpg?v=1778352088"
+      }
+    },
+    "590513376": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Stinger PRO wózek spacerowy",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Stinger PRO wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka STINGER PRO do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">3 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Aluminiowa rama i duże bezobsługowe koła żelowe.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Regulowane oparcie i podnóżek.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Ocieplana osłona na nogi.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Stabilna konstrukcja pomaga w codziennym prowadzeniu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">STINGER PRO</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">czarny, melange jasnoszary, oliwkowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 862.56
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512133965",
+          "variant_id": "0"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "variants": {
+        "590513378": {
+          "name": "4 Baby Stinger PRO wózek spacerowy - Kolor: czarny",
+          "ean": "5901691958364",
+          "asin": "",
+          "sku": "5902703",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "862.56"
+          }
+        },
+        "590513379": {
+          "name": "4 Baby Stinger PRO wózek spacerowy - Kolor: melange jasnoszary",
+          "ean": "5901691958401",
+          "asin": "",
+          "sku": "5902707",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "862.56"
+          }
+        },
+        "590513380": {
+          "name": "4 Baby Stinger PRO wózek spacerowy - Kolor: oliwkowy",
+          "ean": "5901691958968",
+          "asin": "",
+          "sku": "5907734",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "862.56"
+          }
+        }
+      },
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902703-1.jpg?v=1778352097",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902707-1.jpg?v=1778352097",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5907734-1.jpg?v=1778352098"
+      }
+    },
+    "590513381": {
+      "is_bundle": false,
+      "ean": "5901691958258",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "5902709",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Stinger XXIII wózek spacerowy",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Stinger XXIII wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka STINGER XXIII do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">grafitowy</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Aluminiowa rama i amortyzowane koła EVA.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Szybkie składanie jedną ręką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Przedłużana budka z wentylacją.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Stabilna konstrukcja pomaga w codziennym prowadzeniu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">STINGER XXIII</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">grafitowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 732.96
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512166733",
+          "variant_id": "53868750176589"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902709-1.jpg?v=1778352105"
+      }
+    },
+    "590513382": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Stinger XXIV wózek spacerowy",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Stinger XXIV wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka STINGER XXIV do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Aluminiowa rama i amortyzowane koła EVA.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Szybkie składanie jedną ręką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Przedłużana budka z wentylacją.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Stabilna konstrukcja pomaga w codziennym prowadzeniu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">STINGER XXIV</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">zielony, khaki, melange jasnoszary, oliwkowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 732.96
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512297805",
+          "variant_id": "0"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "variants": {
+        "590513383": {
+          "name": "4 Baby Stinger XXIV wózek spacerowy - Kolor: zielony",
+          "ean": "5901691958265",
+          "asin": "",
+          "sku": "5902710",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "732.96"
+          }
+        },
+        "590513384": {
+          "name": "4 Baby Stinger XXIV wózek spacerowy - Kolor: khaki",
+          "ean": "5901691958975",
+          "asin": "",
+          "sku": "5908153",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "732.96"
+          }
+        },
+        "590513385": {
+          "name": "4 Baby Stinger XXIV wózek spacerowy - Kolor: melange jasnoszary",
+          "ean": "5901691958289",
+          "asin": "",
+          "sku": "5902712",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "718.56"
+          }
+        },
+        "590513386": {
+          "name": "4 Baby Stinger XXIV wózek spacerowy - Kolor: oliwkowy",
+          "ean": "5901691958999",
+          "asin": "",
+          "sku": "5908155",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "732.96"
+          }
+        }
+      },
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902710-1.jpg?v=1778352116",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908153-1.jpg?v=1778352116",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902712-1.jpg?v=1778352116",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908155-1.jpg?v=1778352116"
+      }
+    },
+    "590513387": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Twizzy XXIII wózek spacerowy",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Twizzy XXIII wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka TWIZZY XXIII do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">od 6 miesiąca do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">3 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Wielofunkcyjna budka z ochroną UPF 50+.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Oparcie rozkładane do pozycji leżącej.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Torba transportowa w zestawie.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Kompaktowa forma sprawdza się w podróży.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">TWIZZY XXIII</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">od 6 miesiąca do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">grafitowy, szary, oliwkowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 580.32
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512330573",
+          "variant_id": "0"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "variants": {
+        "590513388": {
+          "name": "4 Baby Twizzy XXIII wózek spacerowy - Kolor: grafitowy",
+          "ean": "5901691958807",
+          "asin": "",
+          "sku": "5908770",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "580.32"
+          }
+        },
+        "590513389": {
+          "name": "4 Baby Twizzy XXIII wózek spacerowy - Kolor: szary",
+          "ean": "5901691958814",
+          "asin": "",
+          "sku": "5908766",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "580.32"
+          }
+        },
+        "590513390": {
+          "name": "4 Baby Twizzy XXIII wózek spacerowy - Kolor: oliwkowy",
+          "ean": "5901691958838",
+          "asin": "",
+          "sku": "5908768",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "580.32"
+          }
+        }
+      },
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908770-1.jpg?v=1778352126",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908766-1.jpg?v=1778352126",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908768-1.jpg?v=1778352127"
+      }
+    },
+    "590513354": {
+      "is_bundle": false,
+      "ean": "5901691959149",
+      "asin": "",
+      "parent_id": 590513353,
+      "sku": "5909632",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Rapid XXIV wózek spacerowy - Kolor: czarny",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Rapid XXIV wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka RAPID XXIV do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Regulowana rączka, oparcie i podnóżek.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Amortyzacja przód i tył.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Uchwyt na kubek i osłona na nogi.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Stabilna konstrukcja pomaga w codziennym prowadzeniu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">RAPID XXIV</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">czarny, grafitowy, khaki, mokka</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 504
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512101197",
+          "variant_id": "53868749947213"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908285-1.jpg?v=1778352087",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5909632-1.jpg?v=1778352087",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908489-1.jpg?v=1778352087",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908490-1.jpg?v=1778352088"
+      }
+    },
+    "590513355": {
+      "is_bundle": false,
+      "ean": "5901691959156",
+      "asin": "",
+      "parent_id": 590513353,
+      "sku": "5908285",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Rapid XXIV wózek spacerowy - Kolor: grafitowy",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Rapid XXIV wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka RAPID XXIV do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Regulowana rączka, oparcie i podnóżek.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Amortyzacja przód i tył.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Uchwyt na kubek i osłona na nogi.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Stabilna konstrukcja pomaga w codziennym prowadzeniu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">RAPID XXIV</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">czarny, grafitowy, khaki, mokka</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 504
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512101197",
+          "variant_id": "53868749979981"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908285-1.jpg?v=1778352087",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5909632-1.jpg?v=1778352087",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908489-1.jpg?v=1778352087",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908490-1.jpg?v=1778352088"
+      }
+    },
+    "590513357": {
+      "is_bundle": false,
+      "ean": "5901691959170",
+      "asin": "",
+      "parent_id": 590513353,
+      "sku": "5908489",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Rapid XXIV wózek spacerowy - Kolor: khaki",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Rapid XXIV wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka RAPID XXIV do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Regulowana rączka, oparcie i podnóżek.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Amortyzacja przód i tył.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Uchwyt na kubek i osłona na nogi.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Stabilna konstrukcja pomaga w codziennym prowadzeniu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">RAPID XXIV</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">czarny, grafitowy, khaki, mokka</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 504
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512101197",
+          "variant_id": "53868750012749"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908285-1.jpg?v=1778352087",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5909632-1.jpg?v=1778352087",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908489-1.jpg?v=1778352087",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908490-1.jpg?v=1778352088"
+      }
+    },
+    "590513368": {
+      "is_bundle": false,
+      "ean": "5901691959163",
+      "asin": "",
+      "parent_id": 590513353,
+      "sku": "5908490",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Rapid XXIV wózek spacerowy - Kolor: mokka",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Rapid XXIV wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka RAPID XXIV do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Regulowana rączka, oparcie i podnóżek.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Amortyzacja przód i tył.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Uchwyt na kubek i osłona na nogi.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Stabilna konstrukcja pomaga w codziennym prowadzeniu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">RAPID XXIV</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">czarny, grafitowy, khaki, mokka</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 504
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512101197",
+          "variant_id": "53868750045517"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908285-1.jpg?v=1778352087",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5909632-1.jpg?v=1778352087",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908489-1.jpg?v=1778352087",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908490-1.jpg?v=1778352088"
+      }
+    },
+    "590513378": {
+      "is_bundle": false,
+      "ean": "5901691958364",
+      "asin": "",
+      "parent_id": 590513376,
+      "sku": "5902703",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Stinger PRO wózek spacerowy - Kolor: czarny",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Stinger PRO wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka STINGER PRO do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">3 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Aluminiowa rama i duże bezobsługowe koła żelowe.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Regulowane oparcie i podnóżek.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Ocieplana osłona na nogi.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Stabilna konstrukcja pomaga w codziennym prowadzeniu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">STINGER PRO</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">czarny, melange jasnoszary, oliwkowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 862.56
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512133965",
+          "variant_id": "53868750078285"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902703-1.jpg?v=1778352097",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902707-1.jpg?v=1778352097",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5907734-1.jpg?v=1778352098"
+      }
+    },
+    "590513379": {
+      "is_bundle": false,
+      "ean": "5901691958401",
+      "asin": "",
+      "parent_id": 590513376,
+      "sku": "5902707",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Stinger PRO wózek spacerowy - Kolor: melange jasnoszary",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Stinger PRO wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka STINGER PRO do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">3 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Aluminiowa rama i duże bezobsługowe koła żelowe.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Regulowane oparcie i podnóżek.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Ocieplana osłona na nogi.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Stabilna konstrukcja pomaga w codziennym prowadzeniu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">STINGER PRO</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">czarny, melange jasnoszary, oliwkowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 862.56
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512133965",
+          "variant_id": "53868750111053"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902703-1.jpg?v=1778352097",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902707-1.jpg?v=1778352097",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5907734-1.jpg?v=1778352098"
+      }
+    },
+    "590513380": {
+      "is_bundle": false,
+      "ean": "5901691958968",
+      "asin": "",
+      "parent_id": 590513376,
+      "sku": "5907734",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Stinger PRO wózek spacerowy - Kolor: oliwkowy",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Stinger PRO wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka STINGER PRO do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">3 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Aluminiowa rama i duże bezobsługowe koła żelowe.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Regulowane oparcie i podnóżek.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Ocieplana osłona na nogi.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Stabilna konstrukcja pomaga w codziennym prowadzeniu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">STINGER PRO</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">czarny, melange jasnoszary, oliwkowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 862.56
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512133965",
+          "variant_id": "53868750143821"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902703-1.jpg?v=1778352097",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902707-1.jpg?v=1778352097",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5907734-1.jpg?v=1778352098"
+      }
+    },
+    "590513383": {
+      "is_bundle": false,
+      "ean": "5901691958265",
+      "asin": "",
+      "parent_id": 590513382,
+      "sku": "5902710",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Stinger XXIV wózek spacerowy - Kolor: zielony",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Stinger XXIV wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka STINGER XXIV do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Aluminiowa rama i amortyzowane koła EVA.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Szybkie składanie jedną ręką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Przedłużana budka z wentylacją.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Stabilna konstrukcja pomaga w codziennym prowadzeniu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">STINGER XXIV</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">zielony, khaki, melange jasnoszary, oliwkowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 732.96
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512297805",
+          "variant_id": "53868750897485"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902710-1.jpg?v=1778352116",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908153-1.jpg?v=1778352116",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902712-1.jpg?v=1778352116",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908155-1.jpg?v=1778352116"
+      }
+    },
+    "590513384": {
+      "is_bundle": false,
+      "ean": "5901691958975",
+      "asin": "",
+      "parent_id": 590513382,
+      "sku": "5908153",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Stinger XXIV wózek spacerowy - Kolor: khaki",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Stinger XXIV wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka STINGER XXIV do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Aluminiowa rama i amortyzowane koła EVA.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Szybkie składanie jedną ręką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Przedłużana budka z wentylacją.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Stabilna konstrukcja pomaga w codziennym prowadzeniu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">STINGER XXIV</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">zielony, khaki, melange jasnoszary, oliwkowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 732.96
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512297805",
+          "variant_id": "53868750930253"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902710-1.jpg?v=1778352116",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908153-1.jpg?v=1778352116",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902712-1.jpg?v=1778352116",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908155-1.jpg?v=1778352116"
+      }
+    },
+    "590513385": {
+      "is_bundle": false,
+      "ean": "5901691958289",
+      "asin": "",
+      "parent_id": 590513382,
+      "sku": "5902712",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Stinger XXIV wózek spacerowy - Kolor: melange jasnoszary",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Stinger XXIV wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka STINGER XXIV do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Aluminiowa rama i amortyzowane koła EVA.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Szybkie składanie jedną ręką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Przedłużana budka z wentylacją.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Stabilna konstrukcja pomaga w codziennym prowadzeniu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">STINGER XXIV</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">zielony, khaki, melange jasnoszary, oliwkowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 718.56
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512297805",
+          "variant_id": "53868750963021"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902710-1.jpg?v=1778352116",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908153-1.jpg?v=1778352116",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902712-1.jpg?v=1778352116",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908155-1.jpg?v=1778352116"
+      }
+    },
+    "590513386": {
+      "is_bundle": false,
+      "ean": "5901691958999",
+      "asin": "",
+      "parent_id": 590513382,
+      "sku": "5908155",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Stinger XXIV wózek spacerowy - Kolor: oliwkowy",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Stinger XXIV wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka STINGER XXIV do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Aluminiowa rama i amortyzowane koła EVA.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Szybkie składanie jedną ręką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Przedłużana budka z wentylacją.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Stabilna konstrukcja pomaga w codziennym prowadzeniu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">STINGER XXIV</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">zielony, khaki, melange jasnoszary, oliwkowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 732.96
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512297805",
+          "variant_id": "53868750995789"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902710-1.jpg?v=1778352116",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908153-1.jpg?v=1778352116",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902712-1.jpg?v=1778352116",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908155-1.jpg?v=1778352116"
+      }
+    },
+    "590513388": {
+      "is_bundle": false,
+      "ean": "5901691958807",
+      "asin": "",
+      "parent_id": 590513387,
+      "sku": "5908770",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Twizzy XXIII wózek spacerowy - Kolor: grafitowy",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Twizzy XXIII wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka TWIZZY XXIII do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">od 6 miesiąca do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">3 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Wielofunkcyjna budka z ochroną UPF 50+.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Oparcie rozkładane do pozycji leżącej.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Torba transportowa w zestawie.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Kompaktowa forma sprawdza się w podróży.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">TWIZZY XXIII</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">od 6 miesiąca do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">grafitowy, szary, oliwkowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 580.32
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512330573",
+          "variant_id": "53868751028557"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908770-1.jpg?v=1778352126",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908766-1.jpg?v=1778352126",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908768-1.jpg?v=1778352127"
+      }
+    },
+    "590513389": {
+      "is_bundle": false,
+      "ean": "5901691958814",
+      "asin": "",
+      "parent_id": 590513387,
+      "sku": "5908766",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Twizzy XXIII wózek spacerowy - Kolor: szary",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Twizzy XXIII wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka TWIZZY XXIII do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">od 6 miesiąca do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">3 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Wielofunkcyjna budka z ochroną UPF 50+.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Oparcie rozkładane do pozycji leżącej.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Torba transportowa w zestawie.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Kompaktowa forma sprawdza się w podróży.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">TWIZZY XXIII</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">od 6 miesiąca do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">grafitowy, szary, oliwkowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 580.32
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512330573",
+          "variant_id": "53868751061325"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908770-1.jpg?v=1778352126",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908766-1.jpg?v=1778352126",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908768-1.jpg?v=1778352127"
+      }
+    },
+    "590513390": {
+      "is_bundle": false,
+      "ean": "5901691958838",
+      "asin": "",
+      "parent_id": 590513387,
+      "sku": "5908768",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988297,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Twizzy XXIII wózek spacerowy - Kolor: oliwkowy",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Twizzy XXIII wózek spacerowy</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczna spacerówka TWIZZY XXIII do codziennych spacerów i wyjazdów.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Spacerówka</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">od 6 miesiąca do 22 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">3 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Lekka i wygodna spacerówka z regulacją siedziska, osłoną na nogi oraz koszem na potrzebne akcesoria.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Wielofunkcyjna budka z ochroną UPF 50+.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Oparcie rozkładane do pozycji leżącej.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Torba transportowa w zestawie.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulowane elementy ułatwiają dopasowanie pozycji podczas spaceru.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Kompaktowa forma sprawdza się w podróży.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">TWIZZY XXIII</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">wózek spacerowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zakres użytkowania</strong><span style=\"color:#6a5260;text-align:right;\">od 6 miesiąca do 22 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">grafitowy, szary, oliwkowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy użytkować zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 580.32
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655512330573",
+          "variant_id": "53868751094093"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908770-1.jpg?v=1778352126",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908766-1.jpg?v=1778352126",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908768-1.jpg?v=1778352127"
+      }
+    }
+  },
+  "verification": {
+    "allOk": true,
+    "checks": [
+      {
+        "sku": "5909632",
+        "baselinkerProductId": "590513354",
+        "parentId": "590513353",
+        "expectedProductId": "10655512101197",
+        "actualProductId": "10655512101197",
+        "expectedVariantId": "53868749947213",
+        "actualVariantId": "53868749947213",
+        "linkOk": true,
+        "price": {
+          "22945": 504
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5908285",
+        "baselinkerProductId": "590513355",
+        "parentId": "590513353",
+        "expectedProductId": "10655512101197",
+        "actualProductId": "10655512101197",
+        "expectedVariantId": "53868749979981",
+        "actualVariantId": "53868749979981",
+        "linkOk": true,
+        "price": {
+          "22945": 504
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5908489",
+        "baselinkerProductId": "590513357",
+        "parentId": "590513353",
+        "expectedProductId": "10655512101197",
+        "actualProductId": "10655512101197",
+        "expectedVariantId": "53868750012749",
+        "actualVariantId": "53868750012749",
+        "linkOk": true,
+        "price": {
+          "22945": 504
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5908490",
+        "baselinkerProductId": "590513368",
+        "parentId": "590513353",
+        "expectedProductId": "10655512101197",
+        "actualProductId": "10655512101197",
+        "expectedVariantId": "53868750045517",
+        "actualVariantId": "53868750045517",
+        "linkOk": true,
+        "price": {
+          "22945": 504
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5902703",
+        "baselinkerProductId": "590513378",
+        "parentId": "590513376",
+        "expectedProductId": "10655512133965",
+        "actualProductId": "10655512133965",
+        "expectedVariantId": "53868750078285",
+        "actualVariantId": "53868750078285",
+        "linkOk": true,
+        "price": {
+          "22945": 862.56
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5902707",
+        "baselinkerProductId": "590513379",
+        "parentId": "590513376",
+        "expectedProductId": "10655512133965",
+        "actualProductId": "10655512133965",
+        "expectedVariantId": "53868750111053",
+        "actualVariantId": "53868750111053",
+        "linkOk": true,
+        "price": {
+          "22945": 862.56
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5907734",
+        "baselinkerProductId": "590513380",
+        "parentId": "590513376",
+        "expectedProductId": "10655512133965",
+        "actualProductId": "10655512133965",
+        "expectedVariantId": "53868750143821",
+        "actualVariantId": "53868750143821",
+        "linkOk": true,
+        "price": {
+          "22945": 862.56
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5902709",
+        "baselinkerProductId": "590513381",
+        "parentId": "0",
+        "expectedProductId": "10655512166733",
+        "actualProductId": "10655512166733",
+        "expectedVariantId": "53868750176589",
+        "actualVariantId": "53868750176589",
+        "linkOk": true,
+        "price": {
+          "22945": 732.96
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5902710",
+        "baselinkerProductId": "590513383",
+        "parentId": "590513382",
+        "expectedProductId": "10655512297805",
+        "actualProductId": "10655512297805",
+        "expectedVariantId": "53868750897485",
+        "actualVariantId": "53868750897485",
+        "linkOk": true,
+        "price": {
+          "22945": 732.96
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5908153",
+        "baselinkerProductId": "590513384",
+        "parentId": "590513382",
+        "expectedProductId": "10655512297805",
+        "actualProductId": "10655512297805",
+        "expectedVariantId": "53868750930253",
+        "actualVariantId": "53868750930253",
+        "linkOk": true,
+        "price": {
+          "22945": 732.96
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5902712",
+        "baselinkerProductId": "590513385",
+        "parentId": "590513382",
+        "expectedProductId": "10655512297805",
+        "actualProductId": "10655512297805",
+        "expectedVariantId": "53868750963021",
+        "actualVariantId": "53868750963021",
+        "linkOk": true,
+        "price": {
+          "22945": 718.56
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5908155",
+        "baselinkerProductId": "590513386",
+        "parentId": "590513382",
+        "expectedProductId": "10655512297805",
+        "actualProductId": "10655512297805",
+        "expectedVariantId": "53868750995789",
+        "actualVariantId": "53868750995789",
+        "linkOk": true,
+        "price": {
+          "22945": 732.96
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5908770",
+        "baselinkerProductId": "590513388",
+        "parentId": "590513387",
+        "expectedProductId": "10655512330573",
+        "actualProductId": "10655512330573",
+        "expectedVariantId": "53868751028557",
+        "actualVariantId": "53868751028557",
+        "linkOk": true,
+        "price": {
+          "22945": 580.32
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5908766",
+        "baselinkerProductId": "590513389",
+        "parentId": "590513387",
+        "expectedProductId": "10655512330573",
+        "actualProductId": "10655512330573",
+        "expectedVariantId": "53868751061325",
+        "actualVariantId": "53868751061325",
+        "linkOk": true,
+        "price": {
+          "22945": 580.32
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5908768",
+        "baselinkerProductId": "590513390",
+        "parentId": "590513387",
+        "expectedProductId": "10655512330573",
+        "actualProductId": "10655512330573",
+        "expectedVariantId": "53868751094093",
+        "actualVariantId": "53868751094093",
+        "linkOk": true,
+        "price": {
+          "22945": 580.32
+        },
+        "priceOk": true
+      }
+    ]
+  }
+}

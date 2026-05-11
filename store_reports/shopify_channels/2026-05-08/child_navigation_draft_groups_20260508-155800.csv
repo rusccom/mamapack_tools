@@ -1,0 +1,9 @@
+title,handle,state,source_collections,added_products,products_total,online_store_published,shop_published,google_published
+Wyprawka dla noworodka,wyprawka-dla-noworodka,created,pieluszki-tkaninowe;pieluszki-jednorazowe;chusteczki-nawilzane-dla-niemowlat;butelki-i-akcesoria-do-karmienia;smoczki;rozki-i-kocyki-dla-niemowlat;reczniki-do-kapieli;wanienki-dla-dzieci;kremy-i-pudry-pod-pieluche;zele-mydla-szampony;platki-i-patyczki-kosmetyczne;kremy-mleczka-olejki-dla-dzieci;szczotki-i-grzebienie-dla-niemowlat;akcesoria-do-paznokci-dla-niemowlat;sol-fizjologiczna-aspiratory-do-nosa;termometry-dla-dzieci,208,208,False,False,False
+Pielęgnacja i higiena dziecka,pielegnacja-i-higiena-dziecka,created,pieluszki-tkaninowe;pieluszki-jednorazowe;chusteczki-nawilzane-dla-niemowlat;platki-i-patyczki-kosmetyczne;kremy-i-pudry-pod-pieluche;zele-mydla-szampony;kremy-mleczka-olejki-dla-dzieci;akcesoria-do-paznokci-dla-niemowlat;szczotki-i-grzebienie-dla-niemowlat;sol-fizjologiczna-aspiratory-do-nosa;termometry-dla-dzieci,97,97,False,False,False
+Kąpiel dziecka,kapiel-dziecka,created,wanienki-dla-dzieci;reczniki-do-kapieli;lezaczki-i-foteliki-do-kapieli,41,41,False,False,False
+Karmienie dziecka,karmienie-dziecka,created,butelki-i-akcesoria-do-karmienia;smoczki;plyny-do-mycia-smoczkow-i-butelek,50,50,False,False,False
+Sen i pokój dziecka,sen-i-pokoj-dziecka,created,rozki-i-kocyki-dla-niemowlat,21,21,False,False,False
+Spacer i podróż,spacer-i-podroz,created,,0,0,False,False,False
+Bezpieczeństwo dziecka,bezpieczenstwo-dziecka,existing,zabezpieczenia-domu;bramki-ochronne;barierki-do-lozka;szelki-do-nauki-chodzenia;bezpieczenstwo-w-podrozy,0,11,False,False,False
+Zabawa i rozwój,zabawa-i-rozwoj,created,zabawa-i-edukacja,1,1,False,False,False

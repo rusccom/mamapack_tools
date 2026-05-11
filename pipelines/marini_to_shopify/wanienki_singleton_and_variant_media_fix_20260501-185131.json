@@ -1,0 +1,498 @@
+{
+  "createdAt": "2026-05-01T18:51:49.000646",
+  "collection": {
+    "id": "gid://shopify/Collection/660457816397",
+    "title": "Wanienki",
+    "handle": "wanienki"
+  },
+  "singleVariantProductCount": 4,
+  "singletonFixedThisRunCount": 3,
+  "singletonResults": [
+    {
+      "before": {
+        "id": "gid://shopify/Product/10644511359309",
+        "title": "Tega Baby Wanna dziecięca Miś 102 cm",
+        "hasOnlyDefaultVariant": false,
+        "options": [
+          {
+            "name": "Kolor",
+            "values": [
+              "biała perła"
+            ]
+          }
+        ],
+        "mediaCount": 1,
+        "variants": [
+          {
+            "id": "gid://shopify/ProductVariant/53812106363213",
+            "sku": "771546",
+            "barcode": "5902963008794",
+            "selectedOptions": [
+              {
+                "name": "Kolor",
+                "value": "biała perła"
+              }
+            ],
+            "mediaCount": 0
+          }
+        ]
+      },
+      "after": {
+        "id": "gid://shopify/Product/10644511359309",
+        "title": "Tega Baby Wanna dziecięca Miś 102 cm",
+        "hasOnlyDefaultVariant": true,
+        "options": [
+          {
+            "name": "Title",
+            "values": [
+              "Default Title"
+            ]
+          }
+        ],
+        "mediaCount": 1,
+        "variants": [
+          {
+            "id": "gid://shopify/ProductVariant/53812106363213",
+            "sku": "771546",
+            "barcode": "5902963008794",
+            "selectedOptions": [
+              {
+                "name": "Title",
+                "value": "Default Title"
+              }
+            ],
+            "mediaCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "before": {
+        "id": "gid://shopify/Product/10644511293773",
+        "title": "Tega Baby Wanna dziecięca Miś 86 cm",
+        "hasOnlyDefaultVariant": false,
+        "options": [
+          {
+            "name": "Kolor",
+            "values": [
+              "beżowy"
+            ]
+          }
+        ],
+        "mediaCount": 4,
+        "variants": [
+          {
+            "id": "gid://shopify/ProductVariant/53812106297677",
+            "sku": "10953",
+            "barcode": "",
+            "selectedOptions": [
+              {
+                "name": "Kolor",
+                "value": "beżowy"
+              }
+            ],
+            "mediaCount": 0
+          }
+        ]
+      },
+      "after": {
+        "id": "gid://shopify/Product/10644511293773",
+        "title": "Tega Baby Wanna dziecięca Miś 86 cm",
+        "hasOnlyDefaultVariant": true,
+        "options": [
+          {
+            "name": "Title",
+            "values": [
+              "Default Title"
+            ]
+          }
+        ],
+        "mediaCount": 4,
+        "variants": [
+          {
+            "id": "gid://shopify/ProductVariant/53812106297677",
+            "sku": "10953",
+            "barcode": "",
+            "selectedOptions": [
+              {
+                "name": "Title",
+                "value": "Default Title"
+              }
+            ],
+            "mediaCount": 0
+          }
+        ]
+      }
+    },
+    {
+      "before": {
+        "id": "gid://shopify/Product/10644511195469",
+        "title": "Tega Baby Wanienka Monsters z odpływem 86 cm",
+        "hasOnlyDefaultVariant": false,
+        "options": [
+          {
+            "name": "Kolor",
+            "values": [
+              "żółty"
+            ]
+          }
+        ],
+        "mediaCount": 1,
+        "variants": [
+          {
+            "id": "gid://shopify/ProductVariant/53812106199373",
+            "sku": "5906227",
+            "barcode": "5902963004581",
+            "selectedOptions": [
+              {
+                "name": "Kolor",
+                "value": "żółty"
+              }
+            ],
+            "mediaCount": 0
+          }
+        ]
+      },
+      "after": {
+        "id": "gid://shopify/Product/10644511195469",
+        "title": "Tega Baby Wanienka Monsters z odpływem 86 cm",
+        "hasOnlyDefaultVariant": true,
+        "options": [
+          {
+            "name": "Title",
+            "values": [
+              "Default Title"
+            ]
+          }
+        ],
+        "mediaCount": 1,
+        "variants": [
+          {
+            "id": "gid://shopify/ProductVariant/53812106199373",
+            "sku": "5906227",
+            "barcode": "5902963004581",
+            "selectedOptions": [
+              {
+                "name": "Title",
+                "value": "Default Title"
+              }
+            ],
+            "mediaCount": 0
+          }
+        ]
+      }
+    }
+  ],
+  "variantMediaFixedProductCount": 16,
+  "variantMediaResults": [
+    {
+      "productId": "gid://shopify/Product/10644511359309",
+      "title": "Tega Baby Wanna dziecięca Miś 102 cm",
+      "attached": [
+        {
+          "variantId": "gid://shopify/ProductVariant/53812106363213",
+          "mediaIds": [
+            "gid://shopify/MediaImage/62026118660429"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10644511293773",
+      "title": "Tega Baby Wanna dziecięca Miś 86 cm",
+      "attached": [
+        {
+          "variantId": "gid://shopify/ProductVariant/53812106297677",
+          "mediaIds": [
+            "gid://shopify/MediaImage/62026118463821"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10644511228237",
+      "title": "Tega Baby Wanienka Monsters z odpływem 102 cm",
+      "attached": [
+        {
+          "variantId": "gid://shopify/ProductVariant/53812106232141",
+          "mediaIds": [
+            "gid://shopify/MediaImage/62026118005069"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10644511195469",
+      "title": "Tega Baby Wanienka Monsters z odpływem 86 cm",
+      "attached": [
+        {
+          "variantId": "gid://shopify/ProductVariant/53812106199373",
+          "mediaIds": [
+            "gid://shopify/MediaImage/62026117972301"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10644511064397",
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 102 cm",
+      "attached": [
+        {
+          "variantId": "gid://shopify/ProductVariant/53812106068301",
+          "mediaIds": [
+            "gid://shopify/MediaImage/62026117153101"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10644510900557",
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 86 cm",
+      "attached": [
+        {
+          "variantId": "gid://shopify/ProductVariant/53812105904461",
+          "mediaIds": [
+            "gid://shopify/MediaImage/62026115547469"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10644510671181",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 102 cm",
+      "attached": [
+        {
+          "variantId": "gid://shopify/ProductVariant/53812105675085",
+          "mediaIds": [
+            "gid://shopify/MediaImage/62026113745229"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10644510540109",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 86 cm",
+      "attached": [
+        {
+          "variantId": "gid://shopify/ProductVariant/53812105544013",
+          "mediaIds": [
+            "gid://shopify/MediaImage/62026112794957"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10644510441805",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 102 cm",
+      "attached": [
+        {
+          "variantId": "gid://shopify/ProductVariant/53812105445709",
+          "mediaIds": [
+            "gid://shopify/MediaImage/62026111811917"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10644510146893",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 86 cm",
+      "attached": [
+        {
+          "variantId": "gid://shopify/ProductVariant/53812105150797",
+          "mediaIds": [
+            "gid://shopify/MediaImage/62026109583693"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10644509720909",
+      "title": "Tega Baby Wanienka składana z odpływem standard",
+      "attached": [
+        {
+          "variantId": "gid://shopify/ProductVariant/53812104593741",
+          "mediaIds": [
+            "gid://shopify/MediaImage/62026106503501"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10644509622605",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 102 cm",
+      "attached": [
+        {
+          "variantId": "gid://shopify/ProductVariant/53812104462669",
+          "mediaIds": [
+            "gid://shopify/MediaImage/62026105684301"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10644509524301",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód z odpływem 86 cm",
+      "attached": [
+        {
+          "variantId": "gid://shopify/ProductVariant/53812104331597",
+          "mediaIds": [
+            "gid://shopify/MediaImage/62026104766797"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10644509393229",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 86 cm",
+      "attached": [
+        {
+          "variantId": "gid://shopify/ProductVariant/53812104233293",
+          "mediaIds": [
+            "gid://shopify/MediaImage/62026103914829"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10644509065549",
+      "title": "Tega Baby Wanna dziecięca Kaczka 102 cm",
+      "attached": [
+        {
+          "variantId": "gid://shopify/ProductVariant/53812103905613",
+          "mediaIds": [
+            "gid://shopify/MediaImage/62026101293389"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10644508737869",
+      "title": "Tega Baby Wanna dziecięca Kaczka 86 cm",
+      "attached": [
+        {
+          "variantId": "gid://shopify/ProductVariant/53812103577933",
+          "mediaIds": [
+            "gid://shopify/MediaImage/62026098966861"
+          ]
+        }
+      ]
+    }
+  ],
+  "finalDraftProductCount": 16,
+  "finalVariantCount": 44,
+  "finalSingleVariantProducts": [
+    {
+      "id": "gid://shopify/Product/10644511359309",
+      "title": "Tega Baby Wanna dziecięca Miś 102 cm",
+      "hasOnlyDefaultVariant": true,
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "mediaCount": 1,
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812106363213",
+          "sku": "771546",
+          "barcode": "5902963008794",
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "mediaCount": 1
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644511293773",
+      "title": "Tega Baby Wanna dziecięca Miś 86 cm",
+      "hasOnlyDefaultVariant": true,
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "mediaCount": 4,
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812106297677",
+          "sku": "10953",
+          "barcode": "",
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "mediaCount": 1
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644511228237",
+      "title": "Tega Baby Wanienka Monsters z odpływem 102 cm",
+      "hasOnlyDefaultVariant": true,
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "mediaCount": 1,
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812106232141",
+          "sku": "5906224",
+          "barcode": "5902963004611",
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "mediaCount": 1
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644511195469",
+      "title": "Tega Baby Wanienka Monsters z odpływem 86 cm",
+      "hasOnlyDefaultVariant": true,
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "mediaCount": 1,
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812106199373",
+          "sku": "5906227",
+          "barcode": "5902963004581",
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "mediaCount": 1
+        }
+      ]
+    }
+  ],
+  "finalMissingVariantMedia": []
+}

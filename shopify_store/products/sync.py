@@ -65,7 +65,7 @@ def variant_payloads(product, staged_files: dict) -> list[dict]:
 
 def option_input(product) -> list[dict]:
     if product.option_name == "Title":
-        return []
+        return [{"name": "Title", "position": 1, "values": [{"name": "Default Title"}]}]
     values = [{"name": item} for item in product.option_values]
     return [{"name": product.option_name, "position": 1, "values": values}]
 
@@ -85,7 +85,7 @@ def variant_payload(product, variant, staged_files: dict) -> dict:
 
 def variant_option_values(product, variant) -> list[dict]:
     if product.option_name == "Title":
-        return []
+        return [{"optionName": "Title", "name": "Default Title"}]
     return [{"optionName": product.option_name, "name": variant.option_value}]
 
 

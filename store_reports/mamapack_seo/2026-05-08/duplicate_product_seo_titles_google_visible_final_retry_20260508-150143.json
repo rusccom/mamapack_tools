@@ -1,0 +1,394 @@
+{
+  "generated_at": "2026-05-08T15:02:05.134138",
+  "deletions": [
+    {
+      "handle": "canpol-78-026-jednorazowe-splukiwalne-nakladki-na-toalete-10-szt-copy",
+      "deleted": false,
+      "reason": "no global.title_tag"
+    },
+    {
+      "handle": "jednorazowe-nakladki-na-toalete-biodegradowalne-podkladki-8-szt",
+      "deleted": true,
+      "result": {
+        "deletedMetafields": [
+          {
+            "ownerId": "gid://shopify/Product/9916753576269",
+            "namespace": "global",
+            "key": "title_tag"
+          }
+        ],
+        "userErrors": []
+      }
+    }
+  ],
+  "duplicate_count": 2,
+  "duplicates": {
+    "canpol 26/901 - pieluszki muślinowe – mamapack": [
+      "canpol-26-901-pieluszki-muslinowe-2-szt-70x70cm-bonjour-paris-blue",
+      "canpol-26-901-pieluszki-muslinowe-2-szt-70x70cm-bonjour-paris-pink"
+    ],
+    "rożek niemowlęcy - standard 80x80 cm – mamapack": [
+      "rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-dla-dziewczynki",
+      "rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-dla-chlopca",
+      "rozek-niemowlecy-standard-80x80-cm-becik-otulacz-dwustronny-bawelna"
+    ]
+  },
+  "rows": [
+    {
+      "handle": "bibs-studio-smoczek-uspokajajacy-2-pak-latex-baby",
+      "legacyResourceId": "10606522073421",
+      "skus": [
+        "11022103",
+        "BIBS-STUDIO-BABYBLUE-DUSTYBLUE-2",
+        "BIBS-STUDIO-BABYBLUE-DUSTYBLUE-3"
+      ],
+      "product_title": "BIBS STUDIO - Smoczek uspokajający - Okrągły - (2-pak) - latex - baby blue / dusty blue",
+      "api_seo_title": "BIBS Studio smoczek Baby Blue/Dusty Blue 2-pak",
+      "live_title": "BIBS Studio smoczek Baby Blue/Dusty Blue 2-pak – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "bibs-studio-smoczek-uspokajajacy-okragly-2-pak-latex-baby-blue-dusty-blue-copy",
+      "legacyResourceId": "10630605209933",
+      "skus": [
+        "2121417"
+      ],
+      "product_title": "BIBS - Smoczek uspokajający - SYMETRYCZNY - (2-pak) -Ivory/Blush",
+      "api_seo_title": "BIBS smoczek symetryczny Ivory/Blush 2-pak",
+      "live_title": "BIBS smoczek symetryczny Ivory/Blush 2-pak – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "bibs-studio-smoczek-uspokajajacy-okragly-2-pak-latex-baby-blue-dusty-blue-copy-1",
+      "legacyResourceId": "10630618480973",
+      "skus": [
+        "11015104"
+      ],
+      "product_title": "BIBS STUDIO - Smoczek uspokajający - Okrągły - (2-pak) - latex - KOŚĆ SŁONIOWA/WANILIA",
+      "api_seo_title": "BIBS Studio smoczek Kość Słoniowa/Wanilia 2-pak",
+      "live_title": "BIBS Studio - Smoczek uspokajający – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "canpol-2-424-szczotka-grzebien-do-wlosow-miekka-niebieska",
+      "legacyResourceId": "10486348611917",
+      "skus": [
+        "5909780"
+      ],
+      "product_title": "CANPOL 2/424 - Szczotka + grzebień do włosów -(miękka) -  NIEBIESKA",
+      "api_seo_title": "Canpol 2/424 szczotka i grzebień niebieska",
+      "live_title": "Canpol 2/424 szczotka i grzebie? niebieska – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "canpol-2-424-szczotka-grzebien-do-wlosow-miekka-rozowa",
+      "legacyResourceId": "10486351233357",
+      "skus": [
+        "5909781"
+      ],
+      "product_title": "CANPOL 2/424 - Szczotka + grzebień do włosów -(miękka) -  RÓŻOWA",
+      "api_seo_title": "Canpol 2/424 szczotka i grzebień różowa",
+      "live_title": "Canpol 2/424 szczotka i grzebień różowa – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "canpol-22-565-smoczek-anatomiczny-silikon-orthodontic-0m-bezowy",
+      "legacyResourceId": "9984495878477",
+      "skus": [
+        "774185"
+      ],
+      "product_title": "CANPOL 22/580 - SMOCZEK  - silikon orthodontic- SYMETRYCZNY -( 0m+) - beżowy",
+      "api_seo_title": "Canpol 22/580 smoczek symetryczny 0m+ beżowy",
+      "live_title": "Canpol 22/580 smoczek symetryczny 0m+ be?owy – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "canpol-26-901-pieluszki-muslinowe-2-szt-70x70cm-bonjour-paris-blue",
+      "legacyResourceId": "9790716576077",
+      "skus": [
+        "789902"
+      ],
+      "product_title": "CANPOL 26/901 - Pieluszki MUŚLINOWE - 70x70cm - (2 szt.)  - Bonjour Paris blue",
+      "api_seo_title": "Canpol 26/901 pieluszki muślinowe Bonjour Paris Blue",
+      "live_title": "CANPOL 26/901 - Pieluszki Muślinowe – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "canpol-26-901-pieluszki-muslinowe-2-szt-70x70cm-bonjour-paris-pink",
+      "legacyResourceId": "9790716608845",
+      "skus": [
+        "790376"
+      ],
+      "product_title": "CANPOL 26/901 - Pieluszki MUŚLINOWE - 70x70cm - (2 szt.)  -Bonjour Paris pink",
+      "api_seo_title": "Canpol 26/901 pieluszki muślinowe Bonjour Paris Pink",
+      "live_title": "CANPOL 26/901 - Pieluszki Muślinowe – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "canpol-34-920-smoczek-silikonowy-0-6m-symetryczny-exotic-lama",
+      "legacyResourceId": "9790712217933",
+      "skus": [
+        "5902812"
+      ],
+      "product_title": "CANPOL 34/920 - Smoczek silikonowy - (0-6m) - symetryczny EXOTIC Lama",
+      "api_seo_title": "Canpol 34/920 smoczek Exotic Lama 0-6m",
+      "live_title": "CANPOL 34/920 - Smoczek silikonowy – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "canpol-34-920-smoczek-silikonowy-0-m-symetryczny-exotic-koala",
+      "legacyResourceId": "10485662679373",
+      "skus": [
+        "5901691870130"
+      ],
+      "product_title": "CANPOL 34/920 - Smoczek silikonowy - (0+m) - SYMETRYCZNY - EXOTIC Koala",
+      "api_seo_title": null,
+      "live_title": "CANPOL 34/920 - Smoczek silikonowy - (0+m) - SYMETRYCZNY - EXOTIC Koal – mamapack",
+      "title_tag_present": false
+    },
+    {
+      "handle": "canpol-34-920-smoczek-silikonowy-symetryczny-0-6m-panda",
+      "legacyResourceId": "10336386154829",
+      "skus": [
+        "5902814"
+      ],
+      "product_title": "CANPOL 34/920 - Smoczek silikonowy - SYMETRYCZNY - (0-6m) - Panda",
+      "api_seo_title": null,
+      "live_title": "Canpol 34/920 smoczek Panda 0-6m – mamapack",
+      "title_tag_present": false
+    },
+    {
+      "handle": "canpol-35-2423-butelka-antykolkowa-easystart-mountains-green-120ml-240ml",
+      "legacyResourceId": "10578272649549",
+      "skus": [
+        "5901691888005",
+        "5901691888029"
+      ],
+      "product_title": "CANPOL 35/242(3) - BUTELKA antykolkowa - EasyStart MOUNTAINS - GREEN - (120ml / 240ml)",
+      "api_seo_title": "Canpol EasyStart Mountains Green butelka 120/240 ml",
+      "live_title": "Canpol EasyStart Mountains Green butelka 120/240 ml – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "canpol-35-243-butelka-antykolkowa-240-ml-beige-3m",
+      "legacyResourceId": "10556145303885",
+      "skus": [
+        "5901691887992",
+        "5901691888012"
+      ],
+      "product_title": "CANPOL 35/242(3) - BUTELKA antykolkowa - EasyStart MOUNTAINS BEIGE - (120ml / 240ml)",
+      "api_seo_title": "Canpol EasyStart Mountains Beige butelka 120/240 ml",
+      "live_title": "CANPOL 35/242(3) - Butelka antykolkowa – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "canpol-78-026-jednorazowe-splukiwalne-nakladki-na-toalete-10-szt-copy",
+      "legacyResourceId": "10646557327693",
+      "skus": [
+        "5903407367279"
+      ],
+      "product_title": "Canpol 78/025 - Jednorazowe RĘCZNIKI – ZESTAW 2 szt.  - (140×70 cm + 70×30 cm)",
+      "api_seo_title": null,
+      "live_title": "Jednorazowe nakładki na toaletę - Biodegradowalne – mamapack",
+      "title_tag_present": false
+    },
+    {
+      "handle": "jednorazowe-nakladki-na-toalete-biodegradowalne-podkladki-6-szt-copy",
+      "legacyResourceId": "10646532718925",
+      "skus": [
+        "5903407367286"
+      ],
+      "product_title": "Canpol 78/026 - Jednorazowe spłukiwalne nakładki na toaletę - (10 szt. )",
+      "api_seo_title": null,
+      "live_title": "Canpol 78/026 nakładki na toaletę 10 szt. – mamapack",
+      "title_tag_present": false
+    },
+    {
+      "handle": "jednorazowe-nakladki-na-toalete-biodegradowalne-podkladki-8-szt",
+      "legacyResourceId": "9916753576269",
+      "skus": [
+        "5902704992603"
+      ],
+      "product_title": "Jednorazowe nakładki na toaletę -  Biodegradowalne podkładki - (6 szt.)",
+      "api_seo_title": null,
+      "live_title": "Intervion nakładki na toaletę biodegradowalne 6 szt. – mamapack",
+      "title_tag_present": false
+    },
+    {
+      "handle": "kompletny-md",
+      "legacyResourceId": "10523329921357",
+      "skus": [
+        "PREM-MD-1"
+      ],
+      "product_title": "Torba do szpitala dla MAMY i NOWORODKA – gotowa wyprawka PREMIUM",
+      "api_seo_title": "Torba do szpitala mama i noworodek - Premium",
+      "live_title": "Torba do szpitala mama i noworodek - Premium – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "pikowana-torba-do-szpitala-z-niedzwiedziem",
+      "legacyResourceId": "9870172815693",
+      "skus": [
+        "TORBA05-L"
+      ],
+      "product_title": "PIKOWANA TORBA do szpitala z NIEDŹWIEDZIEM -  Rozmiar: L",
+      "api_seo_title": null,
+      "live_title": "Pikowana torba do szpitala z niedźwiedziem L – mamapack",
+      "title_tag_present": false
+    },
+    {
+      "handle": "pikowana-torba-do-szpitala-z-niedzwiedziem-rozmiar-m",
+      "legacyResourceId": "10550671442253",
+      "skus": [
+        "TORBA05-M"
+      ],
+      "product_title": "PIKOWANA TORBA do szpitala z NIEDŹWIEDZIEM - Rozmiar: M",
+      "api_seo_title": null,
+      "live_title": "Pikowana torba do szpitala z niedźwiedziem M – mamapack",
+      "title_tag_present": false
+    },
+    {
+      "handle": "rozek-niemowlecy-standard-75x75-cm-miminu-design-kotki-bawelna-100",
+      "legacyResourceId": "9984490242381",
+      "skus": [
+        "5911186"
+      ],
+      "product_title": "Rożek niemowlęcy - standard 75x75 cm - (MIMINU DESIGN Kotki ) - bawełna 100%",
+      "api_seo_title": "Rożek niemowlęcy 75x75 MIMINU Kotki",
+      "live_title": "Rożek niemowlęcy - standard 75x75 cm - - bawełna 100% – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "rozek-niemowlecy-standard-75x75-cm-miminu-design-little-ballerina-bawelna-100",
+      "legacyResourceId": "9984493814093",
+      "skus": [
+        "5911326"
+      ],
+      "product_title": "Rożek niemowlęcy - standard 75x75 cm - (MIMINU DESIGN, little ballerina) - bawełna 100%",
+      "api_seo_title": "Rożek niemowlęcy 75x75 Little Ballerina",
+      "live_title": "Ro?ek niemowl?cy 75x75 Little Ballerina – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "rozek-niemowlecy-standard-75x75-cm-miminu-design-misie-blekit-bawelna-100",
+      "legacyResourceId": "9984487653709",
+      "skus": [
+        "5911201"
+      ],
+      "product_title": "Rożek niemowlęcy - standard 75x75 cm -(MIMINU DESIGN Misie błękit) - bawełna 100%",
+      "api_seo_title": "Rożek niemowlęcy 75x75 Misie błękit",
+      "live_title": "Rożek niemowlęcy 75x75 Misie błękit – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "rozek-niemowlecy-standard-80x80-cm-becik-otulacz-dwustronny-bawelna",
+      "legacyResourceId": "10389331476813",
+      "skus": [
+        "ROZ2190"
+      ],
+      "product_title": "Rożek niemowlęcy - standard 80x80 cm - BECIK OTULACZ DWUSTRONNY - bawełna",
+      "api_seo_title": "Rożek niemowlęcy 80x80 dwustronny bawełna",
+      "live_title": "Rożek niemowlęcy - standard 80x80 cm – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-dla-chlopca",
+      "legacyResourceId": "10199906484557",
+      "skus": [
+        "RZCH8080"
+      ],
+      "product_title": "Rożek niemowlęcy - standard 80x80 cm - (na rzep) - bawełna 100%- DLA CHŁOPCA",
+      "api_seo_title": null,
+      "live_title": "Rożek niemowlęcy - standard 80x80 cm – mamapack",
+      "title_tag_present": false
+    },
+    {
+      "handle": "rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-dla-dziewczynki",
+      "legacyResourceId": "10199904846157",
+      "skus": [
+        "RZDG8080"
+      ],
+      "product_title": "Rożek niemowlęcy - standard 80x80 cm - (na rzep) - bawełna 100%- DLA DZIEWCZYNKI",
+      "api_seo_title": null,
+      "live_title": "Rożek niemowlęcy - standard 80x80 cm – mamapack",
+      "title_tag_present": false
+    },
+    {
+      "handle": "rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-szary-w-gwiazdki",
+      "legacyResourceId": "10199908843853",
+      "skus": [
+        "ROZEK8080"
+      ],
+      "product_title": "Rożek niemowlęcy - standard 80x80 cm - (na rzep) - bawełna 100% - SZARY W GWIAZDKI",
+      "api_seo_title": "Rożek niemowlęcy 80x80 szary w gwiazdki",
+      "live_title": "Rożek niemowlęcy 80x80 szary w gwiazdki – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "skarb-matki-pomadka-ochronna-dla-dzieci-o-smaku-kokosa-i-wanilii",
+      "legacyResourceId": "9756450160973",
+      "skus": [
+        "001341"
+      ],
+      "product_title": "SKARB MATKI - Pomadka Ochronna - dla dzieci o smaku kokosa i wanilii - 6,5g",
+      "api_seo_title": "Skarb Matki pomadka kokos i wanilia 6,5 g",
+      "live_title": "Skarb Matki - Pomadka Ochronna – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "skarb-matki-pomadka-ochronna-dla-dzieci-smak-malinowy",
+      "legacyResourceId": "9756450193741",
+      "skus": [
+        "SM0021"
+      ],
+      "product_title": "SKARB MATKI - Pomadka Ochronna - dla dzieci o smaku malinowym - 6,5g",
+      "api_seo_title": "Skarb Matki pomadka malinowa 6,5 g",
+      "live_title": "Skarb Matki pomadka malinowa 6,5 g – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "smoczek-uspokajajacy-0-6m-symetryczny-okragly-rozowy",
+      "legacyResourceId": "10133101543757",
+      "skus": [
+        "776114"
+      ],
+      "product_title": "CANPOL 22/580 - SMOCZEK  - silikon orthodontic- SYMETRYCZNY -( 0m+) - RÓŻOWY",
+      "api_seo_title": "Canpol 22/580 smoczek symetryczny 0m+ różowy",
+      "live_title": "CANPOL 22/580 - Smoczek – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-kompletna",
+      "legacyResourceId": "10523326054733",
+      "skus": [
+        "KOM-MD-1"
+      ],
+      "product_title": "Torba do szpitala dla DLA MAMY I NOWORODKA – gotowa wyprawka KOMPLETNA",
+      "api_seo_title": "Torba do szpitala mama i noworodek - Kompletna",
+      "live_title": "Torba do szpitala mama i noworodek - Kompletna – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-podstawowa",
+      "legacyResourceId": "10519344120141",
+      "skus": [
+        "POD-MD-1"
+      ],
+      "product_title": "Torba do szpitala dla MAMY i NOWORODKA – gotowa wyprawka PODSTAWOWA",
+      "api_seo_title": "Torba do szpitala mama i noworodek - Podstawowa",
+      "live_title": "Torba do szpitala mama i noworodek - Podstawowa – mamapack",
+      "title_tag_present": true
+    },
+    {
+      "handle": "torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-rozszerzona",
+      "legacyResourceId": "10558848336205",
+      "skus": [
+        "ROZ-MD-1"
+      ],
+      "product_title": "Torba do szpitala dla DLA MAMY I NOWORODKA – gotowa wyprawka ROZSZERZONA",
+      "api_seo_title": "Torba do szpitala mama i noworodek - Rozszerzona",
+      "live_title": "Torba do szpitala mama i noworodek - Rozszerzona – mamapack",
+      "title_tag_present": true
+    }
+  ]
+}

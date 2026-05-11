@@ -1,0 +1,330 @@
+{
+  "summary": {
+    "generated_at": "2026-05-08T15:43:04",
+    "merchant_products": 409,
+    "active_paid_ads_count": 12,
+    "active_unexpected_count": 0,
+    "expected_found_count": 12,
+    "missing_expected_count": 0,
+    "kom_md_1_get_status": 200,
+    "kom_md_1_get_pause": "",
+    "all_ok": true
+  },
+  "active_paid_ads": [
+    {
+      "product_id": "online:pl:PL:shopify_PL_10558848336205_53441254457677",
+      "offer_id": "shopify_PL_10558848336205_53441254457677",
+      "title": "Torba do szpitala dla Mamy I Noworodka – gotowa – mamapack",
+      "link": "https://mamapack.pl/products/torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-rozszerzona?variant=53441254457677&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "link_handle": "torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-rozszerzona",
+      "pause": "",
+      "source": "api",
+      "currently_in_paid_ads": true,
+      "expected_12_set": true,
+      "state_ok": true
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10526795039053_53327971582285",
+      "offer_id": "shopify_PL_10526795039053_53327971582285",
+      "title": "Torba do szpitala dla Mamy – wyprawka Podstawowa – mamapack",
+      "link": "https://mamapack.pl/products/torba-do-szpitala-mamy-gotowa-wyprawka-podstawowa?variant=53327971582285&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "link_handle": "torba-do-szpitala-mamy-gotowa-wyprawka-podstawowa",
+      "pause": "",
+      "source": "api",
+      "currently_in_paid_ads": true,
+      "expected_12_set": true,
+      "state_ok": true
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10517867528525_53291462525261",
+      "offer_id": "shopify_PL_10517867528525_53291462525261",
+      "title": "Torba do szpitala dla Mamy – gotowa wyprawka Kompletna – mamapack",
+      "link": "https://mamapack.pl/products/torba-do-szpitala-mamy-gotowa-wyprawka-kompletna?variant=53291462525261&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "link_handle": "torba-do-szpitala-mamy-gotowa-wyprawka-kompletna",
+      "pause": "",
+      "source": "api",
+      "currently_in_paid_ads": true,
+      "expected_12_set": true,
+      "state_ok": true
+    },
+    {
+      "product_id": "online:pl:PL:10684112702236703032",
+      "offer_id": "10684112702236703032",
+      "title": "Torba do szpitala dla noworodka - gotowa wyprawka ROZSZERZONA",
+      "link": "https://mamapack.pl/products/torba-do-szpitala-noworodka-gotowa-wyprawka-rozszerzona",
+      "link_handle": "torba-do-szpitala-noworodka-gotowa-wyprawka-rozszerzona",
+      "pause": "",
+      "source": "crawl",
+      "currently_in_paid_ads": true,
+      "expected_12_set": true,
+      "state_ok": true
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10523326054733_53311333007693",
+      "offer_id": "shopify_PL_10523326054733_53311333007693",
+      "title": "Torba do szpitala mama i noworodek - Kompletna",
+      "link": "https://mamapack.pl/products/torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-kompletna?variant=53311333007693&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "link_handle": "torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-kompletna",
+      "pause": "",
+      "source": "api",
+      "currently_in_paid_ads": true,
+      "expected_12_set": true,
+      "state_ok": true
+    },
+    {
+      "product_id": "online:pl:PL:14744488780055690098",
+      "offer_id": "14744488780055690098",
+      "title": "Torba do szpitala dla MAMY i NOWORODKA – gotowa wyprawka PODSTAWOWA",
+      "link": "https://mamapack.pl/products/torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-podstawowa",
+      "link_handle": "torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-podstawowa",
+      "pause": "",
+      "source": "crawl",
+      "currently_in_paid_ads": true,
+      "expected_12_set": true,
+      "state_ok": true
+    },
+    {
+      "product_id": "online:pl:PL:9832747872795970915",
+      "offer_id": "9832747872795970915",
+      "title": "Torba do szpitala dla MAMY – gotowa wyprawka ROZSZERZONA",
+      "link": "https://mamapack.pl/products/torba-do-szpitala-mamy-gotowa-wyprawka-rozszerzona",
+      "link_handle": "torba-do-szpitala-mamy-gotowa-wyprawka-rozszerzona",
+      "pause": "",
+      "source": "crawl",
+      "currently_in_paid_ads": true,
+      "expected_12_set": true,
+      "state_ok": true
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10523329921357_53311374360909",
+      "offer_id": "shopify_PL_10523329921357_53311374360909",
+      "title": "Torba do szpitala dla Mamy i Noworodka – gotowa – mamapack",
+      "link": "https://mamapack.pl/products/kompletny-md?variant=53311374360909&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "link_handle": "kompletny-md",
+      "pause": "",
+      "source": "api",
+      "currently_in_paid_ads": true,
+      "expected_12_set": true,
+      "state_ok": true
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10517869068621_53291474682189",
+      "offer_id": "shopify_PL_10517869068621_53291474682189",
+      "title": "Torba do szpitala dla Mamy – gotowa wyprawka Premium – mamapack",
+      "link": "https://mamapack.pl/products/torba-do-szpitala-mamy-gotowa-wyprawka-premium?variant=53291474682189&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "link_handle": "torba-do-szpitala-mamy-gotowa-wyprawka-premium",
+      "pause": "",
+      "source": "api",
+      "currently_in_paid_ads": true,
+      "expected_12_set": true,
+      "state_ok": true
+    },
+    {
+      "product_id": "online:pl:PL:18346669666313039431",
+      "offer_id": "18346669666313039431",
+      "title": "Torba do szpitala dla noworodka - gotowa wyprawka KOMPLETNA",
+      "link": "https://mamapack.pl/products/torba-do-szpitala-noworodka-gotowa-wyprawka-kompletna",
+      "link_handle": "torba-do-szpitala-noworodka-gotowa-wyprawka-kompletna",
+      "pause": "",
+      "source": "crawl",
+      "currently_in_paid_ads": true,
+      "expected_12_set": true,
+      "state_ok": true
+    },
+    {
+      "product_id": "online:pl:PL:9931257749113620660",
+      "offer_id": "9931257749113620660",
+      "title": "Torba do szpitala dla noworodka - gotowa wyprawka PREMIUM",
+      "link": "https://mamapack.pl/products/torba-do-szpitala-noworodka-gotowa-wyprawka-premium",
+      "link_handle": "torba-do-szpitala-noworodka-gotowa-wyprawka-premium",
+      "pause": "",
+      "source": "crawl",
+      "currently_in_paid_ads": true,
+      "expected_12_set": true,
+      "state_ok": true
+    },
+    {
+      "product_id": "online:pl:PL:11555450801705149523",
+      "offer_id": "11555450801705149523",
+      "title": "Torba do szpitala dla noworodka - gotowa wyprawka PODSTAWOWA",
+      "link": "https://mamapack.pl/products/torba-do-szpitala-dla-noworodka-gotowa-wyprawka-premium",
+      "link_handle": "torba-do-szpitala-dla-noworodka-gotowa-wyprawka-premium",
+      "pause": "",
+      "source": "crawl",
+      "currently_in_paid_ads": true,
+      "expected_12_set": true,
+      "state_ok": true
+    }
+  ],
+  "active_unexpected": [],
+  "missing_expected": [],
+  "expected_found": [
+    {
+      "sku": "KOM-MD-1",
+      "handle": "torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-kompletna",
+      "offer_id": "shopify_PL_10523326054733_53311333007693",
+      "title": "Torba do szpitala dla DLA MAMY I NOWORODKA – gotowa wyprawka KOMPLETNA",
+      "merchant_offer_ids": [
+        "shopify_PL_10523326054733_53311333007693"
+      ],
+      "any_paid_ads": true
+    },
+    {
+      "sku": "ROZ-MD-1",
+      "handle": "torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-rozszerzona",
+      "offer_id": "shopify_PL_10558848336205_53441254457677",
+      "title": "Torba do szpitala dla DLA MAMY I NOWORODKA – gotowa wyprawka ROZSZERZONA",
+      "merchant_offer_ids": [
+        "shopify_PL_10558848336205_53441254457677"
+      ],
+      "any_paid_ads": true
+    },
+    {
+      "sku": "POD-MD-1",
+      "handle": "torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-podstawowa",
+      "offer_id": "shopify_PL_10519344120141_53296171483469",
+      "title": "Torba do szpitala dla MAMY i NOWORODKA – gotowa wyprawka PODSTAWOWA",
+      "merchant_offer_ids": [
+        "14744488780055690098"
+      ],
+      "any_paid_ads": true
+    },
+    {
+      "sku": "PREM-MD-1",
+      "handle": "kompletny-md",
+      "offer_id": "shopify_PL_10523329921357_53311374360909",
+      "title": "Torba do szpitala dla MAMY i NOWORODKA – gotowa wyprawka PREMIUM",
+      "merchant_offer_ids": [
+        "shopify_PL_10523329921357_53311374360909"
+      ],
+      "any_paid_ads": true
+    },
+    {
+      "sku": "KOM-M-2",
+      "handle": "torba-do-szpitala-mamy-gotowa-wyprawka-kompletna",
+      "offer_id": "shopify_PL_10517867528525_53291462525261",
+      "title": "Torba do szpitala dla MAMY – gotowa wyprawka KOMPLETNA",
+      "merchant_offer_ids": [
+        "shopify_PL_10517867528525_53291462525261"
+      ],
+      "any_paid_ads": true
+    },
+    {
+      "sku": "POD-M-2",
+      "handle": "torba-do-szpitala-mamy-gotowa-wyprawka-podstawowa",
+      "offer_id": "shopify_PL_10526795039053_53327971582285",
+      "title": "Torba do szpitala dla MAMY – gotowa wyprawka PODSTAWOWA",
+      "merchant_offer_ids": [
+        "shopify_PL_10526795039053_53327971582285"
+      ],
+      "any_paid_ads": true
+    },
+    {
+      "sku": "PREM-M-2",
+      "handle": "torba-do-szpitala-mamy-gotowa-wyprawka-premium",
+      "offer_id": "shopify_PL_10517869068621_53291474682189",
+      "title": "Torba do szpitala dla MAMY – gotowa wyprawka Premium",
+      "merchant_offer_ids": [
+        "shopify_PL_10517869068621_53291474682189"
+      ],
+      "any_paid_ads": true
+    },
+    {
+      "sku": "ROZ-M-2",
+      "handle": "torba-do-szpitala-mamy-gotowa-wyprawka-rozszerzona",
+      "offer_id": "shopify_PL_10517866021197_53291451744589",
+      "title": "Torba do szpitala dla MAMY – gotowa wyprawka ROZSZERZONA",
+      "merchant_offer_ids": [
+        "9832747872795970915"
+      ],
+      "any_paid_ads": true
+    },
+    {
+      "sku": "KOM-DZ-03",
+      "handle": "torba-do-szpitala-noworodka-gotowa-wyprawka-kompletna",
+      "offer_id": "shopify_PL_10537616703821_53364187005261",
+      "title": "Torba do szpitala dla noworodka - gotowa wyprawka KOMPLETNA",
+      "merchant_offer_ids": [
+        "18346669666313039431"
+      ],
+      "any_paid_ads": true
+    },
+    {
+      "sku": "POD-DZ-01",
+      "handle": "torba-do-szpitala-dla-noworodka-gotowa-wyprawka-premium",
+      "offer_id": "shopify_PL_10537613033805_53364173275469",
+      "title": "Torba do szpitala dla noworodka - gotowa wyprawka PODSTAWOWA",
+      "merchant_offer_ids": [
+        "11555450801705149523"
+      ],
+      "any_paid_ads": true
+    },
+    {
+      "sku": "PRM-DZ-04",
+      "handle": "torba-do-szpitala-noworodka-gotowa-wyprawka-premium",
+      "offer_id": "shopify_PL_10537603203405_53364133429581",
+      "title": "Torba do szpitala dla noworodka - gotowa wyprawka PREMIUM",
+      "merchant_offer_ids": [
+        "9931257749113620660"
+      ],
+      "any_paid_ads": true
+    },
+    {
+      "sku": "ROZ-DZ-02",
+      "handle": "torba-do-szpitala-noworodka-gotowa-wyprawka-rozszerzona",
+      "offer_id": "shopify_PL_10537613984077_53364176585037",
+      "title": "Torba do szpitala dla noworodka - gotowa wyprawka ROZSZERZONA",
+      "merchant_offer_ids": [
+        "10684112702236703032"
+      ],
+      "any_paid_ads": true
+    }
+  ],
+  "kom_md_1_get": {
+    "kind": "content#product",
+    "id": "online:pl:PL:shopify_PL_10523326054733_53311333007693",
+    "offerId": "shopify_PL_10523326054733_53311333007693",
+    "source": "api",
+    "title": "Torba do szpitala mama i noworodek - Kompletna",
+    "description": "Zestaw Kompletny (mama + dziecko) – 29 produktów (w tym torba GRATIS) MamaPack to wygodny sposób na skompletowanie wyprawki w jednym miejscu. Przygotowaliśmy gotowe zestawy, w których znajdziesz wyłącznie praktyczne, sprawdzone produkty od renomowanych marek – dobrane tak, aby ułatwić przygotowania oraz pierwsze dni z maluszkiem. Dlaczego warto wybrać zestaw Kompletny? Zestaw Kompletny M+D to starannie skomponowany komplet dla mamy i dziecka. W jednym zestawie otrzymujesz 29 produktów higienicznych i pielęgnacyjnych, przydatnych zarówno w pakowaniu wyprawki, jak i w codziennej opiece. Dodatkowo w zestawie znajduje się: rożek (becik), ręcznik niemowlęcy z kapturkiem. Torba GRATIS W zestawie otrzymujesz praktyczną torbę GRATIS, którą można wykorzystać również na co dzień – na spacery, zakupy czy wyjazdy. Jakość i bezpieczeństwo Każdy element zestawu został dobrany z myślą o wygodzie użytkowania oraz odpowiednim standardzie jakości dla mamy i dziecka. Uzupełnij zestaw pod siebie Jeśli chcesz, na naszej stronie możesz łatwo dobrać i domówić dodatkowe produkty – tak, aby zestaw był w 100% dopasowany do Twoich potrzeb.",
+    "link": "https://mamapack.pl/products/torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-kompletna?variant=53311333007693&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/b7eb80bf-1202-42e0-ade6-06de99542bdd.jpg?v=1770388388",
+    "contentLanguage": "pl",
+    "targetCountry": "PL",
+    "feedLabel": "PL",
+    "channel": "online",
+    "availability": "in stock",
+    "brand": "Fast Bundle",
+    "price": {
+      "value": "355.93",
+      "currency": "PLN"
+    },
+    "salePrice": {
+      "value": "335.94",
+      "currency": "PLN"
+    },
+    "customAttributes": [
+      {
+        "name": "merchant item id",
+        "value": "gid://shopify/ProductVariant/53311333007693"
+      },
+      {
+        "name": "sku",
+        "value": "KOM-MD-1"
+      },
+      {
+        "name": "modification info",
+        "groupValues": [
+          {
+            "name": "modifier",
+            "value": "codex merchant repair"
+          },
+          {
+            "name": "modification source",
+            "value": "shopify admin api"
+          }
+        ]
+      }
+    ]
+  }
+}

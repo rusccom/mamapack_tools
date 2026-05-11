@@ -1,0 +1,904 @@
+{
+  "createdAt": "2026-05-09T18:51:24.223256+03:00",
+  "inventoryId": 43540,
+  "category": {
+    "category_id": 7985745,
+    "name": "Komody i przewijaki",
+    "parent_id": 2920334
+  },
+  "shopifyStorageId": "shop_5022274",
+  "priceGroupId": 22945,
+  "createdOrUpdatedParentIds": [
+    "590120819",
+    "590488806",
+    "590488811",
+    "590488816"
+  ],
+  "existingBefore": {
+    "5912428": {
+      "id": "590120834",
+      "parent_id": "590120819"
+    },
+    "5912429": {
+      "id": "590120849",
+      "parent_id": "590120819"
+    },
+    "5912430": {
+      "id": "590120870",
+      "parent_id": "590120819"
+    }
+  },
+  "skuIndexAfter": {
+    "5912428": {
+      "id": "590120834",
+      "parent_id": "590120819"
+    },
+    "5912429": {
+      "id": "590120849",
+      "parent_id": "590120819"
+    },
+    "5912430": {
+      "id": "590120870",
+      "parent_id": "590120819"
+    },
+    "5912267": {
+      "id": "590488800",
+      "parent_id": "590120819"
+    },
+    "5912431": {
+      "id": "590488806",
+      "parent_id": "0"
+    },
+    "5912432": {
+      "id": "590488811",
+      "parent_id": "0"
+    },
+    "5912474": {
+      "id": "590488822",
+      "parent_id": "590488816"
+    },
+    "5912473": {
+      "id": "590488828",
+      "parent_id": "590488816"
+    }
+  },
+  "verification": {
+    "allOk": true,
+    "checks": [
+      {
+        "sku": "5912267",
+        "baselinkerProductId": "590488800",
+        "parentId": "590120819",
+        "expectedProductId": "10654805655885",
+        "actualProductId": "10654805655885",
+        "expectedVariantId": "53868356403533",
+        "actualVariantId": "53868356403533",
+        "linkOk": true,
+        "categoryId": 0,
+        "price": {
+          "22945": 73.68
+        }
+      },
+      {
+        "sku": "5912428",
+        "baselinkerProductId": "590120834",
+        "parentId": "590120819",
+        "expectedProductId": "10654805655885",
+        "actualProductId": "10654805655885",
+        "expectedVariantId": "53865558704461",
+        "actualVariantId": "53865558704461",
+        "linkOk": true,
+        "categoryId": 7985745,
+        "price": {
+          "22945": 73.68
+        }
+      },
+      {
+        "sku": "5912429",
+        "baselinkerProductId": "590120849",
+        "parentId": "590120819",
+        "expectedProductId": "10654805655885",
+        "actualProductId": "10654805655885",
+        "expectedVariantId": "53865558737229",
+        "actualVariantId": "53865558737229",
+        "linkOk": true,
+        "categoryId": 7985745,
+        "price": {
+          "22945": 73.68
+        }
+      },
+      {
+        "sku": "5912430",
+        "baselinkerProductId": "590120870",
+        "parentId": "590120819",
+        "expectedProductId": "10654805655885",
+        "actualProductId": "10654805655885",
+        "expectedVariantId": "53865558769997",
+        "actualVariantId": "53865558769997",
+        "linkOk": true,
+        "categoryId": 7985745,
+        "price": {
+          "22945": 73.68
+        }
+      },
+      {
+        "sku": "5912431",
+        "baselinkerProductId": "590488806",
+        "parentId": "0",
+        "expectedProductId": "10655474123085",
+        "actualProductId": "10655474123085",
+        "expectedVariantId": "53868356436301",
+        "actualVariantId": "53868356436301",
+        "linkOk": true,
+        "categoryId": 7985745,
+        "price": {
+          "22945": 73.68
+        }
+      },
+      {
+        "sku": "5912432",
+        "baselinkerProductId": "590488811",
+        "parentId": "0",
+        "expectedProductId": "10655474155853",
+        "actualProductId": "10655474155853",
+        "expectedVariantId": "53868356469069",
+        "actualVariantId": "53868356469069",
+        "linkOk": true,
+        "categoryId": 7985745,
+        "price": {
+          "22945": 73.68
+        }
+      },
+      {
+        "sku": "5912473",
+        "baselinkerProductId": "590488828",
+        "parentId": "590488816",
+        "expectedProductId": "10655474188621",
+        "actualProductId": "10655474188621",
+        "expectedVariantId": "53868356534605",
+        "actualVariantId": "53868356534605",
+        "linkOk": true,
+        "categoryId": 0,
+        "price": {
+          "22945": 73.68
+        }
+      },
+      {
+        "sku": "5912474",
+        "baselinkerProductId": "590488822",
+        "parentId": "590488816",
+        "expectedProductId": "10655474188621",
+        "actualProductId": "10655474188621",
+        "expectedVariantId": "53868356501837",
+        "actualVariantId": "53868356501837",
+        "linkOk": true,
+        "categoryId": 0,
+        "price": {
+          "22945": 73.68
+        }
+      }
+    ]
+  },
+  "shopifyProducts": [
+    {
+      "handle": "tega-baby-przewijak-dziki-zachod-bialy",
+      "title": "Tega Baby Przewijak Dziki Zachód biały",
+      "description_html": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Przewijak Dziki Zachód biały</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny przewijak dla dziecka, wygodny do codziennej pielęgnacji po kąpieli i przy zmianie pieluszki.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">przewijak</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Dziki Zachód</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne miejsce do przewijania</h3>Przewijak pomaga przygotować spokojną i uporządkowaną przestrzeń do codziennej pielęgnacji maluszka. Gładka powierzchnia jest łatwa do przetarcia, a delikatny wzór dobrze pasuje do dziecięcego pokoju.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka i praktyczna forma do codziennego przewijania dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Powierzchnia łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Warianty do wyboru: jednorożec, jelonek, lisek, słonik.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Codzienny komfort</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Ułatwia pielęgnację dziecka w domu i po kąpieli.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Gładką powierzchnię można szybko przetrzeć po użyciu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Komody i przewijaki</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Dziki Zachód</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzór</strong><span style=\"color:#6a5260;text-align:right;\">jednorożec, jelonek, lisek, słonik</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Artykuły Marini</strong><span style=\"color:#6a5260;text-align:right;\">5912428, 5912429, 5912430, 5912267</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Użytkowanie</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Używaj przewijaka na stabilnej, równej powierzchni.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po użyciu przetrzyj powierzchnię wilgotną ściereczką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Nie pozostawiaj dziecka bez opieki podczas przewijania.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy stosować wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i producenta Tega Baby.</p>\n</div>",
+      "vendor": "Tega Baby",
+      "product_type": "Przewijaki",
+      "tags": [
+        "Komody i przewijaki",
+        "Marini",
+        "Przewijaki",
+        "Tega Baby"
+      ],
+      "option_name": "Wzór",
+      "option_values": [
+        "jednorożec",
+        "jelonek",
+        "lisek",
+        "słonik"
+      ],
+      "shopify_id": "gid://shopify/Product/10654805655885",
+      "legacy_resource_id": 10654805655885,
+      "status": "DRAFT",
+      "media_urls": [
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912428-1.jpg?v=1778266396",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912429-1.jpg?v=1778266396",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912430-1.jpg?v=1778266396"
+      ],
+      "variants": [
+        {
+          "option_value": "jednorożec",
+          "sku": "5912428",
+          "barcode": "5902963001566",
+          "price": "73.68",
+          "detail_url": "",
+          "source_code": "5912428",
+          "source_title": "",
+          "source_sku": "5912428",
+          "shopify_id": "gid://shopify/ProductVariant/53865558704461",
+          "legacy_resource_id": 53865558704461,
+          "media_urls": []
+        },
+        {
+          "option_value": "jelonek",
+          "sku": "5912429",
+          "barcode": "5902963001573",
+          "price": "73.68",
+          "detail_url": "",
+          "source_code": "5912429",
+          "source_title": "",
+          "source_sku": "5912429",
+          "shopify_id": "gid://shopify/ProductVariant/53865558737229",
+          "legacy_resource_id": 53865558737229,
+          "media_urls": []
+        },
+        {
+          "option_value": "lisek",
+          "sku": "5912430",
+          "barcode": "5902963001580",
+          "price": "73.68",
+          "detail_url": "",
+          "source_code": "5912430",
+          "source_title": "",
+          "source_sku": "5912430",
+          "shopify_id": "gid://shopify/ProductVariant/53865558769997",
+          "legacy_resource_id": 53865558769997,
+          "media_urls": []
+        },
+        {
+          "option_value": "słonik",
+          "sku": "5912267",
+          "barcode": "5902963001597",
+          "price": "73.68",
+          "detail_url": "",
+          "source_code": "5912267",
+          "source_title": "",
+          "source_sku": "5912267",
+          "shopify_id": "gid://shopify/ProductVariant/53868356403533",
+          "legacy_resource_id": 53868356403533,
+          "media_urls": []
+        }
+      ]
+    },
+    {
+      "handle": "tega-baby-przewijak-lesna-opowiesc-bialy",
+      "title": "Tega Baby Przewijak Leśna Opowieść biały",
+      "description_html": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Przewijak Leśna Opowieść biały</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny przewijak dla dziecka, wygodny do codziennej pielęgnacji po kąpieli i przy zmianie pieluszki.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">przewijak</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Leśna Opowieść</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne miejsce do przewijania</h3>Przewijak pomaga przygotować spokojną i uporządkowaną przestrzeń do codziennej pielęgnacji maluszka. Gładka powierzchnia jest łatwa do przetarcia, a delikatny wzór dobrze pasuje do dziecięcego pokoju.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka i praktyczna forma do codziennego przewijania dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Powierzchnia łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Jeden wariant gotowy do uzupełnienia zdjęciem produktu.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Codzienny komfort</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Ułatwia pielęgnację dziecka w domu i po kąpieli.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Gładką powierzchnię można szybko przetrzeć po użyciu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Komody i przewijaki</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Leśna Opowieść</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Artykuły Marini</strong><span style=\"color:#6a5260;text-align:right;\">5912431</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Użytkowanie</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Używaj przewijaka na stabilnej, równej powierzchni.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po użyciu przetrzyj powierzchnię wilgotną ściereczką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Nie pozostawiaj dziecka bez opieki podczas przewijania.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy stosować wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i producenta Tega Baby.</p>\n</div>",
+      "vendor": "Tega Baby",
+      "product_type": "Przewijaki",
+      "tags": [
+        "Komody i przewijaki",
+        "Marini",
+        "Przewijaki",
+        "Tega Baby"
+      ],
+      "option_name": "Title",
+      "option_values": [
+        "Default Title"
+      ],
+      "shopify_id": "gid://shopify/Product/10655474123085",
+      "legacy_resource_id": 10655474123085,
+      "status": "DRAFT",
+      "media_urls": [],
+      "variants": [
+        {
+          "option_value": "Default Title",
+          "sku": "5912431",
+          "barcode": "5902963004345",
+          "price": "73.68",
+          "detail_url": "",
+          "source_code": "5912431",
+          "source_title": "",
+          "source_sku": "5912431",
+          "shopify_id": "gid://shopify/ProductVariant/53868356436301",
+          "legacy_resource_id": 53868356436301,
+          "media_urls": []
+        }
+      ]
+    },
+    {
+      "handle": "tega-baby-przewijak-meteo-bialy-slonko",
+      "title": "Tega Baby Przewijak METEO biały słonko",
+      "description_html": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Przewijak METEO biały słonko</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny przewijak dla dziecka, wygodny do codziennej pielęgnacji po kąpieli i przy zmianie pieluszki.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">przewijak</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">METEO</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne miejsce do przewijania</h3>Przewijak pomaga przygotować spokojną i uporządkowaną przestrzeń do codziennej pielęgnacji maluszka. Gładka powierzchnia jest łatwa do przetarcia, a delikatny wzór dobrze pasuje do dziecięcego pokoju.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka i praktyczna forma do codziennego przewijania dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Powierzchnia łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Jeden wariant gotowy do uzupełnienia zdjęciem produktu.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Codzienny komfort</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Ułatwia pielęgnację dziecka w domu i po kąpieli.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Gładką powierzchnię można szybko przetrzeć po użyciu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Komody i przewijaki</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">METEO</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Artykuły Marini</strong><span style=\"color:#6a5260;text-align:right;\">5912432</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Użytkowanie</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Używaj przewijaka na stabilnej, równej powierzchni.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po użyciu przetrzyj powierzchnię wilgotną ściereczką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Nie pozostawiaj dziecka bez opieki podczas przewijania.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy stosować wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i producenta Tega Baby.</p>\n</div>",
+      "vendor": "Tega Baby",
+      "product_type": "Przewijaki",
+      "tags": [
+        "Komody i przewijaki",
+        "Marini",
+        "Przewijaki",
+        "Tega Baby"
+      ],
+      "option_name": "Title",
+      "option_values": [
+        "Default Title"
+      ],
+      "shopify_id": "gid://shopify/Product/10655474155853",
+      "legacy_resource_id": 10655474155853,
+      "status": "DRAFT",
+      "media_urls": [],
+      "variants": [
+        {
+          "option_value": "Default Title",
+          "sku": "5912432",
+          "barcode": "5902963002693",
+          "price": "73.68",
+          "detail_url": "",
+          "source_code": "5912432",
+          "source_title": "",
+          "source_sku": "5912432",
+          "shopify_id": "gid://shopify/ProductVariant/53868356469069",
+          "legacy_resource_id": 53868356469069,
+          "media_urls": []
+        }
+      ]
+    },
+    {
+      "handle": "tega-baby-przewijak-twardy-mis",
+      "title": "Tega Baby Przewijak twardy MIŚ",
+      "description_html": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Przewijak twardy MIŚ</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny przewijak dla dziecka, wygodny do codziennej pielęgnacji po kąpieli i przy zmianie pieluszki.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">przewijak</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">MIŚ</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne miejsce do przewijania</h3>Przewijak pomaga przygotować spokojną i uporządkowaną przestrzeń do codziennej pielęgnacji maluszka. Gładka powierzchnia jest łatwa do przetarcia, a delikatny wzór dobrze pasuje do dziecięcego pokoju.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka i praktyczna forma do codziennego przewijania dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Powierzchnia łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Warianty do wyboru: biała perła, beżowy.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Codzienny komfort</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Ułatwia pielęgnację dziecka w domu i po kąpieli.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Gładką powierzchnię można szybko przetrzeć po użyciu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Komody i przewijaki</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">MIŚ</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolor</strong><span style=\"color:#6a5260;text-align:right;\">biała perła, beżowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Artykuły Marini</strong><span style=\"color:#6a5260;text-align:right;\">5912474, 5912473</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Użytkowanie</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Używaj przewijaka na stabilnej, równej powierzchni.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po użyciu przetrzyj powierzchnię wilgotną ściereczką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Nie pozostawiaj dziecka bez opieki podczas przewijania.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy stosować wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i producenta Tega Baby.</p>\n</div>",
+      "vendor": "Tega Baby",
+      "product_type": "Przewijaki",
+      "tags": [
+        "Komody i przewijaki",
+        "Marini",
+        "Przewijaki",
+        "Tega Baby"
+      ],
+      "option_name": "Kolor",
+      "option_values": [
+        "biała perła",
+        "beżowy"
+      ],
+      "shopify_id": "gid://shopify/Product/10655474188621",
+      "legacy_resource_id": 10655474188621,
+      "status": "DRAFT",
+      "media_urls": [],
+      "variants": [
+        {
+          "option_value": "biała perła",
+          "sku": "5912474",
+          "barcode": "5902963008848",
+          "price": "73.68",
+          "detail_url": "",
+          "source_code": "5912474",
+          "source_title": "",
+          "source_sku": "5912474",
+          "shopify_id": "gid://shopify/ProductVariant/53868356501837",
+          "legacy_resource_id": 53868356501837,
+          "media_urls": []
+        },
+        {
+          "option_value": "beżowy",
+          "sku": "5912473",
+          "barcode": "5902963008855",
+          "price": "73.68",
+          "detail_url": "",
+          "source_code": "5912473",
+          "source_title": "",
+          "source_sku": "5912473",
+          "shopify_id": "gid://shopify/ProductVariant/53868356534605",
+          "legacy_resource_id": 53868356534605,
+          "media_urls": []
+        }
+      ]
+    }
+  ],
+  "baselinkerDetails": {
+    "590120819": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7985745,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Tega Baby Przewijak Dziki Zachód biały",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Przewijak Dziki Zachód biały</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny przewijak dla dziecka, wygodny do codziennej pielęgnacji po kąpieli i przy zmianie pieluszki.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">przewijak</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Dziki Zachód</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne miejsce do przewijania</h3>Przewijak pomaga przygotować spokojną i uporządkowaną przestrzeń do codziennej pielęgnacji maluszka. Gładka powierzchnia jest łatwa do przetarcia, a delikatny wzór dobrze pasuje do dziecięcego pokoju.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka i praktyczna forma do codziennego przewijania dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Powierzchnia łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Warianty do wyboru: jednorożec, jelonek, lisek, słonik.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Codzienny komfort</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Ułatwia pielęgnację dziecka w domu i po kąpieli.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Gładką powierzchnię można szybko przetrzeć po użyciu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Komody i przewijaki</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Dziki Zachód</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzór</strong><span style=\"color:#6a5260;text-align:right;\">jednorożec, jelonek, lisek, słonik</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Artykuły Marini</strong><span style=\"color:#6a5260;text-align:right;\">5912428, 5912429, 5912430, 5912267</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Użytkowanie</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Używaj przewijaka na stabilnej, równej powierzchni.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po użyciu przetrzyj powierzchnię wilgotną ściereczką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Nie pozostawiaj dziecka bez opieki podczas przewijania.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy stosować wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i producenta Tega Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 73.68
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10654805655885",
+          "variant_id": "0"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "variants": {
+        "590120834": {
+          "name": "Tega Baby Przewijak Dziki Zachód biały - Wzór: jednorożec",
+          "ean": "5902963001566",
+          "asin": "",
+          "sku": "5912428",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": 73.68
+          }
+        },
+        "590120849": {
+          "name": "Tega Baby Przewijak Dziki Zachód biały - Wzór: jelonek",
+          "ean": "5902963001573",
+          "asin": "",
+          "sku": "5912429",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": 73.68
+          }
+        },
+        "590120870": {
+          "name": "Tega Baby Przewijak Dziki Zachód biały - Wzór: lisek",
+          "ean": "5902963001580",
+          "asin": "",
+          "sku": "5912430",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": 73.68
+          }
+        },
+        "590488800": {
+          "name": "Tega Baby Przewijak Dziki Zachód biały - Wzór: słonik",
+          "ean": "5902963001597",
+          "asin": "",
+          "sku": "5912267",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": 73.68
+          }
+        }
+      },
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912428-1.jpg?v=1778266396",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912429-1.jpg?v=1778266396",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912430-1.jpg?v=1778266396"
+      }
+    },
+    "590120834": {
+      "is_bundle": false,
+      "ean": "5902963001566",
+      "asin": "",
+      "parent_id": 590120819,
+      "sku": "5912428",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7985745,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Tega Baby Przewijak Dziki Zachód biały - Wzór: jednorożec",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Przewijak Dziki Zachód biały</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny przewijak dla dziecka, wygodny do codziennej pielęgnacji po kąpieli i przy zmianie pieluszki.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">przewijak</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Dziki Zachód</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne miejsce do przewijania</h3>Przewijak pomaga przygotować spokojną i uporządkowaną przestrzeń do codziennej pielęgnacji maluszka. Gładka powierzchnia jest łatwa do przetarcia, a delikatny wzór dobrze pasuje do dziecięcego pokoju.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka i praktyczna forma do codziennego przewijania dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Powierzchnia łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Warianty do wyboru: jednorożec, jelonek, lisek, słonik.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Codzienny komfort</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Ułatwia pielęgnację dziecka w domu i po kąpieli.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Gładką powierzchnię można szybko przetrzeć po użyciu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Komody i przewijaki</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Dziki Zachód</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzór</strong><span style=\"color:#6a5260;text-align:right;\">jednorożec, jelonek, lisek, słonik</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Artykuły Marini</strong><span style=\"color:#6a5260;text-align:right;\">5912428, 5912429, 5912430, 5912267</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Użytkowanie</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Używaj przewijaka na stabilnej, równej powierzchni.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po użyciu przetrzyj powierzchnię wilgotną ściereczką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Nie pozostawiaj dziecka bez opieki podczas przewijania.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy stosować wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i producenta Tega Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 73.68
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10654805655885",
+          "variant_id": "53865558704461"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912428-1.jpg?v=1778266396",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912429-1.jpg?v=1778266396",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912430-1.jpg?v=1778266396"
+      }
+    },
+    "590120849": {
+      "is_bundle": false,
+      "ean": "5902963001573",
+      "asin": "",
+      "parent_id": 590120819,
+      "sku": "5912429",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7985745,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Tega Baby Przewijak Dziki Zachód biały - Wzór: jelonek",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Przewijak Dziki Zachód biały</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny przewijak dla dziecka, wygodny do codziennej pielęgnacji po kąpieli i przy zmianie pieluszki.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">przewijak</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Dziki Zachód</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne miejsce do przewijania</h3>Przewijak pomaga przygotować spokojną i uporządkowaną przestrzeń do codziennej pielęgnacji maluszka. Gładka powierzchnia jest łatwa do przetarcia, a delikatny wzór dobrze pasuje do dziecięcego pokoju.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka i praktyczna forma do codziennego przewijania dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Powierzchnia łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Warianty do wyboru: jednorożec, jelonek, lisek, słonik.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Codzienny komfort</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Ułatwia pielęgnację dziecka w domu i po kąpieli.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Gładką powierzchnię można szybko przetrzeć po użyciu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Komody i przewijaki</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Dziki Zachód</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzór</strong><span style=\"color:#6a5260;text-align:right;\">jednorożec, jelonek, lisek, słonik</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Artykuły Marini</strong><span style=\"color:#6a5260;text-align:right;\">5912428, 5912429, 5912430, 5912267</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Użytkowanie</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Używaj przewijaka na stabilnej, równej powierzchni.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po użyciu przetrzyj powierzchnię wilgotną ściereczką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Nie pozostawiaj dziecka bez opieki podczas przewijania.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy stosować wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i producenta Tega Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 73.68
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10654805655885",
+          "variant_id": "53865558737229"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912428-1.jpg?v=1778266396",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912429-1.jpg?v=1778266396",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912430-1.jpg?v=1778266396"
+      }
+    },
+    "590120870": {
+      "is_bundle": false,
+      "ean": "5902963001580",
+      "asin": "",
+      "parent_id": 590120819,
+      "sku": "5912430",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7985745,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Tega Baby Przewijak Dziki Zachód biały - Wzór: lisek",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Przewijak Dziki Zachód biały</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny przewijak dla dziecka, wygodny do codziennej pielęgnacji po kąpieli i przy zmianie pieluszki.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">przewijak</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Dziki Zachód</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne miejsce do przewijania</h3>Przewijak pomaga przygotować spokojną i uporządkowaną przestrzeń do codziennej pielęgnacji maluszka. Gładka powierzchnia jest łatwa do przetarcia, a delikatny wzór dobrze pasuje do dziecięcego pokoju.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka i praktyczna forma do codziennego przewijania dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Powierzchnia łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Warianty do wyboru: jednorożec, jelonek, lisek, słonik.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Codzienny komfort</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Ułatwia pielęgnację dziecka w domu i po kąpieli.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Gładką powierzchnię można szybko przetrzeć po użyciu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Komody i przewijaki</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Dziki Zachód</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzór</strong><span style=\"color:#6a5260;text-align:right;\">jednorożec, jelonek, lisek, słonik</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Artykuły Marini</strong><span style=\"color:#6a5260;text-align:right;\">5912428, 5912429, 5912430, 5912267</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Użytkowanie</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Używaj przewijaka na stabilnej, równej powierzchni.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po użyciu przetrzyj powierzchnię wilgotną ściereczką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Nie pozostawiaj dziecka bez opieki podczas przewijania.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy stosować wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i producenta Tega Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 73.68
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10654805655885",
+          "variant_id": "53865558769997"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912428-1.jpg?v=1778266396",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912429-1.jpg?v=1778266396",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912430-1.jpg?v=1778266396"
+      }
+    },
+    "590488800": {
+      "is_bundle": false,
+      "ean": "5902963001597",
+      "asin": "",
+      "parent_id": 590120819,
+      "sku": "5912267",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 0,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Tega Baby Przewijak Dziki Zachód biały - Wzór: słonik",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Przewijak Dziki Zachód biały</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny przewijak dla dziecka, wygodny do codziennej pielęgnacji po kąpieli i przy zmianie pieluszki.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">przewijak</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Dziki Zachód</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne miejsce do przewijania</h3>Przewijak pomaga przygotować spokojną i uporządkowaną przestrzeń do codziennej pielęgnacji maluszka. Gładka powierzchnia jest łatwa do przetarcia, a delikatny wzór dobrze pasuje do dziecięcego pokoju.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka i praktyczna forma do codziennego przewijania dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Powierzchnia łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Warianty do wyboru: jednorożec, jelonek, lisek, słonik.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Codzienny komfort</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Ułatwia pielęgnację dziecka w domu i po kąpieli.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Gładką powierzchnię można szybko przetrzeć po użyciu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Komody i przewijaki</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Dziki Zachód</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzór</strong><span style=\"color:#6a5260;text-align:right;\">jednorożec, jelonek, lisek, słonik</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Artykuły Marini</strong><span style=\"color:#6a5260;text-align:right;\">5912428, 5912429, 5912430, 5912267</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Użytkowanie</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Używaj przewijaka na stabilnej, równej powierzchni.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po użyciu przetrzyj powierzchnię wilgotną ściereczką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Nie pozostawiaj dziecka bez opieki podczas przewijania.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy stosować wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i producenta Tega Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 73.68
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10654805655885",
+          "variant_id": "53868356403533"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912428-1.jpg?v=1778266396",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912429-1.jpg?v=1778266396",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912430-1.jpg?v=1778266396"
+      }
+    },
+    "590488806": {
+      "is_bundle": false,
+      "ean": "5902963004345",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "5912431",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7985745,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Tega Baby Przewijak Leśna Opowieść biały",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Przewijak Leśna Opowieść biały</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny przewijak dla dziecka, wygodny do codziennej pielęgnacji po kąpieli i przy zmianie pieluszki.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">przewijak</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Leśna Opowieść</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne miejsce do przewijania</h3>Przewijak pomaga przygotować spokojną i uporządkowaną przestrzeń do codziennej pielęgnacji maluszka. Gładka powierzchnia jest łatwa do przetarcia, a delikatny wzór dobrze pasuje do dziecięcego pokoju.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka i praktyczna forma do codziennego przewijania dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Powierzchnia łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Jeden wariant gotowy do uzupełnienia zdjęciem produktu.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Codzienny komfort</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Ułatwia pielęgnację dziecka w domu i po kąpieli.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Gładką powierzchnię można szybko przetrzeć po użyciu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Komody i przewijaki</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Leśna Opowieść</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Artykuły Marini</strong><span style=\"color:#6a5260;text-align:right;\">5912431</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Użytkowanie</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Używaj przewijaka na stabilnej, równej powierzchni.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po użyciu przetrzyj powierzchnię wilgotną ściereczką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Nie pozostawiaj dziecka bez opieki podczas przewijania.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy stosować wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i producenta Tega Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 73.68
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655474123085",
+          "variant_id": "53868356436301"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {}
+    },
+    "590488811": {
+      "is_bundle": false,
+      "ean": "5902963002693",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "5912432",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7985745,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Tega Baby Przewijak METEO biały słonko",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Przewijak METEO biały słonko</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny przewijak dla dziecka, wygodny do codziennej pielęgnacji po kąpieli i przy zmianie pieluszki.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">przewijak</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">METEO</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne miejsce do przewijania</h3>Przewijak pomaga przygotować spokojną i uporządkowaną przestrzeń do codziennej pielęgnacji maluszka. Gładka powierzchnia jest łatwa do przetarcia, a delikatny wzór dobrze pasuje do dziecięcego pokoju.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka i praktyczna forma do codziennego przewijania dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Powierzchnia łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Jeden wariant gotowy do uzupełnienia zdjęciem produktu.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Codzienny komfort</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Ułatwia pielęgnację dziecka w domu i po kąpieli.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Gładką powierzchnię można szybko przetrzeć po użyciu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Komody i przewijaki</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">METEO</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Artykuły Marini</strong><span style=\"color:#6a5260;text-align:right;\">5912432</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Użytkowanie</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Używaj przewijaka na stabilnej, równej powierzchni.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po użyciu przetrzyj powierzchnię wilgotną ściereczką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Nie pozostawiaj dziecka bez opieki podczas przewijania.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy stosować wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i producenta Tega Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 73.68
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655474155853",
+          "variant_id": "53868356469069"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {}
+    },
+    "590488816": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7985745,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Tega Baby Przewijak twardy MIŚ",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Przewijak twardy MIŚ</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny przewijak dla dziecka, wygodny do codziennej pielęgnacji po kąpieli i przy zmianie pieluszki.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">przewijak</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">MIŚ</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne miejsce do przewijania</h3>Przewijak pomaga przygotować spokojną i uporządkowaną przestrzeń do codziennej pielęgnacji maluszka. Gładka powierzchnia jest łatwa do przetarcia, a delikatny wzór dobrze pasuje do dziecięcego pokoju.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka i praktyczna forma do codziennego przewijania dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Powierzchnia łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Warianty do wyboru: biała perła, beżowy.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Codzienny komfort</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Ułatwia pielęgnację dziecka w domu i po kąpieli.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Gładką powierzchnię można szybko przetrzeć po użyciu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Komody i przewijaki</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">MIŚ</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolor</strong><span style=\"color:#6a5260;text-align:right;\">biała perła, beżowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Artykuły Marini</strong><span style=\"color:#6a5260;text-align:right;\">5912474, 5912473</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Użytkowanie</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Używaj przewijaka na stabilnej, równej powierzchni.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po użyciu przetrzyj powierzchnię wilgotną ściereczką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Nie pozostawiaj dziecka bez opieki podczas przewijania.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy stosować wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i producenta Tega Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 73.68
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655474188621",
+          "variant_id": "0"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "variants": {
+        "590488822": {
+          "name": "Tega Baby Przewijak twardy MIŚ - Kolor: biała perła",
+          "ean": "5902963008848",
+          "asin": "",
+          "sku": "5912474",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "73.68"
+          }
+        },
+        "590488828": {
+          "name": "Tega Baby Przewijak twardy MIŚ - Kolor: beżowy",
+          "ean": "5902963008855",
+          "asin": "",
+          "sku": "5912473",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "73.68"
+          }
+        }
+      },
+      "images": {}
+    },
+    "590488822": {
+      "is_bundle": false,
+      "ean": "5902963008848",
+      "asin": "",
+      "parent_id": 590488816,
+      "sku": "5912474",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7985745,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Tega Baby Przewijak twardy MIŚ - Kolor: biała perła",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Przewijak twardy MIŚ</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny przewijak dla dziecka, wygodny do codziennej pielęgnacji po kąpieli i przy zmianie pieluszki.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">przewijak</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">MIŚ</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne miejsce do przewijania</h3>Przewijak pomaga przygotować spokojną i uporządkowaną przestrzeń do codziennej pielęgnacji maluszka. Gładka powierzchnia jest łatwa do przetarcia, a delikatny wzór dobrze pasuje do dziecięcego pokoju.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka i praktyczna forma do codziennego przewijania dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Powierzchnia łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Warianty do wyboru: biała perła, beżowy.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Codzienny komfort</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Ułatwia pielęgnację dziecka w domu i po kąpieli.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Gładką powierzchnię można szybko przetrzeć po użyciu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Komody i przewijaki</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">MIŚ</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolor</strong><span style=\"color:#6a5260;text-align:right;\">biała perła, beżowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Artykuły Marini</strong><span style=\"color:#6a5260;text-align:right;\">5912474, 5912473</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Użytkowanie</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Używaj przewijaka na stabilnej, równej powierzchni.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po użyciu przetrzyj powierzchnię wilgotną ściereczką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Nie pozostawiaj dziecka bez opieki podczas przewijania.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy stosować wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i producenta Tega Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 73.68
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655474188621",
+          "variant_id": "53868356501837"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {}
+    },
+    "590488828": {
+      "is_bundle": false,
+      "ean": "5902963008855",
+      "asin": "",
+      "parent_id": 590488816,
+      "sku": "5912473",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7985745,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Tega Baby Przewijak twardy MIŚ - Kolor: beżowy",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Przewijak twardy MIŚ</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny przewijak dla dziecka, wygodny do codziennej pielęgnacji po kąpieli i przy zmianie pieluszki.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">przewijak</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">MIŚ</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne miejsce do przewijania</h3>Przewijak pomaga przygotować spokojną i uporządkowaną przestrzeń do codziennej pielęgnacji maluszka. Gładka powierzchnia jest łatwa do przetarcia, a delikatny wzór dobrze pasuje do dziecięcego pokoju.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka i praktyczna forma do codziennego przewijania dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Powierzchnia łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Warianty do wyboru: biała perła, beżowy.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Codzienny komfort</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Ułatwia pielęgnację dziecka w domu i po kąpieli.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Gładką powierzchnię można szybko przetrzeć po użyciu.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Komody i przewijaki</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">MIŚ</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolor</strong><span style=\"color:#6a5260;text-align:right;\">biała perła, beżowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Artykuły Marini</strong><span style=\"color:#6a5260;text-align:right;\">5912474, 5912473</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Użytkowanie</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Używaj przewijaka na stabilnej, równej powierzchni.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po użyciu przetrzyj powierzchnię wilgotną ściereczką.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Nie pozostawiaj dziecka bez opieki podczas przewijania.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy stosować wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i producenta Tega Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 73.68
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655474188621",
+          "variant_id": "53868356534605"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {}
+    }
+  },
+  "parentPriceFixes": [
+    {
+      "parentProductId": "590120819",
+      "price": 73.68,
+      "response": {
+        "status": "SUCCESS",
+        "product_id": 590120819,
+        "warnings": {}
+      }
+    },
+    {
+      "parentProductId": "590488816",
+      "price": 73.68,
+      "response": {
+        "status": "SUCCESS",
+        "product_id": 590488816,
+        "warnings": {}
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "summary": {
+    "generated_at": "2026-05-04T14:49:46",
+    "source_before_report": "store_reports\\merchant_center\\2026-05-04\\merchant_ads_scope_before_20260504-144745.json",
+    "allowed_paid_ads_offer_count": 12,
+    "targeted_pause_count": 7,
+    "patched_ok_count": 7,
+    "verified_paused_count": 0,
+    "allowed_offer_ids": [
+      "10684112702236703032",
+      "11555450801705149523",
+      "16511090014209914440",
+      "9931257749113620660",
+      "shopify_PL_10517866021197_53291451744589",
+      "shopify_PL_10517867528525_53291462525261",
+      "shopify_PL_10517869068621_53291474682189",
+      "shopify_PL_10519344120141_53296171483469",
+      "shopify_PL_10523326054733_53311333007693",
+      "shopify_PL_10523329921357_53311374360909",
+      "shopify_PL_10526795039053_53327971582285",
+      "shopify_PL_10558848336205_53441254457677"
+    ]
+  },
+  "paused_results": [
+    {
+      "product_id": "online:pl:PL:shopify_PL_10644510671181_53816002969933",
+      "offer_id": "shopify_PL_10644510671181_53816002969933",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 102 cm jasny zielony",
+      "before_pause": "",
+      "patch_status": 200,
+      "patch_ok": true,
+      "patch_error": "",
+      "verify_status": 200,
+      "after_pause": "",
+      "verified_paused": false,
+      "link": "https://mamapack.pl/products/tega-baby-wanna-dziecieca-kroliczki-z-odplywem-102-cm?variant=53816002969933&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10644511359309_53812106363213",
+      "offer_id": "shopify_PL_10644511359309_53812106363213",
+      "title": "Tega Baby Wanna dziecięca Miś 102 cm",
+      "before_pause": "",
+      "patch_status": 200,
+      "patch_ok": true,
+      "patch_error": "",
+      "verify_status": 200,
+      "after_pause": "",
+      "verified_paused": false,
+      "link": "https://mamapack.pl/products/tega-baby-wanna-dziecieca-mis-102-cm?variant=53812106363213&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+    },
+    {
+      "product_id": "online:pl:PL:8641583731927345873",
+      "offer_id": "8641583731927345873",
+      "title": "Torba do szpitala dla DLA MAMY I NOWORODKA – gotowa wyprawka KOMPLETNA",
+      "before_pause": "",
+      "patch_status": 200,
+      "patch_ok": true,
+      "patch_error": "",
+      "verify_status": 200,
+      "after_pause": "",
+      "verified_paused": false,
+      "link": "https://mamapack.pl/products/podstawowy-md-2"
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10646557327693_53821536567629",
+      "offer_id": "shopify_PL_10646557327693_53821536567629",
+      "title": "Jednorazowe nakładki na toaletę - Biodegradowalne – mamapack",
+      "before_pause": "",
+      "patch_status": 200,
+      "patch_ok": true,
+      "patch_error": "",
+      "verify_status": 200,
+      "after_pause": "",
+      "verified_paused": false,
+      "link": "https://mamapack.pl/products/canpol-78-026-jednorazowe-splukiwalne-nakladki-na-toalete-10-szt-copy?variant=53821536567629&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10644510671181_53816002937165",
+      "offer_id": "shopify_PL_10644510671181_53816002937165",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 102 cm jasny różowy",
+      "before_pause": "",
+      "patch_status": 200,
+      "patch_ok": true,
+      "patch_error": "",
+      "verify_status": 200,
+      "after_pause": "",
+      "verified_paused": false,
+      "link": "https://mamapack.pl/products/tega-baby-wanna-dziecieca-kroliczki-z-odplywem-102-cm?variant=53816002937165&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10644510671181_53812105675085",
+      "offer_id": "shopify_PL_10644510671181_53812105675085",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 102 cm biały",
+      "before_pause": "",
+      "patch_status": 200,
+      "patch_ok": true,
+      "patch_error": "",
+      "verify_status": 200,
+      "after_pause": "",
+      "verified_paused": false,
+      "link": "https://mamapack.pl/products/tega-baby-wanna-dziecieca-kroliczki-z-odplywem-102-cm?variant=53812105675085&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_9816077205837_50445874233677",
+      "offer_id": "shopify_PL_9816077205837_50445874233677",
+      "title": "Avent-Zestaw: Butelka dla niemowląt 125 ml + Smoczek – mamapack",
+      "before_pause": "",
+      "patch_status": 200,
+      "patch_ok": true,
+      "patch_error": "",
+      "verify_status": 200,
+      "after_pause": "",
+      "verified_paused": false,
+      "link": "https://mamapack.pl/products/avent-zestaw-butelka-niemowlat-125-ml-smoczek-uspokajajacy?variant=50445874233677&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+﻿{
+    "checkedAt":  "2026-05-08T21:05:46.5280130+03:00",
+    "targetUrl":  "https://b2b.marini.pl/items/356?parent=0",
+    "loginState":  {
+                       "clicked":  true,
+                       "url":  "https://b2b.marini.pl/login",
+                       "fields":  [
+                                      {
+                                          "name":  "customerName",
+                                          "type":  "text",
+                                          "checked":  false
+                                      },
+                                      {
+                                          "name":  "userName",
+                                          "type":  "text",
+                                          "checked":  false
+                                      },
+                                      {
+                                          "name":  "password",
+                                          "type":  "password",
+                                          "filled":  true,
+                                          "checked":  false
+                                      },
+                                      {
+                                          "name":  "rememberMe",
+                                          "type":  "checkbox",
+                                          "checked":  false
+                                      },
+                                      {
+                                          "name":  "LoginConfirmation",
+                                          "type":  "checkbox",
+                                          "checked":  true
+                                      },
+                                      {
+                                          "name":  "",
+                                          "type":  "checkbox",
+                                          "checked":  true
+                                      },
+                                      {
+                                          "name":  "",
+                                          "type":  "checkbox",
+                                          "checked":  false
+                                      },
+                                      {
+                                          "name":  "",
+                                          "type":  "checkbox",
+                                          "checked":  false
+                                      },
+                                      {
+                                          "name":  "",
+                                          "type":  "checkbox",
+                                          "checked":  false
+                                      }
+                                  ]
+                   },
+    "pageState":  {
+                      "url":  "https://b2b.marini.pl/items/356?parent=0",
+                      "title":  "Comarch B2B 2025",
+                      "bodyText":  "Search Product 0 Podstawy pod wannę Sorting Product Name (A-Z) Filter TEGA DM-008 Stojak uniwersalny 86/102 LUX biały 3151 In Stock: 0 65,79 PLN Subtotal 57,24 PLN 80,92 PLN Total 70,41 PLN szt. New Cart Add To Cart TEGA DM-008 Stojak uniwersalny 86/102 LUX grafitowy 784480 The product is missing on the current price list szt. New Cart Add To Cart TEGA DM-018 Podstawa uniwersalna 102/102LUX czarny 771230 The product is missing on the current price list szt. New Cart Add To Cart TEGA DM-018 Podstawa uniwersalna 102/102LUX grafitowy 784510 The product is missing on the current price list szt. New Cart Add To Cart TEGA DM-018-103 Podstawa uniwersalna 102/102LUX biała 768291 The product is missing on the current price list szt. New Cart Add To Cart TEGA DM-035-103 Stojak pod wanienkę TEGGI biały 5909167 The product is missing on the current price list szt. New Cart Add To Cart TEGA DM-037-103 Stojak pod wanienkę składaną biały 5914537 The product is missing on the current price list szt. New Cart Add To Cart TEGA DM-038-103 Stojak pod wanienkę składaną do montażu biały 5914536 The product is missing on the current price list szt. New Cart Add To Cart © Comarch SA 2022. All rights reserved Powered by Comarch B2B ® Regulamin Marini B2BRegulamin usługi dropshipping POLISH CZECH SLOVAK HUNGARIAN ENGLISH Ta strona używa plików cookie Ta strona korzysta z plików cookie, aby zapewnić lepszą wygodę użytkowania oraz do personalizowania treści i reklam. Korzystając z tej strony, wyrażasz zgodę na używanie przez nas wszystkich plików cookie zgodnie z warunkami naszej polityki plików cookie. Dowiedz się więcej AKCEPTUJ WSZYSTKIE ODRZUĆ WSZYSTKIE POKAŻ SZCZEGÓŁY",
+                      "resources":  [
+                                        {
+                                            "name":  "https://fonts.googleapis.com/icon?family=Material+Icons+Outlined",
+                                            "initiatorType":  "link"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/api/Configuration/getLogoFile",
+                                            "initiatorType":  "img"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/ClientApp/prod/browser/polyfills-FFHMD2TL.js",
+                                            "initiatorType":  "script"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/ClientApp/prod/browser/main-URPDG4OG.js",
+                                            "initiatorType":  "script"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/ClientApp/prod/browser/styles-RTC5DSNK.css",
+                                            "initiatorType":  "link"
+                                        },
+                                        {
+                                            "name":  "https://www.googletagmanager.com/gtm.js?id=GTM-5MM9XLK",
+                                            "initiatorType":  "script"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/ClientApp/prod/browser/chunk-XZYTB7KA.js",
+                                            "initiatorType":  "script"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/ClientApp/prod/browser/chunk-A4OZ2DUO.js",
+                                            "initiatorType":  "script"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/ClientApp/prod/browser/chunk-TPPB2OIG.js",
+                                            "initiatorType":  "script"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/api/Configuration",
+                                            "initiatorType":  "fetch"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/ClientApp/prod/browser/media/themify-LDWN3OQG.woff?-fvbane",
+                                            "initiatorType":  "css"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/ClientApp/prod/browser/media/Roboto-Light-DLKQXCNL.ttf",
+                                            "initiatorType":  "css"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/ClientApp/prod/browser/media/Roboto-Regular-2C6IPKAZ.ttf",
+                                            "initiatorType":  "css"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/ClientApp/prod/browser/media/Roboto-Medium-SICMFKQK.ttf",
+                                            "initiatorType":  "css"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/manifest.webmanifest",
+                                            "initiatorType":  "link"
+                                        },
+                                        {
+                                            "name":  "https://cdn.cookie-script.com/s/c248119a60c52921890c7d393370dbf6.js",
+                                            "initiatorType":  "script"
+                                        },
+                                        {
+                                            "name":  "https://www.googletagmanager.com/gtag/js?id=AW-800769934\u0026cx=c\u0026gtm=4e6562",
+                                            "initiatorType":  "script"
+                                        },
+                                        {
+                                            "name":  "https://www.googletagmanager.com/gtag/js?id=G-5WM70ZTW7P\u0026cx=c\u0026gtm=4e6562",
+                                            "initiatorType":  "script"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/languages/getactive",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/account/SetDefaultCulture",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/account/isloggedin",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/resources/getbylanguageid?languageId=1",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/ClientApp/prod/browser/chunk-2SP4U7DD.js",
+                                            "initiatorType":  "script"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/ClientApp/prod/browser/chunk-ELY633WR.js",
+                                            "initiatorType":  "script"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/api/configuration/getforcustomer",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/api/customer/header",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/api/common/menuitems",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/api/items/filterSetXl?groupId=356",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/api/common/globalFiltersXl",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/api/items/getFiltersPerArticleGroupXl?groupId=356",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/account/antiforgerytokenforajaxpost",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/account/antiforgerytokenforajaxpost",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/ClientApp/prod/browser/chunk-WK72VRIL.js",
+                                            "initiatorType":  "script"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/api/Configuration/getPwaFaviconFile",
+                                            "initiatorType":  "other"
+                                        },
+                                        {
+                                            "name":  "https://region1.google-analytics.com/g/collect?v=2\u0026tid=G-5WM70ZTW7P\u0026gtm=45je6562v874892056z878377588za20gzb78377588zd78377588\u0026_p=1778263532606\u0026gcs=G100\u0026gcd=13p3pPp2p5l1\u0026npa=1\u0026dma_cps=-\u0026dma=1\u0026gdid=dMmY1Mm\u0026_eu=AAAAAGAC\u0026are=1\u0026cid=41270735.1778263533\u0026frm=0\u0026pscdl=denied\u0026rcb=11\u0026sr=800x600\u0026uaa=x86\u0026uab=64\u0026uafvl=Microsoft%2520Edge%3B147.0.3912.98%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138\u0026uam=\u0026uamb=0\u0026uap=Windows\u0026uapv=10.0.0\u0026uaw=0\u0026ul=ru\u0026gaf=2\u0026_s=1\u0026tag_exp=0~115616986~115938465~115938468~118463261~118719172\u0026sid=1778263532\u0026sct=1\u0026seg=0\u0026dl=https%3A%2F%2Fb2b.marini.pl%2Fitems%2F356%3Fparent%3D0\u0026dt=Comarch%20B2B%202025\u0026_tu=CA\u0026en=page_view\u0026_fv=1\u0026_nsi=1\u0026_ss=1\u0026tfd=885",
+                                            "initiatorType":  "fetch"
+                                        },
+                                        {
+                                            "name":  "https://pagead2.googlesyndication.com/ccm/collect?rcb=7\u0026frm=0\u0026ae=g\u0026en=page_view\u0026dl=https%3A%2F%2Fb2b.marini.pl%2Fitems%2F356\u0026scrsrc=www.googletagmanager.com\u0026rnd=1868126963.1778263533\u0026navt=n\u0026npa=1\u0026ep.ads_data_redaction=1\u0026gdid=dMmY1Mm\u0026_tu=CA\u0026gtm=45He6562v78377588za200zd78377588xea\u0026gcs=G100\u0026gcd=13p3p3p2p5l1\u0026dma_cps=-\u0026dma=1\u0026tag_exp=0~115616985~115938465~115938469~118128922~118463261~118494634~118719170\u0026apve=1\u0026apvf=f\u0026apvc=1\u0026tft=1778263533378\u0026tfd=897",
+                                            "initiatorType":  "fetch"
+                                        },
+                                        {
+                                            "name":  "https://pagead2.googlesyndication.com/ccm/collect?rcb=14\u0026frm=0\u0026en=page_view\u0026dl=https%3A%2F%2Fb2b.marini.pl%2Fitems%2F356\u0026scrsrc=www.googletagmanager.com\u0026rnd=1868126963.1778263533\u0026navt=n\u0026npa=1\u0026did=dMmY1Mm\u0026gdid=dMmY1Mm\u0026_tu=CA\u0026gtm=45be6562v9181652268z878377588za20gzb78377588zd78377588xec\u0026gcs=G100\u0026gcd=13p3pPp2p5l1\u0026dma_cps=-\u0026dma=1\u0026tag_exp=0~115938465~115938469~118128922~118463262\u0026apve=1\u0026apvf=f\u0026apvc=0\u0026tids=AW-800769934\u0026tid=AW-800769934\u0026tft=1778263533379\u0026tfd=898",
+                                            "initiatorType":  "fetch"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/resources/getbylanguageid?languageId=2",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/api/carts",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/api/items/articleListXl/?groupId=356\u0026filterInGroup=false\u0026pageNumber=1\u0026sortMode=NameAsc\u0026onlyAvailable=false\u0026warehouseId=1\u0026stockLevelFilter=0",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/api/carts/availableCarts",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/api/items/treeXl",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/api/Items/getArticleGeneralFiltersPerArticleGroup",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/api/items/unitsXl?ids=20938-34078-37117-50790-50820-65423-72313-72314",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/imagehandler.ashx?id=62559\u0026width=320\u0026height=320",
+                                            "initiatorType":  "img"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/imagehandler.ashx?id=58751\u0026width=320\u0026height=320",
+                                            "initiatorType":  "img"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/imagehandler.ashx?id=36967\u0026width=320\u0026height=320",
+                                            "initiatorType":  "img"
+                                        },
+                                        {
+                                            "name":  "https://b2b.marini.pl/api/items/articleFromListXl/?articleId=20938\u0026warehouseId=1",
+                                            "initiatorType":  "xmlhttprequest"
+                                        },
+                                        {
+                                            "name":  "https://region1.google-analytics.com/g/collect?v=2\u0026tid=G-5WM70ZTW7P\u0026gtm=45je6562v874892056za20gzb78377588zd78377588\u0026_p=1778263532606\u0026gcs=G100\u0026gcd=13p3pPp2p5l1\u0026npa=1\u0026dma_cps=-\u0026dma=1\u0026gdid=dMmY1Mm\u0026_eu=AEAAAGAC\u0026ae=a\u0026are=1\u0026cid=41270735.1778263533\u0026frm=0\u0026pscdl=denied\u0026rcb=11\u0026sr=800x600\u0026uaa=x86\u0026uab=64\u0026uafvl=Microsoft%2520Edge%3B147.0.3912.98%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.138\u0026uam=\u0026uamb=0\u0026uap=Windows\u0026uapv=10.0.0\u0026uaw=0\u0026ul=ru\u0026gaf=2\u0026_s=2\u0026tag_exp=0~115616986~115938465~115938468~118463261~118719172\u0026sid=1778263532\u0026sct=1\u0026seg=0\u0026dl=https%3A%2F%2Fb2b.marini.pl%2Fitems%2F356%3Fparent%3D0\u0026dt=Comarch%20B2B%202025\u0026_tu=CA\u0026en=scroll\u0026epn.percent_scrolled=90\u0026_et=3\u0026tfd=5898",
+                                            "initiatorType":  "fetch"
+                                        }
+                                    ],
+                      "links":  [
+                                    {
+                                        "text":  "Orders",
+                                        "href":  "https://b2b.marini.pl/profile/orders"
+                                    },
+                                    {
+                                        "text":  "Inquiries",
+                                        "href":  "https://b2b.marini.pl/profile/inquiries"
+                                    },
+                                    {
+                                        "text":  "Discounts",
+                                        "href":  "https://b2b.marini.pl/profile/promotions"
+                                    },
+                                    {
+                                        "text":  "Quotes",
+                                        "href":  "https://b2b.marini.pl/profile/quotes"
+                                    },
+                                    {
+                                        "text":  "Payments",
+                                        "href":  "https://b2b.marini.pl/profile/payments"
+                                    },
+                                    {
+                                        "text":  "To Download",
+                                        "href":  "https://b2b.marini.pl/profile/files"
+                                    },
+                                    {
+                                        "text":  "Complaints",
+                                        "href":  "https://b2b.marini.pl/profile/complaints"
+                                    },
+                                    {
+                                        "text":  "My Data",
+                                        "href":  "https://b2b.marini.pl/profile/mydata"
+                                    },
+                                    {
+                                        "text":  "Discounts",
+                                        "href":  "https://b2b.marini.pl/profile/promotions"
+                                    },
+                                    {
+                                        "text":  "Quotes",
+                                        "href":  "https://b2b.marini.pl/profile/quotes"
+                                    },
+                                    {
+                                        "text":  "Plik XML",
+                                        "href":  "https://marini.pl/b2b/marini-b2b.xml"
+                                    },
+                                    {
+                                        "text":  "Akcesoria",
+                                        "href":  "https://b2b.marini.pl/items/359?parent=351"
+                                    },
+                                    {
+                                        "text":  "Leżaczki do wanny",
+                                        "href":  "https://b2b.marini.pl/items/355?parent=351"
+                                    },
+                                    {
+                                        "text":  "Nakładki na WC",
+                                        "href":  "https://b2b.marini.pl/items/354?parent=351"
+                                    },
+                                    {
+                                        "text":  "Nocniki",
+                                        "href":  "https://b2b.marini.pl/items/353?parent=351"
+                                    },
+                                    {
+                                        "text":  "PRZEWIJAKI",
+                                        "href":  "https://b2b.marini.pl/items/68981?parent=351"
+                                    },
+                                    {
+                                        "text":  "Stopnie",
+                                        "href":  "https://b2b.marini.pl/items/357?parent=351"
+                                    },
+                                    {
+                                        "text":  "Wanny",
+                                        "href":  "https://b2b.marini.pl/items/352?parent=351"
+                                    },
+                                    {
+                                        "text":  "",
+                                        "href":  "https://b2b.marini.pl/itemdetails/20938?group=356"
+                                    },
+                                    {
+                                        "text":  "",
+                                        "href":  "https://b2b.marini.pl/itemdetails/50790?group=356"
+                                    },
+                                    {
+                                        "text":  "",
+                                        "href":  "https://b2b.marini.pl/itemdetails/37117?group=356"
+                                    },
+                                    {
+                                        "text":  "",
+                                        "href":  "https://b2b.marini.pl/itemdetails/50820?group=356"
+                                    },
+                                    {
+                                        "text":  "",
+                                        "href":  "https://b2b.marini.pl/itemdetails/34078?group=356"
+                                    },
+                                    {
+                                        "text":  "",
+                                        "href":  "https://b2b.marini.pl/itemdetails/65423?group=356"
+                                    },
+                                    {
+                                        "text":  "",
+                                        "href":  "https://b2b.marini.pl/itemdetails/72314?group=356"
+                                    },
+                                    {
+                                        "text":  "",
+                                        "href":  "https://b2b.marini.pl/itemdetails/72313?group=356"
+                                    },
+                                    {
+                                        "text":  "Comarch B2B",
+                                        "href":  "https://www.comarch.pl/erp/sprzedaz-internetowa/comarch-b2b/"
+                                    },
+                                    {
+                                        "text":  "Regulamin Marini B2B",
+                                        "href":  "https://b2b.marini.pl/Regulamin_b2b_Marini.pdf"
+                                    },
+                                    {
+                                        "text":  "Regulamin usługi dropshipping",
+                                        "href":  "https://b2b.marini.pl/Regulamin_dropshipping.pdf"
+                                    },
+                                    {
+                                        "text":  "Dowiedz się więcej",
+                                        "href":  "https://marini.pl/polityka-prywatnosci"
+                                    }
+                                ],
+                      "scripts":  [
+                                      "https://www.googletagmanager.com/gtag/js?id=G-5WM70ZTW7P\u0026cx=c\u0026gtm=4e6562",
+                                      "https://www.googletagmanager.com/gtag/js?id=AW-800769934\u0026cx=c\u0026gtm=4e6562",
+                                      "https://cdn.cookie-script.com/s/c248119a60c52921890c7d393370dbf6.js",
+                                      "https://www.googletagmanager.com/gtm.js?id=GTM-5MM9XLK",
+                                      "https://b2b.marini.pl/ClientApp/prod/browser/polyfills-FFHMD2TL.js",
+                                      "https://b2b.marini.pl/ClientApp/prod/browser/main-URPDG4OG.js"
+                                  ]
+                  }
+}

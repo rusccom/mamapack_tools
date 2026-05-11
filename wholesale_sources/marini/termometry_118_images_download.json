@@ -1,0 +1,28 @@
+﻿{
+    "checkedAt":  "2026-05-09T20:36:06.0475131+03:00",
+    "count":  2,
+    "okCount":  2,
+    "failed":  [
+
+               ],
+    "items":  [
+                  {
+                      "sku":  "5910165",
+                      "title":  "B.O.1575 Termometr elektryczny bezdotykowy",
+                      "imageId":  86542,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\termometry_118\\5910165-1.jpg",
+                      "bytes":  24042,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5914274",
+                      "title":  "B.O.1901 Termometr elektroniczny elastyczna końcówka DMT-4336",
+                      "imageId":  89143,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\termometry_118\\5914274-1.jpg",
+                      "bytes":  44960,
+                      "contentType":  "image/jpeg"
+                  }
+              ]
+}

@@ -1,0 +1,34 @@
+{
+  "deletedAt": "2026-05-08T21:13:46.100332+03:00",
+  "deletedCollection": {
+    "id": "gid://shopify/Collection/660934918477",
+    "title": "Wanienki",
+    "handle": "wanienki",
+    "productsCount": {
+      "count": 5
+    },
+    "products": {
+      "nodes": [
+        {
+          "id": "gid://shopify/Product/10654683234637"
+        },
+        {
+          "id": "gid://shopify/Product/10654683038029"
+        },
+        {
+          "id": "gid://shopify/Product/10654682808653"
+        },
+        {
+          "id": "gid://shopify/Product/10654682448205"
+        },
+        {
+          "id": "gid://shopify/Product/10654682120525"
+        }
+      ]
+    }
+  },
+  "result": {
+    "deletedCollectionId": "gid://shopify/Collection/660934918477",
+    "userErrors": []
+  }
+}

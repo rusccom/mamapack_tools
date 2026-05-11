@@ -1,0 +1,1029 @@
+{
+  "createdAt": "2026-05-09T21:42:09.650277+03:00",
+  "sourceUrl": "https://b2b.marini.pl/items/12?parent=10",
+  "collection": {
+    "id": "gid://shopify/Collection/660910866765",
+    "title": "Spacerówki",
+    "handle": "spacerowki"
+  },
+  "availableSkuCount": 15,
+  "skippedCount": 26,
+  "skipped": [
+    {
+      "id": 34000,
+      "sku": "768218",
+      "title": "4 BABY Wózek COSMO 2w1 DARK TURKUS PROMOCJA",
+      "imageId": 21611,
+      "stock": 0,
+      "purchaseNet": 650.0,
+      "barcode": "",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 55903,
+      "sku": "789375",
+      "title": "4 BABY Wózek spacerowy EVERSO BLACK",
+      "imageId": 58996,
+      "stock": 1,
+      "purchaseNet": 611.1,
+      "barcode": "5901691958029",
+      "priceList": true,
+      "reason": "not requested model"
+    },
+    {
+      "id": 70363,
+      "sku": "5912766",
+      "title": "4 BABY Wózek spacerowy FOSTER BLACK",
+      "imageId": 84637,
+      "stock": 6,
+      "purchaseNet": 544.5,
+      "barcode": "5901691959910",
+      "priceList": true,
+      "reason": "not requested model"
+    },
+    {
+      "id": 70364,
+      "sku": "5912767",
+      "title": "4 BABY Wózek spacerowy FOSTER GRAPHITE",
+      "imageId": 84636,
+      "stock": 4,
+      "purchaseNet": 544.5,
+      "barcode": "5901691959927",
+      "priceList": true,
+      "reason": "not requested model"
+    },
+    {
+      "id": 70365,
+      "sku": "5912768",
+      "title": "4 BABY Wózek spacerowy FOSTER GREEN",
+      "imageId": 84638,
+      "stock": 1,
+      "purchaseNet": 544.5,
+      "barcode": "5901691959934",
+      "priceList": true,
+      "reason": "not requested model"
+    },
+    {
+      "id": 70366,
+      "sku": "5912769",
+      "title": "4 BABY Wózek spacerowy FOSTER MOKKA",
+      "imageId": 84639,
+      "stock": 2,
+      "purchaseNet": 544.5,
+      "barcode": "5901691959941",
+      "priceList": true,
+      "reason": "not requested model"
+    },
+    {
+      "id": 58390,
+      "sku": "5902700",
+      "title": "4 BABY Wózek spacerowy RAPID XXIII GREEN",
+      "imageId": 62980,
+      "stock": 0,
+      "purchaseNet": 315.0,
+      "barcode": "5901691958210",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 64675,
+      "sku": "5908491",
+      "title": "4 BABY Wózek spacerowy RAPID XXIV OLIVE",
+      "imageId": 74167,
+      "stock": 0,
+      "purchaseNet": 315.0,
+      "barcode": "5901691959187",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 47565,
+      "sku": "781369",
+      "title": "4 BABY Wózek spacerowy STINGER AIR BLACK",
+      "imageId": 41580,
+      "stock": 0,
+      "purchaseNet": 611.1,
+      "barcode": "5901691957114",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 54412,
+      "sku": "787962",
+      "title": "4 BABY Wózek spacerowy STINGER AIR GREEN",
+      "imageId": 55002,
+      "stock": 0,
+      "purchaseNet": 611.1,
+      "barcode": "5901691957756",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 47566,
+      "sku": "781370",
+      "title": "4 BABY Wózek spacerowy STINGER AIR GREY",
+      "imageId": 41579,
+      "stock": 0,
+      "purchaseNet": 604.63,
+      "barcode": "5901691957121",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 47567,
+      "sku": "781371",
+      "title": "4 BABY Wózek spacerowy STINGER AIR LIGHT GREY",
+      "imageId": 41578,
+      "stock": 0,
+      "purchaseNet": 611.1,
+      "barcode": "5901691957138",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 58394,
+      "sku": "5902704",
+      "title": "4 BABY Wózek spacerowy STINGER PRO GRAPHITE",
+      "imageId": 62976,
+      "stock": 0,
+      "purchaseNet": 539.1,
+      "barcode": "5901691958371",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 58395,
+      "sku": "5902705",
+      "title": "4 BABY Wózek spacerowy STINGER PRO GREEN",
+      "imageId": 62975,
+      "stock": 0,
+      "purchaseNet": 539.1,
+      "barcode": "5901691958388",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 63833,
+      "sku": "5907732",
+      "title": "4 BABY Wózek spacerowy STINGER PRO KHAKI",
+      "imageId": 72402,
+      "stock": 0,
+      "purchaseNet": 539.1,
+      "barcode": "5901691958944",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 58396,
+      "sku": "5902706",
+      "title": "4 BABY Wózek spacerowy STINGER PRO MELANGE GREY",
+      "imageId": 62974,
+      "stock": 0,
+      "purchaseNet": 539.1,
+      "barcode": "5901691958395",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 63834,
+      "sku": "5907733",
+      "title": "4 BABY Wózek spacerowy STINGER PRO MOKKA",
+      "imageId": 72399,
+      "stock": 0,
+      "purchaseNet": 539.1,
+      "barcode": "5901691958951",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 58398,
+      "sku": "5902708",
+      "title": "4 BABY Wózek spacerowy STINGER XXIII BLACK",
+      "imageId": 62972,
+      "stock": 0,
+      "purchaseNet": 458.1,
+      "barcode": "5901691958241",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 58401,
+      "sku": "5902711",
+      "title": "4 BABY Wózek spacerowy STINGER XXIV MELANGE GREY",
+      "imageId": 62969,
+      "stock": 0,
+      "purchaseNet": 458.1,
+      "barcode": "5901691958272",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 64297,
+      "sku": "5908154",
+      "title": "4 BABY Wózek spacerowy STINGER XXIV MOKKA",
+      "imageId": 75535,
+      "stock": 0,
+      "purchaseNet": 458.1,
+      "barcode": "5901691958982",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 64989,
+      "sku": "5908769",
+      "title": "4 BABY Wózek spacerowy TWIZZY XXIII BLACK",
+      "imageId": 75529,
+      "stock": 0,
+      "purchaseNet": 362.7,
+      "barcode": "5901691958791",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 64987,
+      "sku": "5908767",
+      "title": "4 BABY Wózek spacerowy TWIZZY XXIII MOKKA",
+      "imageId": 75532,
+      "stock": 0,
+      "purchaseNet": 362.7,
+      "barcode": "5901691958821",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 70367,
+      "sku": "5912770",
+      "title": "4 BABY Wózek uniwersalny FOSTER 2w1 BLACK",
+      "imageId": 84640,
+      "stock": 0,
+      "purchaseNet": 967.78,
+      "barcode": "5901691959873",
+      "priceList": true,
+      "reason": "not requested model"
+    },
+    {
+      "id": 70368,
+      "sku": "5912771",
+      "title": "4 BABY Wózek uniwersalny FOSTER 2w1 GRAPHITE",
+      "imageId": 84641,
+      "stock": 0,
+      "purchaseNet": 967.78,
+      "barcode": "5901691959880",
+      "priceList": true,
+      "reason": "not requested model"
+    },
+    {
+      "id": 70369,
+      "sku": "5912772",
+      "title": "4 BABY Wózek uniwersalny FOSTER 2w1 GREEN",
+      "imageId": 84642,
+      "stock": 1,
+      "purchaseNet": 967.78,
+      "barcode": "5901691959897",
+      "priceList": true,
+      "reason": "not requested model"
+    },
+    {
+      "id": 70370,
+      "sku": "5912773",
+      "title": "4 BABY Wózek uniwersalny FOSTER 2w1 MOKKA",
+      "imageId": 84643,
+      "stock": 0,
+      "purchaseNet": 967.78,
+      "barcode": "5901691959903",
+      "priceList": true,
+      "reason": "not requested model"
+    }
+  ],
+  "productCountAfterGrouping": 5,
+  "products": [
+    {
+      "title": "4 Baby Rapid XXIV wózek spacerowy",
+      "handle": "4-baby-rapid-xxiv-wozek-spacerowy",
+      "optionName": "Kolor",
+      "variantCount": 4,
+      "skus": [
+        "5909632",
+        "5908285",
+        "5908489",
+        "5908490"
+      ],
+      "variantValues": [
+        "czarny",
+        "grafitowy",
+        "khaki",
+        "mokka"
+      ]
+    },
+    {
+      "title": "4 Baby Stinger PRO wózek spacerowy",
+      "handle": "4-baby-stinger-pro-wozek-spacerowy",
+      "optionName": "Kolor",
+      "variantCount": 3,
+      "skus": [
+        "5902703",
+        "5902707",
+        "5907734"
+      ],
+      "variantValues": [
+        "czarny",
+        "melange jasnoszary",
+        "oliwkowy"
+      ]
+    },
+    {
+      "title": "4 Baby Stinger XXIII wózek spacerowy",
+      "handle": "4-baby-stinger-xxiii-wozek-spacerowy",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5902709"
+      ],
+      "variantValues": [
+        "grafitowy"
+      ]
+    },
+    {
+      "title": "4 Baby Stinger XXIV wózek spacerowy",
+      "handle": "4-baby-stinger-xxiv-wozek-spacerowy",
+      "optionName": "Kolor",
+      "variantCount": 4,
+      "skus": [
+        "5902710",
+        "5908153",
+        "5902712",
+        "5908155"
+      ],
+      "variantValues": [
+        "zielony",
+        "khaki",
+        "melange jasnoszary",
+        "oliwkowy"
+      ]
+    },
+    {
+      "title": "4 Baby Twizzy XXIII wózek spacerowy",
+      "handle": "4-baby-twizzy-xxiii-wozek-spacerowy",
+      "optionName": "Kolor",
+      "variantCount": 3,
+      "skus": [
+        "5908770",
+        "5908766",
+        "5908768"
+      ],
+      "variantValues": [
+        "grafitowy",
+        "szary",
+        "oliwkowy"
+      ]
+    }
+  ],
+  "created": [
+    {
+      "product": {
+        "id": "gid://shopify/Product/10655512101197",
+        "title": "4 Baby Rapid XXIV wózek spacerowy",
+        "handle": "4-baby-rapid-xxiv-wozek-spacerowy",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "5909632",
+              "barcode": "5901691959149",
+              "price": "504.00",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "czarny"
+                }
+              ]
+            },
+            {
+              "sku": "5908285",
+              "barcode": "5901691959156",
+              "price": "504.00",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "grafitowy"
+                }
+              ]
+            },
+            {
+              "sku": "5908489",
+              "barcode": "5901691959170",
+              "price": "504.00",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "khaki"
+                }
+              ]
+            },
+            {
+              "sku": "5908490",
+              "barcode": "5901691959163",
+              "price": "504.00",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "mokka"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY"
+            },
+            {
+              "status": "READY"
+            },
+            {
+              "status": "READY"
+            },
+            {
+              "status": "READY"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Spacerówki",
+              "handle": "spacerowki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "4 Baby Rapid XXIV wózek spacerowy | MamaPack",
+          "description": "4 Baby Rapid XXIV wózek spacerowy od 4 Baby: spacerówka do 22 kg. Dostępne kolory: czarny, grafitowy, khaki, mokka."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 65921,
+          "sku": "5909632",
+          "title": "4 BABY Wózek spacerowy RAPID XXIV BLACK",
+          "imageId": 78846,
+          "stock": 7,
+          "purchaseNet": 315.0,
+          "barcode": "5901691959149",
+          "priceList": true,
+          "sourceTitle": "4 BABY Wózek spacerowy RAPID XXIV BLACK",
+          "model": "RAPID XXIV",
+          "color": "BLACK",
+          "colorName": "czarny",
+          "imageUrls": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_wozki_12\\5909632-1.jpg"
+          ],
+          "sourceDescription": "Rapid XXIV to odświeżona wersja kultowego modelu spacerówki 4BABY, który od wielu lat sprawdza się zarówno w mieście jak i w terenie. Obecna edycja została przystosowana do użytkowania dla dziecka nawet do 22 kg wagi. Konstrukcja wózka jest lekka, lecz bardzo stabilna. Wykonana z wysokiej jakości stopów metali rama nie jest podatna na uszkodzenia i odkształcenia. Możliwość regulacji wysokości rączki w kilku pozycjach pozwala dopasować ją do wzrostu każdego rodzica, zapewniając mu jeszcze wygodniejsze prowadzenie. Regulacja oparcia i podnóżka umożliwia, dynamiczną modyfikację ustawień siedziska, dostosowując go do aktualnych potrzeb dziecka. Duże tylne koła świetnie radzą sobie z nierównościami, a przednie wyposażono są w blokady skrętu, co zdecydowanie ułatwia utrzymanie toru jazdy. 5-punktowe pasy wyposażone są w osłonki dbając o bezpieczeństwo zapewniają komfort podróżowania. Podnoszony pałąk, obszyty z miękkim, piankowym wypełnieniem, jest dodatkowym zabezpieczeniem przed niespodziewanym upadkiem. Wózek posiada przedłużaną budkę, a w tylne sekcji jest praktyczna kieszeń na zamek. Dodatkowo w górnej części budki znajduje się przejrzyste okienko, dzięki któremu można podejrzeć swoją pociechę. Rapid posiada uchwyt na kubek i ocieplaną osłonę na nogi, która stanowi dodatkową ochronę przed deszczem i wiatrem. Pojemny kosz zmieści zarówno potrzebne akcesoria, jak i drobne zakupy.\n\n\nCHARAKTERYSTYKA PRODUKTU:\nStalowy stelaż\nRegulacja oparcia jedną ręką\nOparcie rozkładane do pozycji leżącej\nRegulowany podnóżek i rączka\nKosz na zakupy\n5-cio punktowe pasy bezpieczeństwa\nOkienko w budce z podglądem na dziecko\nPojemna kieszonka zapinana na zamek\nWielofunkcyjna przedłużana budka\nPrzednie koła obrotowe z blokadą\nAmortyzowane, piankowe koła o małej ścieralności\nZdejmowana barierka\nOcieplana osłona na nogi\nMały rozmiar po złożeniu\nUchwyt na kubek",
+          "salePrice": "504.00"
+        },
+        {
+          "id": 64452,
+          "sku": "5908285",
+          "title": "4 BABY Wózek spacerowy RAPID XXIV GRAPHITE",
+          "imageId": 74155,
+          "stock": 1,
+          "purchaseNet": 315.0,
+          "barcode": "5901691959156",
+          "priceList": true,
+          "sourceTitle": "4 BABY Wózek spacerowy RAPID XXIV GRAPHITE",
+          "model": "RAPID XXIV",
+          "color": "GRAPHITE",
+          "colorName": "grafitowy",
+          "imageUrls": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_wozki_12\\5908285-1.jpg"
+          ],
+          "sourceDescription": "RAPID XXIV Rapid XXIV to odświeżona wersja kultowego modelu spacerówki 4BABY, który od wielu lat sprawdza się zarówno w mieście jak i w terenie. Obecna edycja została przystosowana do użytkowani dla dziecka nawet do 22 kg wagi. Konstrukcja wózka jest lekka, lecz bardzo stabilna. Wykonana z wysokiej jakości stopów metali rama nie jest podatna na uszkodzenia i odkształcenia.\nStalowy stelaż\nRegulacja oparcia jedną ręką\nRegulowany skórzany podnóżek\nRegulowana rączka\nKosz na zakupy\n5-cio punktowe pasy bezpieczeństwa\nPrzednie koła obrotowe z blokadą\nAmortyzacja przód i tył\nZdejmowana barierka\nOcieplana osłona na nogi\nUchwyt na kubek\nWymiary (szerokość / wysokość / głębokość cm):\nRozłożony: 50,5 / 104 / 71 cm\nSiedzisko: 34 / 43 / 20\n \nWaga: 9.1 KG\n \nRozmiar kółek:\nTył: 7,5' (19 cm)\nPrzód: 6' (15 cm)",
+          "salePrice": "504.00"
+        },
+        {
+          "id": 64673,
+          "sku": "5908489",
+          "title": "4 BABY Wózek spacerowy RAPID XXIV KHAKI",
+          "imageId": 74159,
+          "stock": 3,
+          "purchaseNet": 315.0,
+          "barcode": "5901691959170",
+          "priceList": true,
+          "sourceTitle": "4 BABY Wózek spacerowy RAPID XXIV KHAKI",
+          "model": "RAPID XXIV",
+          "color": "KHAKI",
+          "colorName": "khaki",
+          "imageUrls": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_wozki_12\\5908489-1.jpg"
+          ],
+          "sourceDescription": "RAPID XXIV Rapid XXIV to odświeżona wersja kultowego modelu spacerówki 4BABY, który od wielu lat sprawdza się zarówno w mieście jak i w terenie. Obecna edycja została przystosowana do użytkowani dla dziecka nawet do 22 kg wagi. Konstrukcja wózka jest lekka, lecz bardzo stabilna. Wykonana z wysokiej jakości stopów metali rama nie jest podatna na uszkodzenia i odkształcenia.\nStalowy stelaż\nRegulacja oparcia jedną ręką\nRegulowany skórzany podnóżek\nRegulowana rączka\nKosz na zakupy\n5-cio punktowe pasy bezpieczeństwa\nPrzednie koła obrotowe z blokadą\nAmortyzacja przód i tył\nZdejmowana barierka\nOcieplana osłona na nogi\nUchwyt na kubek\nWymiary (szerokość / wysokość / głębokość cm):\nRozłożony: 50,5 / 104 / 71 cm\nSiedzisko: 34 / 43 / 20\n \nWaga: 9.1 KG\n \nRozmiar kółek:\nTył: 7,5' (19 cm)\nPrzód: 6' (15 cm)",
+          "salePrice": "504.00"
+        },
+        {
+          "id": 64674,
+          "sku": "5908490",
+          "title": "4 BABY Wózek spacerowy RAPID XXIV MOKKA",
+          "imageId": 74163,
+          "stock": 2,
+          "purchaseNet": 315.0,
+          "barcode": "5901691959163",
+          "priceList": true,
+          "sourceTitle": "4 BABY Wózek spacerowy RAPID XXIV MOKKA",
+          "model": "RAPID XXIV",
+          "color": "MOKKA",
+          "colorName": "mokka",
+          "imageUrls": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_wozki_12\\5908490-1.jpg"
+          ],
+          "sourceDescription": "RAPID XXIV Rapid XXIV to odświeżona wersja kultowego modelu spacerówki 4BABY, który od wielu lat sprawdza się zarówno w mieście jak i w terenie. Obecna edycja została przystosowana do użytkowani dla dziecka nawet do 22 kg wagi. Konstrukcja wózka jest lekka, lecz bardzo stabilna. Wykonana z wysokiej jakości stopów metali rama nie jest podatna na uszkodzenia i odkształcenia.\nStalowy stelaż\nRegulacja oparcia jedną ręką\nRegulowany skórzany podnóżek\nRegulowana rączka\nKosz na zakupy\n5-cio punktowe pasy bezpieczeństwa\nPrzednie koła obrotowe z blokadą\nAmortyzacja przód i tył\nZdejmowana barierka\nOcieplana osłona na nogi\nUchwyt na kubek\nWymiary (szerokość / wysokość / głębokość cm):\nRozłożony: 50,5 / 104 / 71 cm\nSiedzisko: 34 / 43 / 20\n \nWaga: 9.1 KG\n \nRozmiar kółek:\nTył: 7,5' (19 cm)\nPrzód: 6' (15 cm)",
+          "salePrice": "504.00"
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": "gid://shopify/Product/10655512133965",
+        "title": "4 Baby Stinger PRO wózek spacerowy",
+        "handle": "4-baby-stinger-pro-wozek-spacerowy",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "5902703",
+              "barcode": "5901691958364",
+              "price": "862.56",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "czarny"
+                }
+              ]
+            },
+            {
+              "sku": "5902707",
+              "barcode": "5901691958401",
+              "price": "862.56",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "melange jasnoszary"
+                }
+              ]
+            },
+            {
+              "sku": "5907734",
+              "barcode": "5901691958968",
+              "price": "862.56",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "oliwkowy"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY"
+            },
+            {
+              "status": "READY"
+            },
+            {
+              "status": "READY"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Spacerówki",
+              "handle": "spacerowki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "4 Baby Stinger PRO wózek spacerowy | MamaPack",
+          "description": "4 Baby Stinger PRO wózek spacerowy od 4 Baby: spacerówka do 22 kg. Dostępne kolory: czarny, melange jasnoszary, oliwkowy."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 58393,
+          "sku": "5902703",
+          "title": "4 BABY Wózek spacerowy STINGER PRO BLACK",
+          "imageId": 62977,
+          "stock": 21,
+          "purchaseNet": 539.1,
+          "barcode": "5901691958364",
+          "priceList": true,
+          "sourceTitle": "4 BABY Wózek spacerowy STINGER PRO BLACK",
+          "model": "STINGER PRO",
+          "color": "BLACK",
+          "colorName": "czarny",
+          "imageUrls": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_wozki_12\\5902703-1.jpg"
+          ],
+          "sourceDescription": "Stinger PRO to luksusowa wersja popularnego modelu spacerówki 4BABY o maksymalnym obciążeniu do 22 kg.Stinger PRO to połączenie funkcjonalności i klasyki wzbogacone o stylowe przeszycia. Świetnie sprawdzi się zarówno w mieście, jak i podczas wyjazdów. Szybki system składania jedną ręką i pełna amortyzacja dużych bezobsługowych kół żelowych, odnajdą się nawet na spacerach w trudnym terenie. Obszerne siedzisko spacerówki Stinger PRO jest w pełni regulowane.\nMaksymalne obciążenie 22kg\nAluminiowa rama\nDuże bezobsługowe koła żelowe\nSkórzane wykończenia rączki i barierki\n5-cio punktowe pasy bezpieczeństwa\nAmortyzacja kół\nBlokada obrotu kół przednich\nHamulec kół tylnych\nWielofunkcyjna przedłużana budka\nRozsuwana budka z wentylacją - moskitiera\nPojemna kieszonka zapinana na zamek\nOkienko w budce z podglądem na dziecko\nRegulowany podnóżek\nBarierka bezpieczeństwa 360°\nKomfortowa, pikowana poduszka w zestawie\nPojemny kosz na zakupy\nOcieplana osłona na nogi\nWymiary (szerokość / wysokość / głębokość cm):\nRozłożony: 56/111/87\nSiedzisko: 38/48/21,5 cm\nWaga: 10 KG\nRozmiar kółek:\nTył: 10\" (25,5 cm)\nPrzód: 7,1\" (18 cm)",
+          "salePrice": "862.56"
+        },
+        {
+          "id": 58397,
+          "sku": "5902707",
+          "title": "4 BABY Wózek spacerowy STINGER PRO MELANGE LIGHT GREY",
+          "imageId": 62973,
+          "stock": 8,
+          "purchaseNet": 539.1,
+          "barcode": "5901691958401",
+          "priceList": true,
+          "sourceTitle": "4 BABY Wózek spacerowy STINGER PRO MELANGE LIGHT GREY",
+          "model": "STINGER PRO",
+          "color": "MELANGE LIGHT GREY",
+          "colorName": "melange jasnoszary",
+          "imageUrls": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_wozki_12\\5902707-1.jpg"
+          ],
+          "sourceDescription": "Stinger PRO to luksusowa wersja popularnego modelu spacerówki 4BABY o maksymalnym obciążeniu do 22 kg.Stinger PRO to połączenie funkcjonalności i klasyki wzbogacone o stylowe przeszycia. Świetnie sprawdzi się zarówno w mieście, jak i podczas wyjazdów. Szybki system składania jedną ręką i pełna amortyzacja dużych bezobsługowych kół żelowych, odnajdą się nawet na spacerach w trudnym terenie. Obszerne siedzisko spacerówki Stinger PRO jest w pełni regulowane.\nMaksymalne obciążenie 22kg\nAluminiowa rama\nDuże bezobsługowe koła żelowe\nSkórzane wykończenia rączki i barierki\n5-cio punktowe pasy bezpieczeństwa\nAmortyzacja kół\nBlokada obrotu kół przednich\nHamulec kół tylnych\nWielofunkcyjna przedłużana budka\nRozsuwana budka z wentylacją - moskitiera\nPojemna kieszonka zapinana na zamek\nOkienko w budce z podglądem na dziecko\nRegulowany podnóżek\nBarierka bezpieczeństwa 360°\nKomfortowa, pikowana poduszka w zestawie\nPojemny kosz na zakupy\nOcieplana osłona na nogi\nWymiary (szerokość / wysokość / głębokość cm):\nRozłożony: 56/111/87\nSiedzisko: 38/48/21,5 cm\nWaga: 10 KG\nRozmiar kółek:\nTył: 10\" (25,5 cm)\nPrzód: 7,1\" (18 cm)",
+          "salePrice": "862.56"
+        },
+        {
+          "id": 63835,
+          "sku": "5907734",
+          "title": "4 BABY Wózek spacerowy STINGER PRO OLIVE",
+          "imageId": 72396,
+          "stock": 9,
+          "purchaseNet": 539.1,
+          "barcode": "5901691958968",
+          "priceList": true,
+          "sourceTitle": "4 BABY Wózek spacerowy STINGER PRO OLIVE",
+          "model": "STINGER PRO",
+          "color": "OLIVE",
+          "colorName": "oliwkowy",
+          "imageUrls": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_wozki_12\\5907734-1.jpg"
+          ],
+          "sourceDescription": "Stinger PRO to luksusowa wersja popularnego modelu spacerówki 4BABY o maksymalnym obciążeniu do 22 kg.\nStinger PRO to połączenie funkcjonalności i klasyki, wzbogacone o stylowe przeszycia. Świetnie sprawdzi się zarówno w mieście, jak i podczas wyjazdów. Szybki system składania jedną ręką i pełna amortyzacja dużych bezobsługowych kół żelowych, odnajdą się nawet na spacerach w trudnym terenie.\nObszerne siedzisko spacerówki Stinger PRO jest w pełni regulowane. Regulacja oparcia i podnóżka pozwala na ułożenie dziecka od pozycji siedzącej, do całkowicie leżącej, a dodatkowa poduszka podnosi komfort użytkowania.  Wózek posiada przedłużaną, multifunkcją budkę, która chroni malucha przed wiatrem, deszczem i słońcem. Tylna sekcja budki jest rozpinana i wyposażona w siatkę wentylacyjną, która ułatwia cyrkulację powietrza wewnątrz siedziska.\nDodatkowo w górnej części budki znajduje się przejrzyste okienko, dzięki któremu można podejrzeć swoją pociechę.\nZarówno rączka do prowadzenia wózka jak i barierka bezpieczeństwa obszyte są ręcznie wykańczanymi skórzanymi detalami.\nStinger PRO wyposażony jest w osłonę na nogi, która zapewni dziecku ciepło i dodatkową ochronę przed deszczem i wiatrem. Uchwyt, na butelkę lub kubek, przyda się również opiekunom trzymającym bidon lub termos. Pojemny kosz pomieści potrzebne akcesoria, jak również sprawdzi się podczas zakupów. Małe rozmiary wózka po złożeniu oraz niska waga będą idealnym rozwiązaniem w przypadku częstych podróży.\nCHARAKTERYSTYKA PRODUKTU:\n• Maksymalne obciążenie 22kg\n• Aluminiowa rama \n• Duże bezobsługowe koła żelowe \n• Wygodny i prosty system składania \n• Mały rozmiar po złożeniu\n• Skórzane wykończenia rączki i barierki\n• 5-cio punktowe pasy bezpieczeństwa \n• Amortyzacja kół\n• Blokada obrotu kół przednich \n• Hamulec kół tylnych \n• Wielofunkcyjna przedłużana budka \n• Rozsuwana budka z wentylacją - moskitiera \n• Pojemna kieszonka zapinana na zamek \n• Okienko w budce z podglądem na dziecko\n• Regulowany podnóżek \n• Barierka bezpieczeństwa 360°\n• Komfortowa, pikowana poduszka w zestawie\n• Regulowane oparcie \n• Pojemny kosz na zakupy\n• Uchwyt na napoje \n• Ocieplana osłona na nogi",
+          "salePrice": "862.56"
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": "gid://shopify/Product/10655512166733",
+        "title": "4 Baby Stinger XXIII wózek spacerowy",
+        "handle": "4-baby-stinger-xxiii-wozek-spacerowy",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "5902709",
+              "barcode": "5901691958258",
+              "price": "732.96",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Spacerówki",
+              "handle": "spacerowki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "4 Baby Stinger XXIII wózek spacerowy | MamaPack",
+          "description": "4 Baby Stinger XXIII wózek spacerowy od 4 Baby: spacerówka do 22 kg. Dostępne kolory: grafitowy."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 58399,
+          "sku": "5902709",
+          "title": "4 BABY Wózek spacerowy STINGER XXIII GRAPHITE",
+          "imageId": 62971,
+          "stock": 2,
+          "purchaseNet": 458.1,
+          "barcode": "5901691958258",
+          "priceList": true,
+          "sourceTitle": "4 BABY Wózek spacerowy STINGER XXIII GRAPHITE",
+          "model": "STINGER XXIII",
+          "color": "GRAPHITE",
+          "colorName": "grafitowy",
+          "imageUrls": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_wozki_12\\5902709-1.jpg"
+          ],
+          "sourceDescription": "STINGER Stinger XXIII to odświeżona wersja popularnego modelu spacerówki 4BABY o maksymalnym obciążeniu do 22 kg. To połączenie klasyki, elegancji i funkcjonalności. Świetnie sprawdzi się zarówno w mieście, jak i podczas wyjazdów. Szybki system składania jedną ręką i pełna amortyzacja bezobsługowych kół piankowych EVA odnajdą się nawet na spacerach w trudnym terenie. Wózek posiada przedłużaną, multifunkcją budkę, która chroni malucha przed wiatrem, deszczem i słońcem.\nMaksymalne obciążenie 22kg\nAluminiowa rama\nAmortyzowane koła piankowe EVA o niskiej ścieralności\nWygodny i prosty system składania\nMały rozmiar po złożeniu\nUchwyt na kubek\n5-cio punktowe pasy bezpieczeństwa\nBlokada obrotu kół przednich\nHamulec kół tylnych\nPrzedłużana budka z wentylacją - moskitiera\nPojemna kieszonka zapinana na zamek\nOkienko z podglądem na dziecko\nRegulowany podnóżek\nBarierka bezpieczeństwa 360°\nRegulowane oparcie\nPojemny kosz\nUchwyt na napoje\nOcieplana osłona na nogi\nWymiary (szerokość / wysokość / głębokość cm):\nZłożony: 56/36/76\nRozłożony: 56/103/93\nSiedzisko: 38/23/48\nWaga: 10 kg\nRozmiar kółek:\nTył: 23 cm (9\")\nPrzód: 16,5 cm (6,5\")",
+          "salePrice": "732.96"
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": "gid://shopify/Product/10655512297805",
+        "title": "4 Baby Stinger XXIV wózek spacerowy",
+        "handle": "4-baby-stinger-xxiv-wozek-spacerowy",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "5902710",
+              "barcode": "5901691958265",
+              "price": "732.96",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "zielony"
+                }
+              ]
+            },
+            {
+              "sku": "5908153",
+              "barcode": "5901691958975",
+              "price": "732.96",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "khaki"
+                }
+              ]
+            },
+            {
+              "sku": "5902712",
+              "barcode": "5901691958289",
+              "price": "718.56",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "melange jasnoszary"
+                }
+              ]
+            },
+            {
+              "sku": "5908155",
+              "barcode": "5901691958999",
+              "price": "732.96",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "oliwkowy"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY"
+            },
+            {
+              "status": "READY"
+            },
+            {
+              "status": "READY"
+            },
+            {
+              "status": "READY"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Spacerówki",
+              "handle": "spacerowki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "4 Baby Stinger XXIV wózek spacerowy | MamaPack",
+          "description": "4 Baby Stinger XXIV wózek spacerowy od 4 Baby: spacerówka do 22 kg. Dostępne kolory: zielony, khaki, melange jasnoszary, oliwkowy."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 58400,
+          "sku": "5902710",
+          "title": "4 BABY Wózek spacerowy STINGER XXIV GREEN",
+          "imageId": 62970,
+          "stock": 7,
+          "purchaseNet": 458.1,
+          "barcode": "5901691958265",
+          "priceList": true,
+          "sourceTitle": "4 BABY Wózek spacerowy STINGER XXIV GREEN",
+          "model": "STINGER XXIV",
+          "color": "GREEN",
+          "colorName": "zielony",
+          "imageUrls": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_wozki_12\\5902710-1.jpg"
+          ],
+          "sourceDescription": "STINGER Stinger XXIII to odświeżona wersja popularnego modelu spacerówki 4BABY o maksymalnym obciążeniu do 22 kg. To połączenie klasyki, elegancji i funkcjonalności. Świetnie sprawdzi się zarówno w mieście, jak i podczas wyjazdów. Szybki system składania jedną ręką i pełna amortyzacja bezobsługowych kół piankowych EVA odnajdą się nawet na spacerach w trudnym terenie. Wózek posiada przedłużaną, multifunkcją budkę, która chroni malucha przed wiatrem, deszczem i słońcem.\nMaksymalne obciążenie 22kg\nAluminiowa rama\nAmortyzowane koła piankowe EVA o niskiej ścieralności\nWygodny i prosty system składania\nMały rozmiar po złożeniu\nUchwyt na kubek\n5-cio punktowe pasy bezpieczeństwa\nBlokada obrotu kół przednich\nHamulec kół tylnych\nPrzedłużana budka z wentylacją - moskitiera\nPojemna kieszonka zapinana na zamek\nOkienko z podglądem na dziecko\nRegulowany podnóżek\nBarierka bezpieczeństwa 360°\nRegulowane oparcie\nPojemny kosz\nUchwyt na napoje\nOcieplana osłona na nogi\nWymiary (szerokość / wysokość / głębokość cm):\nZłożony: 56/36/76\nRozłożony: 56/103/93\nSiedzisko: 38/23/48\nWaga: 10 kg\nRozmiar kółek:\nTył: 23 cm (9\")\nPrzód: 16,5 cm (6,5\")",
+          "salePrice": "732.96"
+        },
+        {
+          "id": 64296,
+          "sku": "5908153",
+          "title": "4 BABY Wózek spacerowy STINGER XXIV KHAKI",
+          "imageId": 75534,
+          "stock": 7,
+          "purchaseNet": 458.1,
+          "barcode": "5901691958975",
+          "priceList": true,
+          "sourceTitle": "4 BABY Wózek spacerowy STINGER XXIV KHAKI",
+          "model": "STINGER XXIV",
+          "color": "KHAKI",
+          "colorName": "khaki",
+          "imageUrls": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_wozki_12\\5908153-1.jpg"
+          ],
+          "sourceDescription": "To połączenie klasyki, elegancji i funkcjonalności. Świetnie sprawdzi się zarówno w mieście, jak i podczas wyjazdów. Szybki system składania jedną ręką i pełna amortyzacja bezobsługowych kół piankowych EVA odnajdą się nawet na spacerach w trudnym terenie. Wózek posiada przedłużaną, multifunkcją budkę, która chroni malucha przed wiatrem, deszczem i słońcem.\nMaksymalne obciążenie 22kg\nAluminiowa rama\nAmortyzowane koła piankowe EVA o niskiej ścieralności\nWygodny i prosty system składania\nMały rozmiar po złożeniu\nUchwyt na kubek\n5-cio punktowe pasy bezpieczeństwa\nBlokada obrotu kół przednich\nHamulec kół tylnych\nPrzedłużana budka z wentylacją - moskitiera\nPojemna kieszonka zapinana na zamek\nOkienko z podglądem na dziecko\nRegulowany podnóżek\nBarierka bezpieczeństwa 360°\nRegulowane oparcie\nPojemny kosz\nUchwyt na napoje\nOcieplana osłona na nogi\nWymiary (szerokość / wysokość / głębokość cm):\nZłożony: 56/36/76\nRozłożony: 56/103/93\nSiedzisko: 38/23/48\nWaga: 10 kg\nRozmiar kółek:\nTył: 23 cm (9\")\nPrzód: 16,5 cm (6,5\")",
+          "salePrice": "732.96"
+        },
+        {
+          "id": 58402,
+          "sku": "5902712",
+          "title": "4 BABY Wózek spacerowy STINGER XXIV MELANGE LIGHT GREY",
+          "imageId": 62968,
+          "stock": 6,
+          "purchaseNet": 449.1,
+          "barcode": "5901691958289",
+          "priceList": true,
+          "sourceTitle": "4 BABY Wózek spacerowy STINGER XXIV MELANGE LIGHT GREY",
+          "model": "STINGER XXIV",
+          "color": "MELANGE LIGHT GREY",
+          "colorName": "melange jasnoszary",
+          "imageUrls": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_wozki_12\\5902712-1.jpg"
+          ],
+          "sourceDescription": "To połączenie klasyki, elegancji i funkcjonalności. Świetnie sprawdzi się zarówno w mieście, jak i podczas wyjazdów. Szybki system składania jedną ręką i pełna amortyzacja bezobsługowych kół piankowych EVA odnajdą się nawet na spacerach w trudnym terenie. Wózek posiada przedłużaną, multifunkcją budkę, która chroni malucha przed wiatrem, deszczem i słońcem.\nMaksymalne obciążenie 22kg\nAluminiowa rama\nAmortyzowane koła piankowe EVA o niskiej ścieralności\nWygodny i prosty system składania\nMały rozmiar po złożeniu\nUchwyt na kubek\n5-cio punktowe pasy bezpieczeństwa\nBlokada obrotu kół przednich\nHamulec kół tylnych\nPrzedłużana budka z wentylacją - moskitiera\nPojemna kieszonka zapinana na zamek\nOkienko z podglądem na dziecko\nRegulowany podnóżek\nBarierka bezpieczeństwa 360°\nRegulowane oparcie\nPojemny kosz\nUchwyt na napoje\nOcieplana osłona na nogi\nWymiary (szerokość / wysokość / głębokość cm):\nZłożony: 56/36/76\nRozłożony: 56/103/93\nSiedzisko: 38/23/48\nWaga: 10 kg\nRozmiar kółek:\nTył: 23 cm (9\")\nPrzód: 16,5 cm (6,5\")",
+          "salePrice": "718.56"
+        },
+        {
+          "id": 64298,
+          "sku": "5908155",
+          "title": "4 BABY Wózek spacerowy STINGER XXIV OLIVE",
+          "imageId": 75536,
+          "stock": 13,
+          "purchaseNet": 458.1,
+          "barcode": "5901691958999",
+          "priceList": true,
+          "sourceTitle": "4 BABY Wózek spacerowy STINGER XXIV OLIVE",
+          "model": "STINGER XXIV",
+          "color": "OLIVE",
+          "colorName": "oliwkowy",
+          "imageUrls": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_wozki_12\\5908155-1.jpg"
+          ],
+          "sourceDescription": "To połączenie klasyki, elegancji i funkcjonalności. Świetnie sprawdzi się zarówno w mieście, jak i podczas wyjazdów. Szybki system składania jedną ręką i pełna amortyzacja bezobsługowych kół piankowych EVA odnajdą się nawet na spacerach w trudnym terenie. Wózek posiada przedłużaną, multifunkcją budkę, która chroni malucha przed wiatrem, deszczem i słońcem.\nMaksymalne obciążenie 22kg\nAluminiowa rama\nAmortyzowane koła piankowe EVA o niskiej ścieralności\nWygodny i prosty system składania\nMały rozmiar po złożeniu\nUchwyt na kubek\n5-cio punktowe pasy bezpieczeństwa\nBlokada obrotu kół przednich\nHamulec kół tylnych\nPrzedłużana budka z wentylacją - moskitiera\nPojemna kieszonka zapinana na zamek\nOkienko z podglądem na dziecko\nRegulowany podnóżek\nBarierka bezpieczeństwa 360°\nRegulowane oparcie\nPojemny kosz\nUchwyt na napoje\nOcieplana osłona na nogi\nWymiary (szerokość / wysokość / głębokość cm):\nZłożony: 56/36/76\nRozłożony: 56/103/93\nSiedzisko: 38/23/48\nWaga: 10 kg\nRozmiar kółek:\nTył: 23 cm (9\")\nPrzód: 16,5 cm (6,5\")",
+          "salePrice": "732.96"
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": "gid://shopify/Product/10655512330573",
+        "title": "4 Baby Twizzy XXIII wózek spacerowy",
+        "handle": "4-baby-twizzy-xxiii-wozek-spacerowy",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "5908770",
+              "barcode": "5901691958807",
+              "price": "580.32",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "grafitowy"
+                }
+              ]
+            },
+            {
+              "sku": "5908766",
+              "barcode": "5901691958814",
+              "price": "580.32",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "szary"
+                }
+              ]
+            },
+            {
+              "sku": "5908768",
+              "barcode": "5901691958838",
+              "price": "580.32",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "oliwkowy"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY"
+            },
+            {
+              "status": "READY"
+            },
+            {
+              "status": "READY"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Spacerówki",
+              "handle": "spacerowki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "4 Baby Twizzy XXIII wózek spacerowy | MamaPack",
+          "description": "4 Baby Twizzy XXIII wózek spacerowy od 4 Baby: spacerówka do 22 kg. Dostępne kolory: grafitowy, szary, oliwkowy."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 64990,
+          "sku": "5908770",
+          "title": "4 BABY Wózek spacerowy TWIZZY XXIII GRAPHITE",
+          "imageId": 75530,
+          "stock": 2,
+          "purchaseNet": 362.7,
+          "barcode": "5901691958807",
+          "priceList": true,
+          "sourceTitle": "4 BABY Wózek spacerowy TWIZZY XXIII GRAPHITE",
+          "model": "TWIZZY XXIII",
+          "color": "GRAPHITE",
+          "colorName": "grafitowy",
+          "imageUrls": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_wozki_12\\5908770-1.jpg"
+          ],
+          "sourceDescription": "TWIZZY XXIII Twizzy to kompaktowa spacerówka, która najlepiej odnajduje się w miejskiej przestrzeni, ale ze względu na swoje niewielkie wymiary oraz niską wagę będzie także świetnym kompanem podczas wyjazdów rodzinnych. Podczas każdej takiej wycieczki doskonale sprawdzi się torba transportowa dołączona do zestawu. Wielofunkcyjna budka z filtrem UPF 50+, wyposażona w zamykany panel wentylacyjny zapewni doskonałą cyrkulację powietrza wewnątrz wózka. Twizzy przeznaczony jest dla dzieci od 6 miesiąca życia, aż do 22 kg\nLekki aluminiowy stelaż\nSkórzane wykończenia rączki i barierki\nWielofunkcyjna budka z ochroną UPF 50+\nOparcie rozkładane do pozycji leżącej\nWygodny i prosty mechanizm składania wózka\nZdejmowana barierka\n5-cio punktowe pasy\nRegulowany podnóżek\nPrzednie koła obrotowe z blokadą\nKosz na zakupy\nOcieplana osłona na nogi\nTorba do transportu wózka w zestawie\nWymiary (szerokość / wysokość / głębokość cm):\nZłożony: 49/70/31\nRozłożony: 49/102/70\nSiedzisko: 35/43/23\n \nWaga: 6.7 kg\n \nRozmiar kółek:\nTył: 6\" (15,5 cm)\nPrzód: 5\" (13 cm)",
+          "salePrice": "580.32"
+        },
+        {
+          "id": 64986,
+          "sku": "5908766",
+          "title": "4 BABY Wózek spacerowy TWIZZY XXIII GREY",
+          "imageId": 75531,
+          "stock": 2,
+          "purchaseNet": 362.7,
+          "barcode": "5901691958814",
+          "priceList": true,
+          "sourceTitle": "4 BABY Wózek spacerowy TWIZZY XXIII GREY",
+          "model": "TWIZZY XXIII",
+          "color": "GREY",
+          "colorName": "szary",
+          "imageUrls": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_wozki_12\\5908766-1.jpg"
+          ],
+          "sourceDescription": "TWIZZY XXIII Twizzy to kompaktowa spacerówka, która najlepiej odnajduje się w miejskiej przestrzeni, ale ze względu na swoje niewielkie wymiary oraz niską wagę będzie także świetnym kompanem podczas wyjazdów rodzinnych. Podczas każdej takiej wycieczki doskonale sprawdzi się torba transportowa dołączona do zestawu. Wielofunkcyjna budka z filtrem UPF 50+, wyposażona w zamykany panel wentylacyjny zapewni doskonałą cyrkulację powietrza wewnątrz wózka. Twizzy przeznaczony jest dla dzieci od 6 miesiąca życia, aż do 22 kg\nLekki aluminiowy stelaż\nSkórzane wykończenia rączki i barierki\nWielofunkcyjna budka z ochroną UPF 50+\nOparcie rozkładane do pozycji leżącej\nWygodny i prosty mechanizm składania wózka\nZdejmowana barierka\n5-cio punktowe pasy\nRegulowany podnóżek\nPrzednie koła obrotowe z blokadą\nKosz na zakupy\nOcieplana osłona na nogi\nTorba do transportu wózka w zestawie\nWymiary (szerokość / wysokość / głębokość cm):\nZłożony: 49/70/31\nRozłożony: 49/102/70\nSiedzisko: 35/43/23\n \nWaga: 6.7 kg\n \nRozmiar kółek:\nTył: 6\" (15,5 cm)\nPrzód: 5\" (13 cm)",
+          "salePrice": "580.32"
+        },
+        {
+          "id": 64988,
+          "sku": "5908768",
+          "title": "4 BABY Wózek spacerowy TWIZZY XXIII OLIVE",
+          "imageId": 75533,
+          "stock": 2,
+          "purchaseNet": 362.7,
+          "barcode": "5901691958838",
+          "priceList": true,
+          "sourceTitle": "4 BABY Wózek spacerowy TWIZZY XXIII OLIVE",
+          "model": "TWIZZY XXIII",
+          "color": "OLIVE",
+          "colorName": "oliwkowy",
+          "imageUrls": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_wozki_12\\5908768-1.jpg"
+          ],
+          "sourceDescription": "TWIZZY XXIII Twizzy to kompaktowa spacerówka, która najlepiej odnajduje się w miejskiej przestrzeni, ale ze względu na swoje niewielkie wymiary oraz niską wagę będzie także świetnym kompanem podczas wyjazdów rodzinnych. Podczas każdej takiej wycieczki doskonale sprawdzi się torba transportowa dołączona do zestawu. Wielofunkcyjna budka z filtrem UPF 50+, wyposażona w zamykany panel wentylacyjny zapewni doskonałą cyrkulację powietrza wewnątrz wózka. Twizzy przeznaczony jest dla dzieci od 6 miesiąca życia, aż do 22 kg\nLekki aluminiowy stelaż\nSkórzane wykończenia rączki i barierki\nWielofunkcyjna budka z ochroną UPF 50+\nOparcie rozkładane do pozycji leżącej\nWygodny i prosty mechanizm składania wózka\nZdejmowana barierka\n5-cio punktowe pasy\nRegulowany podnóżek\nPrzednie koła obrotowe z blokadą\nKosz na zakupy\nOcieplana osłona na nogi\nTorba do transportu wózka w zestawie\nWymiary (szerokość / wysokość / głębokość cm):\nZłożony: 49/70/31\nRozłożony: 49/102/70\nSiedzisko: 35/43/23\n \nWaga: 6.7 kg\n \nRozmiar kółek:\nTył: 6\" (15,5 cm)\nPrzód: 5\" (13 cm)",
+          "salePrice": "580.32"
+        }
+      ]
+    }
+  ]
+}

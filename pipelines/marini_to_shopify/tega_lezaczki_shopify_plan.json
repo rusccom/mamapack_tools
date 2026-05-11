@@ -1,0 +1,1567 @@
+{
+  "createdAt": "2026-05-01T21:04:57.624135+03:00",
+  "sourceCategoryUrl": "https://b2b.marini.pl/items/355?parent=351",
+  "parentCollectionId": "gid://shopify/Collection/616586740045",
+  "collections": [
+    {
+      "title": "Wanienki",
+      "handle": "wanienki"
+    },
+    {
+      "title": "Leżaczki do wanny",
+      "handle": "lezaczki-do-wanny"
+    }
+  ],
+  "pricing": {
+    "purchaseSource": "marini XML cena / baseNetPrice",
+    "salePriceMultiplier": "1.60"
+  },
+  "sourceItemCount": 44,
+  "loadableItemCount": 36,
+  "productCount": 14,
+  "variantCount": 36,
+  "skippedCount": 8,
+  "skipped": [
+    {
+      "sku": "779259",
+      "producerCode": "DZ-003-103-JELONEK",
+      "title": "TEGA DZ-003-103-JELONEK Fotelik do kąpieli DZIKI ZACHÓD",
+      "stock": 0,
+      "imageCount": 1,
+      "reasons": [
+        "stock_zero"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/45382?group=355"
+    },
+    {
+      "sku": "779247",
+      "producerCode": "DZ-003-103-SŁONIK",
+      "title": "TEGA DZ-003-103-SŁONIK Fotelik do kąpieli DZIKI ZACHÓD",
+      "stock": 8,
+      "imageCount": 0,
+      "reasons": [
+        "missing_image"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/45370?group=355"
+    },
+    {
+      "sku": "787099",
+      "producerCode": "ME-026-123",
+      "title": "TEGA ME-026-123 Leżaczek kąpielowy z wizerunkiem METEO różowy",
+      "stock": 11,
+      "imageCount": 0,
+      "reasons": [
+        "missing_image"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/53518?group=355"
+    },
+    {
+      "sku": "787097",
+      "producerCode": "ME-026-164",
+      "title": "TEGA ME-026-164 Leżaczek kąpielowy z wizerunkiem METEO granatowy",
+      "stock": 15,
+      "imageCount": 0,
+      "reasons": [
+        "missing_image"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/53516?group=355"
+    },
+    {
+      "sku": "787098",
+      "producerCode": "ME-026-166",
+      "title": "TEGA ME-026-166 Leżaczek kąpielowy z wizerunkiem METEO musztardowy",
+      "stock": 4,
+      "imageCount": 0,
+      "reasons": [
+        "missing_image"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/53517?group=355"
+    },
+    {
+      "sku": "5906197",
+      "producerCode": "MN-026-124",
+      "title": "TEGA MN-026-124 Leżaczek kąpielowy z wizerunkiem Monsters żółty",
+      "stock": 9,
+      "imageCount": 0,
+      "reasons": [
+        "missing_image"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/62184?group=355"
+    },
+    {
+      "sku": "5906194",
+      "producerCode": "MN-026-127",
+      "title": "TEGA MN-026-127 Leżaczek kąpielowy z wizerunkiem Monsters c. różowy",
+      "stock": 5,
+      "imageCount": 0,
+      "reasons": [
+        "missing_image"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/62181?group=355"
+    },
+    {
+      "sku": "14499",
+      "producerCode": "SO-003-103",
+      "title": "TEGA SO-003-103 Fotelik do kąpieli antypoślizgowy SOWA biały",
+      "stock": 11,
+      "imageCount": 0,
+      "reasons": [
+        "missing_image"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/20857?group=355"
+    }
+  ],
+  "products": [
+    {
+      "source": "marini",
+      "sourceUrl": "https://b2b.marini.pl/items/355?parent=351",
+      "officialSourceUrl": "https://www.tega.com.pl/",
+      "title": "Tega Baby Leżaczek do kąpieli 100% bawełna",
+      "subtitle": "Wysoki leżaczek kąpielowy z pokrowcem z bawełny, dostępny w kilku kolorach.",
+      "handle": "tega-baby-lezaczek-do-kapieli-100-bawelna",
+      "vendor": "Tega Baby",
+      "productType": "Leżaczki do wanny",
+      "status": "DRAFT",
+      "optionName": "Kolor",
+      "optionValues": [
+        "biały",
+        "szary",
+        "jasny niebieski",
+        "jasny różowy",
+        "żółty",
+        "jasny zielony",
+        "turkus",
+        "ecru"
+      ],
+      "collectionName": "Bawełna",
+      "baseKind": "leżaczek do kąpieli",
+      "badges": [
+        "Tega Baby",
+        "Bawełna",
+        "Leżaczki do wanny",
+        "8 warianty"
+      ],
+      "tags": [
+        "Tega Baby",
+        "Wanienki",
+        "Leżaczki do wanny",
+        "Dla dziecka",
+        "Marini B2B",
+        "TEGA/LEŻACZKI DO WANNY"
+      ],
+      "sourceCategory": "TEGA/LEŻACZKI DO WANNY",
+      "sourceDescription": "Leżaczek kapielowy wysoki 100% bawełna biały\n• Zdejmowalny materiał ułatwia utrzymanie leżaczka w czystości",
+      "sourceDescriptionBullets": [
+        "Leżaczek kapielowy wysoki 100% bawełna biały",
+        "Zdejmowalny materiał ułatwia utrzymanie leżaczka w czystości"
+      ],
+      "imageUrls": [
+        "https://marini.pl/b2b/pictures/777113-1.jpg",
+        "https://marini.pl/b2b/pictures/777568-1.jpg",
+        "https://marini.pl/b2b/pictures/777114-1.jpg",
+        "https://marini.pl/b2b/pictures/777115-1.jpg",
+        "https://marini.pl/b2b/pictures/777117-1.jpg",
+        "https://marini.pl/b2b/pictures/777116-1.jpg",
+        "https://marini.pl/b2b/pictures/786151-1.jpg",
+        "https://marini.pl/b2b/pictures/777565-1.jpg"
+      ],
+      "variants": [
+        {
+          "sourceSku": "777113",
+          "sku": "777113",
+          "barcode": "5902963007063",
+          "optionValue": "biały",
+          "purchasePrice": "13.16",
+          "price": "21.06",
+          "stock": 20,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "DM-020-103",
+          "supplierTitle": "TEGA DM-020-103 Leżaczek do kąpieli 100% bawełna biały",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/43157?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/777113-1.jpg"
+          ],
+          "fileKey": "777113",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/777113-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "777568",
+          "sku": "777568",
+          "barcode": "5902963070227",
+          "optionValue": "szary",
+          "purchasePrice": "13.16",
+          "price": "21.06",
+          "stock": 22,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "DM-020-106",
+          "supplierTitle": "TEGA DM-020-106 Leżaczek do kąpieli 100% bawełna szary",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/43621?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/777568-1.jpg"
+          ],
+          "fileKey": "777568",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/777568-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "777114",
+          "sku": "777114",
+          "barcode": "5902963007087",
+          "optionValue": "jasny niebieski",
+          "purchasePrice": "13.16",
+          "price": "21.06",
+          "stock": 11,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "DM-020-135",
+          "supplierTitle": "TEGA DM-020-135 Leżaczek do kąpieli 100% bawełna j.niebieski",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/43158?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/777114-1.jpg"
+          ],
+          "fileKey": "777114",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/777114-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "777115",
+          "sku": "777115",
+          "barcode": "5902963007094",
+          "optionValue": "jasny różowy",
+          "purchasePrice": "13.16",
+          "price": "21.06",
+          "stock": 18,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "DM-020-136",
+          "supplierTitle": "TEGA DM-020-136 Leżaczek do kąpieli 100% bawełna j.różowy",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/43159?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/777115-1.jpg"
+          ],
+          "fileKey": "777115",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/777115-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "777117",
+          "sku": "777117",
+          "barcode": "5902963007100",
+          "optionValue": "żółty",
+          "purchasePrice": "13.16",
+          "price": "21.06",
+          "stock": 13,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "DM-020-137",
+          "supplierTitle": "TEGA DM-020-137 Leżaczek do kąpieli 100% bawełna żółty",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/43161?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/777117-1.jpg"
+          ],
+          "fileKey": "777117",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/777117-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "777116",
+          "sku": "777116",
+          "barcode": "5902963007117",
+          "optionValue": "jasny zielony",
+          "purchasePrice": "12.50",
+          "price": "20.00",
+          "stock": 19,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "DM-020-138",
+          "supplierTitle": "TEGA DM-020-138 Leżaczek do kąpieli 100% bawełna j.zielony",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/43160?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/777116-1.jpg"
+          ],
+          "fileKey": "777116",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/777116-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "786151",
+          "sku": "786151",
+          "barcode": "5902963007124",
+          "optionValue": "turkus",
+          "purchasePrice": "13.16",
+          "price": "21.06",
+          "stock": 14,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "DM-020-140",
+          "supplierTitle": "TEGA DM-020-140 Leżaczek do kąpieli 100% bawełna turkus",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/52505?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/786151-1.jpg"
+          ],
+          "fileKey": "786151",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/786151-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "777565",
+          "sku": "777565",
+          "barcode": "5902963007131",
+          "optionValue": "ecru",
+          "purchasePrice": "13.16",
+          "price": "21.06",
+          "stock": 10,
+          "sourceStockLabel": "średnia ilość",
+          "producerCode": "DM-020-157",
+          "supplierTitle": "TEGA DM-020-157 Leżaczek do kąpieli 100% bawełna ecru",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/43618?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/777565-1.jpg"
+          ],
+          "fileKey": "777565",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/777565-1.jpg"
+          ]
+        }
+      ],
+      "descriptionHtml": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\"><section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p><h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Leżaczek do kąpieli 100% bawełna</h2><p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Wysoki leżaczek kąpielowy z pokrowcem z bawełny, dostępny w kilku kolorach.</p><div><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Bawełna</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Leżaczki do wanny</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">8 warianty</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Opis produktu</h3>Wysoki leżaczek kąpielowy z pokrowcem z bawełny, dostępny w kilku kolorach.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Cechy od producenta</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Leżaczek kapielowy wysoki 100% bawełna biały</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Zdejmowalny materiał ułatwia utrzymanie leżaczka w czystości</span></div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do codziennej kąpieli</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Praktyczny element wyprawki ułatwiający kąpiel dziecka.</p></div><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Gładkie powierzchnie i prosta forma pomagają utrzymać produkt w czystości.</p></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3><div style=\"margin-top:12px;\"><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Bawełna</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Leżaczki do wanny</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolor</strong><span style=\"color:#6a5260;text-align:right;\">biały, szary, jasny niebieski, jasny różowy, żółty, jasny zielony, turkus, ecru</span></div></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Po użyciu opłucz wodą.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Pozostaw do wyschnięcia.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Stosuj pod opieką osoby dorosłej.</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy używać wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Dane produktu przygotowane na podstawie katalogu Marini B2B i materiałów producenta Tega Baby.</p></div>",
+      "localImagePaths": [
+        "wholesale_sources/marini/images/tega_lezaczki/777113-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/777568-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/777114-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/777115-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/777117-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/777116-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/786151-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/777565-1.jpg"
+      ]
+    },
+    {
+      "source": "marini",
+      "sourceUrl": "https://b2b.marini.pl/items/355?parent=351",
+      "officialSourceUrl": "https://www.tega.com.pl/",
+      "title": "Tega Baby Leżaczek kąpielowy z wizerunkiem Dziki Zachód",
+      "subtitle": "Leżaczek kąpielowy z grafiką z kolekcji Dziki Zachód.",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-dziki-zachod",
+      "vendor": "Tega Baby",
+      "productType": "Leżaczki do wanny",
+      "status": "DRAFT",
+      "optionName": "Wzór",
+      "optionValues": [
+        "Jelonek",
+        "Słonik"
+      ],
+      "collectionName": "Dziki Zachód",
+      "baseKind": "leżaczek kąpielowy",
+      "badges": [
+        "Tega Baby",
+        "Dziki Zachód",
+        "Leżaczki do wanny",
+        "2 warianty"
+      ],
+      "tags": [
+        "Tega Baby",
+        "Wanienki",
+        "Leżaczki do wanny",
+        "Dla dziecka",
+        "Marini B2B",
+        "TEGA/LEŻACZKI DO WANNY"
+      ],
+      "sourceCategory": "TEGA/LEŻACZKI DO WANNY",
+      "sourceDescription": "• Leżaczek kąpielowy z wizerunkiem podtrzymuje głowę dziecka podczas kąpieli.\n• Pokryty miękką, przepuszczajacą wodę tkaniną 3D zapewnia komfort.\n• Zdejmowalny materiał ułatwia utrzymanie leżaczka w czystości.",
+      "sourceDescriptionBullets": [
+        "Leżaczek kąpielowy z wizerunkiem podtrzymuje głowę dziecka podczas kąpieli.",
+        "Pokryty miękką, przepuszczajacą wodę tkaniną 3D zapewnia komfort.",
+        "Zdejmowalny materiał ułatwia utrzymanie leżaczka w czystości."
+      ],
+      "imageUrls": [
+        "https://marini.pl/b2b/pictures/779260-1.png",
+        "https://marini.pl/b2b/pictures/779248-1.png"
+      ],
+      "variants": [
+        {
+          "sourceSku": "779260",
+          "sku": "779260",
+          "barcode": "5902963001542",
+          "optionValue": "Jelonek",
+          "purchasePrice": "16.58",
+          "price": "26.53",
+          "stock": 29,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "DZ-026-103-JELONEK",
+          "supplierTitle": "TEGA DZ-026-103-JELONEK Leżaczek kąpielowy z wizerunkiem DZIKI ZACHÓD",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/45383?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/779260-1.png"
+          ],
+          "fileKey": "779260",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/779260-1.png"
+          ]
+        },
+        {
+          "sourceSku": "779248",
+          "sku": "779248",
+          "barcode": "5902963001559",
+          "optionValue": "Słonik",
+          "purchasePrice": "16.58",
+          "price": "26.53",
+          "stock": 25,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "DZ-026-103-SŁONIK",
+          "supplierTitle": "TEGA DZ-026-103-SŁONIK Leżaczek kąpielowy z wizerunkiem DZIKI ZACHÓD",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/45371?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/779248-1.png"
+          ],
+          "fileKey": "779248",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/779248-1.png"
+          ]
+        }
+      ],
+      "descriptionHtml": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\"><section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p><h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Leżaczek kąpielowy z wizerunkiem Dziki Zachód</h2><p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Leżaczek kąpielowy z grafiką z kolekcji Dziki Zachód.</p><div><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Dziki Zachód</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Leżaczki do wanny</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">2 warianty</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Opis produktu</h3>Leżaczek kąpielowy z grafiką z kolekcji Dziki Zachód.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Cechy od producenta</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Leżaczek kąpielowy z wizerunkiem podtrzymuje głowę dziecka podczas kąpieli.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Pokryty miękką, przepuszczajacą wodę tkaniną 3D zapewnia komfort.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Zdejmowalny materiał ułatwia utrzymanie leżaczka w czystości.</span></div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do codziennej kąpieli</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Praktyczny element wyprawki ułatwiający kąpiel dziecka.</p></div><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Gładkie powierzchnie i prosta forma pomagają utrzymać produkt w czystości.</p></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3><div style=\"margin-top:12px;\"><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Dziki Zachód</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Leżaczki do wanny</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Wzór</strong><span style=\"color:#6a5260;text-align:right;\">Jelonek, Słonik</span></div></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Po użyciu opłucz wodą.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Pozostaw do wyschnięcia.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Stosuj pod opieką osoby dorosłej.</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy używać wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Dane produktu przygotowane na podstawie katalogu Marini B2B i materiałów producenta Tega Baby.</p></div>",
+      "localImagePaths": [
+        "wholesale_sources/marini/images/tega_lezaczki/779260-1.png",
+        "wholesale_sources/marini/images/tega_lezaczki/779248-1.png"
+      ]
+    },
+    {
+      "source": "marini",
+      "sourceUrl": "https://b2b.marini.pl/items/355?parent=351",
+      "officialSourceUrl": "https://www.tega.com.pl/",
+      "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Leśna Opowieść",
+      "subtitle": "Antypoślizgowy fotelik do kąpieli z kolekcji Leśna Opowieść.",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-lesna-opowiesc",
+      "vendor": "Tega Baby",
+      "productType": "Leżaczki do wanny",
+      "status": "DRAFT",
+      "optionName": "Kolor",
+      "optionValues": [
+        "jasny różowy",
+        "jasny niebieski",
+        "jasny żółty",
+        "jasny beżowy",
+        "jasny zielony"
+      ],
+      "collectionName": "Leśna Opowieść",
+      "baseKind": "fotelik do kąpieli",
+      "badges": [
+        "Tega Baby",
+        "Leśna Opowieść",
+        "Leżaczki do wanny",
+        "5 warianty"
+      ],
+      "tags": [
+        "Tega Baby",
+        "Wanienki",
+        "Leżaczki do wanny",
+        "Dla dziecka",
+        "Marini B2B",
+        "TEGA/LEŻACZKI DO WANNY"
+      ],
+      "sourceCategory": "TEGA/LEŻACZKI DO WANNY",
+      "sourceDescription": "• Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.\n• Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.\n• Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.\n• Produkt posiadajacy certyfikat TÜV Rheinland.",
+      "sourceDescriptionBullets": [
+        "Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.",
+        "Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.",
+        "Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.",
+        "Produkt posiadajacy certyfikat TÜV Rheinland."
+      ],
+      "imageUrls": [
+        "https://marini.pl/b2b/pictures/772353-1.png",
+        "https://marini.pl/b2b/pictures/772352-1.jpg",
+        "https://marini.pl/b2b/pictures/772355-1.png",
+        "https://marini.pl/b2b/pictures/772351-1.jpg",
+        "https://marini.pl/b2b/pictures/772354-1.png"
+      ],
+      "variants": [
+        {
+          "sourceSku": "772353",
+          "sku": "772353",
+          "barcode": "5902963015082",
+          "optionValue": "jasny różowy",
+          "purchasePrice": "17.11",
+          "price": "27.38",
+          "stock": 15,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "FF-003-107",
+          "supplierTitle": "TEGA FF-003-107 Fotelik do kąpieli antypoślizgowy LEŚNA OPOWIEŚĆ j.różowy",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/38276?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/772353-1.png"
+          ],
+          "fileKey": "772353",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/772353-1.png"
+          ]
+        },
+        {
+          "sourceSku": "772352",
+          "sku": "772352",
+          "barcode": "5902963015075",
+          "optionValue": "jasny niebieski",
+          "purchasePrice": "17.11",
+          "price": "27.38",
+          "stock": 18,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "FF-003-108",
+          "supplierTitle": "TEGA FF-003-108 Fotelik do kąpieli antypoślizgowy LEŚNA OPOWIEŚĆ j.niebieski",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/38275?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/772352-1.jpg"
+          ],
+          "fileKey": "772352",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/772352-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "772355",
+          "sku": "772355",
+          "barcode": "5902963015068",
+          "optionValue": "jasny żółty",
+          "purchasePrice": "17.11",
+          "price": "27.38",
+          "stock": 8,
+          "sourceStockLabel": "średnia ilość",
+          "producerCode": "FF-003-109",
+          "supplierTitle": "TEGA FF-003-109 Fotelik do kąpieli antypoślizgowy LEŚNA OPOWIEŚĆ j.żółty",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/38278?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/772355-1.png"
+          ],
+          "fileKey": "772355",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/772355-1.png"
+          ]
+        },
+        {
+          "sourceSku": "772351",
+          "sku": "772351",
+          "barcode": "5902963015051",
+          "optionValue": "jasny beżowy",
+          "purchasePrice": "17.11",
+          "price": "27.38",
+          "stock": 17,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "FF-003-111",
+          "supplierTitle": "TEGA FF-003-111 Fotelik do kąpieli antypoślizgowy LEŚNA OPOWIEŚĆ j.beżowy",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/38274?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/772351-1.jpg"
+          ],
+          "fileKey": "772351",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/772351-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "772354",
+          "sku": "772354",
+          "barcode": "5902963015044",
+          "optionValue": "jasny zielony",
+          "purchasePrice": "17.11",
+          "price": "27.38",
+          "stock": 9,
+          "sourceStockLabel": "średnia ilość",
+          "producerCode": "FF-003-112",
+          "supplierTitle": "TEGA FF-003-112 Fotelik do kąpieli antypoślizgowy LEŚNA OPOWIEŚĆ j.zielony",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/38277?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/772354-1.png"
+          ],
+          "fileKey": "772354",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/772354-1.png"
+          ]
+        }
+      ],
+      "descriptionHtml": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\"><section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p><h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Fotelik do kąpieli antypoślizgowy Leśna Opowieść</h2><p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Antypoślizgowy fotelik do kąpieli z kolekcji Leśna Opowieść.</p><div><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Leśna Opowieść</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Leżaczki do wanny</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">5 warianty</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Opis produktu</h3>Antypoślizgowy fotelik do kąpieli z kolekcji Leśna Opowieść.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Cechy od producenta</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Produkt posiadajacy certyfikat TÜV Rheinland.</span></div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do codziennej kąpieli</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Praktyczny element wyprawki ułatwiający kąpiel dziecka.</p></div><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Gładkie powierzchnie i prosta forma pomagają utrzymać produkt w czystości.</p></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3><div style=\"margin-top:12px;\"><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Leśna Opowieść</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Leżaczki do wanny</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolor</strong><span style=\"color:#6a5260;text-align:right;\">jasny różowy, jasny niebieski, jasny żółty, jasny beżowy, jasny zielony</span></div></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Po użyciu opłucz wodą.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Pozostaw do wyschnięcia.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Stosuj pod opieką osoby dorosłej.</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy używać wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Dane produktu przygotowane na podstawie katalogu Marini B2B i materiałów producenta Tega Baby.</p></div>",
+      "localImagePaths": [
+        "wholesale_sources/marini/images/tega_lezaczki/772353-1.png",
+        "wholesale_sources/marini/images/tega_lezaczki/772352-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/772355-1.png",
+        "wholesale_sources/marini/images/tega_lezaczki/772351-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/772354-1.png"
+      ]
+    },
+    {
+      "source": "marini",
+      "sourceUrl": "https://b2b.marini.pl/items/355?parent=351",
+      "officialSourceUrl": "https://www.tega.com.pl/",
+      "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Króliczki",
+      "subtitle": "Antypoślizgowy fotelik do kąpieli z kolekcji Króliczki.",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-kroliczki",
+      "vendor": "Tega Baby",
+      "productType": "Leżaczki do wanny",
+      "status": "DRAFT",
+      "optionName": "Kolor",
+      "optionValues": [
+        "biały",
+        "jasny różowy",
+        "jasny zielony"
+      ],
+      "collectionName": "Króliczki",
+      "baseKind": "fotelik do kąpieli",
+      "badges": [
+        "Tega Baby",
+        "Króliczki",
+        "Leżaczki do wanny",
+        "3 warianty"
+      ],
+      "tags": [
+        "Tega Baby",
+        "Wanienki",
+        "Leżaczki do wanny",
+        "Dla dziecka",
+        "Marini B2B",
+        "TEGA/LEŻACZKI DO WANNY"
+      ],
+      "sourceCategory": "TEGA/LEŻACZKI DO WANNY",
+      "sourceDescription": "• Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.\n• Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.\n• Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.\n• Produkt posiadajacy certyfikat TÜV Rheinland.",
+      "sourceDescriptionBullets": [
+        "Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.",
+        "Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.",
+        "Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.",
+        "Produkt posiadajacy certyfikat TÜV Rheinland."
+      ],
+      "imageUrls": [
+        "https://marini.pl/b2b/pictures/780954-1.jpg",
+        "https://marini.pl/b2b/pictures/762776-1.jpg",
+        "https://marini.pl/b2b/pictures/780955-1.jpg"
+      ],
+      "variants": [
+        {
+          "sourceSku": "780954",
+          "sku": "780954",
+          "barcode": "5902963008022",
+          "optionValue": "biały",
+          "purchasePrice": "17.11",
+          "price": "27.38",
+          "stock": 6,
+          "sourceStockLabel": "średnia ilość",
+          "producerCode": "KR-003-103",
+          "supplierTitle": "TEGA KR-003-103 Fotelik do kąpieli antypoślizgowy KRÓLICZKI biały",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/47119?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/780954-1.jpg"
+          ],
+          "fileKey": "780954",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/780954-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "762776",
+          "sku": "762776",
+          "barcode": "5902963008039",
+          "optionValue": "jasny różowy",
+          "purchasePrice": "17.11",
+          "price": "27.38",
+          "stock": 6,
+          "sourceStockLabel": "średnia ilość",
+          "producerCode": "KR-003-104",
+          "supplierTitle": "TEGA KR-003-104 Fotelik do kapieli antypoślizgowy KRÓLICZKI j.różowy",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/26336?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/762776-1.jpg"
+          ],
+          "fileKey": "762776",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/762776-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "780955",
+          "sku": "780955",
+          "barcode": "5902963008046",
+          "optionValue": "jasny zielony",
+          "purchasePrice": "17.11",
+          "price": "27.38",
+          "stock": 8,
+          "sourceStockLabel": "średnia ilość",
+          "producerCode": "KR-003-105",
+          "supplierTitle": "TEGA KR-003-105 Fotelik do kąpieli antypoślizgowy KRÓLICZKI j.zielony",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/47120?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/780955-1.jpg"
+          ],
+          "fileKey": "780955",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/780955-1.jpg"
+          ]
+        }
+      ],
+      "descriptionHtml": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\"><section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p><h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Fotelik do kąpieli antypoślizgowy Króliczki</h2><p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Antypoślizgowy fotelik do kąpieli z kolekcji Króliczki.</p><div><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Króliczki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Leżaczki do wanny</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">3 warianty</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Opis produktu</h3>Antypoślizgowy fotelik do kąpieli z kolekcji Króliczki.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Cechy od producenta</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Produkt posiadajacy certyfikat TÜV Rheinland.</span></div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do codziennej kąpieli</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Praktyczny element wyprawki ułatwiający kąpiel dziecka.</p></div><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Gładkie powierzchnie i prosta forma pomagają utrzymać produkt w czystości.</p></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3><div style=\"margin-top:12px;\"><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Króliczki</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Leżaczki do wanny</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolor</strong><span style=\"color:#6a5260;text-align:right;\">biały, jasny różowy, jasny zielony</span></div></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Po użyciu opłucz wodą.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Pozostaw do wyschnięcia.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Stosuj pod opieką osoby dorosłej.</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy używać wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Dane produktu przygotowane na podstawie katalogu Marini B2B i materiałów producenta Tega Baby.</p></div>",
+      "localImagePaths": [
+        "wholesale_sources/marini/images/tega_lezaczki/780954-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/762776-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/780955-1.jpg"
+      ]
+    },
+    {
+      "source": "marini",
+      "sourceUrl": "https://b2b.marini.pl/items/355?parent=351",
+      "officialSourceUrl": "https://www.tega.com.pl/",
+      "title": "Tega Baby Leżaczek kąpielowy z wizerunkiem Króliczki",
+      "subtitle": "Leżaczek kąpielowy z grafiką z kolekcji Króliczki.",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-kroliczki",
+      "vendor": "Tega Baby",
+      "productType": "Leżaczki do wanny",
+      "status": "DRAFT",
+      "optionName": "Kolor",
+      "optionValues": [
+        "biały",
+        "jasny różowy",
+        "jasny zielony"
+      ],
+      "collectionName": "Króliczki",
+      "baseKind": "leżaczek kąpielowy",
+      "badges": [
+        "Tega Baby",
+        "Króliczki",
+        "Leżaczki do wanny",
+        "3 warianty"
+      ],
+      "tags": [
+        "Tega Baby",
+        "Wanienki",
+        "Leżaczki do wanny",
+        "Dla dziecka",
+        "Marini B2B",
+        "TEGA/LEŻACZKI DO WANNY"
+      ],
+      "sourceCategory": "TEGA/LEŻACZKI DO WANNY",
+      "sourceDescription": "Leżaczek kąpielowy jest niezastąpionym atrybutem podczas kąpieli małego dziecka. Leżaczek podtrzymuje główkę dziecka a miękki materiał zapewni komfort i bezpieczeństwo dziecku podczas kąpieli. Leżaczek można stosować już od pierwszych dni życia. Leżaczki są wykonane z materiału szybkoschnącego i są antybakteryjne.\nCharakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkowania potwierdzonym certyfikatami OEKOTEX. Każdy z produktów został opracowany z najwyższą starannością oraz dbałością o szczegóły. Wszystkie produkty zostały wyprodukowane wyłącznie w Polsce.",
+      "sourceDescriptionBullets": [
+        "Leżaczek kąpielowy jest niezastąpionym atrybutem podczas kąpieli małego dziecka. Leżaczek podtrzymuje główkę dziecka a miękki materiał zapewni komfort i bezpieczeństwo dziecku podczas kąpieli. Leżaczek można stosować już od pierwszych dni życia. Leżaczki są wykonane z materiału szybkoschnącego i są antybakteryjne.",
+        "Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkowania potwierdzonym certyfikatami OEKOTEX. Każdy z produktów został opracowany z najwyższą starannością oraz dbałością o szczegóły. Wszystkie produkty zostały wyprodukowane wyłącznie w Polsce."
+      ],
+      "imageUrls": [
+        "https://marini.pl/b2b/pictures/771343-1.jpg",
+        "https://marini.pl/b2b/pictures/771344-1.jpg",
+        "https://marini.pl/b2b/pictures/771345-1.jpg"
+      ],
+      "variants": [
+        {
+          "sourceSku": "771343",
+          "sku": "771343",
+          "barcode": "5902963070999",
+          "optionValue": "biały",
+          "purchasePrice": "16.58",
+          "price": "26.53",
+          "stock": 11,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "KR-026-103",
+          "supplierTitle": "TEGA KR-026-103 Leżaczek kąpielowy z wizerunkiem Króliczki biały",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/37231?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/771343-1.jpg"
+          ],
+          "fileKey": "771343",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/771343-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "771344",
+          "sku": "771344",
+          "barcode": "5902963071002",
+          "optionValue": "jasny różowy",
+          "purchasePrice": "16.58",
+          "price": "26.53",
+          "stock": 18,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "KR-026-104",
+          "supplierTitle": "TEGA KR-026-104 Leżaczek kąpielowy z wizerunkiem Króliczki j.róż",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/37232?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/771344-1.jpg"
+          ],
+          "fileKey": "771344",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/771344-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "771345",
+          "sku": "771345",
+          "barcode": "5902963071019",
+          "optionValue": "jasny zielony",
+          "purchasePrice": "16.58",
+          "price": "26.53",
+          "stock": 14,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "KR-026-105",
+          "supplierTitle": "TEGA KR-026-105 Leżaczek kąpielowy z wizerunkiem Króliczki j.zielony",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/37233?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/771345-1.jpg"
+          ],
+          "fileKey": "771345",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/771345-1.jpg"
+          ]
+        }
+      ],
+      "descriptionHtml": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\"><section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p><h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Leżaczek kąpielowy z wizerunkiem Króliczki</h2><p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Leżaczek kąpielowy z grafiką z kolekcji Króliczki.</p><div><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Króliczki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Leżaczki do wanny</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">3 warianty</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Opis produktu</h3>Leżaczek kąpielowy z grafiką z kolekcji Króliczki.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Cechy od producenta</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Leżaczek kąpielowy jest niezastąpionym atrybutem podczas kąpieli małego dziecka. Leżaczek podtrzymuje główkę dziecka a miękki materiał zapewni komfort i bezpieczeństwo dziecku podczas kąpieli. Leżaczek można stosować już od pierwszych dni życia. Leżaczki są wykonane z materiału szybkoschnącego i są antybakteryjne.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkowania potwierdzonym certyfikatami OEKOTEX. Każdy z produktów został opracowany z najwyższą starannością oraz dbałością o szczegóły. Wszystkie produkty zostały wyprodukowane wyłącznie w Polsce.</span></div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do codziennej kąpieli</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Praktyczny element wyprawki ułatwiający kąpiel dziecka.</p></div><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Gładkie powierzchnie i prosta forma pomagają utrzymać produkt w czystości.</p></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3><div style=\"margin-top:12px;\"><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Króliczki</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Leżaczki do wanny</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolor</strong><span style=\"color:#6a5260;text-align:right;\">biały, jasny różowy, jasny zielony</span></div></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Po użyciu opłucz wodą.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Pozostaw do wyschnięcia.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Stosuj pod opieką osoby dorosłej.</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy używać wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Dane produktu przygotowane na podstawie katalogu Marini B2B i materiałów producenta Tega Baby.</p></div>",
+      "localImagePaths": [
+        "wholesale_sources/marini/images/tega_lezaczki/771343-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/771344-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/771345-1.jpg"
+      ]
+    },
+    {
+      "source": "marini",
+      "sourceUrl": "https://b2b.marini.pl/items/355?parent=351",
+      "officialSourceUrl": "https://www.tega.com.pl/",
+      "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Meteo",
+      "subtitle": "Antypoślizgowy fotelik do kąpieli z kolekcji Meteo.",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-meteo",
+      "vendor": "Tega Baby",
+      "productType": "Leżaczki do wanny",
+      "status": "DRAFT",
+      "optionName": "Kolor",
+      "optionValues": [
+        "różowy",
+        "granatowy",
+        "turkusowy",
+        "musztardowy"
+      ],
+      "collectionName": "Meteo",
+      "baseKind": "fotelik do kąpieli",
+      "badges": [
+        "Tega Baby",
+        "Meteo",
+        "Leżaczki do wanny",
+        "4 warianty"
+      ],
+      "tags": [
+        "Tega Baby",
+        "Wanienki",
+        "Leżaczki do wanny",
+        "Dla dziecka",
+        "Marini B2B",
+        "TEGA/LEŻACZKI DO WANNY"
+      ],
+      "sourceCategory": "TEGA/LEŻACZKI DO WANNY",
+      "sourceDescription": "• Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.\n• Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.\n• Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.\n• Produkt posiadajacy certyfikat TÜV Rheinland.",
+      "sourceDescriptionBullets": [
+        "Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.",
+        "Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.",
+        "Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.",
+        "Produkt posiadajacy certyfikat TÜV Rheinland."
+      ],
+      "imageUrls": [
+        "https://marini.pl/b2b/pictures/786638-1.jpg",
+        "https://marini.pl/b2b/pictures/786636-1.jpg",
+        "https://marini.pl/b2b/pictures/786639-1.jpg",
+        "https://marini.pl/b2b/pictures/786637-1.jpg"
+      ],
+      "variants": [
+        {
+          "sourceSku": "786638",
+          "sku": "786638",
+          "barcode": "5902963002419",
+          "optionValue": "różowy",
+          "purchasePrice": "17.11",
+          "price": "27.38",
+          "stock": 7,
+          "sourceStockLabel": "średnia ilość",
+          "producerCode": "ME-003-123",
+          "supplierTitle": "TEGA ME-003-123 Fotelik do kąpieli antypoślizgowy METEO różowy",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/53035?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/786638-1.jpg"
+          ],
+          "fileKey": "786638",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/786638-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "786636",
+          "sku": "786636",
+          "barcode": "5902963002426",
+          "optionValue": "granatowy",
+          "purchasePrice": "17.11",
+          "price": "27.38",
+          "stock": 8,
+          "sourceStockLabel": "średnia ilość",
+          "producerCode": "ME-003-164",
+          "supplierTitle": "TEGA ME-003-164 Fotelik do kąpieli antypoślizgowy METEO granatowy",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/53033?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/786636-1.jpg"
+          ],
+          "fileKey": "786636",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/786636-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "786639",
+          "sku": "786639",
+          "barcode": "5902963002433",
+          "optionValue": "turkusowy",
+          "purchasePrice": "16.88",
+          "price": "27.01",
+          "stock": 7,
+          "sourceStockLabel": "średnia ilość",
+          "producerCode": "ME-003-165",
+          "supplierTitle": "TEGA ME-003-165 Fotelik do kąpieli antypoślizgowy METEO turkusowy",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/53036?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/786639-1.jpg"
+          ],
+          "fileKey": "786639",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/786639-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "786637",
+          "sku": "786637",
+          "barcode": "5902963002440",
+          "optionValue": "musztardowy",
+          "purchasePrice": "16.25",
+          "price": "26.00",
+          "stock": 7,
+          "sourceStockLabel": "średnia ilość",
+          "producerCode": "ME-003-166",
+          "supplierTitle": "TEGA ME-003-166 Fotelik do kąpieli antypoślizgowy METEO musztardowy",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/53034?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/786637-1.jpg"
+          ],
+          "fileKey": "786637",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/786637-1.jpg"
+          ]
+        }
+      ],
+      "descriptionHtml": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\"><section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p><h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Fotelik do kąpieli antypoślizgowy Meteo</h2><p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Antypoślizgowy fotelik do kąpieli z kolekcji Meteo.</p><div><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Meteo</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Leżaczki do wanny</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 warianty</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Opis produktu</h3>Antypoślizgowy fotelik do kąpieli z kolekcji Meteo.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Cechy od producenta</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Produkt posiadajacy certyfikat TÜV Rheinland.</span></div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do codziennej kąpieli</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Praktyczny element wyprawki ułatwiający kąpiel dziecka.</p></div><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Gładkie powierzchnie i prosta forma pomagają utrzymać produkt w czystości.</p></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3><div style=\"margin-top:12px;\"><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Meteo</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Leżaczki do wanny</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolor</strong><span style=\"color:#6a5260;text-align:right;\">różowy, granatowy, turkusowy, musztardowy</span></div></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Po użyciu opłucz wodą.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Pozostaw do wyschnięcia.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Stosuj pod opieką osoby dorosłej.</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy używać wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Dane produktu przygotowane na podstawie katalogu Marini B2B i materiałów producenta Tega Baby.</p></div>",
+      "localImagePaths": [
+        "wholesale_sources/marini/images/tega_lezaczki/786638-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/786636-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/786639-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/786637-1.jpg"
+      ]
+    },
+    {
+      "source": "marini",
+      "sourceUrl": "https://b2b.marini.pl/items/355?parent=351",
+      "officialSourceUrl": "https://www.tega.com.pl/",
+      "title": "Tega Baby Leżaczek kąpielowy z wizerunkiem Meteo",
+      "subtitle": "Leżaczek kąpielowy z grafiką z kolekcji Meteo.",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-meteo",
+      "vendor": "Tega Baby",
+      "productType": "Leżaczki do wanny",
+      "status": "DRAFT",
+      "optionName": "Title",
+      "optionValues": [
+        "Default Title"
+      ],
+      "collectionName": "Meteo",
+      "baseKind": "leżaczek kąpielowy",
+      "badges": [
+        "Tega Baby",
+        "Meteo",
+        "Leżaczki do wanny"
+      ],
+      "tags": [
+        "Tega Baby",
+        "Wanienki",
+        "Leżaczki do wanny",
+        "Dla dziecka",
+        "Marini B2B",
+        "TEGA/LEŻACZKI DO WANNY"
+      ],
+      "sourceCategory": "TEGA/LEŻACZKI DO WANNY",
+      "sourceDescription": "• Leżaczek kąpielowy z wizerunkiem podtrzymuje głowę dziecka podczas kąpieli.\n• Pokryty miękką, przepuszczajacą wodę tkaniną 3D zapewnia komfort.\n• Zdejmowalny materiał ułatwia utrzymanie leżaczka w czystości.",
+      "sourceDescriptionBullets": [
+        "Leżaczek kąpielowy z wizerunkiem podtrzymuje głowę dziecka podczas kąpieli.",
+        "Pokryty miękką, przepuszczajacą wodę tkaniną 3D zapewnia komfort.",
+        "Zdejmowalny materiał ułatwia utrzymanie leżaczka w czystości."
+      ],
+      "imageUrls": [
+        "https://marini.pl/b2b/pictures/787100-1.jpg"
+      ],
+      "variants": [
+        {
+          "sourceSku": "787100",
+          "sku": "787100",
+          "barcode": "5902963002815",
+          "optionValue": "Default Title",
+          "purchasePrice": "16.58",
+          "price": "26.53",
+          "stock": 15,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "ME-026-165",
+          "supplierTitle": "TEGA ME-026-165 Leżaczek kąpielowy z wizerunkiem METEO turkusowy",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/53519?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/787100-1.jpg"
+          ],
+          "fileKey": "787100",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/787100-1.jpg"
+          ]
+        }
+      ],
+      "descriptionHtml": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\"><section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p><h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Leżaczek kąpielowy z wizerunkiem Meteo</h2><p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Leżaczek kąpielowy z grafiką z kolekcji Meteo.</p><div><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Meteo</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Leżaczki do wanny</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Opis produktu</h3>Leżaczek kąpielowy z grafiką z kolekcji Meteo.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Cechy od producenta</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Leżaczek kąpielowy z wizerunkiem podtrzymuje głowę dziecka podczas kąpieli.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Pokryty miękką, przepuszczajacą wodę tkaniną 3D zapewnia komfort.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Zdejmowalny materiał ułatwia utrzymanie leżaczka w czystości.</span></div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do codziennej kąpieli</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Praktyczny element wyprawki ułatwiający kąpiel dziecka.</p></div><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Gładkie powierzchnie i prosta forma pomagają utrzymać produkt w czystości.</p></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3><div style=\"margin-top:12px;\"><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Meteo</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Leżaczki do wanny</span></div></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Po użyciu opłucz wodą.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Pozostaw do wyschnięcia.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Stosuj pod opieką osoby dorosłej.</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy używać wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Dane produktu przygotowane na podstawie katalogu Marini B2B i materiałów producenta Tega Baby.</p></div>",
+      "localImagePaths": [
+        "wholesale_sources/marini/images/tega_lezaczki/787100-1.jpg"
+      ]
+    },
+    {
+      "source": "marini",
+      "sourceUrl": "https://b2b.marini.pl/items/355?parent=351",
+      "officialSourceUrl": "https://www.tega.com.pl/",
+      "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Monsters",
+      "subtitle": "Antypoślizgowy fotelik do kąpieli z kolekcji Monsters.",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-monsters",
+      "vendor": "Tega Baby",
+      "productType": "Leżaczki do wanny",
+      "status": "DRAFT",
+      "optionName": "Title",
+      "optionValues": [
+        "Default Title"
+      ],
+      "collectionName": "Monsters",
+      "baseKind": "fotelik do kąpieli",
+      "badges": [
+        "Tega Baby",
+        "Monsters",
+        "Leżaczki do wanny"
+      ],
+      "tags": [
+        "Tega Baby",
+        "Wanienki",
+        "Leżaczki do wanny",
+        "Dla dziecka",
+        "Marini B2B",
+        "TEGA/LEŻACZKI DO WANNY"
+      ],
+      "sourceCategory": "TEGA/LEŻACZKI DO WANNY",
+      "sourceDescription": "• Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.\n• Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.\n• Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.\n• Produkt posiadajacy certyfikat TÜV Rheinland.",
+      "sourceDescriptionBullets": [
+        "Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.",
+        "Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.",
+        "Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.",
+        "Produkt posiadajacy certyfikat TÜV Rheinland."
+      ],
+      "imageUrls": [
+        "https://marini.pl/b2b/pictures/5906192-1.jpg"
+      ],
+      "variants": [
+        {
+          "sourceSku": "5906192",
+          "sku": "5906192",
+          "barcode": "5902963004734",
+          "optionValue": "Default Title",
+          "purchasePrice": "16.25",
+          "price": "26.00",
+          "stock": 3,
+          "sourceStockLabel": "mała ilość",
+          "producerCode": "MN-003-124",
+          "supplierTitle": "TEGA MN-003-124 Fotelik do kąpieli antypoślizgowy Monsters żółty",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/62179?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/5906192-1.jpg"
+          ],
+          "fileKey": "5906192",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/5906192-1.jpg"
+          ]
+        }
+      ],
+      "descriptionHtml": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\"><section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p><h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Fotelik do kąpieli antypoślizgowy Monsters</h2><p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Antypoślizgowy fotelik do kąpieli z kolekcji Monsters.</p><div><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Monsters</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Leżaczki do wanny</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Opis produktu</h3>Antypoślizgowy fotelik do kąpieli z kolekcji Monsters.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Cechy od producenta</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Produkt posiadajacy certyfikat TÜV Rheinland.</span></div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do codziennej kąpieli</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Praktyczny element wyprawki ułatwiający kąpiel dziecka.</p></div><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Gładkie powierzchnie i prosta forma pomagają utrzymać produkt w czystości.</p></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3><div style=\"margin-top:12px;\"><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Monsters</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Leżaczki do wanny</span></div></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Po użyciu opłucz wodą.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Pozostaw do wyschnięcia.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Stosuj pod opieką osoby dorosłej.</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy używać wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Dane produktu przygotowane na podstawie katalogu Marini B2B i materiałów producenta Tega Baby.</p></div>",
+      "localImagePaths": [
+        "wholesale_sources/marini/images/tega_lezaczki/5906192-1.jpg"
+      ]
+    },
+    {
+      "source": "marini",
+      "sourceUrl": "https://b2b.marini.pl/items/355?parent=351",
+      "officialSourceUrl": "https://www.tega.com.pl/",
+      "title": "Tega Baby Podnóżek antypoślizgowy Monsters",
+      "subtitle": "Antypoślizgowy podnóżek z kolekcji Monsters.",
+      "handle": "tega-baby-podnozek-antyposlizgowy-monsters",
+      "vendor": "Tega Baby",
+      "productType": "Leżaczki do wanny",
+      "status": "DRAFT",
+      "optionName": "Title",
+      "optionValues": [
+        "Default Title"
+      ],
+      "collectionName": "Monsters",
+      "baseKind": "podnóżek",
+      "badges": [
+        "Tega Baby",
+        "Monsters",
+        "Leżaczki do wanny"
+      ],
+      "tags": [
+        "Tega Baby",
+        "Wanienki",
+        "Leżaczki do wanny",
+        "Dla dziecka",
+        "Marini B2B",
+        "TEGA/STOPNIE"
+      ],
+      "sourceCategory": "TEGA/STOPNIE",
+      "sourceDescription": "• Wytrzymały i praktyczny dwukomponentowy podnóżek.\n• Górna powierzchnia oraz podstawa zostały pokryte antypoślizgowym tworzywem, które zapewnia bezpieczeństwo i stabilność produktu.\n• Wspomaga naukę samodzielnego korzystania z toalety.\n• Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.",
+      "sourceDescriptionBullets": [
+        "Wytrzymały i praktyczny dwukomponentowy podnóżek.",
+        "Górna powierzchnia oraz podstawa zostały pokryte antypoślizgowym tworzywem, które zapewnia bezpieczeństwo i stabilność produktu.",
+        "Wspomaga naukę samodzielnego korzystania z toalety.",
+        "Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland."
+      ],
+      "imageUrls": [
+        "https://marini.pl/b2b/pictures/5906215-1.jpg"
+      ],
+      "variants": [
+        {
+          "sourceSku": "5906215",
+          "sku": "5906215",
+          "barcode": "5902963004666",
+          "optionValue": "Default Title",
+          "purchasePrice": "19.38",
+          "price": "31.01",
+          "stock": 5,
+          "sourceStockLabel": "mała ilość",
+          "producerCode": "MN-006-124",
+          "supplierTitle": "TEGA MN-006-124 Podnóżek antypoślizgowy Monsters żółty",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/62203?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/5906215-1.jpg"
+          ],
+          "fileKey": "5906215",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/5906215-1.jpg"
+          ]
+        }
+      ],
+      "descriptionHtml": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\"><section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p><h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Podnóżek antypoślizgowy Monsters</h2><p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Antypoślizgowy podnóżek z kolekcji Monsters.</p><div><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Monsters</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Leżaczki do wanny</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Opis produktu</h3>Antypoślizgowy podnóżek z kolekcji Monsters.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Cechy od producenta</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Wytrzymały i praktyczny dwukomponentowy podnóżek.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Górna powierzchnia oraz podstawa zostały pokryte antypoślizgowym tworzywem, które zapewnia bezpieczeństwo i stabilność produktu.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Wspomaga naukę samodzielnego korzystania z toalety.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</span></div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do codziennej kąpieli</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Praktyczny element wyprawki ułatwiający kąpiel dziecka.</p></div><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Gładkie powierzchnie i prosta forma pomagają utrzymać produkt w czystości.</p></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3><div style=\"margin-top:12px;\"><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Monsters</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Leżaczki do wanny</span></div></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Po użyciu opłucz wodą.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Pozostaw do wyschnięcia.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Stosuj pod opieką osoby dorosłej.</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy używać wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Dane produktu przygotowane na podstawie katalogu Marini B2B i materiałów producenta Tega Baby.</p></div>",
+      "localImagePaths": [
+        "wholesale_sources/marini/images/tega_lezaczki/5906215-1.jpg"
+      ]
+    },
+    {
+      "source": "marini",
+      "sourceUrl": "https://b2b.marini.pl/items/355?parent=351",
+      "officialSourceUrl": "https://www.tega.com.pl/",
+      "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Miś",
+      "subtitle": "Antypoślizgowy fotelik do kąpieli z kolekcji Miś.",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-mis",
+      "vendor": "Tega Baby",
+      "productType": "Leżaczki do wanny",
+      "status": "DRAFT",
+      "optionName": "Kolor",
+      "optionValues": [
+        "biała perła",
+        "beżowy"
+      ],
+      "collectionName": "Miś",
+      "baseKind": "fotelik do kąpieli",
+      "badges": [
+        "Tega Baby",
+        "Miś",
+        "Leżaczki do wanny",
+        "2 warianty"
+      ],
+      "tags": [
+        "Tega Baby",
+        "Wanienki",
+        "Leżaczki do wanny",
+        "Dla dziecka",
+        "Marini B2B",
+        "TEGA/LEŻACZKI DO WANNY"
+      ],
+      "sourceCategory": "TEGA/LEŻACZKI DO WANNY",
+      "sourceDescription": "• Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.\n• Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.\n• Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.\n• Produkt posiadajacy certyfikat TÜV Rheinland.",
+      "sourceDescriptionBullets": [
+        "Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.",
+        "Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.",
+        "Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.",
+        "Produkt posiadajacy certyfikat TÜV Rheinland."
+      ],
+      "imageUrls": [
+        "https://marini.pl/b2b/pictures/774691-1.jpg",
+        "https://marini.pl/b2b/pictures/3605-1.jpg"
+      ],
+      "variants": [
+        {
+          "sourceSku": "774691",
+          "sku": "774691",
+          "barcode": "5902963008732",
+          "optionValue": "biała perła",
+          "purchasePrice": "16.88",
+          "price": "27.01",
+          "stock": 15,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "MS-003-118",
+          "supplierTitle": "TEGA MS-003-118 Fotelik do kąpieli antypoślizgowy MIŚ biała perła",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/40657?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/774691-1.jpg"
+          ],
+          "fileKey": "774691",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/774691-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "3605",
+          "sku": "3605",
+          "barcode": "5902963008749",
+          "optionValue": "beżowy",
+          "purchasePrice": "17.11",
+          "price": "27.38",
+          "stock": 8,
+          "sourceStockLabel": "średnia ilość",
+          "producerCode": "MS-003-119",
+          "supplierTitle": "TEGA MS-003-119 Fotelik do kąpieli antypoślizgowy MIŚ beżowy",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/20859?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/3605-1.jpg"
+          ],
+          "fileKey": "3605",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/3605-1.jpg"
+          ]
+        }
+      ],
+      "descriptionHtml": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\"><section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p><h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Fotelik do kąpieli antypoślizgowy Miś</h2><p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Antypoślizgowy fotelik do kąpieli z kolekcji Miś.</p><div><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Miś</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Leżaczki do wanny</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">2 warianty</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Opis produktu</h3>Antypoślizgowy fotelik do kąpieli z kolekcji Miś.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Cechy od producenta</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Produkt posiadajacy certyfikat TÜV Rheinland.</span></div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do codziennej kąpieli</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Praktyczny element wyprawki ułatwiający kąpiel dziecka.</p></div><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Gładkie powierzchnie i prosta forma pomagają utrzymać produkt w czystości.</p></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3><div style=\"margin-top:12px;\"><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Miś</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Leżaczki do wanny</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolor</strong><span style=\"color:#6a5260;text-align:right;\">biała perła, beżowy</span></div></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Po użyciu opłucz wodą.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Pozostaw do wyschnięcia.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Stosuj pod opieką osoby dorosłej.</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy używać wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Dane produktu przygotowane na podstawie katalogu Marini B2B i materiałów producenta Tega Baby.</p></div>",
+      "localImagePaths": [
+        "wholesale_sources/marini/images/tega_lezaczki/774691-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/3605-1.jpg"
+      ]
+    },
+    {
+      "source": "marini",
+      "sourceUrl": "https://b2b.marini.pl/items/355?parent=351",
+      "officialSourceUrl": "https://www.tega.com.pl/",
+      "title": "Tega Baby Nakładka sedesowa miękka Miś",
+      "subtitle": "Miękka nakładka sedesowa z kolekcji Miś.",
+      "handle": "tega-baby-nakladka-sedesowa-miekka-mis",
+      "vendor": "Tega Baby",
+      "productType": "Leżaczki do wanny",
+      "status": "DRAFT",
+      "optionName": "Title",
+      "optionValues": [
+        "Default Title"
+      ],
+      "collectionName": "Miś",
+      "baseKind": "nakładka sedesowa",
+      "badges": [
+        "Tega Baby",
+        "Miś",
+        "Leżaczki do wanny"
+      ],
+      "tags": [
+        "Tega Baby",
+        "Wanienki",
+        "Leżaczki do wanny",
+        "Dla dziecka",
+        "Marini B2B",
+        "TEGA/LEŻACZKI DO WANNY"
+      ],
+      "sourceCategory": "TEGA/LEŻACZKI DO WANNY",
+      "sourceDescription": "• Miękkie i wygodne siedzisko nakładki zapewnia komfort użytkowania.\n• Uchwyty oraz antypoślizgowa podstawa gwarantują stabilność i bezpieczeństwo.\n• Wspomaga naukę samodzielnego korzystania z toalety.\n• Łatwa w utrzymaniu higieny dzięki wyjmowanemu siedzisku.\n• Zdobiona niezmywalną grafiką wykonaną w nowoczesnej technologii IML",
+      "sourceDescriptionBullets": [
+        "Miękkie i wygodne siedzisko nakładki zapewnia komfort użytkowania.",
+        "Uchwyty oraz antypoślizgowa podstawa gwarantują stabilność i bezpieczeństwo.",
+        "Wspomaga naukę samodzielnego korzystania z toalety.",
+        "Łatwa w utrzymaniu higieny dzięki wyjmowanemu siedzisku.",
+        "Zdobiona niezmywalną grafiką wykonaną w nowoczesnej technologii IML"
+      ],
+      "imageUrls": [
+        "https://marini.pl/b2b/pictures/774692-1.jpg"
+      ],
+      "variants": [
+        {
+          "sourceSku": "774692",
+          "sku": "774692",
+          "barcode": "5902963009012",
+          "optionValue": "Default Title",
+          "purchasePrice": "30.26",
+          "price": "48.42",
+          "stock": 11,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "MS-020-119",
+          "supplierTitle": "TEGA MS-020-119 Nakładka sedesowa miękka MIŚ beżowy",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/40658?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/774692-1.jpg"
+          ],
+          "fileKey": "774692",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/774692-1.jpg"
+          ]
+        }
+      ],
+      "descriptionHtml": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\"><section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p><h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Nakładka sedesowa miękka Miś</h2><p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Miękka nakładka sedesowa z kolekcji Miś.</p><div><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Miś</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Leżaczki do wanny</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Opis produktu</h3>Miękka nakładka sedesowa z kolekcji Miś.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Cechy od producenta</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Miękkie i wygodne siedzisko nakładki zapewnia komfort użytkowania.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Uchwyty oraz antypoślizgowa podstawa gwarantują stabilność i bezpieczeństwo.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Wspomaga naukę samodzielnego korzystania z toalety.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Łatwa w utrzymaniu higieny dzięki wyjmowanemu siedzisku.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Zdobiona niezmywalną grafiką wykonaną w nowoczesnej technologii IML</span></div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do codziennej kąpieli</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Praktyczny element wyprawki ułatwiający kąpiel dziecka.</p></div><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Gładkie powierzchnie i prosta forma pomagają utrzymać produkt w czystości.</p></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3><div style=\"margin-top:12px;\"><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Miś</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Leżaczki do wanny</span></div></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Po użyciu opłucz wodą.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Pozostaw do wyschnięcia.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Stosuj pod opieką osoby dorosłej.</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy używać wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Dane produktu przygotowane na podstawie katalogu Marini B2B i materiałów producenta Tega Baby.</p></div>",
+      "localImagePaths": [
+        "wholesale_sources/marini/images/tega_lezaczki/774692-1.jpg"
+      ]
+    },
+    {
+      "source": "marini",
+      "sourceUrl": "https://b2b.marini.pl/items/355?parent=351",
+      "officialSourceUrl": "https://www.tega.com.pl/",
+      "title": "Tega Baby Leżaczek kąpielowy z wizerunkiem Miś",
+      "subtitle": "Leżaczek kąpielowy z grafiką z kolekcji Miś.",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-mis",
+      "vendor": "Tega Baby",
+      "productType": "Leżaczki do wanny",
+      "status": "DRAFT",
+      "optionName": "Kolor",
+      "optionValues": [
+        "biały",
+        "beżowy"
+      ],
+      "collectionName": "Miś",
+      "baseKind": "leżaczek kąpielowy",
+      "badges": [
+        "Tega Baby",
+        "Miś",
+        "Leżaczki do wanny",
+        "2 warianty"
+      ],
+      "tags": [
+        "Tega Baby",
+        "Wanienki",
+        "Leżaczki do wanny",
+        "Dla dziecka",
+        "Marini B2B",
+        "TEGA/LEŻACZKI DO WANNY"
+      ],
+      "sourceCategory": "TEGA/LEŻACZKI DO WANNY",
+      "sourceDescription": "Leżaczek kąpielowy jest niezastąpionym atrybutem podczas kąpieli małego dziecka. Leżaczek podtrzymuje główkę dziecka a miękki materiał zapewni komfort i bezpieczeństwo dziecku podczas kąpieli. Leżaczek można stosować już od pierwszych dni życia. Leżaczki są wykonane z materiału szybkoschnącego i są antybakteryjne.\nCharakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkowania potwierdzonym certyfikatami OEKOTEX. Każdy z produktów został opracowany z najwyższą starannością oraz dbałością o szczegóły. Wszystkie produkty zostały wyprodukowane wyłącznie w Polsce.",
+      "sourceDescriptionBullets": [
+        "Leżaczek kąpielowy jest niezastąpionym atrybutem podczas kąpieli małego dziecka. Leżaczek podtrzymuje główkę dziecka a miękki materiał zapewni komfort i bezpieczeństwo dziecku podczas kąpieli. Leżaczek można stosować już od pierwszych dni życia. Leżaczki są wykonane z materiału szybkoschnącego i są antybakteryjne.",
+        "Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkowania potwierdzonym certyfikatami OEKOTEX. Każdy z produktów został opracowany z najwyższą starannością oraz dbałością o szczegóły. Wszystkie produkty zostały wyprodukowane wyłącznie w Polsce."
+      ],
+      "imageUrls": [
+        "https://marini.pl/b2b/pictures/770969-1.jpg",
+        "https://marini.pl/b2b/pictures/770968-1.png"
+      ],
+      "variants": [
+        {
+          "sourceSku": "770969",
+          "sku": "770969",
+          "barcode": "5902963071040",
+          "optionValue": "biały",
+          "purchasePrice": "16.36",
+          "price": "26.18",
+          "stock": 17,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "MS-026-103",
+          "supplierTitle": "TEGA MS-026-103 Leżaczek kąpielowy z wizerunkiem Miś biały",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/36849?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/770969-1.jpg"
+          ],
+          "fileKey": "770969",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/770969-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "770968",
+          "sku": "770968",
+          "barcode": "5902963071101",
+          "optionValue": "beżowy",
+          "purchasePrice": "16.58",
+          "price": "26.53",
+          "stock": 19,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "MS-026-119",
+          "supplierTitle": "TEGA MS-026-119 Leżaczek kąpielowy z wizerunkiem Miś beżowy",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/36848?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/770968-1.png"
+          ],
+          "fileKey": "770968",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/770968-1.png"
+          ]
+        }
+      ],
+      "descriptionHtml": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\"><section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p><h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Leżaczek kąpielowy z wizerunkiem Miś</h2><p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Leżaczek kąpielowy z grafiką z kolekcji Miś.</p><div><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Miś</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Leżaczki do wanny</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">2 warianty</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Opis produktu</h3>Leżaczek kąpielowy z grafiką z kolekcji Miś.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Cechy od producenta</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Leżaczek kąpielowy jest niezastąpionym atrybutem podczas kąpieli małego dziecka. Leżaczek podtrzymuje główkę dziecka a miękki materiał zapewni komfort i bezpieczeństwo dziecku podczas kąpieli. Leżaczek można stosować już od pierwszych dni życia. Leżaczki są wykonane z materiału szybkoschnącego i są antybakteryjne.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkowania potwierdzonym certyfikatami OEKOTEX. Każdy z produktów został opracowany z najwyższą starannością oraz dbałością o szczegóły. Wszystkie produkty zostały wyprodukowane wyłącznie w Polsce.</span></div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do codziennej kąpieli</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Praktyczny element wyprawki ułatwiający kąpiel dziecka.</p></div><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Gładkie powierzchnie i prosta forma pomagają utrzymać produkt w czystości.</p></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3><div style=\"margin-top:12px;\"><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Miś</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Leżaczki do wanny</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolor</strong><span style=\"color:#6a5260;text-align:right;\">biały, beżowy</span></div></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Po użyciu opłucz wodą.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Pozostaw do wyschnięcia.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Stosuj pod opieką osoby dorosłej.</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy używać wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Dane produktu przygotowane na podstawie katalogu Marini B2B i materiałów producenta Tega Baby.</p></div>",
+      "localImagePaths": [
+        "wholesale_sources/marini/images/tega_lezaczki/770969-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/770968-1.png"
+      ]
+    },
+    {
+      "source": "marini",
+      "sourceUrl": "https://b2b.marini.pl/items/355?parent=351",
+      "officialSourceUrl": "https://www.tega.com.pl/",
+      "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Sowa",
+      "subtitle": "Antypoślizgowy fotelik do kąpieli z kolekcji Sowa.",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-sowa",
+      "vendor": "Tega Baby",
+      "productType": "Leżaczki do wanny",
+      "status": "DRAFT",
+      "optionName": "Title",
+      "optionValues": [
+        "Default Title"
+      ],
+      "collectionName": "Sowa",
+      "baseKind": "fotelik do kąpieli",
+      "badges": [
+        "Tega Baby",
+        "Sowa",
+        "Leżaczki do wanny"
+      ],
+      "tags": [
+        "Tega Baby",
+        "Wanienki",
+        "Leżaczki do wanny",
+        "Dla dziecka",
+        "Marini B2B",
+        "TEGA/LEŻACZKI DO WANNY"
+      ],
+      "sourceCategory": "TEGA/LEŻACZKI DO WANNY",
+      "sourceDescription": "Fotelik do kąpieli antypoślizgowy SOWA szary\n• Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.\n• Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.\n• Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.\n• Produkt posiadajacy certyfikat TÜV Rheinland.",
+      "sourceDescriptionBullets": [
+        "Fotelik do kąpieli antypoślizgowy SOWA szary",
+        "Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.",
+        "Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.",
+        "Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.",
+        "Produkt posiadajacy certyfikat TÜV Rheinland."
+      ],
+      "imageUrls": [
+        "https://marini.pl/b2b/pictures/776017-1.jpg"
+      ],
+      "variants": [
+        {
+          "sourceSku": "776017",
+          "sku": "776017",
+          "barcode": "5902963011312",
+          "optionValue": "Default Title",
+          "purchasePrice": "17.11",
+          "price": "27.38",
+          "stock": 15,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "SO-003-106",
+          "supplierTitle": "TEGA SO-003-106 Fotelik do kąpieli antypoślizgowy SOWA szary",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/42011?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/776017-1.jpg"
+          ],
+          "fileKey": "776017",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/776017-1.jpg"
+          ]
+        }
+      ],
+      "descriptionHtml": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\"><section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p><h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Fotelik do kąpieli antypoślizgowy Sowa</h2><p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Antypoślizgowy fotelik do kąpieli z kolekcji Sowa.</p><div><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Sowa</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Leżaczki do wanny</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Opis produktu</h3>Antypoślizgowy fotelik do kąpieli z kolekcji Sowa.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Cechy od producenta</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Fotelik do kąpieli antypoślizgowy SOWA szary</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Produkt posiadajacy certyfikat TÜV Rheinland.</span></div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do codziennej kąpieli</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Praktyczny element wyprawki ułatwiający kąpiel dziecka.</p></div><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Gładkie powierzchnie i prosta forma pomagają utrzymać produkt w czystości.</p></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3><div style=\"margin-top:12px;\"><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Sowa</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Leżaczki do wanny</span></div></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Po użyciu opłucz wodą.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Pozostaw do wyschnięcia.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Stosuj pod opieką osoby dorosłej.</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy używać wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Dane produktu przygotowane na podstawie katalogu Marini B2B i materiałów producenta Tega Baby.</p></div>",
+      "localImagePaths": [
+        "wholesale_sources/marini/images/tega_lezaczki/776017-1.jpg"
+      ]
+    },
+    {
+      "source": "marini",
+      "sourceUrl": "https://b2b.marini.pl/items/355?parent=351",
+      "officialSourceUrl": "https://www.tega.com.pl/",
+      "title": "Tega Baby Leżaczek kąpielowy z wizerunkiem Sowa",
+      "subtitle": "Leżaczek kąpielowy z grafiką z kolekcji Sowa.",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-sowa",
+      "vendor": "Tega Baby",
+      "productType": "Leżaczki do wanny",
+      "status": "DRAFT",
+      "optionName": "Kolor",
+      "optionValues": [
+        "biały",
+        "szary"
+      ],
+      "collectionName": "Sowa",
+      "baseKind": "leżaczek kąpielowy",
+      "badges": [
+        "Tega Baby",
+        "Sowa",
+        "Leżaczki do wanny",
+        "2 warianty"
+      ],
+      "tags": [
+        "Tega Baby",
+        "Wanienki",
+        "Leżaczki do wanny",
+        "Dla dziecka",
+        "Marini B2B",
+        "TEGA/LEŻACZKI DO WANNY"
+      ],
+      "sourceCategory": "TEGA/LEŻACZKI DO WANNY",
+      "sourceDescription": "• Leżaczek kąpielowy z wizerunkiem podtrzymuje głowę dziecka podczas kąpieli.\n• Pokryty miękką, przepuszczajacą wodę tkaniną 3D zapewnia komfort.\n• Zdejmowalny materiał ułatwia utrzymanie leżaczka w czystości.",
+      "sourceDescriptionBullets": [
+        "Leżaczek kąpielowy z wizerunkiem podtrzymuje głowę dziecka podczas kąpieli.",
+        "Pokryty miękką, przepuszczajacą wodę tkaniną 3D zapewnia komfort.",
+        "Zdejmowalny materiał ułatwia utrzymanie leżaczka w czystości."
+      ],
+      "imageUrls": [
+        "https://marini.pl/b2b/pictures/771758-1.jpg",
+        "https://marini.pl/b2b/pictures/770973-1.png"
+      ],
+      "variants": [
+        {
+          "sourceSku": "771758",
+          "sku": "771758",
+          "barcode": "5902963071088",
+          "optionValue": "biały",
+          "purchasePrice": "16.58",
+          "price": "26.53",
+          "stock": 15,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "SO-026-103",
+          "supplierTitle": "TEGA SO-026-103 Leżaczek kąpielowy z wizerunkiem Sowa biała",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/37669?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/771758-1.jpg"
+          ],
+          "fileKey": "771758",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/771758-1.jpg"
+          ]
+        },
+        {
+          "sourceSku": "770973",
+          "sku": "770973",
+          "barcode": "5902963071095",
+          "optionValue": "szary",
+          "purchasePrice": "16.58",
+          "price": "26.53",
+          "stock": 12,
+          "sourceStockLabel": "duża ilość",
+          "producerCode": "SO-026-106",
+          "supplierTitle": "TEGA SO-026-106 Leżaczek kąpielowy z wizerunkiem Sowa szary",
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/36853?group=355",
+          "imageUrls": [
+            "https://marini.pl/b2b/pictures/770973-1.png"
+          ],
+          "fileKey": "770973",
+          "localImagePaths": [
+            "wholesale_sources/marini/images/tega_lezaczki/770973-1.png"
+          ]
+        }
+      ],
+      "descriptionHtml": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\"><section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p><h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Leżaczek kąpielowy z wizerunkiem Sowa</h2><p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Leżaczek kąpielowy z grafiką z kolekcji Sowa.</p><div><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Sowa</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Leżaczki do wanny</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">2 warianty</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Opis produktu</h3>Leżaczek kąpielowy z grafiką z kolekcji Sowa.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Cechy od producenta</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Leżaczek kąpielowy z wizerunkiem podtrzymuje głowę dziecka podczas kąpieli.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Pokryty miękką, przepuszczajacą wodę tkaniną 3D zapewnia komfort.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">Zdejmowalny materiał ułatwia utrzymanie leżaczka w czystości.</span></div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do codziennej kąpieli</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Praktyczny element wyprawki ułatwiający kąpiel dziecka.</p></div><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Łatwe czyszczenie</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Gładkie powierzchnie i prosta forma pomagają utrzymać produkt w czystości.</p></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3><div style=\"margin-top:12px;\"><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolekcja</strong><span style=\"color:#6a5260;text-align:right;\">Sowa</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Leżaczki do wanny</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kolor</strong><span style=\"color:#6a5260;text-align:right;\">biały, szary</span></div></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Po użyciu opłucz wodą.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Pozostaw do wyschnięcia.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Stosuj pod opieką osoby dorosłej.</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy używać wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Dane produktu przygotowane na podstawie katalogu Marini B2B i materiałów producenta Tega Baby.</p></div>",
+      "localImagePaths": [
+        "wholesale_sources/marini/images/tega_lezaczki/771758-1.jpg",
+        "wholesale_sources/marini/images/tega_lezaczki/770973-1.png"
+      ]
+    }
+  ],
+  "imageCache": {
+    "path": "wholesale_sources/marini/images/tega_lezaczki",
+    "imageCount": 36,
+    "downloadedAt": "2026-05-01T21:07:12+0300"
+  }
+}

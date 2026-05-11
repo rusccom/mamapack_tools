@@ -1,5 +1,5 @@
 ﻿{
-    "checkedAt":  "2026-04-30T18:09:14.1311723+03:00",
+    "checkedAt":  "2026-05-09T21:30:02.9270644+03:00",
     "baseUrl":  "https://b2b.marini.pl",
     "loginRoute":  "/login",
     "loginSelectors":  {
@@ -43,11 +43,6 @@
                                           "name":  "",
                                           "type":  "checkbox",
                                           "checked":  true
-                                      },
-                                      {
-                                          "name":  "",
-                                          "type":  "checkbox",
-                                          "checked":  false
                                       },
                                       {
                                           "name":  "",

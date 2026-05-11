@@ -4,20 +4,20 @@ $ErrorActionPreference = "Stop"
 Set-StrictMode -Version Latest
 
 $Here = Split-Path -Parent $MyInvocation.MyCommand.Path
-$BaseUrl = "https://b2b.marini.pl"
-$LoginUrl = "$BaseUrl/login"
+$ProjectRoot = Split-Path (Split-Path $Here -Parent) -Parent
+$KeyPath = Join-Path $ProjectRoot "key.md"
 $PlanPath = Join-Path $Here "tega_wanny_shopify_plan.json"
 $OutputPath = Join-Path $Here "tega_detail_images.json"
 
-function Read-DotEnv {
+function Read-KeyValues {
   param([string]$Path)
   $values = @{}
   if (!(Test-Path $Path)) { return $values }
-  foreach ($line in Get-Content $Path) { Add-DotEnvLine $values $line }
+  foreach ($line in Get-Content $Path) { Add-KeyValueLine $values $line }
   return $values
 }
 
-function Add-DotEnvLine {
+function Add-KeyValueLine {
   param($Values, [string]$Line)
   if ([string]::IsNullOrWhiteSpace($Line)) { return }
   if ($Line.TrimStart().StartsWith("#")) { return }
@@ -31,6 +31,14 @@ function Get-SecretValue {
   if ($envValue) { return $envValue }
   if ($Values.ContainsKey($Name)) { return $Values[$Name] }
   throw "Missing required value: $Name"
+}
+
+function Get-ConfigValue {
+  param($Values, [string]$Name, [string]$Default)
+  $envValue = [Environment]::GetEnvironmentVariable($Name)
+  if ($envValue) { return $envValue }
+  if ($Values.ContainsKey($Name)) { return $Values[$Name] }
+  return $Default
 }
 
 function Get-EdgePath {
@@ -229,7 +237,9 @@ $browser = $null
 $session = $null
 
 try {
-  $secrets = Read-DotEnv (Join-Path $Here ".env")
+  $secrets = Read-KeyValues $KeyPath
+  $BaseUrl = Get-ConfigValue $secrets "MARINI_BASE_URL" "https://b2b.marini.pl"
+  $LoginUrl = "$BaseUrl/login"
   $browser = New-MariniBrowser $LoginUrl
   $session = Connect-MariniCdp $browser
   Enable-BrowserRuntime $session

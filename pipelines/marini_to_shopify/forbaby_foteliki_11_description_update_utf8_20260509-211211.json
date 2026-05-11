@@ -1,0 +1,96 @@
+{
+  "createdAt": "20260509-211211",
+  "updates": [
+    {
+      "id": "gid://shopify/Product/10655506104653",
+      "title": "4 Baby BOOST fotelik samochodowy 125-150 cm i-Size",
+      "status": "DRAFT",
+      "model": "BOOST",
+      "skus": [
+        "5911362",
+        "5908244",
+        "5908245"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655506137421",
+      "title": "4 Baby ENZO-FIX fotelik samochodowy 40-150 cm i-Size",
+      "status": "DRAFT",
+      "model": "ENZO-FIX",
+      "skus": [
+        "5907247",
+        "5907248"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655506170189",
+      "title": "4 Baby MATT-FIX fotelik samochodowy 40-150 cm i-Size",
+      "status": "DRAFT",
+      "model": "MATT-FIX",
+      "skus": [
+        "5911423",
+        "5911424",
+        "5911425"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655506202957",
+      "title": "4 Baby NEO fotelik samochodowy 40-87 cm i-Size",
+      "status": "DRAFT",
+      "model": "NEO",
+      "skus": [
+        "5913099",
+        "5913098",
+        "5913100"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655506235725",
+      "title": "4 Baby NERO fotelik samochodowy 100-150 cm i-Size",
+      "status": "DRAFT",
+      "model": "NERO",
+      "skus": [
+        "5912550",
+        "5912551",
+        "5912553",
+        "5912554"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655506334029",
+      "title": "4 Baby HI-FIX fotelik samochodowy 125-150 cm dark green i-Size",
+      "status": "DRAFT",
+      "model": "HI-FIX",
+      "skus": [
+        "5911414"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655506366797",
+      "title": "4 Baby NANO-FIX fotelik samochodowy 0-18 kg red",
+      "status": "DRAFT",
+      "model": "NANO-FIX",
+      "skus": [
+        "780113"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655506399565",
+      "title": "4 Baby ROTO-FIX fotelik samochodowy 40-150 cm black i-Size",
+      "status": "DRAFT",
+      "model": "ROTO-FIX",
+      "skus": [
+        "5907840"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655506432333",
+      "title": "4 Baby VEL-FIX fotelik samochodowy 40-150 cm black i-Size",
+      "status": "DRAFT",
+      "model": "VEL-FIX",
+      "skus": [
+        "5908249"
+      ]
+    }
+  ]
+}

@@ -1,8 +1,10 @@
 aico-login.txt
 key.md
+MerchantKEY.json
 .env
 .env.*
 __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+~$*

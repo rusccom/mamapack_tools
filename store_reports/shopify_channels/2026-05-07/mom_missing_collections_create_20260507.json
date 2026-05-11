@@ -1,0 +1,508 @@
+{
+  "created_at": "2026-05-07T17:53:03",
+  "note": "Shopify collections do not have product-like DRAFT status. New collections were created unpublished by default and were not added to menus.",
+  "left_existing_semantic_collections": [
+    {
+      "planned": "Koszule nocne do karmienia",
+      "used_existing": "Koszule do karmienia",
+      "handle": "koszule-do-karmienia"
+    },
+    {
+      "planned": "Szlafroki dla mamy",
+      "used_existing": "Szlafroki dla mamy",
+      "handle": "szlafroki-dla-mamy"
+    },
+    {
+      "planned": "Klapki i skarpetki do szpitala",
+      "used_existing": "Klapki i skarpetki dla mamy",
+      "handle": "klapki-i-skarpetki-dla-mamy"
+    },
+    {
+      "planned": "Podk?ady higieniczne",
+      "used_existing": "Podk?ady higieniczne",
+      "handle": "podklady-higieniczne"
+    },
+    {
+      "planned": "Podpaski poporodowe",
+      "used_existing": "Podpaski poporodowe",
+      "handle": "podpaski-poporodowe"
+    },
+    {
+      "planned": "Majtki poporodowe",
+      "used_existing": "Majtki poporodowe",
+      "handle": "majtki-poporodowe"
+    },
+    {
+      "planned": "Higiena intymna po porodzie",
+      "used_existing": "Higiena intymna po porodzie",
+      "handle": "higiena-intymna-po-porodzie"
+    },
+    {
+      "planned": "Laktatory",
+      "used_existing": "Laktatory",
+      "handle": "laktatory"
+    },
+    {
+      "planned": "Piel?gnacja piersi i lanolina",
+      "used_existing": "Piel?gnacja piersi i lanolina",
+      "handle": "pielegnacja-piersi-lanolina"
+    }
+  ],
+  "new_or_target_collections": [
+    {
+      "title": "Biustonosze i topy do karmienia",
+      "handle": "biustonosze-i-topy-do-karmienia",
+      "collection_id": "gid://shopify/Collection/660834877773",
+      "created_now": true,
+      "candidate_product_count": 3,
+      "added_count": 3,
+      "products": [
+        {
+          "id": "gid://shopify/Product/10497132396877",
+          "legacyResourceId": "10497132396877",
+          "title": "B.O.585/11 - Biustonosz do karmienia -  BIAŁY",
+          "handle": "b-o-585-11-biustonosz-do-karmienia-d70-75-bialy",
+          "status": "ACTIVE",
+          "skus": [
+            "5901435415320",
+            "5901435415153"
+          ]
+        },
+        {
+          "id": "gid://shopify/Product/9790717526349",
+          "legacyResourceId": "9790717526349",
+          "title": "B.O.585/30 - Biustonosz do karmienia - NEUTRALNY",
+          "handle": "b-o-585-30-biustonosz-do-karmienia-b75-80-neutralny",
+          "status": "ACTIVE",
+          "skus": [
+            "5906742",
+            "5906729",
+            "5906745",
+            "5906732",
+            "5906731",
+            "5906739"
+          ]
+        },
+        {
+          "id": "gid://shopify/Product/9816061804877",
+          "legacyResourceId": "9816061804877",
+          "title": "Biustonosz sportowy do karmienia DOCTOR NAP",
+          "handle": "biustonosz-sportowy-do-karmienia-doctor-nap",
+          "status": "ACTIVE",
+          "skus": [
+            "BRA.4160.DARK_GREY.S.01",
+            "BRA.4160.DARK_GREY.M.01",
+            "BRA.4160.DARK_GREY.L.01",
+            "BRA.4160.DARK_GREY.XL.01"
+          ]
+        }
+      ],
+      "verification": {
+        "products_count": 3,
+        "resource_publications": [],
+        "products": [
+          {
+            "id": "gid://shopify/Product/9816061804877",
+            "legacyResourceId": "9816061804877",
+            "title": "Biustonosz sportowy do karmienia DOCTOR NAP",
+            "handle": "biustonosz-sportowy-do-karmienia-doctor-nap",
+            "status": "ACTIVE",
+            "skus": [
+              "BRA.4160.DARK_GREY.S.01",
+              "BRA.4160.DARK_GREY.M.01",
+              "BRA.4160.DARK_GREY.L.01",
+              "BRA.4160.DARK_GREY.XL.01"
+            ]
+          },
+          {
+            "id": "gid://shopify/Product/9790717526349",
+            "legacyResourceId": "9790717526349",
+            "title": "B.O.585/30 - Biustonosz do karmienia - NEUTRALNY",
+            "handle": "b-o-585-30-biustonosz-do-karmienia-b75-80-neutralny",
+            "status": "ACTIVE",
+            "skus": [
+              "5906742",
+              "5906729",
+              "5906745",
+              "5906732",
+              "5906731",
+              "5906739"
+            ]
+          },
+          {
+            "id": "gid://shopify/Product/10497132396877",
+            "legacyResourceId": "10497132396877",
+            "title": "B.O.585/11 - Biustonosz do karmienia -  BIAŁY",
+            "handle": "b-o-585-11-biustonosz-do-karmienia-d70-75-bialy",
+            "status": "ACTIVE",
+            "skus": [
+              "5901435415320",
+              "5901435415153"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Wk?adki i os?onki laktacyjne",
+      "handle": "wkladki-i-oslonki-laktacyjne",
+      "collection_id": "gid://shopify/Collection/660834910541",
+      "created_now": true,
+      "candidate_product_count": 14,
+      "added_count": 14,
+      "products": [
+        {
+          "id": "gid://shopify/Product/9790716510541",
+          "legacyResourceId": "9790716510541",
+          "title": "AKUKU A0160 - Wkładki laktacyjne DAILY -  (60 szt.)",
+          "handle": "akuku-a0160-wkladki-laktacyjne-daily-60-szt",
+          "status": "ACTIVE",
+          "skus": [
+            "5902895"
+          ]
+        },
+        {
+          "id": "gid://shopify/Product/9790721458509",
+          "legacyResourceId": "9790721458509",
+          "title": "AKUKU A0354 - Wkładki laktacyjne - Ultracienkie - (30 szt.)",
+          "handle": "akuku-a0354-wkladki-laktacyjne-ultracienkie",
+          "status": "ACTIVE",
+          "skus": [
+            "766240"
+          ]
+        },
+        {
+          "id": "gid://shopify/Product/9790715625805",
+          "legacyResourceId": "9790715625805",
+          "title": "AVENT SCF153/01-03 - Osłonki na piersi",
+          "handle": "avent-scf153-03-oslonki-na-piersi-srednie",
+          "status": "ACTIVE",
+          "skus": [
+            "777931",
+            "778127-S"
+          ]
+        },
+        {
+          "id": "gid://shopify/Product/9790715265357",
+          "legacyResourceId": "9790715265357",
+          "title": "AVENT SCF254/24 - Wkładki jednorazowe - (24 szt.)",
+          "handle": "avent-scf254-24-wkladki-jednorazowe-24-szt",
+          "status": "ACTIVE",
+          "skus": [
+            "771532"
+          ]
+        },
+        {
+          "id": "gid://shopify/Product/9790721556813",
+          "legacyResourceId": "9790721556813",
+          "title": "B.O.297/01 - Wkładki laktacyjne NIGHT & DAY - (40 szt.)",
+          "handle": "b-o-297-01-wkladki-laktacyjne-night-day-40-szt",
+          "status": "ACTIVE",
+          "skus": [
+            "5907986"
+          ]
+        },
+        {
+          "id": "gid://shopify/Product/9790718771533",
+          "legacyResourceId": "9790718771533",
+          "title": "B.O.298/01 - Wkładki laktacyjne NATURAL NURSING - (24 szt.) -  białe",
+          "handle": "b-o-298-01-wkladki-laktacyjne-natural-nursing-24-szt-biale",
+          "status": "ACTIVE",
+          "skus": [
+            "769621"
+          ]
+        },
+        {
+          "id": "gid://shopify/Product/9790717722957",
+          "legacyResourceId": "9790717722957",
+          "title": "B.O.823 - Silikonowe osłonki na piersi NATURAL NURSING",
+          "handle": "b-o-823-m-silikonowe-oslonki-na-piersi-natural-nursing",
+          "status": "ACTIVE",
+          "skus": [
+            "782577-S",
+            "782577-M"
+          ]
+        },
+        {
+          "id": "gid://shopify/Product/9790718869837",
+          "legacyResourceId": "9790718869837",
+          "title": "BELLA - Wkładki laktacyjne MAMMA - (30 szt.)",
+          "handle": "bella-wkladki-laktacyjne-mamma-30-szt",
+          "status": "ACTIVE",
+          "skus": [
+            "1068"
+          ]
+        },
+        {
+          "id": "gid://shopify/Product/9790718968141",
+          "legacyResourceId": "9790718968141",
+          "title": "CANPOL 1/653 - Wkładki laktacyjne  - (30 szt.)",
+          "handle": "canpol-1-653-wkladki-laktacyjne-30-szt",
+          "status": "ACTIVE",
+          "skus": [
+            "777085"
+          ]
+        },
+        {
+          "id": "gid://shopify/Product/9790716641613",
+          "legacyResourceId": "9790716641613",
+          "title": "CHICCO 00061779000000 - Wkładki laktacyjne - (30 szt.)",
+          "handle": "chicco-00061779000000-wkladki-laktacyjne-30-szt",
+          "status": "ACTIVE",
+          "skus": [
+            "788781"
+          ]
+        },
+        {
+          "id": "gid://shopify/Product/9790716084557",
+          "legacyResourceId": "9790716084557",
+          "title": "LANSINOH - Osłonki laktacyjne Nipple Shields - 2 sztuki (1 para)",
+          "handle": "lansinoh-oslonki-laktacyjne-nipple-shields-24mm",
+          "status": "ACTIVE",
+          "skus": [
+            "772177-M",
+            "772177-D"
+          ]
+        },
+        {
+          "id": "gid://shopify/Product/9790716445005",
+          "legacyResourceId": "9790716445005",
+          "title": "LANSINOH - Wkładki laktacyjne jednorazowe - (60 szt.)",
+          "handle": "lansinoh-wkladki-laktacyjne-jednorazowe-60-szt",
+          "status": "ACTIVE",
+          "skus": [
+            "9562"
+          ]
+        },
+        {
+          "id": "gid://shopify/Product/9790718673229",
+          "legacyResourceId": "9790718673229",
+          "title": "LOVI 5/605(606) - Silikonowe osłonki piersi Skin Touch (2 szt.)",
+          "handle": "lovi-5-606-silikonowe-oslonki-piersi-skin-touch-2-szt-m-l",
+          "status": "ACTIVE",
+          "skus": [
+            "777854",
+            "779202"
+          ]
+        },
+        {
+          "id": "gid://shopify/Product/9790718378317",
+          "legacyResourceId": "9790718378317",
+          "title": "NUK 252137 -  Wkładki laktacyjne HIGH PEFORMENCE  - (8szt.)",
+          "handle": "nuk-252137-wkladki-laktacyjne-high-peformence-8szt",
+          "status": "ACTIVE",
+          "skus": [
+            "5909148"
+          ]
+        }
+      ],
+      "verification": {
+        "products_count": 14,
+        "resource_publications": [],
+        "products": [
+          {
+            "id": "gid://shopify/Product/9790718869837",
+            "legacyResourceId": "9790718869837",
+            "title": "BELLA - Wkładki laktacyjne MAMMA - (30 szt.)",
+            "handle": "bella-wkladki-laktacyjne-mamma-30-szt",
+            "status": "ACTIVE",
+            "skus": [
+              "1068"
+            ]
+          },
+          {
+            "id": "gid://shopify/Product/9790718968141",
+            "legacyResourceId": "9790718968141",
+            "title": "CANPOL 1/653 - Wkładki laktacyjne  - (30 szt.)",
+            "handle": "canpol-1-653-wkladki-laktacyjne-30-szt",
+            "status": "ACTIVE",
+            "skus": [
+              "777085"
+            ]
+          },
+          {
+            "id": "gid://shopify/Product/9790718673229",
+            "legacyResourceId": "9790718673229",
+            "title": "LOVI 5/605(606) - Silikonowe osłonki piersi Skin Touch (2 szt.)",
+            "handle": "lovi-5-606-silikonowe-oslonki-piersi-skin-touch-2-szt-m-l",
+            "status": "ACTIVE",
+            "skus": [
+              "777854",
+              "779202"
+            ]
+          },
+          {
+            "id": "gid://shopify/Product/9790721556813",
+            "legacyResourceId": "9790721556813",
+            "title": "B.O.297/01 - Wkładki laktacyjne NIGHT & DAY - (40 szt.)",
+            "handle": "b-o-297-01-wkladki-laktacyjne-night-day-40-szt",
+            "status": "ACTIVE",
+            "skus": [
+              "5907986"
+            ]
+          },
+          {
+            "id": "gid://shopify/Product/9790721458509",
+            "legacyResourceId": "9790721458509",
+            "title": "AKUKU A0354 - Wkładki laktacyjne - Ultracienkie - (30 szt.)",
+            "handle": "akuku-a0354-wkladki-laktacyjne-ultracienkie",
+            "status": "ACTIVE",
+            "skus": [
+              "766240"
+            ]
+          },
+          {
+            "id": "gid://shopify/Product/9790717722957",
+            "legacyResourceId": "9790717722957",
+            "title": "B.O.823 - Silikonowe osłonki na piersi NATURAL NURSING",
+            "handle": "b-o-823-m-silikonowe-oslonki-na-piersi-natural-nursing",
+            "status": "ACTIVE",
+            "skus": [
+              "782577-S",
+              "782577-M"
+            ]
+          },
+          {
+            "id": "gid://shopify/Product/9790716641613",
+            "legacyResourceId": "9790716641613",
+            "title": "CHICCO 00061779000000 - Wkładki laktacyjne - (30 szt.)",
+            "handle": "chicco-00061779000000-wkladki-laktacyjne-30-szt",
+            "status": "ACTIVE",
+            "skus": [
+              "788781"
+            ]
+          },
+          {
+            "id": "gid://shopify/Product/9790716510541",
+            "legacyResourceId": "9790716510541",
+            "title": "AKUKU A0160 - Wkładki laktacyjne DAILY -  (60 szt.)",
+            "handle": "akuku-a0160-wkladki-laktacyjne-daily-60-szt",
+            "status": "ACTIVE",
+            "skus": [
+              "5902895"
+            ]
+          },
+          {
+            "id": "gid://shopify/Product/9790715265357",
+            "legacyResourceId": "9790715265357",
+            "title": "AVENT SCF254/24 - Wkładki jednorazowe - (24 szt.)",
+            "handle": "avent-scf254-24-wkladki-jednorazowe-24-szt",
+            "status": "ACTIVE",
+            "skus": [
+              "771532"
+            ]
+          },
+          {
+            "id": "gid://shopify/Product/9790718771533",
+            "legacyResourceId": "9790718771533",
+            "title": "B.O.298/01 - Wkładki laktacyjne NATURAL NURSING - (24 szt.) -  białe",
+            "handle": "b-o-298-01-wkladki-laktacyjne-natural-nursing-24-szt-biale",
+            "status": "ACTIVE",
+            "skus": [
+              "769621"
+            ]
+          },
+          {
+            "id": "gid://shopify/Product/9790718378317",
+            "legacyResourceId": "9790718378317",
+            "title": "NUK 252137 -  Wkładki laktacyjne HIGH PEFORMENCE  - (8szt.)",
+            "handle": "nuk-252137-wkladki-laktacyjne-high-peformence-8szt",
+            "status": "ACTIVE",
+            "skus": [
+              "5909148"
+            ]
+          },
+          {
+            "id": "gid://shopify/Product/9790716445005",
+            "legacyResourceId": "9790716445005",
+            "title": "LANSINOH - Wkładki laktacyjne jednorazowe - (60 szt.)",
+            "handle": "lansinoh-wkladki-laktacyjne-jednorazowe-60-szt",
+            "status": "ACTIVE",
+            "skus": [
+              "9562"
+            ]
+          },
+          {
+            "id": "gid://shopify/Product/9790716084557",
+            "legacyResourceId": "9790716084557",
+            "title": "LANSINOH - Osłonki laktacyjne Nipple Shields - 2 sztuki (1 para)",
+            "handle": "lansinoh-oslonki-laktacyjne-nipple-shields-24mm",
+            "status": "ACTIVE",
+            "skus": [
+              "772177-M",
+              "772177-D"
+            ]
+          },
+          {
+            "id": "gid://shopify/Product/9790715625805",
+            "legacyResourceId": "9790715625805",
+            "title": "AVENT SCF153/01-03 - Osłonki na piersi",
+            "handle": "avent-scf153-03-oslonki-na-piersi-srednie",
+            "status": "ACTIVE",
+            "skus": [
+              "777931",
+              "778127-S"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Przechowywanie pokarmu",
+      "handle": "przechowywanie-pokarmu",
+      "collection_id": "gid://shopify/Collection/660834943309",
+      "created_now": true,
+      "candidate_product_count": 2,
+      "added_count": 2,
+      "products": [
+        {
+          "id": "gid://shopify/Product/10309720801613",
+          "legacyResourceId": "10309720801613",
+          "title": "AKUKU A0399 - Kolektor na mleko - (ręczny)",
+          "handle": "akuku-a0399-kolektor-na-mleko",
+          "status": "ACTIVE",
+          "skus": [
+            "A0399"
+          ]
+        },
+        {
+          "id": "gid://shopify/Product/10556118335821",
+          "legacyResourceId": "10556118335821",
+          "title": "CANPOL 35/245 - Butelka antykolkowa + pojemnik na mleko - (240 ml) - Goose - 3m+",
+          "handle": "canpol-35-245-butelka-antykolkowa-pojemnik-na-mleko-240-ml-goose-3m",
+          "status": "ACTIVE",
+          "skus": [
+            "5903407176499"
+          ]
+        }
+      ],
+      "verification": {
+        "products_count": 2,
+        "resource_publications": [],
+        "products": [
+          {
+            "id": "gid://shopify/Product/10309720801613",
+            "legacyResourceId": "10309720801613",
+            "title": "AKUKU A0399 - Kolektor na mleko - (ręczny)",
+            "handle": "akuku-a0399-kolektor-na-mleko",
+            "status": "ACTIVE",
+            "skus": [
+              "A0399"
+            ]
+          },
+          {
+            "id": "gid://shopify/Product/10556118335821",
+            "legacyResourceId": "10556118335821",
+            "title": "CANPOL 35/245 - Butelka antykolkowa + pojemnik na mleko - (240 ml) - Goose - 3m+",
+            "handle": "canpol-35-245-butelka-antykolkowa-pojemnik-na-mleko-240-ml-goose-3m",
+            "status": "ACTIVE",
+            "skus": [
+              "5903407176499"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "storage_search_note": "Current shop products include a kolektor na mleko and one bottle product with pojemnik na mleko; no woreczki do mro?enia/pokarmu products were found yet."
+}

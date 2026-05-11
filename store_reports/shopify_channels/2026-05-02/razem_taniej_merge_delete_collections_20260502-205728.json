@@ -1,0 +1,168 @@
+{
+  "created_at": "2026-05-02T20:57:28",
+  "target_collection": {
+    "id": "gid://shopify/Collection/660532199757",
+    "legacyResourceId": "660532199757",
+    "title": "Razem taniej",
+    "handle": "razem-taniej"
+  },
+  "source_collection_ids": [
+    "gid://shopify/Collection/639097798989",
+    "gid://shopify/Collection/657678729549"
+  ],
+  "source_collections": [
+    {
+      "id": "gid://shopify/Collection/639097798989",
+      "legacyResourceId": "639097798989",
+      "title": "ZESTAWY DLA MALUSZKA",
+      "handle": "gotowe-torby",
+      "products_count": 4
+    },
+    {
+      "id": "gid://shopify/Collection/657678729549",
+      "legacyResourceId": "657678729549",
+      "title": "Zestawy dla Maluszka",
+      "handle": "zestawy-dla-maluszka",
+      "products_count": 2
+    }
+  ],
+  "source_product_rows_total": 6,
+  "unique_products_from_sources": 4,
+  "duplicates_between_sources": 2,
+  "target_products_before": 0,
+  "products_added_to_target": 4,
+  "products_already_in_target": 0,
+  "target_products_after": 4,
+  "delete_results": [
+    {
+      "deletedCollectionId": "gid://shopify/Collection/639097798989",
+      "userErrors": []
+    },
+    {
+      "deletedCollectionId": "gid://shopify/Collection/657678729549",
+      "userErrors": []
+    }
+  ],
+  "source_verify_after": [
+    {
+      "id": "gid://shopify/Collection/639097798989",
+      "exists_after_delete": false,
+      "data": null
+    },
+    {
+      "id": "gid://shopify/Collection/657678729549",
+      "exists_after_delete": false,
+      "data": null
+    }
+  ],
+  "products": [
+    {
+      "id": "gid://shopify/Product/10587188887885",
+      "legacyResourceId": "10587188887885",
+      "title": "Babyono - ZESTAW WYPRAWKOWY dla mamy - 5 produktów",
+      "handle": "babyono-zestaw-wyprawkowy-dla-mamy-5-produktow",
+      "status": "ACTIVE",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53572898980173",
+          "sku": "BO-MAMA-5",
+          "barcode": null
+        }
+      ],
+      "source_collections": [
+        {
+          "id": "gid://shopify/Collection/639097798989",
+          "legacyResourceId": "639097798989",
+          "title": "ZESTAWY DLA MALUSZKA",
+          "handle": "gotowe-torby"
+        }
+      ],
+      "added_to_target": true,
+      "already_in_target_before": false
+    },
+    {
+      "id": "gid://shopify/Product/10586497909069",
+      "legacyResourceId": "10586497909069",
+      "title": "Canpol - ZESTAW WYPRAWKOWY do szpitala - 5 produktów",
+      "handle": "canpol-zestaw-wyprawkowy-do-szpitala",
+      "status": "ACTIVE",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53567723995469",
+          "sku": "CAN-WYPR-MAM-05",
+          "barcode": null
+        }
+      ],
+      "source_collections": [
+        {
+          "id": "gid://shopify/Collection/639097798989",
+          "legacyResourceId": "639097798989",
+          "title": "ZESTAWY DLA MALUSZKA",
+          "handle": "gotowe-torby"
+        }
+      ],
+      "added_to_target": true,
+      "already_in_target_before": false
+    },
+    {
+      "id": "gid://shopify/Product/10578334712141",
+      "legacyResourceId": "10578334712141",
+      "title": "Zestaw Wyprawkowy MOUNTAINS Yellow – (4 elementów)",
+      "handle": "zestaw-wyprawkowy-mountains-yellow-pielegnacja-i-karmienie",
+      "status": "ACTIVE",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53530872807757",
+          "sku": "BNDL-MNT-YLW-4",
+          "barcode": null
+        }
+      ],
+      "source_collections": [
+        {
+          "id": "gid://shopify/Collection/639097798989",
+          "legacyResourceId": "639097798989",
+          "title": "ZESTAWY DLA MALUSZKA",
+          "handle": "gotowe-torby"
+        },
+        {
+          "id": "gid://shopify/Collection/657678729549",
+          "legacyResourceId": "657678729549",
+          "title": "Zestawy dla Maluszka",
+          "handle": "zestawy-dla-maluszka"
+        }
+      ],
+      "added_to_target": true,
+      "already_in_target_before": false
+    },
+    {
+      "id": "gid://shopify/Product/10578092097869",
+      "legacyResourceId": "10578092097869",
+      "title": "Canpol - Kolekcja GOOSE - zestaw 3m+ (4 elementów)",
+      "handle": "canpol-kolekcja-goose-zestaw-3m-4-elementow",
+      "status": "ACTIVE",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53529817514317",
+          "sku": "BNDL-CANPOL-GOOSE-3M",
+          "barcode": null
+        }
+      ],
+      "source_collections": [
+        {
+          "id": "gid://shopify/Collection/639097798989",
+          "legacyResourceId": "639097798989",
+          "title": "ZESTAWY DLA MALUSZKA",
+          "handle": "gotowe-torby"
+        },
+        {
+          "id": "gid://shopify/Collection/657678729549",
+          "legacyResourceId": "657678729549",
+          "title": "Zestawy dla Maluszka",
+          "handle": "zestawy-dla-maluszka"
+        }
+      ],
+      "added_to_target": true,
+      "already_in_target_before": false
+    }
+  ]
+}

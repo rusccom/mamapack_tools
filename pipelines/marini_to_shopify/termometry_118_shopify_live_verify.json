@@ -1,0 +1,57 @@
+{
+  "summary": {
+    "productCount": 2,
+    "badCount": 0,
+    "bad": []
+  },
+  "checks": [
+    {
+      "id": "gid://shopify/Product/10655503253837",
+      "title": "BabyOno 1575 Termometr elektroniczny bezdotykowy",
+      "status": "DRAFT",
+      "handle": "babyono-1575-termometr-elektroniczny-bezdotykowy",
+      "mediaReady": true,
+      "mediaCount": 1,
+      "collections": [
+        "termometry-elektroniczne"
+      ],
+      "variants": [
+        {
+          "sku": "5910165",
+          "barcode": "5901435416433",
+          "price": "95.68",
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655503286605",
+      "title": "BabyOno 1901 Termometr elektroniczny z elastyczną końcówką DMT-4336",
+      "status": "DRAFT",
+      "handle": "babyono-1901-termometr-elektroniczny-z-elastyczna-koncowka-dmt-4336",
+      "mediaReady": true,
+      "mediaCount": 1,
+      "collections": [
+        "termometry-elektroniczne"
+      ],
+      "variants": [
+        {
+          "sku": "5914274",
+          "barcode": "5901435416457",
+          "price": "15.90",
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

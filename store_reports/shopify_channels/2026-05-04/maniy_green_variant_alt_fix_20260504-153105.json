@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-05-04T15:31:06",
+  "media_id": "gid://shopify/MediaImage/62103259054413",
+  "alt": "Torba M.A.N.I.Y z dolną komorą - kolor zielony, przód",
+  "green_variant": {
+    "id": "gid://shopify/ProductVariant/53830610911565",
+    "sku": "TORBA-MANIY-ZIELONA",
+    "title": "Zielony",
+    "media": {
+      "nodes": [
+        {
+          "id": "gid://shopify/MediaImage/62103259054413",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor zielony, przód",
+          "preview": {
+            "status": "READY"
+          }
+        }
+      ]
+    }
+  },
+  "product_media": [
+    {
+      "id": "gid://shopify/MediaImage/62103259054413",
+      "alt": "Torba M.A.N.I.Y z dolną komorą - kolor zielony, przód",
+      "preview": {
+        "status": "READY",
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/maniy-green-bag-generated-from-blue-v2.jpg?v=1777897779"
+        }
+      }
+    }
+  ]
+}

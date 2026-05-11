@@ -1,0 +1,113 @@
+{
+  "generated_at": "2026-05-08T15:13:39.961751",
+  "rows": [
+    {
+      "sku": "KOM-MD-1",
+      "product_title": "Torba do szpitala dla DLA MAMY I NOWORODKA – gotowa wyprawka KOMPLETNA",
+      "handle": "torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-kompletna",
+      "status": "ACTIVE",
+      "admin_seo_title": "Torba do szpitala mama i noworodek - Kompletna",
+      "live_title": "Torba do szpitala mama i noworodek - Kompletna – mamapack",
+      "url": "https://mamapack.pl/products/torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-kompletna"
+    },
+    {
+      "sku": "ROZ-MD-1",
+      "product_title": "Torba do szpitala dla DLA MAMY I NOWORODKA – gotowa wyprawka ROZSZERZONA",
+      "handle": "torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-rozszerzona",
+      "status": "ACTIVE",
+      "admin_seo_title": "Torba do szpitala mama i noworodek - Rozszerzona",
+      "live_title": "Torba do szpitala mama i noworodek - Rozszerzona – mamapack",
+      "url": "https://mamapack.pl/products/torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-rozszerzona"
+    },
+    {
+      "sku": "POD-MD-1",
+      "product_title": "Torba do szpitala dla MAMY i NOWORODKA – gotowa wyprawka PODSTAWOWA",
+      "handle": "torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-podstawowa",
+      "status": "ACTIVE",
+      "admin_seo_title": "Torba do szpitala mama i noworodek - Podstawowa",
+      "live_title": "Torba do szpitala mama i noworodek - Podstawowa – mamapack",
+      "url": "https://mamapack.pl/products/torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-podstawowa"
+    },
+    {
+      "sku": "PREM-MD-1",
+      "product_title": "Torba do szpitala dla MAMY i NOWORODKA – gotowa wyprawka PREMIUM",
+      "handle": "kompletny-md",
+      "status": "ACTIVE",
+      "admin_seo_title": "Torba do szpitala mama i noworodek - Premium",
+      "live_title": "Torba do szpitala mama i noworodek - Premium – mamapack",
+      "url": "https://mamapack.pl/products/kompletny-md"
+    },
+    {
+      "sku": "KOM-M-2",
+      "product_title": "Torba do szpitala dla MAMY – gotowa wyprawka KOMPLETNA",
+      "handle": "torba-do-szpitala-mamy-gotowa-wyprawka-kompletna",
+      "status": "ACTIVE",
+      "admin_seo_title": "Torba do szpitala dla Mamy – gotowa wyprawka Kompletna – mamapack",
+      "live_title": "Torba do szpitala dla Mamy – gotowa wyprawka Kompletna – mamapack",
+      "url": "https://mamapack.pl/products/torba-do-szpitala-mamy-gotowa-wyprawka-kompletna"
+    },
+    {
+      "sku": "3a15f9de-715b-4dbd-bbca-da1e78ce91e7",
+      "product_title": "Torba do szpitala dla MAMY – gotowa wyprawka PODSTAWOWA",
+      "handle": "torba-do-szpitala-mamy-gotowa-wyprawka-podstawowa",
+      "status": "ACTIVE",
+      "admin_seo_title": "Torba do szpitala dla Mamy – wyprawka Podstawowa – mamapack",
+      "live_title": "Torba do szpitala dla Mamy – wyprawka Podstawowa – mamapack",
+      "url": "https://mamapack.pl/products/torba-do-szpitala-mamy-gotowa-wyprawka-podstawowa"
+    },
+    {
+      "sku": "PREM-M-2",
+      "product_title": "Torba do szpitala dla MAMY – gotowa wyprawka Premium",
+      "handle": "torba-do-szpitala-mamy-gotowa-wyprawka-premium",
+      "status": "ACTIVE",
+      "admin_seo_title": "Torba do szpitala dla Mamy – gotowa wyprawka Premium – mamapack",
+      "live_title": "Torba do szpitala dla Mamy – gotowa wyprawka Premium – mamapack",
+      "url": "https://mamapack.pl/products/torba-do-szpitala-mamy-gotowa-wyprawka-premium"
+    },
+    {
+      "sku": "ROZ-M-2",
+      "product_title": "Torba do szpitala dla MAMY – gotowa wyprawka ROZSZERZONA",
+      "handle": "torba-do-szpitala-mamy-gotowa-wyprawka-rozszerzona",
+      "status": "ACTIVE",
+      "admin_seo_title": "Torba do szpitala dla Mamy – wyprawka Rozszerzona – mamapack",
+      "live_title": "Torba do szpitala dla Mamy – wyprawka Rozszerzona – mamapack",
+      "url": "https://mamapack.pl/products/torba-do-szpitala-mamy-gotowa-wyprawka-rozszerzona"
+    },
+    {
+      "sku": "KOM-DZ-03",
+      "product_title": "Torba do szpitala dla noworodka - gotowa wyprawka KOMPLETNA",
+      "handle": "torba-do-szpitala-noworodka-gotowa-wyprawka-kompletna",
+      "status": "ACTIVE",
+      "admin_seo_title": "Torba do szpitala dla noworodka - wyprawka Kompletna – mamapack",
+      "live_title": "Torba do szpitala dla noworodka - wyprawka Kompletna – mamapack",
+      "url": "https://mamapack.pl/products/torba-do-szpitala-noworodka-gotowa-wyprawka-kompletna"
+    },
+    {
+      "sku": "POD-DZ-01",
+      "product_title": "Torba do szpitala dla noworodka - gotowa wyprawka PODSTAWOWA",
+      "handle": "torba-do-szpitala-dla-noworodka-gotowa-wyprawka-premium",
+      "status": "ACTIVE",
+      "admin_seo_title": "Torba do szpitala dla noworodka - wyprawka Podstawowa – mamapack",
+      "live_title": "Torba do szpitala dla noworodka - wyprawka Podstawowa – mamapack",
+      "url": "https://mamapack.pl/products/torba-do-szpitala-dla-noworodka-gotowa-wyprawka-premium"
+    },
+    {
+      "sku": "PRM-DZ-04",
+      "product_title": "Torba do szpitala dla noworodka - gotowa wyprawka PREMIUM",
+      "handle": "torba-do-szpitala-noworodka-gotowa-wyprawka-premium",
+      "status": "ACTIVE",
+      "admin_seo_title": "Torba do szpitala dla noworodka - wyprawka Premium – mamapack",
+      "live_title": "Torba do szpitala dla noworodka - wyprawka Premium – mamapack",
+      "url": "https://mamapack.pl/products/torba-do-szpitala-noworodka-gotowa-wyprawka-premium"
+    },
+    {
+      "sku": "ROZ-DZ-02",
+      "product_title": "Torba do szpitala dla noworodka - gotowa wyprawka ROZSZERZONA",
+      "handle": "torba-do-szpitala-noworodka-gotowa-wyprawka-rozszerzona",
+      "status": "ACTIVE",
+      "admin_seo_title": "Torba do szpitala dla noworodka - wyprawka Rozszerzona – mamapack",
+      "live_title": "Torba do szpitala dla noworodka - wyprawka Rozszerzona – mamapack",
+      "url": "https://mamapack.pl/products/torba-do-szpitala-noworodka-gotowa-wyprawka-rozszerzona"
+    }
+  ]
+}

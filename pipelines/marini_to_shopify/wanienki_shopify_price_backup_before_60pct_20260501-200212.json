@@ -1,0 +1,459 @@
+{
+  "createdAt": "2026-05-01T20:02:13.568242",
+  "collection": {
+    "id": "gid://shopify/Collection/660457816397",
+    "title": "Wanienki",
+    "handle": "wanienki"
+  },
+  "purchaseSource": "C:\\Users\\User\\Desktop\\projects\\mamaPack\\pipelines\\marini_to_shopify\\wanienki_shopify_price_update_35pct_20260501-195733.json",
+  "products": [
+    {
+      "id": "gid://shopify/Product/10644511359309",
+      "title": "Tega Baby Wanna dziecięca Miś 102 cm",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812106363213",
+          "sku": "771546",
+          "barcode": "5902963008794",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644511293773",
+      "title": "Tega Baby Wanna dziecięca Miś 86 cm",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812106297677",
+          "sku": "10953",
+          "barcode": "",
+          "purchasePrice": "25.00",
+          "previousShopifyPrice": "33.75",
+          "newSalePrice": "40.00"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644511228237",
+      "title": "Tega Baby Wanienka Monsters z odpływem 102 cm",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812106232141",
+          "sku": "5906224",
+          "barcode": "5902963004611",
+          "purchasePrice": "28.56",
+          "previousShopifyPrice": "38.56",
+          "newSalePrice": "45.70"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644511195469",
+      "title": "Tega Baby Wanienka Monsters z odpływem 86 cm",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812106199373",
+          "sku": "5906227",
+          "barcode": "5902963004581",
+          "purchasePrice": "23.67",
+          "previousShopifyPrice": "31.95",
+          "newSalePrice": "37.87"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644511064397",
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 102 cm",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812106068301",
+          "sku": "786676",
+          "barcode": "5902963002501",
+          "purchasePrice": "30.26",
+          "previousShopifyPrice": "40.85",
+          "newSalePrice": "48.42"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816003101005",
+          "sku": "786678",
+          "barcode": "5902963002518",
+          "purchasePrice": "30.26",
+          "previousShopifyPrice": "40.85",
+          "newSalePrice": "48.42"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816003133773",
+          "sku": "786679",
+          "barcode": "5902963002495",
+          "purchasePrice": "40.79",
+          "previousShopifyPrice": "55.07",
+          "newSalePrice": "65.26"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644510900557",
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 86 cm",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812105904461",
+          "sku": "786680",
+          "barcode": "5902963002464",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816003002701",
+          "sku": "786683",
+          "barcode": "5902963002471",
+          "purchasePrice": "25.00",
+          "previousShopifyPrice": "33.75",
+          "newSalePrice": "40.00"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816003035469",
+          "sku": "786682",
+          "barcode": "5902963002457",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644510671181",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 102 cm",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812105675085",
+          "sku": "762788",
+          "barcode": "5902963008084",
+          "purchasePrice": "30.26",
+          "previousShopifyPrice": "40.85",
+          "newSalePrice": "48.42"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002937165",
+          "sku": "791380",
+          "barcode": "5902963008091",
+          "purchasePrice": "30.26",
+          "previousShopifyPrice": "40.85",
+          "newSalePrice": "48.42"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002969933",
+          "sku": "791381",
+          "barcode": "5902963008107",
+          "purchasePrice": "30.26",
+          "previousShopifyPrice": "40.85",
+          "newSalePrice": "48.42"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644510540109",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 86 cm",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812105544013",
+          "sku": "762787",
+          "barcode": "5902963008053",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002871629",
+          "sku": "788737",
+          "barcode": "5902963008077",
+          "purchasePrice": "26.30",
+          "previousShopifyPrice": "35.51",
+          "newSalePrice": "42.08"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644510441805",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 102 cm",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812105445709",
+          "sku": "772413",
+          "barcode": "5902963071965",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002707789",
+          "sku": "772414",
+          "barcode": "5902963071989",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002740557",
+          "sku": "772415",
+          "barcode": "5902963071996",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002773325",
+          "sku": "772416",
+          "barcode": "5902963071958",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002806093",
+          "sku": "772417",
+          "barcode": "5902963071972",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644510146893",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 86 cm",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812105150797",
+          "sku": "772418",
+          "barcode": "5902963015006",
+          "purchasePrice": "25.00",
+          "previousShopifyPrice": "33.75",
+          "newSalePrice": "40.00"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002543949",
+          "sku": "772419",
+          "barcode": "5902963015020",
+          "purchasePrice": "25.00",
+          "previousShopifyPrice": "33.75",
+          "newSalePrice": "40.00"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002576717",
+          "sku": "772420",
+          "barcode": "5902963015037",
+          "purchasePrice": "25.00",
+          "previousShopifyPrice": "33.75",
+          "newSalePrice": "40.00"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002609485",
+          "sku": "772421",
+          "barcode": "5902963014993",
+          "purchasePrice": "25.00",
+          "previousShopifyPrice": "33.75",
+          "newSalePrice": "40.00"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002642253",
+          "sku": "772422",
+          "barcode": "5902963015013",
+          "purchasePrice": "25.00",
+          "previousShopifyPrice": "33.75",
+          "newSalePrice": "40.00"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644509720909",
+      "title": "Tega Baby Wanienka składana z odpływem standard",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812104593741",
+          "sku": "5914538",
+          "barcode": "5905489408949",
+          "purchasePrice": "44.74",
+          "previousShopifyPrice": "60.40",
+          "newSalePrice": "71.58"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816003395917",
+          "sku": "5914539",
+          "barcode": "5905489408932",
+          "purchasePrice": "44.74",
+          "previousShopifyPrice": "60.40",
+          "newSalePrice": "71.58"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816003428685",
+          "sku": "5914540",
+          "barcode": "5905489408956",
+          "purchasePrice": "44.74",
+          "previousShopifyPrice": "60.40",
+          "newSalePrice": "71.58"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644509622605",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 102 cm",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812104462669",
+          "sku": "779256",
+          "barcode": "5902963001382",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816003297613",
+          "sku": "779244",
+          "barcode": "5902963001399",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644509524301",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód z odpływem 86 cm",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812104331597",
+          "sku": "779258",
+          "barcode": "5902963001368",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816003330381",
+          "sku": "779246",
+          "barcode": "5902963001375",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644509393229",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 86 cm",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812104233293",
+          "sku": "779257",
+          "barcode": "5902963001344",
+          "purchasePrice": "25.00",
+          "previousShopifyPrice": "33.75",
+          "newSalePrice": "40.00"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816003232077",
+          "sku": "779245",
+          "barcode": "5902963001351",
+          "purchasePrice": "25.00",
+          "previousShopifyPrice": "33.75",
+          "newSalePrice": "40.00"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644509065549",
+      "title": "Tega Baby Wanna dziecięca Kaczka 102 cm",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812103905613",
+          "sku": "772187",
+          "barcode": "5902963071682",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002380109",
+          "sku": "771957",
+          "barcode": "5902963071668",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002412877",
+          "sku": "772044",
+          "barcode": "5902963071699",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002445645",
+          "sku": "772045",
+          "barcode": "5902963071705",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002478413",
+          "sku": "772046",
+          "barcode": "5902963071712",
+          "purchasePrice": "27.63",
+          "previousShopifyPrice": "37.30",
+          "newSalePrice": "44.21"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10644508737869",
+      "title": "Tega Baby Wanna dziecięca Kaczka 86 cm",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/53812103577933",
+          "sku": "772185",
+          "barcode": "5902963071774",
+          "purchasePrice": "25.00",
+          "previousShopifyPrice": "33.75",
+          "newSalePrice": "40.00"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002249037",
+          "sku": "771956",
+          "barcode": "5902963071767",
+          "purchasePrice": "25.00",
+          "previousShopifyPrice": "33.75",
+          "newSalePrice": "40.00"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002281805",
+          "sku": "772049",
+          "barcode": "5902963071750",
+          "purchasePrice": "25.00",
+          "previousShopifyPrice": "33.75",
+          "newSalePrice": "40.00"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002314573",
+          "sku": "772050",
+          "barcode": "5902963071743",
+          "purchasePrice": "25.00",
+          "previousShopifyPrice": "33.75",
+          "newSalePrice": "40.00"
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53816002347341",
+          "sku": "772051",
+          "barcode": "5902963071736",
+          "purchasePrice": "25.00",
+          "previousShopifyPrice": "33.75",
+          "newSalePrice": "40.00"
+        }
+      ]
+    }
+  ]
+}

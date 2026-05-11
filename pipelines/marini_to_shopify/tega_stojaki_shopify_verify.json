@@ -1,0 +1,240 @@
+{
+  "verifiedAt": "2026-05-08T21:24:58.567659+03:00",
+  "productCount": 5,
+  "products": [
+    {
+      "id": "gid://shopify/Product/10654682120525",
+      "title": "Tega Baby Stojak uniwersalny 86/102 LUX",
+      "handle": "tega-baby-stojak-uniwersalny-86-102-lux",
+      "status": "DRAFT",
+      "collections": {
+        "nodes": [
+          {
+            "id": "gid://shopify/Collection/660910375245",
+            "title": "Stojaki do wanienek",
+            "handle": "stojaki-do-wanienek"
+          }
+        ]
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/62184587198797",
+            "status": "READY",
+            "alt": "Tega Baby Stojak uniwersalny 86/102 LUX bia?y"
+          },
+          {
+            "id": "gid://shopify/MediaImage/62184461205837",
+            "status": "READY",
+            "alt": "Tega Baby DM-008 Stojak uniwersalny 86/102 LUX grafitowy"
+          }
+        ]
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/53865299542349",
+            "sku": "3151",
+            "barcode": "",
+            "price": "105.26",
+            "selectedOptions": [
+              {
+                "name": "Kolor",
+                "value": "biały"
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/ProductVariant/53865224503629",
+            "sku": "784480",
+            "barcode": "5902963002150",
+            "price": "105.26",
+            "selectedOptions": [
+              {
+                "name": "Kolor",
+                "value": "grafitowy"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10654682448205",
+      "title": "Tega Baby Podstawa uniwersalna 102/102 LUX",
+      "handle": "tega-baby-podstawa-uniwersalna-102-102-lux",
+      "status": "DRAFT",
+      "collections": {
+        "nodes": [
+          {
+            "id": "gid://shopify/Collection/660910375245",
+            "title": "Stojaki do wanienek",
+            "handle": "stojaki-do-wanienek"
+          }
+        ]
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/62184463368525",
+            "status": "READY",
+            "alt": "Tega Baby Podstawa uniwersalna 102/102 LUX"
+          },
+          {
+            "id": "gid://shopify/MediaImage/62184463401293",
+            "status": "READY",
+            "alt": "Tega Baby Podstawa uniwersalna 102/102 LUX"
+          }
+        ]
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/53865225945421",
+            "sku": "771230",
+            "barcode": "5902963071385",
+            "price": "105.26",
+            "selectedOptions": [
+              {
+                "name": "Kolor",
+                "value": "czarny"
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/ProductVariant/53865225978189",
+            "sku": "768291",
+            "barcode": "5901549198812",
+            "price": "106.67",
+            "selectedOptions": [
+              {
+                "name": "Kolor",
+                "value": "biały"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10654682808653",
+      "title": "Tega Baby DM-035-103 Stojak pod wanienkę TEGGI biały",
+      "handle": "tega-baby-dm-035-103-stojak-pod-wanienke-teggi-bialy",
+      "status": "DRAFT",
+      "collections": {
+        "nodes": [
+          {
+            "id": "gid://shopify/Collection/660910375245",
+            "title": "Stojaki do wanienek",
+            "handle": "stojaki-do-wanienek"
+          }
+        ]
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/62184466219341",
+            "status": "READY",
+            "alt": "Tega Baby DM-035-103 Stojak pod wanienkę TEGGI biały"
+          }
+        ]
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/53865226764621",
+            "sku": "5909167",
+            "barcode": "5905489408529",
+            "price": "104.00",
+            "selectedOptions": [
+              {
+                "name": "Title",
+                "value": "Default Title"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10654683038029",
+      "title": "Tega Baby DM-037-103 Stojak pod wanienkę składaną biały",
+      "handle": "tega-baby-dm-037-103-stojak-pod-wanienke-skladana-bialy",
+      "status": "DRAFT",
+      "collections": {
+        "nodes": [
+          {
+            "id": "gid://shopify/Collection/660910375245",
+            "title": "Stojaki do wanienek",
+            "handle": "stojaki-do-wanienek"
+          }
+        ]
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/62184467792205",
+            "status": "READY",
+            "alt": "Tega Baby DM-037-103 Stojak pod wanienkę składaną biały"
+          }
+        ]
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/53865227387213",
+            "sku": "5914537",
+            "barcode": "5902963002969",
+            "price": "98.94",
+            "selectedOptions": [
+              {
+                "name": "Title",
+                "value": "Default Title"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10654683234637",
+      "title": "Tega Baby DM-038-103 Stojak pod wanienkę składaną do montażu biały",
+      "handle": "tega-baby-dm-038-103-stojak-pod-wanienke-skladana-do-montazu-bialy",
+      "status": "DRAFT",
+      "collections": {
+        "nodes": [
+          {
+            "id": "gid://shopify/Collection/660910375245",
+            "title": "Stojaki do wanienek",
+            "handle": "stojaki-do-wanienek"
+          }
+        ]
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/62184468840781",
+            "status": "READY",
+            "alt": "Tega Baby DM-038-103 Stojak pod wanienkę składaną do montażu biały"
+          }
+        ]
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/53865227682125",
+            "sku": "5914536",
+            "barcode": "5902963002976",
+            "price": "120.00",
+            "selectedOptions": [
+              {
+                "name": "Title",
+                "value": "Default Title"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

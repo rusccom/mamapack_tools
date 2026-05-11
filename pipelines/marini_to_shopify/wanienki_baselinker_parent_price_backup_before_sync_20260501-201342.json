@@ -1,0 +1,175 @@
+{
+  "createdAt": "2026-05-01T20:13:42.498592",
+  "inventoryId": 43540,
+  "priceGroupId": 22945,
+  "parentProducts": [
+    {
+      "id": 584232170,
+      "ean": "",
+      "asin": "",
+      "sku": "",
+      "name": "Tega Baby Wanienka składana z odpływem standard",
+      "parent_id": 0,
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 0
+      }
+    },
+    {
+      "id": 584232199,
+      "ean": "",
+      "asin": "",
+      "sku": "",
+      "name": "Tega Baby Wanna dziecięca Dziki Zachód 102 cm",
+      "parent_id": 0,
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 0
+      }
+    },
+    {
+      "id": 584232216,
+      "ean": "",
+      "asin": "",
+      "sku": "",
+      "name": "Tega Baby Wanna dziecięca Dziki Zachód 86 cm",
+      "parent_id": 0,
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 0
+      }
+    },
+    {
+      "id": 584232220,
+      "ean": "",
+      "asin": "",
+      "sku": "",
+      "name": "Tega Baby Wanna dziecięca Dziki Zachód z odpływem 86 cm",
+      "parent_id": 0,
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 0
+      }
+    },
+    {
+      "id": 584232230,
+      "ean": "",
+      "asin": "",
+      "sku": "",
+      "name": "Tega Baby Wanna dziecięca Kaczka 102 cm",
+      "parent_id": 0,
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 0
+      }
+    },
+    {
+      "id": 584232277,
+      "ean": "",
+      "asin": "",
+      "sku": "",
+      "name": "Tega Baby Wanna dziecięca Kaczka 86 cm",
+      "parent_id": 0,
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 0
+      }
+    },
+    {
+      "id": 584232316,
+      "ean": "",
+      "asin": "",
+      "sku": "",
+      "name": "Tega Baby Wanna dziecięca Króliczki z odpływem 102 cm",
+      "parent_id": 0,
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 0
+      }
+    },
+    {
+      "id": 584232338,
+      "ean": "",
+      "asin": "",
+      "sku": "",
+      "name": "Tega Baby Wanna dziecięca Króliczki z odpływem 86 cm",
+      "parent_id": 0,
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 0
+      }
+    },
+    {
+      "id": 584232376,
+      "ean": "",
+      "asin": "",
+      "sku": "",
+      "name": "Tega Baby Wanna dziecięca Leśna Opowieść 102 cm",
+      "parent_id": 0,
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 0
+      }
+    },
+    {
+      "id": 584232451,
+      "ean": "",
+      "asin": "",
+      "sku": "",
+      "name": "Tega Baby Wanna dziecięca Leśna Opowieść 86 cm",
+      "parent_id": 0,
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 0
+      }
+    },
+    {
+      "id": 584232497,
+      "ean": "",
+      "asin": "",
+      "sku": "",
+      "name": "Tega Baby Wanna dziecięca Meteo z odpływem 102 cm",
+      "parent_id": 0,
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 0
+      }
+    },
+    {
+      "id": 584232519,
+      "ean": "",
+      "asin": "",
+      "sku": "",
+      "name": "Tega Baby Wanna dziecięca Meteo z odpływem 86 cm",
+      "parent_id": 0,
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 0
+      }
+    }
+  ]
+}

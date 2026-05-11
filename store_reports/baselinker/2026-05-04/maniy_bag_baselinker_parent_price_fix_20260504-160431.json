@@ -1,0 +1,19 @@
+{
+  "created_at": "20260504-160431",
+  "inventory_id": 43540,
+  "parent_id": "585922056",
+  "price_group_id": "22945",
+  "old_parent_price": 0,
+  "new_parent_price": 89.9,
+  "variant_prices": {
+    "585922067": 89.9,
+    "585922078": 89.9,
+    "585922087": 89.9,
+    "585922107": 89.9
+  },
+  "update_response": {
+    "status": "SUCCESS",
+    "product_id": 585922056,
+    "warnings": {}
+  }
+}

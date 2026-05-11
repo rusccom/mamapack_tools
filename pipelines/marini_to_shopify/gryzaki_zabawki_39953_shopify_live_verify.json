@@ -1,0 +1,773 @@
+{
+  "summary": {
+    "productCount": 50,
+    "skuCount": 62,
+    "draftCount": 50,
+    "badCount": 0,
+    "bad": []
+  },
+  "checks": [
+    {
+      "id": "gid://shopify/Product/10655495291213",
+      "title": "CANPOL 2/083 Miękka książeczka kąpielowa z piszczkiem",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 2,
+      "skus": [
+        "5909898",
+        "5909899"
+      ],
+      "mediaCount": 2,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655495356749",
+      "title": "CANPOL 2/606 Grzechotka Sztanga",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 3,
+      "skus": [
+        "776063",
+        "774433",
+        "774434"
+      ],
+      "mediaCount": 3,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655495455053",
+      "title": "CANPOL 2/992 Zabawki piszczące kaczuszki",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 3,
+      "skus": [
+        "5909901",
+        "5909900",
+        "5909902"
+      ],
+      "mediaCount": 3,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655495553357",
+      "title": "CANPOL 56/153 Grzechotka z obrotowym elementem Sztanga",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 2,
+      "skus": [
+        "779906",
+        "779907"
+      ],
+      "mediaCount": 2,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655495586125",
+      "title": "CANPOL 56/610 Sensoryczna grzechotka z gryzakiem",
+      "status": "DRAFT",
+      "productType": "Gryzaki",
+      "variantCount": 3,
+      "skus": [
+        "788671",
+        "788672",
+        "788673"
+      ],
+      "mediaCount": 3,
+      "mediaReady": true,
+      "collections": [
+        "gryzaki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655495618893",
+      "title": "CANPOL 68/061 Pluszowa zabawka z grzechotką i lusterkiem DŁUGIE USZY",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 2,
+      "skus": [
+        "5912939",
+        "5912940"
+      ],
+      "mediaCount": 2,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655495651661",
+      "title": "CANPOL 68/063 Interaktywna spirala do łóżeczka/wózka ZIGZAG",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 2,
+      "skus": [
+        "776188",
+        "776187"
+      ],
+      "mediaCount": 2,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655495815501",
+      "title": "CANPOL 68/095 Zabawka sensoryczna z piszczkiem BabiesBoo",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 2,
+      "skus": [
+        "5910715",
+        "5910716"
+      ],
+      "mediaCount": 2,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655495881037",
+      "title": "CANPOL 79/101 Interaktywna zabawka z grzechotką MIŚ",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 2,
+      "skus": [
+        "774971",
+        "5912648"
+      ],
+      "mediaCount": 2,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655486345549",
+      "title": "CANPOL 13/107 Grzechotka z gryzaczkiem",
+      "status": "DRAFT",
+      "productType": "Gryzaki",
+      "variantCount": 1,
+      "skus": [
+        "777893"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "gryzaki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655495946573",
+      "title": "CANPOL 2/187 Grzechotka Sowa zielony",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "774263"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496012109",
+      "title": "CANPOL 2/450 Grzechotka kolorowe kulki",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "774265"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496044877",
+      "title": "CANPOL 2/457 Grzechotka z tykającą kulką kulki czerwone",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "5911122"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496077645",
+      "title": "CANPOL 2/817 Kostka edukacyjna miękka 6szt",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "774298"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496110413",
+      "title": "CANPOL 2/890 Miękka zabawka z grzechotką Piłka",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "774277"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496143181",
+      "title": "CANPOL 2/891 Miękka zabawka z grzechotką Młotek",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "774278"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496175949",
+      "title": "CANPOL 56/127 Grzechotka z gryzakiem wodnym Lizak",
+      "status": "DRAFT",
+      "productType": "Gryzaki",
+      "variantCount": 1,
+      "skus": [
+        "780511"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "gryzaki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496274253",
+      "title": "CANPOL 56/145 Grzechotka z kolorowymi koralikami",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "776013"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496307021",
+      "title": "CANPOL 56/146 Grzechotka z gryzakiem wodnym Zwierzątka",
+      "status": "DRAFT",
+      "productType": "Gryzaki",
+      "variantCount": 1,
+      "skus": [
+        "775151"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "gryzaki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496339789",
+      "title": "CANPOL 56/498 Zabawki do kąpieli 3 szt Kaczki",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "780503"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496372557",
+      "title": "CANPOL 68/053 Pluszowa zabawka z pozytywką 0+ Bears szara",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "774279"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496438093",
+      "title": "CANPOL 68/077 Pluszowa sensoryczna mata do zabawy Sensory Toys",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "778017"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496470861",
+      "title": "CANPOL 68/080 Zabawka kontrastowa z piszczkiem i lusterkiem SENSORY TOYS",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "778840"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496503629",
+      "title": "CANPOL 68/081 Pluszowa kontrastowa książeczka edukacyjna SENSORY TOYS",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "778838"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496569165",
+      "title": "CANPOL 68/082 Pluszowa piłka kontrastowa SENSORY TOYS",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "778839"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496601933",
+      "title": "CANPOL 68/083 Kontrastowa karuzelka podróżna do wózka/fotelika SENSORY",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "778837"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496667469",
+      "title": "CANPOL 68/084 Kontrastowa karuzela z pozytywką SENSORY TOYS",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "778836"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496700237",
+      "title": "CANPOL 68/085 Sensoryczna zawieszka do wózka BabiesBoo",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "791344"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655496765773",
+      "title": "CANPOL 68/086 Sensoryczna zabawka z gryzakiem i grzechotką BabiesBoo",
+      "status": "DRAFT",
+      "productType": "Gryzaki",
+      "variantCount": 1,
+      "skus": [
+        "791345"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "gryzaki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655497027917",
+      "title": "CANPOL 68/088 Sensoryczna książeczka manipulacyjna BabiesBoo Panda",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "791347"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655497093453",
+      "title": "CANPOL 68/089 Sensoryczna piłka z grzechotką i piszczkiem BabiesBoo",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "791346"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655497683277",
+      "title": "CANPOL 68/090 Interaktywna sensoryczna zabawka BabiesBoo Leniwiec",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "791342"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655497716045",
+      "title": "CANPOL 68/091 Sensoryczna karuzela podróżna BabiesBoo",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "791341"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655497748813",
+      "title": "CANPOL 68/092 Sensoryczna mata edukacyjna z lusterkiem BabiesBoo",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "791339"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655497781581",
+      "title": "CANPOL 68/093 Sensoryczna karuzela z pozytywką/Bluetooth BabiesBoo",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "791340"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655497814349",
+      "title": "CANPOL 68/096 Miękkie kontrastowe karty sensoryczne z gryzak BabiesBoo",
+      "status": "DRAFT",
+      "productType": "Gryzaki",
+      "variantCount": 1,
+      "skus": [
+        "5910717"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "gryzaki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655497879885",
+      "title": "CANPOL 68/097 Sensoryczna miękka książeczka edukacyjna BabiesBoo",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "5910718"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655497912653",
+      "title": "CANPOL 68/098 Miękka konstastowa kostka sensoryczna BabiesBoo",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "5910719"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655497945421",
+      "title": "CANPOL 68/099 Lusterko sensoryczne z elem.interaktywnymi BabiesBoo",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "5910720"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655497978189",
+      "title": "CANPOL 68/100 Leniwiec z pozytywką i projektorem 3w1 BabiesBoo",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "5911947"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655498109261",
+      "title": "CANPOL 68/101 Pluszowa Panda z zawieszką pozytywką i lampką BabiesBoo",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "5911949"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655498174797",
+      "title": "CANPOL 75/200 Mata edukacyjna FOX",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "5908157"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655498207565",
+      "title": "CANPOL 75/201 Karuzela z pozytywką nad łóżeczko FOX",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "5908156"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655498273101",
+      "title": "CANPOL 75/202 Pluszowa książeczka edukacyjna FOX",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "5908158"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655498338637",
+      "title": "CANPOL 79/102 Miękkie klocki sensoryczne 12szt",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "776414"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655498371405",
+      "title": "CANPOL 79/103 Sensoryczna układanka piramidka",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "791204"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655498404173",
+      "title": "CANPOL 79/104 Zabawka kreatywna do zabawy w wodzie",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "780746"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655498436941",
+      "title": "CANPOL 79/402 Miękkie piłeczki sensoryczne 6szt.",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "786396"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655498469709",
+      "title": "CANPOL 80/201 Miękka grzechotka Króliczek różowy",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "780510"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655498502477",
+      "title": "CANPOL 80/308 Zestaw odkręcanych zabawek silikonowych do kąpieli",
+      "status": "DRAFT",
+      "productType": "Zabawki",
+      "variantCount": 1,
+      "skus": [
+        "5903867"
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "zabawki"
+      ]
+    }
+  ]
+}

@@ -3,6 +3,7 @@ Set-StrictMode -Version Latest
 
 $ProjectRoot = Split-Path (Split-Path $PSScriptRoot -Parent) -Parent
 . (Join-Path $ProjectRoot "shopify_store\powershell\shopify_graphql.ps1")
+. (Join-Path $PSScriptRoot "tega_description_style.ps1")
 
 $PlanPath = Join-Path $PSScriptRoot "tega_wanny_shopify_plan.json"
 $ReportPath = Join-Path $PSScriptRoot "tega_wanny_shopify_sync_report.json"
@@ -93,7 +94,7 @@ function New-ProductSetInput {
   $payload = [ordered]@{
     title = [string]$Product.title
     handle = $Handle
-    descriptionHtml = [string]$Product.descriptionHtml
+    descriptionHtml = New-TegaDescriptionHtml $Product
     vendor = [string]$Product.vendor
     productType = [string]$Product.productType
     status = "DRAFT"

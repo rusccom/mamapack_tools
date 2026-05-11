@@ -1,0 +1,190 @@
+{
+  "created_at": "2026-05-07T19:17:15",
+  "collection": {
+    "id": "gid://shopify/Collection/660840939853",
+    "legacyResourceId": "660840939853",
+    "title": "Pielęgnacja i akcesoria dla mamy",
+    "handle": "pielegnacja-i-akcesoria-dla-mamy",
+    "seo": {
+      "title": "Pielęgnacja i akcesoria dla mamy | MamaPack",
+      "description": "Kosmetyki, akcesoria i produkty papierowe dla mamy do szpitala, podróży oraz codziennej organizacji po porodzie."
+    },
+    "productsCount": {
+      "count": 16
+    },
+    "resourcePublications": {
+      "nodes": []
+    }
+  },
+  "created_now": true,
+  "source_handles": [
+    "kosmetyki-dla-mamy",
+    "akcesoria-dla-mam",
+    "produkty-papierowe"
+  ],
+  "source_candidate_count": 16,
+  "added_count": 16,
+  "unpublished_publication_ids": [],
+  "products": [
+    {
+      "id": "gid://shopify/Product/9987114434893",
+      "legacyResourceId": "9987114434893",
+      "title": "Nakładka sedesowa jednorazowa - 1 szt.",
+      "handle": "nakladka-sedesowa-jednorazowa-1-szt",
+      "status": "ACTIVE",
+      "skus": [
+        "WC-001"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9916753576269",
+      "legacyResourceId": "9916753576269",
+      "title": "Jednorazowe nakładki na toaletę -  Biodegradowalne podkładki - (6 szt.)",
+      "handle": "jednorazowe-nakladki-na-toalete-biodegradowalne-podkladki-8-szt",
+      "status": "ACTIVE",
+      "skus": [
+        "5902704992603"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10007582900557",
+      "legacyResourceId": "10007582900557",
+      "title": "Teczka na dokumenty -  rozmiar A4 - (mix kolorów)",
+      "handle": "teczka-na-dokumenty-rozmiar-a4-mix-kolorow",
+      "status": "ACTIVE",
+      "skus": [
+        "TEC-A4"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10288796369229",
+      "legacyResourceId": "10288796369229",
+      "title": "SZAMPON z keratyną  - Kozie Mleko - Ziaja - 400ml",
+      "handle": "szampon-z-keratyna-kozie-mleko-ziaja-400ml",
+      "status": "ACTIVE",
+      "skus": [
+        "5901887032601"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10288931995981",
+      "legacyResourceId": "10288931995981",
+      "title": "ODŻYWKA  z keratyną (kondycjonująca) - Kozie Mleko - Ziaja - (200 ml)",
+      "handle": "odzywka-z-keratyna-kondycjonujaca-kozie-mleko-ziaja-200-ml",
+      "status": "ACTIVE",
+      "skus": [
+        "5901887032595"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9870257488205",
+      "legacyResourceId": "9870257488205",
+      "title": "Gumki do włosów elastyczne (3 szt.)",
+      "handle": "gumki-do-wlosow-elastyczne",
+      "status": "ACTIVE",
+      "skus": [
+        "GUM01"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790716281165",
+      "legacyResourceId": "9790716281165",
+      "title": "AKUKU A0030 - Nawilżany papier toaletowy - (50 szt.)",
+      "handle": "akuku-a0030-nawilzany-papier-toaletowy-50-szt",
+      "status": "ACTIVE",
+      "skus": [
+        "790025"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790712447309",
+      "legacyResourceId": "9790712447309",
+      "title": "CANPOL 1/658 - SUCHE CHUSTECZKI BAMBUSOWE dla niemowląt - (100 szt.)",
+      "handle": "canpol-1-658-suche-chusteczki-bambusowe-dla-niemowlat-100-szt",
+      "status": "ACTIVE",
+      "skus": [
+        "5909557"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9916827631949",
+      "legacyResourceId": "9916827631949",
+      "title": "Ziaja - antyperspirant",
+      "handle": "ziaja-antyperspirant",
+      "status": "ACTIVE",
+      "skus": [
+        "ZIA1004"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10556155265357",
+      "legacyResourceId": "10556155265357",
+      "title": "CANPOL 1/661 -  Ręczniki bambusowe dla niemowląt i dzieci (20x20cm) - 120szt.",
+      "handle": "canpol-1-661-reczniki-bambusowe-dla-niemowlat-i-dzieci-20x20cm-120szt",
+      "status": "ACTIVE",
+      "skus": [
+        "5903407363127"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9870250541389",
+      "legacyResourceId": "9870250541389",
+      "title": "Zestaw plastikowych butelek na produkty higieniczne (9 szt.)",
+      "handle": "zestaw-plastikowych-butelek-na-produkty-higieniczne-9-szt",
+      "status": "ACTIVE",
+      "skus": [
+        "KOS09"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9756450193741",
+      "legacyResourceId": "9756450193741",
+      "title": "SKARB MATKI - Pomadka Ochronna - dla dzieci o smaku malinowym - 6,5g",
+      "handle": "skarb-matki-pomadka-ochronna-dla-dzieci-smak-malinowy",
+      "status": "ACTIVE",
+      "skus": [
+        "SM0021"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9756450160973",
+      "legacyResourceId": "9756450160973",
+      "title": "SKARB MATKI - Pomadka Ochronna - dla dzieci o smaku kokosa i wanilii - 6,5g",
+      "handle": "skarb-matki-pomadka-ochronna-dla-dzieci-o-smaku-kokosa-i-wanilii",
+      "status": "ACTIVE",
+      "skus": [
+        "001341"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10646532718925",
+      "legacyResourceId": "10646532718925",
+      "title": "Canpol 78/026 - Jednorazowe spłukiwalne nakładki na toaletę - (10 szt. )",
+      "handle": "jednorazowe-nakladki-na-toalete-biodegradowalne-podkladki-6-szt-copy",
+      "status": "ACTIVE",
+      "skus": [
+        "5903407367286"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790715461965",
+      "legacyResourceId": "9790715461965",
+      "title": "ARDO - Krem przeciw rozstępom",
+      "handle": "ardo-krem-przeciw-rozstepom",
+      "status": "ACTIVE",
+      "skus": [
+        "787224"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10646557327693",
+      "legacyResourceId": "10646557327693",
+      "title": "Canpol 78/025 - Jednorazowe RĘCZNIKI – ZESTAW 2 szt.  - (140×70 cm + 70×30 cm)",
+      "handle": "canpol-78-026-jednorazowe-splukiwalne-nakladki-na-toalete-10-szt-copy",
+      "status": "ACTIVE",
+      "skus": [
+        "5903407367279"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1571 @@
+{
+  "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947",
+  "availableSkuCount": 62,
+  "skipped": [
+    {
+      "id": 40221,
+      "sku": "774264",
+      "title": "CANPOL 2/187 Grzechotka Sowa niebieska",
+      "imageId": 29696,
+      "status": "Preview",
+      "stock": "0",
+      "purchaseNet": "4.32"
+    },
+    {
+      "id": 40219,
+      "sku": "774262",
+      "title": "CANPOL 2/187 Grzechotka Sowa różowa",
+      "imageId": 29694,
+      "status": "Preview",
+      "stock": "0",
+      "purchaseNet": "4.32"
+    },
+    {
+      "id": 67760,
+      "sku": "5911311",
+      "title": "CANPOL 2/457_yel Grzechotka z tykającą kulką (żyrafa)",
+      "imageId": 84819,
+      "status": "Available",
+      "stock": "0",
+      "purchaseNet": "8.93"
+    },
+    {
+      "id": 41126,
+      "sku": "775154",
+      "title": "CANPOL 68/055 Pluszowa zabawka z piszczkiem i gryzakiem 0+ Bears szara",
+      "imageId": 30804,
+      "status": "Preview",
+      "stock": "0",
+      "purchaseNet": "13.69"
+    },
+    {
+      "id": 63503,
+      "sku": "5907428",
+      "title": "CANPOL 68/094 Mata edukacyjna Tummy Time BabiesBoo",
+      "imageId": 72059,
+      "status": "Available",
+      "stock": "0",
+      "purchaseNet": "144.76"
+    }
+  ],
+  "products": [
+    {
+      "title": "CANPOL 2/083 Miękka książeczka kąpielowa z piszczkiem",
+      "handle": "canpol-2-083-miekka-ksiazeczka-kapielowa-z-piszczkiem",
+      "collection": "Zabawki",
+      "optionName": "Wzór",
+      "variantCount": 2,
+      "skus": [
+        "5909898",
+        "5909899"
+      ],
+      "variantValues": [
+        "Farma",
+        "Wild Animals"
+      ],
+      "sourceItems": [
+        {
+          "id": 66238,
+          "sku": "5909898",
+          "title": "CANPOL 2/083 Miękka książeczka kąpielowa z piszczkiem Farma",
+          "imageId": 78340,
+          "status": "Available",
+          "barcode": "5901691898929",
+          "stock": "39",
+          "purchaseNet": "8.26",
+          "salePrice": "13.22",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        },
+        {
+          "id": 66239,
+          "sku": "5909899",
+          "title": "CANPOL 2/083 Miękka książeczka kąpielowa z piszczkiem Wild Animals",
+          "imageId": 78339,
+          "status": "Available",
+          "barcode": "5901691898936",
+          "stock": "28",
+          "purchaseNet": "8.26",
+          "salePrice": "13.22",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 2/606 Grzechotka Sztanga",
+      "handle": "canpol-2-606-grzechotka-sztanga",
+      "collection": "Zabawki",
+      "optionName": "Kolor",
+      "variantCount": 3,
+      "skus": [
+        "776063",
+        "774433",
+        "774434"
+      ],
+      "variantValues": [
+        "zielona",
+        "niebieska",
+        "różowa"
+      ],
+      "sourceItems": [
+        {
+          "id": 42061,
+          "sku": "776063",
+          "title": "CANPOL 2/606 Grzechotka NOVA Sztanga zielona",
+          "imageId": 32241,
+          "status": "Preview",
+          "barcode": "5901691812062",
+          "stock": "27",
+          "purchaseNet": "5.17",
+          "salePrice": "8.27",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        },
+        {
+          "id": 40393,
+          "sku": "774433",
+          "title": "CANPOL 2/606 Grzechotka Nowa Sztanga niebieska",
+          "imageId": 29928,
+          "status": "Preview",
+          "barcode": "5901691812055",
+          "stock": "29",
+          "purchaseNet": "5.17",
+          "salePrice": "8.27",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        },
+        {
+          "id": 40394,
+          "sku": "774434",
+          "title": "CANPOL 2/606 Grzechotka Nowa Sztanga różowa",
+          "imageId": 29929,
+          "status": "Preview",
+          "barcode": "5901691812048",
+          "stock": "23",
+          "purchaseNet": "5.17",
+          "salePrice": "8.27",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 2/992 Zabawki piszczące kaczuszki",
+      "handle": "canpol-2-992-zabawki-piszczace-kaczuszki",
+      "collection": "Zabawki",
+      "optionName": "Wzór",
+      "variantCount": 3,
+      "skus": [
+        "5909901",
+        "5909900",
+        "5909902"
+      ],
+      "variantValues": [
+        "Hokeista red",
+        "Magik black",
+        "Malarz blue"
+      ],
+      "sourceItems": [
+        {
+          "id": 66241,
+          "sku": "5909901",
+          "title": "CANPOL 2/992 Zabawki piszczące kaczuszki - Hokeista red",
+          "imageId": 78336,
+          "status": "Available",
+          "barcode": "5901691898967",
+          "stock": "11",
+          "purchaseNet": "7.67",
+          "salePrice": "12.27",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        },
+        {
+          "id": 66240,
+          "sku": "5909900",
+          "title": "CANPOL 2/992 Zabawki piszczące kaczuszki - Magik black",
+          "imageId": 78338,
+          "status": "Available",
+          "barcode": "5901691898943",
+          "stock": "5",
+          "purchaseNet": "7.67",
+          "salePrice": "12.27",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        },
+        {
+          "id": 66242,
+          "sku": "5909902",
+          "title": "CANPOL 2/992 Zabawki piszczące kaczuszki - Malarz blue",
+          "imageId": 78335,
+          "status": "Available",
+          "barcode": "5901691898950",
+          "stock": "12",
+          "purchaseNet": "7.67",
+          "salePrice": "12.27",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 56/153 Grzechotka z obrotowym elementem Sztanga",
+      "handle": "canpol-56-153-grzechotka-z-obrotowym-elementem-sztanga",
+      "collection": "Zabawki",
+      "optionName": "Kolor",
+      "variantCount": 2,
+      "skus": [
+        "779906",
+        "779907"
+      ],
+      "variantValues": [
+        "róż",
+        "turkus"
+      ],
+      "sourceItems": [
+        {
+          "id": 46045,
+          "sku": "779906",
+          "title": "CANPOL 56/153 Grzechotka z obrotowym elementem Sztanga róż",
+          "imageId": 38399,
+          "status": "Preview",
+          "barcode": "5901691839656",
+          "stock": "15",
+          "purchaseNet": "6.26",
+          "salePrice": "10.02",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        },
+        {
+          "id": 46046,
+          "sku": "779907",
+          "title": "CANPOL 56/153 Grzechotka z obrotowym elementem Sztanga turkus",
+          "imageId": 38396,
+          "status": "Preview",
+          "barcode": "5901691839663",
+          "stock": "8",
+          "purchaseNet": "6.26",
+          "salePrice": "10.02",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 56/610 Sensoryczna grzechotka z gryzakiem",
+      "handle": "canpol-56-610-sensoryczna-grzechotka-z-gryzakiem",
+      "collection": "Gryzaki",
+      "optionName": "Kolor",
+      "variantCount": 3,
+      "skus": [
+        "788671",
+        "788672",
+        "788673"
+      ],
+      "variantValues": [
+        "czerwona",
+        "różowa",
+        "zielona"
+      ],
+      "sourceItems": [
+        {
+          "id": 55155,
+          "sku": "788671",
+          "title": "CANPOL 56/610 Sensoryczna grzechotka z gryzakiem czerwona",
+          "imageId": 57286,
+          "status": "Preview",
+          "barcode": "5901691860988",
+          "stock": "9",
+          "purchaseNet": "8.93",
+          "salePrice": "14.29",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        },
+        {
+          "id": 55156,
+          "sku": "788672",
+          "title": "CANPOL 56/610 Sensoryczna grzechotka z gryzakiem różowa",
+          "imageId": 57283,
+          "status": "Preview",
+          "barcode": "5901691860971",
+          "stock": "13",
+          "purchaseNet": "8.93",
+          "salePrice": "14.29",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        },
+        {
+          "id": 55157,
+          "sku": "788673",
+          "title": "CANPOL 56/610 Sensoryczna grzechotka z gryzakiem zielona",
+          "imageId": 57280,
+          "status": "Preview",
+          "barcode": "5901691860964",
+          "stock": "14",
+          "purchaseNet": "8.93",
+          "salePrice": "14.29",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/061 Pluszowa zabawka z grzechotką i lusterkiem DŁUGIE USZY",
+      "handle": "canpol-68-061-pluszowa-zabawka-z-grzechotka-i-lusterkiem-dugie-uszy",
+      "collection": "Zabawki",
+      "optionName": "Kolor",
+      "variantCount": 2,
+      "skus": [
+        "5912939",
+        "5912940"
+      ],
+      "variantValues": [
+        "niebieska",
+        "różowa"
+      ],
+      "sourceItems": [
+        {
+          "id": 70550,
+          "sku": "5912939",
+          "title": "CANPOL 68/061_blu Pluszowa zabawka z grzechotką i lusterkiem DŁUGIE USZY",
+          "imageId": 85759,
+          "status": "Available",
+          "barcode": "5901691866751",
+          "stock": "3",
+          "purchaseNet": "23.97",
+          "salePrice": "38.35",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        },
+        {
+          "id": 70551,
+          "sku": "5912940",
+          "title": "CANPOL 68/061_pin Pluszowa zabawka z grzechotką i lusterkiem DŁUGIE USZY",
+          "imageId": 85760,
+          "status": "Available",
+          "barcode": "5901691866768",
+          "stock": "7",
+          "purchaseNet": "23.97",
+          "salePrice": "38.35",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/063 Interaktywna spirala do łóżeczka/wózka ZIGZAG",
+      "handle": "canpol-68-063-interaktywna-spirala-do-ozeczka-wozka-zigzag",
+      "collection": "Zabawki",
+      "optionName": "Kolor",
+      "variantCount": 2,
+      "skus": [
+        "776188",
+        "776187"
+      ],
+      "variantValues": [
+        "czerwona",
+        "niebieska"
+      ],
+      "sourceItems": [
+        {
+          "id": 42196,
+          "sku": "776188",
+          "title": "CANPOL 68/063 Interaktywna spirala do łóżeczka/wózka ZIGZAG czerwona",
+          "imageId": 32542,
+          "status": "Preview",
+          "barcode": "5901691824423",
+          "stock": "7",
+          "purchaseNet": "31.01",
+          "salePrice": "49.62",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        },
+        {
+          "id": 42195,
+          "sku": "776187",
+          "title": "CANPOL 68/063 Interaktywna spirala do łóżeczka/wózka ZIGZAG niebieska",
+          "imageId": 32543,
+          "status": "Preview",
+          "barcode": "5903407680637",
+          "stock": "11",
+          "purchaseNet": "31.01",
+          "salePrice": "49.62",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/095 Zabawka sensoryczna z piszczkiem BabiesBoo",
+      "handle": "canpol-68-095-zabawka-sensoryczna-z-piszczkiem-babiesboo",
+      "collection": "Zabawki",
+      "optionName": "Wzór",
+      "variantCount": 2,
+      "skus": [
+        "5910715",
+        "5910716"
+      ],
+      "variantValues": [
+        "leniwiec",
+        "panda"
+      ],
+      "sourceItems": [
+        {
+          "id": 67102,
+          "sku": "5910715",
+          "title": "CANPOL 68/095 Zabawka sensoryczna z piszczkiem BabiesBoo leniwiec",
+          "imageId": 80010,
+          "status": "Available",
+          "barcode": "5903407167473",
+          "stock": "21",
+          "purchaseNet": "12.22",
+          "salePrice": "19.55",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        },
+        {
+          "id": 67103,
+          "sku": "5910716",
+          "title": "CANPOL 68/095 Zabawka sensoryczna z piszczkiem BabiesBoo panda",
+          "imageId": 80009,
+          "status": "Available",
+          "barcode": "5903407167503",
+          "stock": "10",
+          "purchaseNet": "12.22",
+          "salePrice": "19.55",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 79/101 Interaktywna zabawka z grzechotką MIŚ",
+      "handle": "canpol-79-101-interaktywna-zabawka-z-grzechotka-mis",
+      "collection": "Zabawki",
+      "optionName": "Kolor",
+      "variantCount": 2,
+      "skus": [
+        "774971",
+        "5912648"
+      ],
+      "variantValues": [
+        "czerwony",
+        "zielony"
+      ],
+      "sourceItems": [
+        {
+          "id": 40942,
+          "sku": "774971",
+          "title": "CANPOL 79/101 Interaktywna zabawka z grzechotką MIŚ czerwony",
+          "imageId": 30785,
+          "status": "Available",
+          "barcode": "5903407791012",
+          "stock": "12",
+          "purchaseNet": "15.51",
+          "salePrice": "24.82",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        },
+        {
+          "id": 70238,
+          "sku": "5912648",
+          "title": "CANPOL 79/101 Interaktywna zabawka z grzechotką miś zielony",
+          "imageId": 84673,
+          "status": "Available",
+          "barcode": "5901691820661",
+          "stock": "10",
+          "purchaseNet": "15.51",
+          "salePrice": "24.82",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 13/107 Grzechotka z gryzaczkiem",
+      "handle": "canpol-13-107-grzechotka-z-gryzaczkiem",
+      "collection": "Gryzaki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "777893"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 43962,
+          "sku": "777893",
+          "title": "CANPOL 13/107 Grzechotka z gryzaczkiem",
+          "imageId": 80528,
+          "status": "Preview",
+          "barcode": "5903407131078",
+          "stock": "19",
+          "purchaseNet": "3.75",
+          "salePrice": "6.00",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 2/187 Grzechotka Sowa zielony",
+      "handle": "canpol-2-187-grzechotka-sowa-zielony",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "774263"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 40220,
+          "sku": "774263",
+          "title": "CANPOL 2/187 Grzechotka Sowa zielony",
+          "imageId": 29695,
+          "status": "Preview",
+          "barcode": "5901691812031",
+          "stock": "6",
+          "purchaseNet": "4.32",
+          "salePrice": "6.91",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 2/450 Grzechotka kolorowe kulki",
+      "handle": "canpol-2-450-grzechotka-kolorowe-kulki",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "774265"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 40222,
+          "sku": "774265",
+          "title": "CANPOL 2/450 Grzechotka kolorowe kulki",
+          "imageId": 29697,
+          "status": "Preview",
+          "barcode": "5903407024509",
+          "stock": "12",
+          "purchaseNet": "8.93",
+          "salePrice": "14.29",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 2/457 Grzechotka z tykającą kulką kulki czerwone",
+      "handle": "canpol-2-457-grzechotka-z-tykajaca-kulka-kulki-czerwone",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5911122"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 67537,
+          "sku": "5911122",
+          "title": "CANPOL 2/457 Grzechotka z tykającą kulką kulki czerwone",
+          "imageId": 80674,
+          "status": "Available",
+          "barcode": "5901691898417",
+          "stock": "27",
+          "purchaseNet": "8.93",
+          "salePrice": "14.29",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 2/817 Kostka edukacyjna miękka 6szt",
+      "handle": "canpol-2-817-kostka-edukacyjna-miekka-6szt",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "774298"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 40256,
+          "sku": "774298",
+          "title": "CANPOL 2/817 Kostka edukacyjna miękka 6szt",
+          "imageId": 29739,
+          "status": "Preview",
+          "barcode": "5903407028170",
+          "stock": "6",
+          "purchaseNet": "18.67",
+          "salePrice": "29.87",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 2/890 Miękka zabawka z grzechotką Piłka",
+      "handle": "canpol-2-890-miekka-zabawka-z-grzechotka-pika",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "774277"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 40235,
+          "sku": "774277",
+          "title": "CANPOL 2/890 Miękka zabawka z grzechotką Piłka",
+          "imageId": 29714,
+          "status": "Preview",
+          "barcode": "5903407028903",
+          "stock": "29",
+          "purchaseNet": "8.65",
+          "salePrice": "13.84",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 2/891 Miękka zabawka z grzechotką Młotek",
+      "handle": "canpol-2-891-miekka-zabawka-z-grzechotka-motek",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "774278"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 40236,
+          "sku": "774278",
+          "title": "CANPOL 2/891 Miękka zabawka z grzechotką Młotek",
+          "imageId": 82406,
+          "status": "Preview",
+          "barcode": "5903407028910",
+          "stock": "8",
+          "purchaseNet": "8.46",
+          "salePrice": "13.54",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 56/127 Grzechotka z gryzakiem wodnym Lizak",
+      "handle": "canpol-56-127-grzechotka-z-gryzakiem-wodnym-lizak",
+      "collection": "Gryzaki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "780511"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 46664,
+          "sku": "780511",
+          "title": "CANPOL 56/127 Grzechotka z gryzakiem wodnym Lizak",
+          "imageId": 39878,
+          "status": "Preview",
+          "barcode": "5903407561271",
+          "stock": "7",
+          "purchaseNet": "6.86",
+          "salePrice": "10.98",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 56/145 Grzechotka z kolorowymi koralikami",
+      "handle": "canpol-56-145-grzechotka-z-kolorowymi-koralikami",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "776013"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 42007,
+          "sku": "776013",
+          "title": "CANPOL 56/145 Grzechotka z kolorowymi koralikami",
+          "imageId": 32023,
+          "status": "Available",
+          "barcode": "5903407561455",
+          "stock": "20",
+          "purchaseNet": "7.99",
+          "salePrice": "12.78",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 56/146 Grzechotka z gryzakiem wodnym Zwierzątka",
+      "handle": "canpol-56-146-grzechotka-z-gryzakiem-wodnym-zwierzatka",
+      "collection": "Gryzaki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "775151"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 41123,
+          "sku": "775151",
+          "title": "CANPOL 56/146 Grzechotka z gryzakiem wodnym Zwierzątka",
+          "imageId": 30830,
+          "status": "Available",
+          "barcode": "5903407561462",
+          "stock": "16",
+          "purchaseNet": "8.08",
+          "salePrice": "12.93",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 56/498 Zabawki do kąpieli 3 szt Kaczki",
+      "handle": "canpol-56-498-zabawki-do-kapieli-3-szt-kaczki",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "780503"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 46656,
+          "sku": "780503",
+          "title": "CANPOL 56/498 Zabawki do kąpieli 3 szt Kaczki",
+          "imageId": 39908,
+          "status": "Preview",
+          "barcode": "5903407564982",
+          "stock": "9",
+          "purchaseNet": "10.34",
+          "salePrice": "16.54",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/053 Pluszowa zabawka z pozytywką 0+ Bears szara",
+      "handle": "canpol-68-053-pluszowa-zabawka-z-pozytywka-0-bears-szara",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "774279"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 40237,
+          "sku": "774279",
+          "title": "CANPOL 68/053 Pluszowa zabawka z pozytywką 0+ Bears szara",
+          "imageId": 29718,
+          "status": "Preview",
+          "barcode": "5901691816503",
+          "stock": "14",
+          "purchaseNet": "26.98",
+          "salePrice": "43.17",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/077 Pluszowa sensoryczna mata do zabawy Sensory Toys",
+      "handle": "canpol-68-077-pluszowa-sensoryczna-mata-do-zabawy-sensory-toys",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "778017"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 44089,
+          "sku": "778017",
+          "title": "CANPOL 68/077 Pluszowa sensoryczna mata do zabawy Sensory Toys",
+          "imageId": 35566,
+          "status": "Preview",
+          "barcode": "5903407680774",
+          "stock": "5",
+          "purchaseNet": "200.6",
+          "salePrice": "320.96",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/080 Zabawka kontrastowa z piszczkiem i lusterkiem SENSORY TOYS",
+      "handle": "canpol-68-080-zabawka-kontrastowa-z-piszczkiem-i-lusterkiem-sensory-toys",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "778840"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 44952,
+          "sku": "778840",
+          "title": "CANPOL 68/080 Zabawka kontrastowa z piszczkiem i lusterkiem SENSORY TOYS",
+          "imageId": 37201,
+          "status": "Preview",
+          "barcode": "5903407680804",
+          "stock": "29",
+          "purchaseNet": "15.51",
+          "salePrice": "24.82",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/081 Pluszowa kontrastowa książeczka edukacyjna SENSORY TOYS",
+      "handle": "canpol-68-081-pluszowa-kontrastowa-ksiazeczka-edukacyjna-sensory-toys",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "778838"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 44950,
+          "sku": "778838",
+          "title": "CANPOL 68/081 Pluszowa kontrastowa książeczka edukacyjna SENSORY TOYS",
+          "imageId": 37203,
+          "status": "Preview",
+          "barcode": "5903407680811",
+          "stock": "21",
+          "purchaseNet": "30.81",
+          "salePrice": "49.30",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/082 Pluszowa piłka kontrastowa SENSORY TOYS",
+      "handle": "canpol-68-082-pluszowa-pika-kontrastowa-sensory-toys",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "778839"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 44951,
+          "sku": "778839",
+          "title": "CANPOL 68/082 Pluszowa piłka kontrastowa SENSORY TOYS",
+          "imageId": 37202,
+          "status": "Preview",
+          "barcode": "5903407680828",
+          "stock": "16",
+          "purchaseNet": "24.71",
+          "salePrice": "39.54",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/083 Kontrastowa karuzelka podróżna do wózka/fotelika SENSORY",
+      "handle": "canpol-68-083-kontrastowa-karuzelka-podrozna-do-wozka-fotelika-sensory",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "778837"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 44949,
+          "sku": "778837",
+          "title": "CANPOL 68/083 Kontrastowa karuzelka podróżna do wózka/fotelika SENSORY",
+          "imageId": 37204,
+          "status": "Preview",
+          "barcode": "5903407680835",
+          "stock": "11",
+          "purchaseNet": "41.26",
+          "salePrice": "66.02",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/084 Kontrastowa karuzela z pozytywką SENSORY TOYS",
+      "handle": "canpol-68-084-kontrastowa-karuzela-z-pozytywka-sensory-toys",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "778836"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 44948,
+          "sku": "778836",
+          "title": "CANPOL 68/084 Kontrastowa karuzela z pozytywką SENSORY TOYS",
+          "imageId": 36675,
+          "status": "Preview",
+          "barcode": "5903407680842",
+          "stock": "19",
+          "purchaseNet": "99.99",
+          "salePrice": "159.98",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/085 Sensoryczna zawieszka do wózka BabiesBoo",
+      "handle": "canpol-68-085-sensoryczna-zawieszka-do-wozka-babiesboo",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "791344"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 57961,
+          "sku": "791344",
+          "title": "CANPOL 68/085 Sensoryczna zawieszka do wózka BabiesBoo",
+          "imageId": 62254,
+          "status": "Available",
+          "barcode": "5901691870710",
+          "stock": "14",
+          "purchaseNet": "33.84",
+          "salePrice": "54.14",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/086 Sensoryczna zabawka z gryzakiem i grzechotką BabiesBoo",
+      "handle": "canpol-68-086-sensoryczna-zabawka-z-gryzakiem-i-grzechotka-babiesboo",
+      "collection": "Gryzaki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "791345"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 57962,
+          "sku": "791345",
+          "title": "CANPOL 68/086 Sensoryczna zabawka z gryzakiem i grzechotką BabiesBoo",
+          "imageId": 62252,
+          "status": "Preview",
+          "barcode": "5901691870727",
+          "stock": "23",
+          "purchaseNet": "18.89",
+          "salePrice": "30.22",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/088 Sensoryczna książeczka manipulacyjna BabiesBoo Panda",
+      "handle": "canpol-68-088-sensoryczna-ksiazeczka-manipulacyjna-babiesboo-panda",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "791347"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 57964,
+          "sku": "791347",
+          "title": "CANPOL 68/088 Sensoryczna książeczka manipulacyjna BabiesBoo Panda",
+          "imageId": 62242,
+          "status": "Available",
+          "barcode": "5901691870741",
+          "stock": "8",
+          "purchaseNet": "86.48",
+          "salePrice": "138.37",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/089 Sensoryczna piłka z grzechotką i piszczkiem BabiesBoo",
+      "handle": "canpol-68-089-sensoryczna-pika-z-grzechotka-i-piszczkiem-babiesboo",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "791346"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 57963,
+          "sku": "791346",
+          "title": "CANPOL 68/089 Sensoryczna piłka z grzechotką i piszczkiem BabiesBoo",
+          "imageId": 62248,
+          "status": "Preview",
+          "barcode": "5901691870758",
+          "stock": "12",
+          "purchaseNet": "37.6",
+          "salePrice": "60.16",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/090 Interaktywna sensoryczna zabawka BabiesBoo Leniwiec",
+      "handle": "canpol-68-090-interaktywna-sensoryczna-zabawka-babiesboo-leniwiec",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "791342"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 57959,
+          "sku": "791342",
+          "title": "CANPOL 68/090 Interaktywna sensoryczna zabawka BabiesBoo Leniwiec",
+          "imageId": 62257,
+          "status": "Preview",
+          "barcode": "5901691870673",
+          "stock": "11",
+          "purchaseNet": "33.84",
+          "salePrice": "54.14",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/091 Sensoryczna karuzela podróżna BabiesBoo",
+      "handle": "canpol-68-091-sensoryczna-karuzela-podrozna-babiesboo",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "791341"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 57958,
+          "sku": "791341",
+          "title": "CANPOL 68/091 Sensoryczna karuzela podróżna BabiesBoo",
+          "imageId": 62259,
+          "status": "Available",
+          "barcode": "5901691870680",
+          "stock": "8",
+          "purchaseNet": "37.6",
+          "salePrice": "60.16",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/092 Sensoryczna mata edukacyjna z lusterkiem BabiesBoo",
+      "handle": "canpol-68-092-sensoryczna-mata-edukacyjna-z-lusterkiem-babiesboo",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "791339"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 57956,
+          "sku": "791339",
+          "title": "CANPOL 68/092 Sensoryczna mata edukacyjna z lusterkiem BabiesBoo",
+          "imageId": 62263,
+          "status": "Preview",
+          "barcode": "5901691870697",
+          "stock": "2",
+          "purchaseNet": "215.26",
+          "salePrice": "344.42",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/093 Sensoryczna karuzela z pozytywką/Bluetooth BabiesBoo",
+      "handle": "canpol-68-093-sensoryczna-karuzela-z-pozytywka-bluetooth-babiesboo",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "791340"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 57957,
+          "sku": "791340",
+          "title": "CANPOL 68/093 Sensoryczna karuzela z pozytywką/Bluetooth BabiesBoo",
+          "imageId": 62261,
+          "status": "Preview",
+          "barcode": "5901691870703",
+          "stock": "3",
+          "purchaseNet": "140.06",
+          "salePrice": "224.10",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/096 Miękkie kontrastowe karty sensoryczne z gryzak BabiesBoo",
+      "handle": "canpol-68-096-miekkie-kontrastowe-karty-sensoryczne-z-gryzak-babiesboo",
+      "collection": "Gryzaki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5910717"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 67104,
+          "sku": "5910717",
+          "title": "CANPOL 68/096 Miękkie kontrastowe karty sensoryczne z gryzak BabiesBoo",
+          "imageId": 80007,
+          "status": "Available",
+          "barcode": "5903407167404",
+          "stock": "16",
+          "purchaseNet": "12.22",
+          "salePrice": "19.55",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/097 Sensoryczna miękka książeczka edukacyjna BabiesBoo",
+      "handle": "canpol-68-097-sensoryczna-miekka-ksiazeczka-edukacyjna-babiesboo",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5910718"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 67105,
+          "sku": "5910718",
+          "title": "CANPOL 68/097 Sensoryczna miękka książeczka edukacyjna BabiesBoo",
+          "imageId": 80005,
+          "status": "Available",
+          "barcode": "5903407167411",
+          "stock": "19",
+          "purchaseNet": "24.44",
+          "salePrice": "39.10",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/098 Miękka konstastowa kostka sensoryczna BabiesBoo",
+      "handle": "canpol-68-098-miekka-konstastowa-kostka-sensoryczna-babiesboo",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5910719"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 67106,
+          "sku": "5910719",
+          "title": "CANPOL 68/098 Miękka konstastowa kostka sensoryczna BabiesBoo",
+          "imageId": 80004,
+          "status": "Available",
+          "barcode": "5903407167428",
+          "stock": "4",
+          "purchaseNet": "21.62",
+          "salePrice": "34.59",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/099 Lusterko sensoryczne z elem.interaktywnymi BabiesBoo",
+      "handle": "canpol-68-099-lusterko-sensoryczne-z-elem-interaktywnymi-babiesboo",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5910720"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 67107,
+          "sku": "5910720",
+          "title": "CANPOL 68/099 Lusterko sensoryczne z elem.interaktywnymi BabiesBoo",
+          "imageId": 80003,
+          "status": "Available",
+          "barcode": "5903407167435",
+          "stock": "13",
+          "purchaseNet": "24.44",
+          "salePrice": "39.10",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/100 Leniwiec z pozytywką i projektorem 3w1 BabiesBoo",
+      "handle": "canpol-68-100-leniwiec-z-pozytywka-i-projektorem-3w1-babiesboo",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5911947"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 68454,
+          "sku": "5911947",
+          "title": "CANPOL 68/100 Leniwiec z pozytywką i projektorem 3w1 BabiesBoo",
+          "imageId": 83238,
+          "status": "Available",
+          "barcode": "5903407167442",
+          "stock": "5.0000",
+          "purchaseNet": "53.93",
+          "salePrice": "86.29",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 68/101 Pluszowa Panda z zawieszką pozytywką i lampką BabiesBoo",
+      "handle": "canpol-68-101-pluszowa-panda-z-zawieszka-pozytywka-i-lampka-babiesboo",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5911949"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 68457,
+          "sku": "5911949",
+          "title": "CANPOL 68/101 Pluszowa Panda z zawieszką pozytywką i lampką BabiesBoo",
+          "imageId": 83241,
+          "status": "Available",
+          "barcode": "5903407167459",
+          "stock": "5",
+          "purchaseNet": "38.54",
+          "salePrice": "61.66",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 75/200 Mata edukacyjna FOX",
+      "handle": "canpol-75-200-mata-edukacyjna-fox",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5908157"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 64301,
+          "sku": "5908157",
+          "title": "CANPOL 75/200 Mata edukacyjna FOX",
+          "imageId": 73345,
+          "status": "Available",
+          "barcode": "5901691880498",
+          "stock": "4",
+          "purchaseNet": "144.53",
+          "salePrice": "231.25",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 75/201 Karuzela z pozytywką nad łóżeczko FOX",
+      "handle": "canpol-75-201-karuzela-z-pozytywka-nad-ozeczko-fox",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5908156"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 64300,
+          "sku": "5908156",
+          "title": "CANPOL 75/201 Karuzela z pozytywką nad łóżeczko FOX",
+          "imageId": 73347,
+          "status": "Available",
+          "barcode": "5901691880504",
+          "stock": "6",
+          "purchaseNet": "111.86",
+          "salePrice": "178.98",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 75/202 Pluszowa książeczka edukacyjna FOX",
+      "handle": "canpol-75-202-pluszowa-ksiazeczka-edukacyjna-fox",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5908158"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 64302,
+          "sku": "5908158",
+          "title": "CANPOL 75/202 Pluszowa książeczka edukacyjna FOX",
+          "imageId": 73343,
+          "status": "Available",
+          "barcode": "5901691880511",
+          "stock": "8",
+          "purchaseNet": "27.26",
+          "salePrice": "43.62",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 79/102 Miękkie klocki sensoryczne 12szt",
+      "handle": "canpol-79-102-miekkie-klocki-sensoryczne-12szt",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "776414"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 42432,
+          "sku": "776414",
+          "title": "CANPOL 79/102 Miękkie klocki sensoryczne 12szt",
+          "imageId": 32805,
+          "status": "Preview",
+          "barcode": "5903407791029",
+          "stock": "24",
+          "purchaseNet": "41.83",
+          "salePrice": "66.93",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 79/103 Sensoryczna układanka piramidka",
+      "handle": "canpol-79-103-sensoryczna-ukadanka-piramidka",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "791204"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 57815,
+          "sku": "791204",
+          "title": "CANPOL 79/103 Sensoryczna układanka piramidka",
+          "imageId": 61975,
+          "status": "Preview",
+          "barcode": "5903407791036",
+          "stock": "9",
+          "purchaseNet": "23.5",
+          "salePrice": "37.60",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 79/104 Zabawka kreatywna do zabawy w wodzie",
+      "handle": "canpol-79-104-zabawka-kreatywna-do-zabawy-w-wodzie",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "780746"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 46905,
+          "sku": "780746",
+          "title": "CANPOL 79/104 Zabawka kreatywna do zabawy w wodzie",
+          "imageId": 40503,
+          "status": "Preview",
+          "barcode": "5903407791043",
+          "stock": "39",
+          "purchaseNet": "31.02",
+          "salePrice": "49.63",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 79/402 Miękkie piłeczki sensoryczne 6szt.",
+      "handle": "canpol-79-402-miekkie-pieczki-sensoryczne-6szt",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "786396"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 52758,
+          "sku": "786396",
+          "title": "CANPOL 79/402 Miękkie piłeczki sensoryczne 6szt.",
+          "imageId": 53925,
+          "status": "Preview",
+          "barcode": "5901691852532",
+          "stock": "17",
+          "purchaseNet": "24.44",
+          "salePrice": "39.10",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 80/201 Miękka grzechotka Króliczek różowy",
+      "handle": "canpol-80-201-miekka-grzechotka-kroliczek-rozowy",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "780510"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 46663,
+          "sku": "780510",
+          "title": "CANPOL 80/201 Miękka grzechotka Króliczek różowy",
+          "imageId": 39884,
+          "status": "Preview",
+          "barcode": "5903407993102",
+          "stock": "7",
+          "purchaseNet": "23.97",
+          "salePrice": "38.35",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    },
+    {
+      "title": "CANPOL 80/308 Zestaw odkręcanych zabawek silikonowych do kąpieli",
+      "handle": "canpol-80-308-zestaw-odkrecanych-zabawek-silikonowych-do-kapieli",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5903867"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 59638,
+          "sku": "5903867",
+          "title": "CANPOL 80/308 Zestaw odkręcanych zabawek silikonowych do kąpieli",
+          "imageId": 65027,
+          "status": "Available",
+          "barcode": "5901691873377",
+          "stock": "16",
+          "purchaseNet": "37.6",
+          "salePrice": "60.16",
+          "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "createdAt": "2026-05-09T22:09:24.446091+03:00",
+  "sourceReport": "C:\\Users\\User\\Desktop\\projects\\mamaPack\\pipelines\\marini_to_shopify\\forbaby_krzeselka_15_shopify_sync_report.json",
+  "inventoryId": 43540,
+  "shopifyStorageId": "shop_5022274",
+  "priceGroupId": 22945,
+  "category": {
+    "category_id": 7988306,
+    "name": "Krzesełka do karmienia",
+    "parent_id": 2920334,
+    "created": true
+  },
+  "productCount": 3,
+  "variantSkuCount": 5,
+  "createdOrUpdatedParentIds": [
+    "590515963",
+    "590515983",
+    "590515984"
+  ],
+  "parentPriceFixes": [
+    {
+      "parentProductId": "590515963",
+      "price": 319.68,
+      "response": {
+        "status": "SUCCESS",
+        "product_id": 590515963,
+        "warnings": {}
+      }
+    }
+  ],
+  "shopifyProducts": [
+    {
+      "title": "4 Baby Decco krzesełko do karmienia",
+      "shopifyProductId": "gid://shopify/Product/10655547457869",
+      "shopifyLegacyResourceId": 10655547457869,
+      "optionName": "Kolor",
+      "variants": [
+        {
+          "sku": "5905811",
+          "barcode": "5901691958760",
+          "optionValue": "camel",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868800541005",
+          "shopifyVariantLegacyResourceId": 53868800541005
+        },
+        {
+          "sku": "5905810",
+          "barcode": "5901691958753",
+          "optionValue": "czarny",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868800573773",
+          "shopifyVariantLegacyResourceId": 53868800573773
+        },
+        {
+          "sku": "764724",
+          "barcode": "5901691958777",
+          "optionValue": "zielony",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868800606541",
+          "shopifyVariantLegacyResourceId": 53868800606541
+        }
+      ]
+    },
+    {
+      "title": "4 Baby Icon krzesełko do karmienia",
+      "shopifyProductId": "gid://shopify/Product/10655547490637",
+      "shopifyLegacyResourceId": 10655547490637,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "5907348",
+          "barcode": "5901691958845",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868800639309",
+          "shopifyVariantLegacyResourceId": 53868800639309
+        }
+      ]
+    },
+    {
+      "title": "4 Baby Master 6w1 krzesełko do karmienia",
+      "shopifyProductId": "gid://shopify/Product/10655547523405",
+      "shopifyLegacyResourceId": 10655547523405,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "786186",
+          "barcode": "5901691957527",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53868800803149",
+          "shopifyVariantLegacyResourceId": 53868800803149
+        }
+      ]
+    }
+  ],
+  "baselinkerDetails": {
+    "590515963": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988306,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Decco krzesełko do karmienia",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Decco krzesełko do karmienia</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Regulowane krzesełko do karmienia z miękką tapicerką i wygodną tacką.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Krzesełka do karmienia</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">6-36 miesięcy</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 15 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">3 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne karmienie każdego dnia</h3>Praktyczne krzesełko pomaga stworzyć dziecku stabilne i wygodne miejsce do posiłku, a rodzicom ułatwia sprzątanie po karmieniu.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Miękka tapicerka z eko-skóry jest łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Pięciopunktowe pasy i dodatkowy element chronią przed wyślizgnięciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Podwójna, regulowana tacka ułatwia karmienie i sprzątanie.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Tylne kółka pomagają wygodnie przestawić krzesełko.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulacje pomagają dopasować pozycję do wieku i etapu rozwoju.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Łatwe czyszczenie i praktyczna tacka sprawdzają się przy codziennych posiłkach.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">Decco</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">krzesełka do karmienia</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wiek dziecka</strong><span style=\"color:#6a5260;text-align:right;\">6-36 miesięcy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Maksymalne obciążenie</strong><span style=\"color:#6a5260;text-align:right;\">do 15 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Regulacja</strong><span style=\"color:#6a5260;text-align:right;\">7 wysokości, 5 pozycji oparcia, 3 pozycje podnóżka</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">camel, czarny, zielony</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Używaj krzesełka zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 319.68
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655547457869",
+          "variant_id": "0"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "variants": {
+        "590515968": {
+          "name": "4 Baby Decco krzesełko do karmienia - Kolor: camel",
+          "ean": "5901691958760",
+          "asin": "",
+          "sku": "5905811",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "319.68"
+          }
+        },
+        "590515974": {
+          "name": "4 Baby Decco krzesełko do karmienia - Kolor: czarny",
+          "ean": "5901691958753",
+          "asin": "",
+          "sku": "5905810",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "319.68"
+          }
+        },
+        "590515980": {
+          "name": "4 Baby Decco krzesełko do karmienia - Kolor: zielony",
+          "ean": "5901691958777",
+          "asin": "",
+          "sku": "764724",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "319.68"
+          }
+        }
+      },
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905811-1.jpg?v=1778353237",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905811-2.jpg?v=1778353237",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905811-3.jpg?v=1778353237",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905810-1.jpg?v=1778353237",
+        "5": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905810-2.jpg?v=1778353237",
+        "6": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905810-3.jpg?v=1778353237",
+        "7": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/764724-1.jpg?v=1778353237",
+        "8": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/764724-2.jpg?v=1778353237",
+        "9": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/764724-3.jpg?v=1778353237"
+      }
+    },
+    "590515968": {
+      "is_bundle": false,
+      "ean": "5901691958760",
+      "asin": "",
+      "parent_id": 590515963,
+      "sku": "5905811",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988306,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Decco krzesełko do karmienia - Kolor: camel",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Decco krzesełko do karmienia</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Regulowane krzesełko do karmienia z miękką tapicerką i wygodną tacką.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Krzesełka do karmienia</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">6-36 miesięcy</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 15 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">3 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne karmienie każdego dnia</h3>Praktyczne krzesełko pomaga stworzyć dziecku stabilne i wygodne miejsce do posiłku, a rodzicom ułatwia sprzątanie po karmieniu.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Miękka tapicerka z eko-skóry jest łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Pięciopunktowe pasy i dodatkowy element chronią przed wyślizgnięciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Podwójna, regulowana tacka ułatwia karmienie i sprzątanie.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Tylne kółka pomagają wygodnie przestawić krzesełko.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulacje pomagają dopasować pozycję do wieku i etapu rozwoju.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Łatwe czyszczenie i praktyczna tacka sprawdzają się przy codziennych posiłkach.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">Decco</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">krzesełka do karmienia</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wiek dziecka</strong><span style=\"color:#6a5260;text-align:right;\">6-36 miesięcy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Maksymalne obciążenie</strong><span style=\"color:#6a5260;text-align:right;\">do 15 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Regulacja</strong><span style=\"color:#6a5260;text-align:right;\">7 wysokości, 5 pozycji oparcia, 3 pozycje podnóżka</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">camel, czarny, zielony</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Używaj krzesełka zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 319.68
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655547457869",
+          "variant_id": "53868800541005"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905811-1.jpg?v=1778353237",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905811-2.jpg?v=1778353237",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905811-3.jpg?v=1778353237",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905810-1.jpg?v=1778353237",
+        "5": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905810-2.jpg?v=1778353237",
+        "6": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905810-3.jpg?v=1778353237",
+        "7": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/764724-1.jpg?v=1778353237",
+        "8": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/764724-2.jpg?v=1778353237",
+        "9": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/764724-3.jpg?v=1778353237"
+      }
+    },
+    "590515974": {
+      "is_bundle": false,
+      "ean": "5901691958753",
+      "asin": "",
+      "parent_id": 590515963,
+      "sku": "5905810",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988306,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Decco krzesełko do karmienia - Kolor: czarny",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Decco krzesełko do karmienia</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Regulowane krzesełko do karmienia z miękką tapicerką i wygodną tacką.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Krzesełka do karmienia</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">6-36 miesięcy</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 15 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">3 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne karmienie każdego dnia</h3>Praktyczne krzesełko pomaga stworzyć dziecku stabilne i wygodne miejsce do posiłku, a rodzicom ułatwia sprzątanie po karmieniu.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Miękka tapicerka z eko-skóry jest łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Pięciopunktowe pasy i dodatkowy element chronią przed wyślizgnięciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Podwójna, regulowana tacka ułatwia karmienie i sprzątanie.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Tylne kółka pomagają wygodnie przestawić krzesełko.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulacje pomagają dopasować pozycję do wieku i etapu rozwoju.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Łatwe czyszczenie i praktyczna tacka sprawdzają się przy codziennych posiłkach.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">Decco</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">krzesełka do karmienia</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wiek dziecka</strong><span style=\"color:#6a5260;text-align:right;\">6-36 miesięcy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Maksymalne obciążenie</strong><span style=\"color:#6a5260;text-align:right;\">do 15 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Regulacja</strong><span style=\"color:#6a5260;text-align:right;\">7 wysokości, 5 pozycji oparcia, 3 pozycje podnóżka</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">camel, czarny, zielony</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Używaj krzesełka zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 319.68
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655547457869",
+          "variant_id": "53868800573773"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905811-1.jpg?v=1778353237",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905811-2.jpg?v=1778353237",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905811-3.jpg?v=1778353237",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905810-1.jpg?v=1778353237",
+        "5": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905810-2.jpg?v=1778353237",
+        "6": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905810-3.jpg?v=1778353237",
+        "7": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/764724-1.jpg?v=1778353237",
+        "8": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/764724-2.jpg?v=1778353237",
+        "9": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/764724-3.jpg?v=1778353237"
+      }
+    },
+    "590515980": {
+      "is_bundle": false,
+      "ean": "5901691958777",
+      "asin": "",
+      "parent_id": 590515963,
+      "sku": "764724",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988306,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Decco krzesełko do karmienia - Kolor: zielony",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Decco krzesełko do karmienia</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Regulowane krzesełko do karmienia z miękką tapicerką i wygodną tacką.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Krzesełka do karmienia</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">6-36 miesięcy</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 15 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">3 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne karmienie każdego dnia</h3>Praktyczne krzesełko pomaga stworzyć dziecku stabilne i wygodne miejsce do posiłku, a rodzicom ułatwia sprzątanie po karmieniu.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Miękka tapicerka z eko-skóry jest łatwa do utrzymania w czystości.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Pięciopunktowe pasy i dodatkowy element chronią przed wyślizgnięciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Podwójna, regulowana tacka ułatwia karmienie i sprzątanie.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Tylne kółka pomagają wygodnie przestawić krzesełko.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulacje pomagają dopasować pozycję do wieku i etapu rozwoju.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Łatwe czyszczenie i praktyczna tacka sprawdzają się przy codziennych posiłkach.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">Decco</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">krzesełka do karmienia</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wiek dziecka</strong><span style=\"color:#6a5260;text-align:right;\">6-36 miesięcy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Maksymalne obciążenie</strong><span style=\"color:#6a5260;text-align:right;\">do 15 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Regulacja</strong><span style=\"color:#6a5260;text-align:right;\">7 wysokości, 5 pozycji oparcia, 3 pozycje podnóżka</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">camel, czarny, zielony</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Używaj krzesełka zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 319.68
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655547457869",
+          "variant_id": "53868800606541"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905811-1.jpg?v=1778353237",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905811-2.jpg?v=1778353237",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905811-3.jpg?v=1778353237",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905810-1.jpg?v=1778353237",
+        "5": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905810-2.jpg?v=1778353237",
+        "6": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5905810-3.jpg?v=1778353237",
+        "7": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/764724-1.jpg?v=1778353237",
+        "8": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/764724-2.jpg?v=1778353237",
+        "9": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/764724-3.jpg?v=1778353237"
+      }
+    },
+    "590515983": {
+      "is_bundle": false,
+      "ean": "5901691958845",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "5907348",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988306,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Icon krzesełko do karmienia",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Icon krzesełko do karmienia</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Krzesełko i leżaczek w jednym, z szeroką regulacją od pierwszych dni.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Krzesełka do karmienia</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">od pierwszych dni do ok. 3 lat</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">do 15 kg</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">beżowy</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne karmienie każdego dnia</h3>Praktyczne krzesełko pomaga stworzyć dziecku stabilne i wygodne miejsce do posiłku, a rodzicom ułatwia sprzątanie po karmieniu.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Może pełnić funkcję ergonomicznego leżaczka dla najmłodszego dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Anatomiczne siedzisko wspiera wygodną pozycję podczas odpoczynku i posiłku.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Podwójna tacka nadaje się do mycia w zmywarce.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Duży kosz pod siedziskiem pomaga mieć akcesoria zawsze pod ręką.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulacje pomagają dopasować pozycję do wieku i etapu rozwoju.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Łatwe czyszczenie i praktyczna tacka sprawdzają się przy codziennych posiłkach.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">Icon</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">krzesełka do karmienia</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wiek dziecka</strong><span style=\"color:#6a5260;text-align:right;\">od pierwszych dni do ok. 3 lat</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Maksymalne obciążenie</strong><span style=\"color:#6a5260;text-align:right;\">do 15 kg</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Regulacja</strong><span style=\"color:#6a5260;text-align:right;\">6 wysokości, 4 pozycje oparcia, regulowany podnóżek</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">beżowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Używaj krzesełka zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 488.16
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655547490637",
+          "variant_id": "53868800639309"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5907348-3.jpg?v=1778353248",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5907348-1.jpg?v=1778353248",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5907348-2.jpg?v=1778353249",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5907348-4.jpg?v=1778353248"
+      }
+    },
+    "590515984": {
+      "is_bundle": false,
+      "ean": "5901691957527",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "786186",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988306,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "4 Baby Master 6w1 krzesełko do karmienia",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">4 Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby Master 6w1 krzesełko do karmienia</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Wielofunkcyjne krzesełko 6w1, które zmienia się w krzesełko ze stolikiem.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Krzesełka do karmienia</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">zgodnie z instrukcją producenta</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">6w1</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">czarny</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne karmienie każdego dnia</h3>Praktyczne krzesełko pomaga stworzyć dziecku stabilne i wygodne miejsce do posiłku, a rodzicom ułatwia sprzątanie po karmieniu.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Wysokie krzesełko można przekształcić w małe krzesełko ze stolikiem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Zdejmowana tapicerka z eko-skóry ułatwia codzienną pielęgnację.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Pięciopunktowe szelki i trzpień pod tacką pomagają chronić dziecko.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Nakładka na stolik jest kompatybilna z popularnymi klockami.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort dziecka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Regulacje pomagają dopasować pozycję do wieku i etapu rozwoju.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Łatwe czyszczenie i praktyczna tacka sprawdzają się przy codziennych posiłkach.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Producent</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">Master</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Przeznaczenie</strong><span style=\"color:#6a5260;text-align:right;\">krzesełka do karmienia</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wiek dziecka</strong><span style=\"color:#6a5260;text-align:right;\">zgodnie z instrukcją producenta</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Regulacja</strong><span style=\"color:#6a5260;text-align:right;\">regulowana tacka i kilka konfiguracji użytkowania</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">czarny</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Używaj krzesełka zgodnie z instrukcją producenta i zawsze pod opieką osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i materiałów producenta 4 Baby.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 414.4
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655547523405",
+          "variant_id": "53868800803149"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/786186-1.jpg?v=1778353264",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/786186-2.jpg?v=1778353264",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/786186-3.jpg?v=1778353264",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/786186-4.jpg?v=1778353264",
+        "5": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/786186-5.jpg?v=1778353264",
+        "6": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/786186-6.jpg?v=1778353264",
+        "7": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/786186-7.jpg?v=1778353265",
+        "8": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/786186-8.jpg?v=1778353264"
+      }
+    }
+  },
+  "verification": {
+    "allOk": true,
+    "checks": [
+      {
+        "sku": "5905811",
+        "baselinkerProductId": "590515968",
+        "parentId": "590515963",
+        "expectedProductId": "10655547457869",
+        "actualProductId": "10655547457869",
+        "expectedVariantId": "53868800541005",
+        "actualVariantId": "53868800541005",
+        "linkOk": true,
+        "price": {
+          "22945": 319.68
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5905810",
+        "baselinkerProductId": "590515974",
+        "parentId": "590515963",
+        "expectedProductId": "10655547457869",
+        "actualProductId": "10655547457869",
+        "expectedVariantId": "53868800573773",
+        "actualVariantId": "53868800573773",
+        "linkOk": true,
+        "price": {
+          "22945": 319.68
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "764724",
+        "baselinkerProductId": "590515980",
+        "parentId": "590515963",
+        "expectedProductId": "10655547457869",
+        "actualProductId": "10655547457869",
+        "expectedVariantId": "53868800606541",
+        "actualVariantId": "53868800606541",
+        "linkOk": true,
+        "price": {
+          "22945": 319.68
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5907348",
+        "baselinkerProductId": "590515983",
+        "parentId": "0",
+        "expectedProductId": "10655547490637",
+        "actualProductId": "10655547490637",
+        "expectedVariantId": "53868800639309",
+        "actualVariantId": "53868800639309",
+        "linkOk": true,
+        "price": {
+          "22945": 488.16
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "786186",
+        "baselinkerProductId": "590515984",
+        "parentId": "0",
+        "expectedProductId": "10655547523405",
+        "actualProductId": "10655547523405",
+        "expectedVariantId": "53868800803149",
+        "actualVariantId": "53868800803149",
+        "linkOk": true,
+        "price": {
+          "22945": 414.4
+        },
+        "priceOk": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "created_at": "2026-05-07T19:26:05",
+  "publication_target": [
+    "Online Store",
+    "Google & YouTube",
+    "Shop"
+  ],
+  "note": "Missing handles were not recreated because the user said unnecessary collections were deleted.",
+  "results": [
+    {
+      "handle": "przechowywanie-pokarmu",
+      "status": "published_and_verified",
+      "id": "gid://shopify/Collection/660834943309",
+      "legacyResourceId": "660834943309",
+      "title": "Przechowywanie pokarmu",
+      "productsCount": {
+        "count": 2
+      },
+      "seo": {
+        "title": "Przechowywanie pokarmu | MamaPack",
+        "description": "Pojemniki, kolektory i akcesoria do przechowywania mleka mamy. Wygodne przygotowanie zapasu pokarmu."
+      },
+      "publishedChannels": [
+        "Online Store",
+        "Google & YouTube",
+        "Shop"
+      ],
+      "seoChecks": {
+        "handle_ok": true,
+        "seo_title_ok": true,
+        "seo_description_ok": true,
+        "description_has_text": true,
+        "description_width_style_ok": true,
+        "no_literal_unicode_escape": true,
+        "seo_title_length": 33,
+        "seo_description_length": 100
+      }
+    },
+    {
+      "handle": "koszule-i-szlafroki-do-karmienia",
+      "status": "published_and_verified",
+      "id": "gid://shopify/Collection/660840022349",
+      "legacyResourceId": "660840022349",
+      "title": "Koszule i szlafroki do karmienia",
+      "productsCount": {
+        "count": 13
+      },
+      "seo": {
+        "title": "Koszule i szlafroki do karmienia | MamaPack",
+        "description": "Koszule do karmienia i szlafroki dla mamy do szpitala, po?ogu oraz pierwszych tygodni karmienia piersi?."
+      },
+      "publishedChannels": [
+        "Online Store",
+        "Google & YouTube",
+        "Shop"
+      ],
+      "seoChecks": {
+        "handle_ok": true,
+        "seo_title_ok": true,
+        "seo_description_ok": true,
+        "description_has_text": true,
+        "description_width_style_ok": true,
+        "no_literal_unicode_escape": true,
+        "seo_title_length": 43,
+        "seo_description_length": 104
+      }
+    },
+    {
+      "handle": "porod-i-polog",
+      "status": "published_and_verified",
+      "id": "gid://shopify/Collection/660840153421",
+      "legacyResourceId": "660840153421",
+      "title": "Por?d i po??g",
+      "productsCount": {
+        "count": 25
+      },
+      "seo": {
+        "title": "Por?d i po??g | MamaPack",
+        "description": "Majtki poporodowe, podpaski poporodowe i podk?ady higieniczne dla mamy na pierwsze dni po porodzie."
+      },
+      "publishedChannels": [
+        "Online Store",
+        "Google & YouTube",
+        "Shop"
+      ],
+      "seoChecks": {
+        "handle_ok": true,
+        "seo_title_ok": true,
+        "seo_description_ok": true,
+        "description_has_text": true,
+        "description_width_style_ok": true,
+        "no_literal_unicode_escape": true,
+        "seo_title_length": 24,
+        "seo_description_length": 99
+      }
+    },
+    {
+      "handle": "karmienie-piersia-i-laktatory",
+      "status": "published_and_verified",
+      "id": "gid://shopify/Collection/660840579405",
+      "legacyResourceId": "660840579405",
+      "title": "Karmienie piersi? i laktatory",
+      "productsCount": {
+        "count": 28
+      },
+      "seo": {
+        "title": "Karmienie piersi? i laktatory | MamaPack",
+        "description": "Laktatory, wk?adki i os?onki laktacyjne, lanolina oraz biustonosze do karmienia dla mamy karmi?cej."
+      },
+      "publishedChannels": [
+        "Online Store",
+        "Google & YouTube",
+        "Shop"
+      ],
+      "seoChecks": {
+        "handle_ok": true,
+        "seo_title_ok": true,
+        "seo_description_ok": true,
+        "description_has_text": true,
+        "description_width_style_ok": true,
+        "no_literal_unicode_escape": true,
+        "seo_title_length": 40,
+        "seo_description_length": 99
+      }
+    },
+    {
+      "handle": "pielegnacja-i-akcesoria-dla-mamy",
+      "status": "published_and_verified",
+      "id": "gid://shopify/Collection/660840939853",
+      "legacyResourceId": "660840939853",
+      "title": "Piel?gnacja i akcesoria dla mamy",
+      "productsCount": {
+        "count": 16
+      },
+      "seo": {
+        "title": "Piel?gnacja i akcesoria dla mamy | MamaPack",
+        "description": "Kosmetyki, akcesoria i produkty papierowe dla mamy do szpitala, podr??y oraz codziennej organizacji po porodzie."
+      },
+      "publishedChannels": [
+        "Online Store",
+        "Google & YouTube",
+        "Shop"
+      ],
+      "seoChecks": {
+        "handle_ok": true,
+        "seo_title_ok": true,
+        "seo_description_ok": true,
+        "description_has_text": true,
+        "description_width_style_ok": true,
+        "no_literal_unicode_escape": true,
+        "seo_title_length": 43,
+        "seo_description_length": 112
+      }
+    }
+  ]
+}

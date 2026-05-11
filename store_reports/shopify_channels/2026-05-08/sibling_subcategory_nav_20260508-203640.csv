@@ -1,0 +1,86 @@
+﻿title,handle,products,changed,context_title,context_handle,button_count
+Dla mamy,dla-mamy,100,False,Dla mamy,dla-mamy,7
+Dla dziecka,dla-dziecka,216,False,Dla dziecka,dla-dziecka,10
+Wyprawka do szpitala dla mamy,wyprawka-do-szpitala-dla-mamy,85,False,Wyprawka do szpitala dla mamy,wyprawka-do-szpitala-dla-mamy,13
+Podkłady higieniczne,podklady-higieniczne,8,True,Poród i połóg,porod-i-polog,4
+Podpaski poporodowe,podpaski-poporodowe,9,True,Poród i połóg,porod-i-polog,4
+Majtki poporodowe,majtki-poporodowe,8,True,Poród i połóg,porod-i-polog,4
+Produkty papierowe,produkty-papierowe,7,True,Higiena intymna,higiena-intymna,3
+Koszule do karmienia,koszule-do-karmienia,10,True,Koszule i szlafroki do karmienia,koszule-i-szlafroki-do-karmienia,3
+Szlafroki dla mamy,szlafroki-dla-mamy,3,True,Koszule i szlafroki do karmienia,koszule-i-szlafroki-do-karmienia,3
+Klapki i skarpetki dla mamy,klapki-i-skarpetki-dla-mamy,7,True,Pielęgnacja i akcesoria dla mamy,pielegnacja-i-akcesoria-dla-mamy,4
+Wkładki laktacyjne,wkladki-laktacyjne,10,True,Karmienie piersią i laktatory,karmienie-piersia-i-laktatory,7
+Osłonki laktacyjne,oslonki-laktacyjne,4,True,Karmienie piersią i laktatory,karmienie-piersia-i-laktatory,7
+Pielęgnacja piersi i lanolina,pielegnacja-piersi-lanolina,8,True,Karmienie piersią i laktatory,karmienie-piersia-i-laktatory,7
+Biustonosze do karmienia,biustonosze-do-karmienia,3,True,Karmienie piersią i laktatory,karmienie-piersia-i-laktatory,7
+Poród i połóg,porod-i-polog,25,False,Poród i połóg,porod-i-polog,4
+Higiena intymna,higiena-intymna,15,False,Higiena intymna,higiena-intymna,3
+Higiena intymna po porodzie,higiena-intymna-po-porodzie,8,True,Higiena intymna,higiena-intymna,3
+Karmienie piersią i laktatory,karmienie-piersia-i-laktatory,29,False,Karmienie piersią i laktatory,karmienie-piersia-i-laktatory,7
+Laktatory,laktatory,3,True,Karmienie piersią i laktatory,karmienie-piersia-i-laktatory,7
+Przechowywanie pokarmu,przechowywanie-pokarmu,2,True,Karmienie piersią i laktatory,karmienie-piersia-i-laktatory,7
+Koszule i szlafroki do karmienia,koszule-i-szlafroki-do-karmienia,13,False,Koszule i szlafroki do karmienia,koszule-i-szlafroki-do-karmienia,3
+Pielęgnacja i akcesoria dla mamy,pielegnacja-i-akcesoria-dla-mamy,16,False,Pielęgnacja i akcesoria dla mamy,pielegnacja-i-akcesoria-dla-mamy,4
+Kosmetyki dla mamy,kosmetyki-dla-mamy,6,True,Pielęgnacja i akcesoria dla mamy,pielegnacja-i-akcesoria-dla-mamy,4
+Akcesoria dla mamy,akcesoria-dla-mam,3,True,Pielęgnacja i akcesoria dla mamy,pielegnacja-i-akcesoria-dla-mamy,4
+Wyprawka dla noworodka,wyprawka-dla-noworodka,208,False,Wyprawka dla noworodka,wyprawka-dla-noworodka,9
+Pieluszki tkaninowe,pieluszki-tkaninowe,21,True,Pielęgnacja i higiena,pielegnacja-i-higiena-dziecka,13
+Pieluszki jednorazowe,pieluszki-jednorazowe,7,True,Pielęgnacja i higiena,pielegnacja-i-higiena-dziecka,13
+Chusteczki nawilżane dla niemowląt,chusteczki-nawilzane-dla-niemowlat,11,True,Pielęgnacja i higiena,pielegnacja-i-higiena-dziecka,13
+Rożki i kocyki dla niemowląt,rozki-i-kocyki-dla-niemowlat,21,True,Sen i pokój,sen-i-pokoj-dziecka,10
+Ręczniki do kąpieli,reczniki-do-kapieli,11,True,Kąpiel dziecka,kapiel-dziecka,6
+Wanienki dla dzieci,wanienki-dla-dzieci,30,True,Kąpiel dziecka,kapiel-dziecka,6
+Pielęgnacja i higiena dziecka,pielegnacja-i-higiena-dziecka,97,False,Pielęgnacja i higiena,pielegnacja-i-higiena-dziecka,13
+Pieluchy i przewijanie,pieluchy-i-przewijanie,44,True,Pielęgnacja i higiena,pielegnacja-i-higiena-dziecka,13
+Płatki i patyczki kosmetyczne,platki-i-patyczki-kosmetyczne,7,True,Pielęgnacja i higiena,pielegnacja-i-higiena-dziecka,13
+Kremy i pudry pod pieluchę,kremy-i-pudry-pod-pieluche,5,True,Pielęgnacja i higiena,pielegnacja-i-higiena-dziecka,13
+"Żele, mydła i szampony dla dzieci",zele-mydla-szampony,8,True,Pielęgnacja i higiena,pielegnacja-i-higiena-dziecka,13
+"Kremy, mleczka i olejki dla dzieci",kremy-mleczka-olejki-dla-dzieci,9,True,Pielęgnacja i higiena,pielegnacja-i-higiena-dziecka,13
+Akcesoria do paznokci dla niemowląt,akcesoria-do-paznokci-dla-niemowlat,10,True,Pielęgnacja i higiena,pielegnacja-i-higiena-dziecka,13
+Szczotki i grzebienie dla niemowląt,szczotki-i-grzebienie-dla-niemowlat,10,True,Pielęgnacja i higiena,pielegnacja-i-higiena-dziecka,13
+Sól fizjologiczna i aspiratory do nosa,sol-fizjologiczna-aspiratory-do-nosa,2,True,Pielęgnacja i higiena,pielegnacja-i-higiena-dziecka,13
+Termometry dla dzieci,termometry-dla-dzieci,7,True,Pielęgnacja i higiena,pielegnacja-i-higiena-dziecka,13
+Kąpiel dziecka,kapiel-dziecka,41,False,Kąpiel dziecka,kapiel-dziecka,6
+Leżaczki i foteliki do kąpieli,lezaczki-i-foteliki-do-kapieli,14,True,Kąpiel dziecka,kapiel-dziecka,6
+Zabawki do kąpieli,zabawki-do-kapieli,0,True,Kąpiel dziecka,kapiel-dziecka,6
+Stojaki do wanienek,stojaki-do-wanienek,0,True,Kąpiel dziecka,kapiel-dziecka,6
+Karmienie dziecka,karmienie-dziecka,50,False,Karmienie dziecka,karmienie-dziecka,9
+Butelki i akcesoria do karmienia,butelki-i-akcesoria-do-karmienia,17,True,Karmienie dziecka,karmienie-dziecka,9
+Smoczki,smoczki,32,True,Karmienie dziecka,karmienie-dziecka,9
+Płyny do mycia smoczków i butelek,plyny-do-mycia-smoczkow-i-butelek,1,True,Karmienie dziecka,karmienie-dziecka,9
+Śliniaki,sliniaki,0,True,Karmienie dziecka,karmienie-dziecka,9
+Podgrzewacze do butelek,podgrzewacze-do-butelek,0,True,Karmienie dziecka,karmienie-dziecka,9
+Krzesełka do karmienia,krzeselka-do-karmienia,0,True,Karmienie dziecka,karmienie-dziecka,9
+Suszarki do butelek,suszarki-do-butelek,0,True,Karmienie dziecka,karmienie-dziecka,9
+Smoczki do butelek,smoczki-do-butelek,0,True,Karmienie dziecka,karmienie-dziecka,9
+Sen i pokój dziecka,sen-i-pokoj-dziecka,21,False,Sen i pokój,sen-i-pokoj-dziecka,10
+Rożki i otulacze dla niemowląt,rozki-i-otulacze-dla-niemowlat,14,True,Sen i pokój,sen-i-pokoj-dziecka,10
+Rożki na wyjście ze szpitala,rozki-na-wyjscie-ze-szpitala,14,True,Sen i pokój,sen-i-pokoj-dziecka,10
+Pościel niemowlęca,posciel-niemowleca,0,True,Sen i pokój,sen-i-pokoj-dziecka,10
+Materace,materace,0,True,Sen i pokój,sen-i-pokoj-dziecka,10
+Łóżeczka niemowlęce,lozeczka-niemowlece,0,True,Sen i pokój,sen-i-pokoj-dziecka,10
+Łóżeczka dostawne,lozeczka-dostawne,0,True,Sen i pokój,sen-i-pokoj-dziecka,10
+Komody i przewijaki,komody-i-przewijaki,0,True,Sen i pokój,sen-i-pokoj-dziecka,10
+Lampki i projektory,lampki-i-projektory,0,True,Sen i pokój,sen-i-pokoj-dziecka,10
+Spacer i podróż,spacer-i-podroz,0,False,Spacer i podróż,spacer-i-podroz,6
+Wózki dziecięce,wozki-dzieciece,0,True,Spacer i podróż,spacer-i-podroz,6
+Spacerówki,spacerowki,0,True,Spacer i podróż,spacer-i-podroz,6
+Foteliki samochodowe,foteliki-samochodowe,0,True,Spacer i podróż,spacer-i-podroz,6
+Akcesoria do wózków,akcesoria-do-wozkow,0,True,Spacer i podróż,spacer-i-podroz,6
+Nosidła i chusty,nosidla-i-chusty,0,True,Spacer i podróż,spacer-i-podroz,6
+Bezpieczeństwo dziecka,bezpieczenstwo-dziecka,11,False,Bezpieczeństwo,bezpieczenstwo-dziecka,6
+Zabezpieczenia domu,zabezpieczenia-domu,8,True,Bezpieczeństwo,bezpieczenstwo-dziecka,6
+Bramki ochronne,bramki-ochronne,0,True,Bezpieczeństwo,bezpieczenstwo-dziecka,6
+Barierki do łóżka,barierki-do-lozka,0,True,Bezpieczeństwo,bezpieczenstwo-dziecka,6
+Szelki do nauki chodzenia,szelki-do-nauki-chodzenia,0,True,Bezpieczeństwo,bezpieczenstwo-dziecka,6
+Bezpieczeństwo w podróży,bezpieczenstwo-w-podrozy,0,True,Bezpieczeństwo,bezpieczenstwo-dziecka,6
+Elektronika dziecka,elektronika-dziecka,7,False,Elektronika,elektronika-dziecka,5
+Nianie wideo,nianie-wideo,0,True,Elektronika,elektronika-dziecka,5
+Termometry elektroniczne,termometry-elektroniczne,1,True,Elektronika,elektronika-dziecka,5
+Wagi dla niemowląt,wagi-dla-niemowlat,0,True,Elektronika,elektronika-dziecka,5
+Inhalatory,inhalatory,0,True,Elektronika,elektronika-dziecka,5
+Zabawa i rozwój,zabawa-i-rozwoj,1,False,Zabawa i rozwój,zabawa-i-rozwoj,5
+Gryzaki,gryzaki,0,True,Zabawa i rozwój,zabawa-i-rozwoj,5
+Zabawki,zabawki,0,True,Zabawa i rozwój,zabawa-i-rozwoj,5
+Maty edukacyjne,maty-edukacyjne,1,True,Zabawa i rozwój,zabawa-i-rozwoj,5
+Pluszaki,pluszaki,0,True,Zabawa i rozwój,zabawa-i-rozwoj,5

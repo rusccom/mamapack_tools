@@ -1,0 +1,467 @@
+{
+  "createdAt": "2026-05-01T19:14:56.303294",
+  "categoryId": 7547654,
+  "inventoryId": 43540,
+  "shopifyStorageId": "shop_5022274",
+  "shopifyCollection": {
+    "id": "gid://shopify/Collection/660457816397",
+    "title": "Wanienki",
+    "handle": "wanienki"
+  },
+  "productCount": 16,
+  "variantSkuCount": 44,
+  "products": [
+    {
+      "title": "Tega Baby Wanienka Monsters z odpływem 102 cm",
+      "shopifyProductId": "gid://shopify/Product/10644511228237",
+      "shopifyLegacyResourceId": 10644511228237,
+      "baselinkerProductId": "584232154",
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "5906224",
+          "barcode": "5902963004611",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53812106232141",
+          "shopifyVariantLegacyResourceId": 53812106232141
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Wanienka Monsters z odpływem 86 cm",
+      "shopifyProductId": "gid://shopify/Product/10644511195469",
+      "shopifyLegacyResourceId": 10644511195469,
+      "baselinkerProductId": "584232163",
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "5906227",
+          "barcode": "5902963004581",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53812106199373",
+          "shopifyVariantLegacyResourceId": 53812106199373
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Wanienka składana z odpływem standard",
+      "shopifyProductId": "gid://shopify/Product/10644509720909",
+      "shopifyLegacyResourceId": 10644509720909,
+      "baselinkerProductId": "584232170",
+      "optionName": "Kolor",
+      "variants": [
+        {
+          "sku": "5914538",
+          "barcode": "5905489408949",
+          "optionValue": "beżowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53812104593741",
+          "shopifyVariantLegacyResourceId": 53812104593741
+        },
+        {
+          "sku": "5914539",
+          "barcode": "5905489408932",
+          "optionValue": "jasny niebieski",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816003395917",
+          "shopifyVariantLegacyResourceId": 53816003395917
+        },
+        {
+          "sku": "5914540",
+          "barcode": "5905489408956",
+          "optionValue": "jasny różowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816003428685",
+          "shopifyVariantLegacyResourceId": 53816003428685
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 102 cm",
+      "shopifyProductId": "gid://shopify/Product/10644509622605",
+      "shopifyLegacyResourceId": 10644509622605,
+      "baselinkerProductId": "584232199",
+      "optionName": "Wzór",
+      "variants": [
+        {
+          "sku": "779256",
+          "barcode": "5902963001382",
+          "optionValue": "Jelonek",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53812104462669",
+          "shopifyVariantLegacyResourceId": 53812104462669
+        },
+        {
+          "sku": "779244",
+          "barcode": "5902963001399",
+          "optionValue": "Słonik",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816003297613",
+          "shopifyVariantLegacyResourceId": 53816003297613
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 86 cm",
+      "shopifyProductId": "gid://shopify/Product/10644509393229",
+      "shopifyLegacyResourceId": 10644509393229,
+      "baselinkerProductId": "584232216",
+      "optionName": "Wzór",
+      "variants": [
+        {
+          "sku": "779257",
+          "barcode": "5902963001344",
+          "optionValue": "Jelonek",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53812104233293",
+          "shopifyVariantLegacyResourceId": 53812104233293
+        },
+        {
+          "sku": "779245",
+          "barcode": "5902963001351",
+          "optionValue": "Słonik",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816003232077",
+          "shopifyVariantLegacyResourceId": 53816003232077
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód z odpływem 86 cm",
+      "shopifyProductId": "gid://shopify/Product/10644509524301",
+      "shopifyLegacyResourceId": 10644509524301,
+      "baselinkerProductId": "584232220",
+      "optionName": "Wzór",
+      "variants": [
+        {
+          "sku": "779258",
+          "barcode": "5902963001368",
+          "optionValue": "Jelonek",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53812104331597",
+          "shopifyVariantLegacyResourceId": 53812104331597
+        },
+        {
+          "sku": "779246",
+          "barcode": "5902963001375",
+          "optionValue": "Słonik",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816003330381",
+          "shopifyVariantLegacyResourceId": 53816003330381
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Wanna dziecięca Kaczka 102 cm",
+      "shopifyProductId": "gid://shopify/Product/10644509065549",
+      "shopifyLegacyResourceId": 10644509065549,
+      "baselinkerProductId": "584232230",
+      "optionName": "Kolor",
+      "variants": [
+        {
+          "sku": "772187",
+          "barcode": "5902963071682",
+          "optionValue": "jasny szary",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53812103905613",
+          "shopifyVariantLegacyResourceId": 53812103905613
+        },
+        {
+          "sku": "771957",
+          "barcode": "5902963071668",
+          "optionValue": "jasny niebieski",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002380109",
+          "shopifyVariantLegacyResourceId": 53816002380109
+        },
+        {
+          "sku": "772044",
+          "barcode": "5902963071699",
+          "optionValue": "jasny różowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002412877",
+          "shopifyVariantLegacyResourceId": 53816002412877
+        },
+        {
+          "sku": "772045",
+          "barcode": "5902963071705",
+          "optionValue": "jasny zielony",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002445645",
+          "shopifyVariantLegacyResourceId": 53816002445645
+        },
+        {
+          "sku": "772046",
+          "barcode": "5902963071712",
+          "optionValue": "jasny żółty",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002478413",
+          "shopifyVariantLegacyResourceId": 53816002478413
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Wanna dziecięca Kaczka 86 cm",
+      "shopifyProductId": "gid://shopify/Product/10644508737869",
+      "shopifyLegacyResourceId": 10644508737869,
+      "baselinkerProductId": "584232277",
+      "optionName": "Kolor",
+      "variants": [
+        {
+          "sku": "772185",
+          "barcode": "5902963071774",
+          "optionValue": "jasny szary",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53812103577933",
+          "shopifyVariantLegacyResourceId": 53812103577933
+        },
+        {
+          "sku": "771956",
+          "barcode": "5902963071767",
+          "optionValue": "jasny niebieski",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002249037",
+          "shopifyVariantLegacyResourceId": 53816002249037
+        },
+        {
+          "sku": "772049",
+          "barcode": "5902963071750",
+          "optionValue": "jasny różowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002281805",
+          "shopifyVariantLegacyResourceId": 53816002281805
+        },
+        {
+          "sku": "772050",
+          "barcode": "5902963071743",
+          "optionValue": "jasny zielony",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002314573",
+          "shopifyVariantLegacyResourceId": 53816002314573
+        },
+        {
+          "sku": "772051",
+          "barcode": "5902963071736",
+          "optionValue": "jasny żółty",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002347341",
+          "shopifyVariantLegacyResourceId": 53816002347341
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 102 cm",
+      "shopifyProductId": "gid://shopify/Product/10644510671181",
+      "shopifyLegacyResourceId": 10644510671181,
+      "baselinkerProductId": "584232316",
+      "optionName": "Kolor",
+      "variants": [
+        {
+          "sku": "762788",
+          "barcode": "5902963008084",
+          "optionValue": "biały",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53812105675085",
+          "shopifyVariantLegacyResourceId": 53812105675085
+        },
+        {
+          "sku": "791380",
+          "barcode": "5902963008091",
+          "optionValue": "jasny różowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002937165",
+          "shopifyVariantLegacyResourceId": 53816002937165
+        },
+        {
+          "sku": "791381",
+          "barcode": "5902963008107",
+          "optionValue": "jasny zielony",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002969933",
+          "shopifyVariantLegacyResourceId": 53816002969933
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 86 cm",
+      "shopifyProductId": "gid://shopify/Product/10644510540109",
+      "shopifyLegacyResourceId": 10644510540109,
+      "baselinkerProductId": "584232338",
+      "optionName": "Kolor",
+      "variants": [
+        {
+          "sku": "762787",
+          "barcode": "5902963008053",
+          "optionValue": "biały",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53812105544013",
+          "shopifyVariantLegacyResourceId": 53812105544013
+        },
+        {
+          "sku": "788737",
+          "barcode": "5902963008077",
+          "optionValue": "jasny zielony",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002871629",
+          "shopifyVariantLegacyResourceId": 53816002871629
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 102 cm",
+      "shopifyProductId": "gid://shopify/Product/10644510441805",
+      "shopifyLegacyResourceId": 10644510441805,
+      "baselinkerProductId": "584232376",
+      "optionName": "Kolor",
+      "variants": [
+        {
+          "sku": "772413",
+          "barcode": "5902963071965",
+          "optionValue": "jasny beżowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53812105445709",
+          "shopifyVariantLegacyResourceId": 53812105445709
+        },
+        {
+          "sku": "772414",
+          "barcode": "5902963071989",
+          "optionValue": "jasny niebieski",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002707789",
+          "shopifyVariantLegacyResourceId": 53816002707789
+        },
+        {
+          "sku": "772415",
+          "barcode": "5902963071996",
+          "optionValue": "jasny różowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002740557",
+          "shopifyVariantLegacyResourceId": 53816002740557
+        },
+        {
+          "sku": "772416",
+          "barcode": "5902963071958",
+          "optionValue": "jasny zielony",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002773325",
+          "shopifyVariantLegacyResourceId": 53816002773325
+        },
+        {
+          "sku": "772417",
+          "barcode": "5902963071972",
+          "optionValue": "jasny żółty",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002806093",
+          "shopifyVariantLegacyResourceId": 53816002806093
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 86 cm",
+      "shopifyProductId": "gid://shopify/Product/10644510146893",
+      "shopifyLegacyResourceId": 10644510146893,
+      "baselinkerProductId": "584232451",
+      "optionName": "Kolor",
+      "variants": [
+        {
+          "sku": "772418",
+          "barcode": "5902963015006",
+          "optionValue": "jasny beżowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53812105150797",
+          "shopifyVariantLegacyResourceId": 53812105150797
+        },
+        {
+          "sku": "772419",
+          "barcode": "5902963015020",
+          "optionValue": "jasny niebieski",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002543949",
+          "shopifyVariantLegacyResourceId": 53816002543949
+        },
+        {
+          "sku": "772420",
+          "barcode": "5902963015037",
+          "optionValue": "jasny różowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002576717",
+          "shopifyVariantLegacyResourceId": 53816002576717
+        },
+        {
+          "sku": "772421",
+          "barcode": "5902963014993",
+          "optionValue": "jasny zielony",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002609485",
+          "shopifyVariantLegacyResourceId": 53816002609485
+        },
+        {
+          "sku": "772422",
+          "barcode": "5902963015013",
+          "optionValue": "jasny żółty",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816002642253",
+          "shopifyVariantLegacyResourceId": 53816002642253
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 102 cm",
+      "shopifyProductId": "gid://shopify/Product/10644511064397",
+      "shopifyLegacyResourceId": 10644511064397,
+      "baselinkerProductId": "584232497",
+      "optionName": "Kolor",
+      "variants": [
+        {
+          "sku": "786676",
+          "barcode": "5902963002501",
+          "optionValue": "granatowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53812106068301",
+          "shopifyVariantLegacyResourceId": 53812106068301
+        },
+        {
+          "sku": "786678",
+          "barcode": "5902963002518",
+          "optionValue": "turkusowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816003101005",
+          "shopifyVariantLegacyResourceId": 53816003101005
+        },
+        {
+          "sku": "786679",
+          "barcode": "5902963002495",
+          "optionValue": "różowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816003133773",
+          "shopifyVariantLegacyResourceId": 53816003133773
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 86 cm",
+      "shopifyProductId": "gid://shopify/Product/10644510900557",
+      "shopifyLegacyResourceId": 10644510900557,
+      "baselinkerProductId": "584232519",
+      "optionName": "Kolor",
+      "variants": [
+        {
+          "sku": "786680",
+          "barcode": "5902963002464",
+          "optionValue": "granatowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53812105904461",
+          "shopifyVariantLegacyResourceId": 53812105904461
+        },
+        {
+          "sku": "786683",
+          "barcode": "5902963002471",
+          "optionValue": "turkusowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816003002701",
+          "shopifyVariantLegacyResourceId": 53816003002701
+        },
+        {
+          "sku": "786682",
+          "barcode": "5902963002457",
+          "optionValue": "różowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53816003035469",
+          "shopifyVariantLegacyResourceId": 53816003035469
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Wanna dziecięca Miś 102 cm",
+      "shopifyProductId": "gid://shopify/Product/10644511359309",
+      "shopifyLegacyResourceId": 10644511359309,
+      "baselinkerProductId": "584232541",
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "771546",
+          "barcode": "5902963008794",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53812106363213",
+          "shopifyVariantLegacyResourceId": 53812106363213
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Wanna dziecięca Miś 86 cm",
+      "shopifyProductId": "gid://shopify/Product/10644511293773",
+      "shopifyLegacyResourceId": 10644511293773,
+      "baselinkerProductId": "584232546",
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "10953",
+          "barcode": "",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53812106297677",
+          "shopifyVariantLegacyResourceId": 53812106297677
+        }
+      ]
+    }
+  ]
+}

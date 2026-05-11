@@ -1,0 +1,617 @@
+{
+  "updated": [
+    {
+      "title": "Podkłady higieniczne",
+      "handle": "podklady-higieniczne",
+      "products": 8,
+      "show_all_target": "Poród i połóg",
+      "show_all_url": "/collections/porod-i-polog",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Podpaski poporodowe",
+      "handle": "podpaski-poporodowe",
+      "products": 9,
+      "show_all_target": "Poród i połóg",
+      "show_all_url": "/collections/porod-i-polog",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Majtki poporodowe",
+      "handle": "majtki-poporodowe",
+      "products": 8,
+      "show_all_target": "Poród i połóg",
+      "show_all_url": "/collections/porod-i-polog",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Produkty papierowe",
+      "handle": "produkty-papierowe",
+      "products": 7,
+      "show_all_target": "Higiena intymna",
+      "show_all_url": "/collections/higiena-intymna",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Koszule do karmienia",
+      "handle": "koszule-do-karmienia",
+      "products": 10,
+      "show_all_target": "Koszule i szlafroki do karmienia",
+      "show_all_url": "/collections/koszule-i-szlafroki-do-karmienia",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Szlafroki dla mamy",
+      "handle": "szlafroki-dla-mamy",
+      "products": 3,
+      "show_all_target": "Koszule i szlafroki do karmienia",
+      "show_all_url": "/collections/koszule-i-szlafroki-do-karmienia",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Klapki i skarpetki dla mamy",
+      "handle": "klapki-i-skarpetki-dla-mamy",
+      "products": 7,
+      "show_all_target": "Pielęgnacja i akcesoria dla mamy",
+      "show_all_url": "/collections/pielegnacja-i-akcesoria-dla-mamy",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Wkładki laktacyjne",
+      "handle": "wkladki-laktacyjne",
+      "products": 10,
+      "show_all_target": "Karmienie piersią i laktatory",
+      "show_all_url": "/collections/karmienie-piersia-i-laktatory",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Osłonki laktacyjne",
+      "handle": "oslonki-laktacyjne",
+      "products": 4,
+      "show_all_target": "Karmienie piersią i laktatory",
+      "show_all_url": "/collections/karmienie-piersia-i-laktatory",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Pielęgnacja piersi i lanolina",
+      "handle": "pielegnacja-piersi-lanolina",
+      "products": 8,
+      "show_all_target": "Karmienie piersią i laktatory",
+      "show_all_url": "/collections/karmienie-piersia-i-laktatory",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Biustonosze do karmienia",
+      "handle": "biustonosze-do-karmienia",
+      "products": 3,
+      "show_all_target": "Karmienie piersią i laktatory",
+      "show_all_url": "/collections/karmienie-piersia-i-laktatory",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Higiena intymna po porodzie",
+      "handle": "higiena-intymna-po-porodzie",
+      "products": 8,
+      "show_all_target": "Higiena intymna",
+      "show_all_url": "/collections/higiena-intymna",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Laktatory",
+      "handle": "laktatory",
+      "products": 3,
+      "show_all_target": "Karmienie piersią i laktatory",
+      "show_all_url": "/collections/karmienie-piersia-i-laktatory",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Przechowywanie pokarmu",
+      "handle": "przechowywanie-pokarmu",
+      "products": 2,
+      "show_all_target": "Karmienie piersią i laktatory",
+      "show_all_url": "/collections/karmienie-piersia-i-laktatory",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Kosmetyki dla mamy",
+      "handle": "kosmetyki-dla-mamy",
+      "products": 6,
+      "show_all_target": "Pielęgnacja i akcesoria dla mamy",
+      "show_all_url": "/collections/pielegnacja-i-akcesoria-dla-mamy",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Akcesoria dla mamy",
+      "handle": "akcesoria-dla-mam",
+      "products": 3,
+      "show_all_target": "Pielęgnacja i akcesoria dla mamy",
+      "show_all_url": "/collections/pielegnacja-i-akcesoria-dla-mamy",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Pieluszki tkaninowe",
+      "handle": "pieluszki-tkaninowe",
+      "products": 21,
+      "show_all_target": "Pielęgnacja i higiena",
+      "show_all_url": "/collections/pielegnacja-i-higiena-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Pieluszki jednorazowe",
+      "handle": "pieluszki-jednorazowe",
+      "products": 7,
+      "show_all_target": "Pielęgnacja i higiena",
+      "show_all_url": "/collections/pielegnacja-i-higiena-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Chusteczki nawilżane dla niemowląt",
+      "handle": "chusteczki-nawilzane-dla-niemowlat",
+      "products": 11,
+      "show_all_target": "Pielęgnacja i higiena",
+      "show_all_url": "/collections/pielegnacja-i-higiena-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Rożki i kocyki dla niemowląt",
+      "handle": "rozki-i-kocyki-dla-niemowlat",
+      "products": 21,
+      "show_all_target": "Sen i pokój",
+      "show_all_url": "/collections/sen-i-pokoj-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Ręczniki do kąpieli",
+      "handle": "reczniki-do-kapieli",
+      "products": 11,
+      "show_all_target": "Kąpiel dziecka",
+      "show_all_url": "/collections/kapiel-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Wanienki dla dzieci",
+      "handle": "wanienki-dla-dzieci",
+      "products": 30,
+      "show_all_target": "Kąpiel dziecka",
+      "show_all_url": "/collections/kapiel-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Pieluchy i przewijanie",
+      "handle": "pieluchy-i-przewijanie",
+      "products": 44,
+      "show_all_target": "Pielęgnacja i higiena",
+      "show_all_url": "/collections/pielegnacja-i-higiena-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Płatki i patyczki kosmetyczne",
+      "handle": "platki-i-patyczki-kosmetyczne",
+      "products": 7,
+      "show_all_target": "Pielęgnacja i higiena",
+      "show_all_url": "/collections/pielegnacja-i-higiena-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Kremy i pudry pod pieluchę",
+      "handle": "kremy-i-pudry-pod-pieluche",
+      "products": 5,
+      "show_all_target": "Pielęgnacja i higiena",
+      "show_all_url": "/collections/pielegnacja-i-higiena-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Żele, mydła i szampony dla dzieci",
+      "handle": "zele-mydla-szampony",
+      "products": 8,
+      "show_all_target": "Pielęgnacja i higiena",
+      "show_all_url": "/collections/pielegnacja-i-higiena-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Kremy, mleczka i olejki dla dzieci",
+      "handle": "kremy-mleczka-olejki-dla-dzieci",
+      "products": 9,
+      "show_all_target": "Pielęgnacja i higiena",
+      "show_all_url": "/collections/pielegnacja-i-higiena-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Akcesoria do paznokci dla niemowląt",
+      "handle": "akcesoria-do-paznokci-dla-niemowlat",
+      "products": 10,
+      "show_all_target": "Pielęgnacja i higiena",
+      "show_all_url": "/collections/pielegnacja-i-higiena-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Szczotki i grzebienie dla niemowląt",
+      "handle": "szczotki-i-grzebienie-dla-niemowlat",
+      "products": 10,
+      "show_all_target": "Pielęgnacja i higiena",
+      "show_all_url": "/collections/pielegnacja-i-higiena-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Sól fizjologiczna i aspiratory do nosa",
+      "handle": "sol-fizjologiczna-aspiratory-do-nosa",
+      "products": 2,
+      "show_all_target": "Pielęgnacja i higiena",
+      "show_all_url": "/collections/pielegnacja-i-higiena-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Termometry dla dzieci",
+      "handle": "termometry-dla-dzieci",
+      "products": 7,
+      "show_all_target": "Pielęgnacja i higiena",
+      "show_all_url": "/collections/pielegnacja-i-higiena-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Leżaczki i foteliki do kąpieli",
+      "handle": "lezaczki-i-foteliki-do-kapieli",
+      "products": 14,
+      "show_all_target": "Kąpiel dziecka",
+      "show_all_url": "/collections/kapiel-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Zabawki do kąpieli",
+      "handle": "zabawki-do-kapieli",
+      "products": 0,
+      "show_all_target": "Kąpiel dziecka",
+      "show_all_url": "/collections/kapiel-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Stojaki do wanienek",
+      "handle": "stojaki-do-wanienek",
+      "products": 0,
+      "show_all_target": "Kąpiel dziecka",
+      "show_all_url": "/collections/kapiel-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Butelki i akcesoria do karmienia",
+      "handle": "butelki-i-akcesoria-do-karmienia",
+      "products": 17,
+      "show_all_target": "Karmienie dziecka",
+      "show_all_url": "/collections/karmienie-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Smoczki",
+      "handle": "smoczki",
+      "products": 32,
+      "show_all_target": "Karmienie dziecka",
+      "show_all_url": "/collections/karmienie-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Płyny do mycia smoczków i butelek",
+      "handle": "plyny-do-mycia-smoczkow-i-butelek",
+      "products": 1,
+      "show_all_target": "Karmienie dziecka",
+      "show_all_url": "/collections/karmienie-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Śliniaki",
+      "handle": "sliniaki",
+      "products": 0,
+      "show_all_target": "Karmienie dziecka",
+      "show_all_url": "/collections/karmienie-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Podgrzewacze do butelek",
+      "handle": "podgrzewacze-do-butelek",
+      "products": 0,
+      "show_all_target": "Karmienie dziecka",
+      "show_all_url": "/collections/karmienie-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Krzesełka do karmienia",
+      "handle": "krzeselka-do-karmienia",
+      "products": 0,
+      "show_all_target": "Karmienie dziecka",
+      "show_all_url": "/collections/karmienie-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Suszarki do butelek",
+      "handle": "suszarki-do-butelek",
+      "products": 0,
+      "show_all_target": "Karmienie dziecka",
+      "show_all_url": "/collections/karmienie-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Smoczki do butelek",
+      "handle": "smoczki-do-butelek",
+      "products": 0,
+      "show_all_target": "Karmienie dziecka",
+      "show_all_url": "/collections/karmienie-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Rożki i otulacze dla niemowląt",
+      "handle": "rozki-i-otulacze-dla-niemowlat",
+      "products": 14,
+      "show_all_target": "Sen i pokój",
+      "show_all_url": "/collections/sen-i-pokoj-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Rożki na wyjście ze szpitala",
+      "handle": "rozki-na-wyjscie-ze-szpitala",
+      "products": 14,
+      "show_all_target": "Sen i pokój",
+      "show_all_url": "/collections/sen-i-pokoj-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Pościel niemowlęca",
+      "handle": "posciel-niemowleca",
+      "products": 0,
+      "show_all_target": "Sen i pokój",
+      "show_all_url": "/collections/sen-i-pokoj-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Materace",
+      "handle": "materace",
+      "products": 0,
+      "show_all_target": "Sen i pokój",
+      "show_all_url": "/collections/sen-i-pokoj-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Łóżeczka niemowlęce",
+      "handle": "lozeczka-niemowlece",
+      "products": 0,
+      "show_all_target": "Sen i pokój",
+      "show_all_url": "/collections/sen-i-pokoj-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Łóżeczka dostawne",
+      "handle": "lozeczka-dostawne",
+      "products": 0,
+      "show_all_target": "Sen i pokój",
+      "show_all_url": "/collections/sen-i-pokoj-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Komody i przewijaki",
+      "handle": "komody-i-przewijaki",
+      "products": 0,
+      "show_all_target": "Sen i pokój",
+      "show_all_url": "/collections/sen-i-pokoj-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Lampki i projektory",
+      "handle": "lampki-i-projektory",
+      "products": 0,
+      "show_all_target": "Sen i pokój",
+      "show_all_url": "/collections/sen-i-pokoj-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Wózki dziecięce",
+      "handle": "wozki-dzieciece",
+      "products": 0,
+      "show_all_target": "Spacer i podróż",
+      "show_all_url": "/collections/spacer-i-podroz",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Spacerówki",
+      "handle": "spacerowki",
+      "products": 0,
+      "show_all_target": "Spacer i podróż",
+      "show_all_url": "/collections/spacer-i-podroz",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Foteliki samochodowe",
+      "handle": "foteliki-samochodowe",
+      "products": 0,
+      "show_all_target": "Spacer i podróż",
+      "show_all_url": "/collections/spacer-i-podroz",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Akcesoria do wózków",
+      "handle": "akcesoria-do-wozkow",
+      "products": 0,
+      "show_all_target": "Spacer i podróż",
+      "show_all_url": "/collections/spacer-i-podroz",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Nosidła i chusty",
+      "handle": "nosidla-i-chusty",
+      "products": 0,
+      "show_all_target": "Spacer i podróż",
+      "show_all_url": "/collections/spacer-i-podroz",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Zabezpieczenia domu",
+      "handle": "zabezpieczenia-domu",
+      "products": 8,
+      "show_all_target": "Bezpieczeństwo",
+      "show_all_url": "/collections/bezpieczenstwo-dziecka",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Bramki ochronne",
+      "handle": "bramki-ochronne",
+      "products": 0,
+      "show_all_target": "Bezpieczeństwo",
+      "show_all_url": "/collections/bezpieczenstwo-dziecka",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Barierki do łóżka",
+      "handle": "barierki-do-lozka",
+      "products": 0,
+      "show_all_target": "Bezpieczeństwo",
+      "show_all_url": "/collections/bezpieczenstwo-dziecka",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Szelki do nauki chodzenia",
+      "handle": "szelki-do-nauki-chodzenia",
+      "products": 0,
+      "show_all_target": "Bezpieczeństwo",
+      "show_all_url": "/collections/bezpieczenstwo-dziecka",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Bezpieczeństwo w podróży",
+      "handle": "bezpieczenstwo-w-podrozy",
+      "products": 0,
+      "show_all_target": "Bezpieczeństwo",
+      "show_all_url": "/collections/bezpieczenstwo-dziecka",
+      "changed": true,
+      "missing": false
+    },
+    {
+      "title": "Nianie wideo",
+      "handle": "nianie-wideo",
+      "products": 0,
+      "show_all_target": "Elektronika",
+      "show_all_url": "/collections/elektronika-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Termometry elektroniczne",
+      "handle": "termometry-elektroniczne",
+      "products": 1,
+      "show_all_target": "Elektronika",
+      "show_all_url": "/collections/elektronika-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Wagi dla niemowląt",
+      "handle": "wagi-dla-niemowlat",
+      "products": 0,
+      "show_all_target": "Elektronika",
+      "show_all_url": "/collections/elektronika-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Inhalatory",
+      "handle": "inhalatory",
+      "products": 0,
+      "show_all_target": "Elektronika",
+      "show_all_url": "/collections/elektronika-dziecka",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Gryzaki",
+      "handle": "gryzaki",
+      "products": 0,
+      "show_all_target": "Zabawa i rozwój",
+      "show_all_url": "/collections/zabawa-i-rozwoj",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Zabawki",
+      "handle": "zabawki",
+      "products": 0,
+      "show_all_target": "Zabawa i rozwój",
+      "show_all_url": "/collections/zabawa-i-rozwoj",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Maty edukacyjne",
+      "handle": "maty-edukacyjne",
+      "products": 1,
+      "show_all_target": "Zabawa i rozwój",
+      "show_all_url": "/collections/zabawa-i-rozwoj",
+      "changed": false,
+      "missing": false
+    },
+    {
+      "title": "Pluszaki",
+      "handle": "pluszaki",
+      "products": 0,
+      "show_all_target": "Zabawa i rozwój",
+      "show_all_url": "/collections/zabawa-i-rozwoj",
+      "changed": false,
+      "missing": false
+    }
+  ],
+  "source_report": "store_reports\\shopify_channels\\2026-05-08\\sibling_subcategory_nav_20260508-203640.json"
+}

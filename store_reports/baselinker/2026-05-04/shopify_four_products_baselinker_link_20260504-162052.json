@@ -1,0 +1,362 @@
+{
+  "created_at": "20260504-162052",
+  "inventory_id": 43540,
+  "shopify_storage_id": "shop_5022274",
+  "price_group_id": 22945,
+  "existing_before": {},
+  "created": [
+    {
+      "handle": "pikowana-torba-dla-mamy-i-niemowlecia-z-kieszeniami-mleczna-w-kwiaty",
+      "category_id": 2920341,
+      "category_name": "Torebki",
+      "baselinker_id": "585934315",
+      "shopify": {
+        "id": "gid://shopify/Product/10648635801933",
+        "legacyResourceId": "10648635801933",
+        "title": "Pikowana torba dla mamy i niemowlęcia z kieszeniami - mleczna w kwiaty",
+        "handle": "pikowana-torba-dla-mamy-i-niemowlecia-z-kieszeniami-mleczna-w-kwiaty",
+        "status": "ACTIVE",
+        "variants": [
+          {
+            "id": "gid://shopify/ProductVariant/53830702530893",
+            "legacyResourceId": "53830702530893",
+            "title": "Default Title",
+            "sku": "MP-TP-KWI-MLE",
+            "barcode": null,
+            "price": "119.00"
+          }
+        ],
+        "media_count": 2
+      }
+    },
+    {
+      "handle": "canpol-78-026-jednorazowe-splukiwalne-nakladki-na-toalete-10-szt-copy",
+      "category_id": 2920335,
+      "category_name": "Dla mamy",
+      "baselinker_id": "585934326",
+      "shopify": {
+        "id": "gid://shopify/Product/10646557327693",
+        "legacyResourceId": "10646557327693",
+        "title": "Canpol 78/025 - Jednorazowe RĘCZNIKI – ZESTAW 2 szt.  - (140×70 cm + 70×30 cm)",
+        "handle": "canpol-78-026-jednorazowe-splukiwalne-nakladki-na-toalete-10-szt-copy",
+        "status": "ACTIVE",
+        "variants": [
+          {
+            "id": "gid://shopify/ProductVariant/53821536567629",
+            "legacyResourceId": "53821536567629",
+            "title": "Default Title",
+            "sku": "5903407367279",
+            "barcode": "5903407367279",
+            "price": "12.99"
+          }
+        ],
+        "media_count": 6
+      }
+    },
+    {
+      "handle": "jednorazowe-nakladki-na-toalete-biodegradowalne-podkladki-6-szt-copy",
+      "category_id": 2920335,
+      "category_name": "Dla mamy",
+      "baselinker_id": "585934335",
+      "shopify": {
+        "id": "gid://shopify/Product/10646532718925",
+        "legacyResourceId": "10646532718925",
+        "title": "Canpol 78/026 - Jednorazowe spłukiwalne nakładki na toaletę - (10 szt. )",
+        "handle": "jednorazowe-nakladki-na-toalete-biodegradowalne-podkladki-6-szt-copy",
+        "status": "ACTIVE",
+        "variants": [
+          {
+            "id": "gid://shopify/ProductVariant/53821503111501",
+            "legacyResourceId": "53821503111501",
+            "title": "Default Title",
+            "sku": "5903407367286",
+            "barcode": "5903407367286",
+            "price": "6.99"
+          }
+        ],
+        "media_count": 4
+      }
+    },
+    {
+      "handle": "avent-zestaw-butelka-dla-niemowlat-125ml-smoczek-uspokajajacy-0-m-dla-chlopca-copy",
+      "category_id": 2920337,
+      "category_name": "Butelki ze smoczkiem",
+      "baselinker_id": "585934344",
+      "shopify": {
+        "id": "gid://shopify/Product/10646497755469",
+        "legacyResourceId": "10646497755469",
+        "title": "LOVI Love Mummy ZESTAW dla niemowląt: BUTELKA 150 ml + SMOCZEK uspokajający (0+",
+        "handle": "avent-zestaw-butelka-dla-niemowlat-125ml-smoczek-uspokajajacy-0-m-dla-chlopca-copy",
+        "status": "ACTIVE",
+        "variants": [
+          {
+            "id": "gid://shopify/ProductVariant/53821433020749",
+            "legacyResourceId": "53821433020749",
+            "title": "Default Title",
+            "sku": "5909037",
+            "barcode": "5901691805286",
+            "price": "49.99"
+          }
+        ],
+        "media_count": 4
+      }
+    }
+  ],
+  "verification": {
+    "all_ok": true,
+    "checks": [
+      {
+        "title": "Pikowana torba dla mamy i niemowlęcia z kieszeniami - mleczna w kwiaty",
+        "sku": "MP-TP-KWI-MLE",
+        "baselinker_id": "585934315",
+        "category_id": 2920341,
+        "expected_category_id": 2920341,
+        "shopify_product_id_ok": true,
+        "shopify_variant_id_ok": true,
+        "price_ok": true,
+        "image_count": 2,
+        "link": {
+          "product_id": "10648635801933",
+          "variant_id": "53830702530893"
+        }
+      },
+      {
+        "title": "Canpol 78/025 - Jednorazowe RĘCZNIKI – ZESTAW 2 szt.  - (140×70 cm + 70×30 cm)",
+        "sku": "5903407367279",
+        "baselinker_id": "585934326",
+        "category_id": 2920335,
+        "expected_category_id": 2920335,
+        "shopify_product_id_ok": true,
+        "shopify_variant_id_ok": true,
+        "price_ok": true,
+        "image_count": 6,
+        "link": {
+          "product_id": "10646557327693",
+          "variant_id": "53821536567629"
+        }
+      },
+      {
+        "title": "Canpol 78/026 - Jednorazowe spłukiwalne nakładki na toaletę - (10 szt. )",
+        "sku": "5903407367286",
+        "baselinker_id": "585934335",
+        "category_id": 2920335,
+        "expected_category_id": 2920335,
+        "shopify_product_id_ok": true,
+        "shopify_variant_id_ok": true,
+        "price_ok": true,
+        "image_count": 4,
+        "link": {
+          "product_id": "10646532718925",
+          "variant_id": "53821503111501"
+        }
+      },
+      {
+        "title": "LOVI Love Mummy ZESTAW dla niemowląt: BUTELKA 150 ml + SMOCZEK uspokajający (0+",
+        "sku": "5909037",
+        "baselinker_id": "585934344",
+        "category_id": 2920337,
+        "expected_category_id": 2920337,
+        "shopify_product_id_ok": true,
+        "shopify_variant_id_ok": true,
+        "price_ok": true,
+        "image_count": 4,
+        "link": {
+          "product_id": "10646497755469",
+          "variant_id": "53821433020749"
+        }
+      }
+    ],
+    "details": {
+      "585934315": {
+        "is_bundle": false,
+        "ean": "",
+        "asin": "",
+        "parent_id": 0,
+        "sku": "MP-TP-KWI-MLE",
+        "tags": [],
+        "tax_rate": 0,
+        "weight": 0,
+        "height": 0,
+        "width": 0,
+        "length": 0,
+        "star": 0,
+        "category_id": 2920341,
+        "manufacturer_id": 0,
+        "text_fields": {
+          "name": "Pikowana torba dla mamy i niemowlęcia z kieszeniami - mleczna w kwiaty",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Pusta torba do pakowania wyprawki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Pikowana torba dla mamy i niemowlęcia</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Mleczna torba z delikatnym wzorem kwiatowych gałązek. Sprawdzi się do szpitala, na spacer i krótkie wyjazdy z dzieckiem.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">45 x 22 x 22 cm</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">regulowany pasek</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">liczne kieszenie</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">pikowana forma</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto ją wybrać?</h3>To lekka, pojemna i elegancka torba dla mamy, która pomaga uporządkować rzeczy potrzebne przy dziecku. Dzięki dużej komorze i kieszeniom łatwo spakować pieluszki, ubranka, kosmetyki, dokumenty i drobiazgi, które warto mieć zawsze pod ręką.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">duża komora główna na wyprawkę, ubranka i akcesoria</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">kieszenie wewnętrzne i zewnętrzne ułatwiające organizację</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">długi, regulowany i odpinany pasek na ramię</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">miękki pikowany materiał w subtelnym mlecznym kolorze</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do szpitala i na co dzień</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Torba pasuje do pakowania wyprawki porodowej, spacerów i krótkich wyjazdów.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygodna organizacja</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Kieszenie pomagają rozdzielić rzeczy mamy i dziecka, żeby szybciej znaleźć to, czego potrzebujesz.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Komfort noszenia</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Uchwyty oraz pasek na ramię pozwalają nosić torbę w wygodny sposób.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Delikatny wygląd</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mleczny odcień i kwiatowy wzór są spokojne, kobiece i łatwe do połączenia z wózkiem lub codzienną stylizacją.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolor</strong><span style=\"color:#6a5260;text-align:right;\">mleczny z delikatnym wzorem kwiatowych gałązek</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wymiary</strong><span style=\"color:#6a5260;text-align:right;\">45 x 22 x 22 cm</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Materiał</strong><span style=\"color:#6a5260;text-align:right;\">mieszanka poliestru i bawełny</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Zapięcie</strong><span style=\"color:#6a5260;text-align:right;\">zamki błyskawiczne</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Pasek</strong><span style=\"color:#6a5260;text-align:right;\">regulowany, odpinany, z karabińczykami</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">MP-TP-KWI-MLE</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Jak używać?</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Spakuj większe rzeczy do komory głównej, a drobiazgi rozdziel w kieszeniach.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Dokumenty, telefon i kosmetyki trzymaj w łatwo dostępnym miejscu.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po użyciu przechowuj torbę suchą i czystą, aby dłużej zachowała ładny wygląd.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wskazówka dla mamy</h3>Rozmiar 45 x 22 x 22 cm daje dobry balans między pojemnością a wygodą noszenia. To praktyczny wybór, gdy chcesz mieć jedną torbę do szpitala, do wózka i na krótsze wyjścia.</section>\n</div>"
+        },
+        "stock": {
+          "bl_67231": 0
+        },
+        "prices": {
+          "22945": 119
+        },
+        "locations": {
+          "bl_67231": ""
+        },
+        "links": {
+          "shop_5022274": {
+            "product_id": "10648635801933",
+            "variant_id": "53830702530893"
+          }
+        },
+        "average_cost": 0,
+        "average_landed_cost": 0,
+        "images": {
+          "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/eb9e3514-883d-4091-a262-31e182846449.png?v=1777899143",
+          "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/efb2104f-8215-47e9-b56a-8eb6970355fb.png?v=1777899068"
+        }
+      },
+      "585934326": {
+        "is_bundle": false,
+        "ean": "5903407367279",
+        "asin": "",
+        "parent_id": 0,
+        "sku": "5903407367279",
+        "tags": [],
+        "tax_rate": 0,
+        "weight": 0,
+        "height": 0,
+        "width": 0,
+        "length": 0,
+        "star": 0,
+        "category_id": 2920335,
+        "manufacturer_id": 0,
+        "text_fields": {
+          "name": "Canpol 78/025 - Jednorazowe RĘCZNIKI – ZESTAW 2 szt.  - (140×70 cm + 70×30 cm)",
+          "description": "<div class=\"text-base my-auto mx-auto [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\">\n<div class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\">\n<div class=\"flex max-w-full flex-col gap-4 grow\">\n<div data-message-author-role=\"assistant\" data-message-id=\"6a578fb3-8a19-4a4c-8dfd-789a3ab7d4c9\" dir=\"auto\" data-message-model-slug=\"gpt-5-5-thinking\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden\">\n<div class=\"markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling\">\n<p data-start=\"563\" data-end=\"617\"><strong data-start=\"563\" data-end=\"617\">Canpol babies Jednorazowe RĘCZNIKI – ZESTAW 2 szt.</strong></p>\n<p data-start=\"619\" data-end=\"870\">Praktyczny zestaw jednorazowych ręczników Canpol babies, idealny do szpitala, podróży, na wyjazd lub po porodzie. Ręczniki są chłonne, wytrzymałe i wykonane z miękkiego, przewiewnego materiału, który zapewnia komfort i higienę w sytuacjach poza domem.</p>\n<h3 data-section-id=\"48l6v8\" data-start=\"872\" data-end=\"897\">? Zawartość zestawu:</h3>\n<p data-start=\"899\" data-end=\"992\">✔️ <strong data-start=\"902\" data-end=\"918\">RĘCZNIK duży</strong> – 140 × 70 cm<br data-start=\"932\" data-end=\"935\">✔️ <strong data-start=\"938\" data-end=\"954\">RĘCZNIK mały</strong> – 70 × 30 cm<br data-start=\"967\" data-end=\"970\">✔️ Ilość: <strong data-start=\"980\" data-end=\"992\">2 sztuki</strong></p>\n<h3 data-section-id=\"1spy8f\" data-start=\"994\" data-end=\"1016\">? Cechy produktu:</h3>\n<p data-start=\"1018\" data-end=\"1303\">✔️ Wykonane ze <strong data-start=\"1033\" data-end=\"1062\">100% oddychającej wiskozy</strong><br data-start=\"1062\" data-end=\"1065\">✔️ Delikatne i ultra-miękkie dla skóry<br data-start=\"1103\" data-end=\"1106\">✔️ Chłonne i wytrzymałe<br data-start=\"1129\" data-end=\"1132\">✔️ Biodegradowalne włókno roślinne<br data-start=\"1166\" data-end=\"1169\">✔️ Praktyczne w podróży, w szpitalu i po porodzie<br data-start=\"1218\" data-end=\"1221\">✔️ Produkt jednorazowego użytku<br data-start=\"1252\" data-end=\"1255\">✔️ Pomagają zachować higienę, świeżość i komfort</p>\n<h3 data-section-id=\"sd8t7h\" data-start=\"1305\" data-end=\"1342\">✅ Idealne do wyprawki do szpitala</h3>\n<p data-start=\"1344\" data-end=\"1533\">Jednorazowe ręczniki Canpol babies to praktyczny element wyprawki porodowej. Sprawdzą się szczególnie wtedy, gdy zależy Ci na wygodzie, higienie i oszczędności miejsca w torbie do szpitala.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"z-0 flex min-h-[46px] justify-start\"><br></div>\n</div>\n</div>"
+        },
+        "stock": {
+          "bl_67231": 0
+        },
+        "prices": {
+          "22945": 12.99
+        },
+        "locations": {
+          "bl_67231": ""
+        },
+        "links": {
+          "shop_5022274": {
+            "product_id": "10646557327693",
+            "variant_id": "53821536567629"
+          }
+        },
+        "average_cost": 0,
+        "average_landed_cost": 0,
+        "images": {
+          "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/Canpol-babies-Jednorazowe-reczniki-zestaw-2-szt-chlonne-i-delikatne.jpg?v=1777734255",
+          "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/Canpol-babies-Jednorazowe-reczniki-zestaw-2-szt-chlonne-i-delikatne-Liczba-warstw-brak-informacji.jpg?v=1777734262",
+          "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/Canpol-babies-Jednorazowe-reczniki-zestaw-2-szt-chlonne-i-delikatne-Stan-opakowania-oryginalne.jpg?v=1777734269",
+          "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/Canpol-babies-Jednorazowe-reczniki-zestaw-2-szt-chlonne-i-delikatne-Waga-produktu-z-opakowaniem-jednostkowym-0-15-kg.jpg?v=1777734279",
+          "5": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/Canpol-babies-Jednorazowe-reczniki-zestaw-2-szt-chlonne-i-delikatne-Typ-bezzapachowe.jpg?v=1777734275",
+          "6": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/Canpol-babies-Jednorazowe-reczniki-zestaw-2-szt-chlonne-i-delikatne-Marka-Canpol-babies.jpg?v=1777734266"
+        }
+      },
+      "585934335": {
+        "is_bundle": false,
+        "ean": "5903407367286",
+        "asin": "",
+        "parent_id": 0,
+        "sku": "5903407367286",
+        "tags": [],
+        "tax_rate": 0,
+        "weight": 0,
+        "height": 0,
+        "width": 0,
+        "length": 0,
+        "star": 0,
+        "category_id": 2920335,
+        "manufacturer_id": 0,
+        "text_fields": {
+          "name": "Canpol 78/026 - Jednorazowe spłukiwalne nakładki na toaletę - (10 szt. )",
+          "description": "<p data-start=\"736\" data-end=\"809\"><strong data-start=\"736\" data-end=\"809\">Canpol babies NAKŁADKI na toaletę jednorazowe i spłukiwalne – 10 szt.</strong></p>\n<p data-start=\"811\" data-end=\"1068\">Praktyczne jednorazowe nakładki na toaletę Canpol babies to wygodne rozwiązanie podczas podróży, pobytu w szpitalu, na spacerze lub przy korzystaniu z publicznych toalet. Pomagają zachować higienę i ograniczają bezpośredni kontakt ze wspólną deską sedesową.</p>\n<h3 data-section-id=\"9lptxx\" data-start=\"1070\" data-end=\"1098\">? Zawartość opakowania:</h3>\n<p data-start=\"1100\" data-end=\"1194\">✔️ <strong data-start=\"1103\" data-end=\"1126\">NAKŁADKI na toaletę</strong> – 10 szt.<br data-start=\"1136\" data-end=\"1139\">✔️ Produkt jednorazowego użytku<br data-start=\"1170\" data-end=\"1173\">✔️ Symbol: <strong data-start=\"1184\" data-end=\"1194\">78/026</strong></p>\n<h3 data-section-id=\"1spy8f\" data-start=\"1196\" data-end=\"1218\">? Cechy produktu:</h3>\n<p data-start=\"1220\" data-end=\"1588\">? <strong data-start=\"1223\" data-end=\"1258\">Jednorazowe NAKŁADKI na toaletę</strong><br data-start=\"1258\" data-end=\"1261\">? Spłukiwalne w toalecie<br data-start=\"1286\" data-end=\"1289\">? Biodegradowalne<br data-start=\"1307\" data-end=\"1310\">? Uniwersalne dopasowanie do większości desek sedesowych<br data-start=\"1367\" data-end=\"1370\">? Pomagają zachować higienę w publicznych toaletach<br data-start=\"1422\" data-end=\"1425\">? Kompaktowe opakowanie – wygodne do torby, walizki lub torby porodowej<br data-start=\"1497\" data-end=\"1500\">? Odpowiednie dla dzieci i dorosłych<br data-start=\"1537\" data-end=\"1540\">? Praktyczne w podróży, w szpitalu i poza domem</p>\n<h3 data-section-id=\"1lw93e0\" data-start=\"1590\" data-end=\"1625\">✅ Idealne do wyprawki i podróży</h3>\n<p data-start=\"1627\" data-end=\"1822\">Nakładki Canpol babies sprawdzą się jako praktyczny element wyprawki do szpitala oraz podczas wyjazdów z dzieckiem. Są lekkie, higieniczne i łatwe w użyciu, dlatego warto mieć je zawsze pod ręką.</p>"
+        },
+        "stock": {
+          "bl_67231": 0
+        },
+        "prices": {
+          "22945": 6.99
+        },
+        "locations": {
+          "bl_67231": ""
+        },
+        "links": {
+          "shop_5022274": {
+            "product_id": "10646532718925",
+            "variant_id": "53821503111501"
+          }
+        },
+        "average_cost": 0,
+        "average_landed_cost": 0,
+        "images": {
+          "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/Canpol-babies-Jednorazowe-splukiwalne-nakladki-na-toalete-10-szt.jpg?v=1777733572",
+          "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/Canpol-babies-Jednorazowe-splukiwalne-nakladki-na-toalete-10-szt-Kod-producenta-78-026.jpg?v=1777733578",
+          "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/Canpol-babies-Jednorazowe-splukiwalne-nakladki-na-toalete-10-szt-EAN-GTIN-5903407367286.jpg?v=1777733583",
+          "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/519c833c4a05a76127f473926036.jpg?v=1777733588"
+        }
+      },
+      "585934344": {
+        "is_bundle": false,
+        "ean": "5901691805286",
+        "asin": "",
+        "parent_id": 0,
+        "sku": "5909037",
+        "tags": [],
+        "tax_rate": 0,
+        "weight": 0,
+        "height": 0,
+        "width": 0,
+        "length": 0,
+        "star": 0,
+        "category_id": 2920337,
+        "manufacturer_id": 0,
+        "text_fields": {
+          "name": "LOVI Love Mummy ZESTAW dla niemowląt: BUTELKA 150 ml + SMOCZEK uspokajający (0+",
+          "description": "<section class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto [content-visibility:auto] supports-[content-visibility:auto]:[contain-intrinsic-size:auto_100lvh] R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"request-WEB:80cd19a8-6b07-49d6-8c28-0465fa5047c8-4\" data-testid=\"conversation-turn-10\" data-scroll-anchor=\"false\" data-turn=\"assistant\">\n<div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\">\n<div class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\">\n<div class=\"flex max-w-full flex-col gap-4 grow\">\n<div data-message-author-role=\"assistant\" data-message-id=\"bfb7e67e-924f-4ed8-bb88-e65c27171fbe\" dir=\"auto\" data-message-model-slug=\"gpt-5-5-thinking\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1\" data-turn-start-message=\"true\" tabindex=\"0\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden\">\n<div class=\"markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling\">\n<p data-start=\"317\" data-end=\"382\"><strong data-start=\"317\" data-end=\"382\">LOVI Love Mummy ZESTAW: BUTELKA 150 ml + SMOCZEK uspokajający (0+)</strong></p>\n<p data-start=\"384\" data-end=\"586\">Praktyczny zestaw LOVI Love Mummy dla niemowląt, idealny już od pierwszych miesięcy życia. W komplecie znajduje się butelka o pojemności 150 ml oraz smoczek uspokajający z uroczym wzorem <strong data-start=\"571\" data-end=\"585\">Love Mummy</strong>.</p>\n<p data-start=\"588\" data-end=\"767\">Zestaw został przygotowany z myślą o codziennym karmieniu i komforcie dziecka. Butelka LOVI wspiera naturalny odruch ssania i pomaga łączyć karmienie butelką z karmieniem piersią.</p>\n<h3 data-section-id=\"48l6v8\" data-start=\"769\" data-end=\"794\">? Zawartość zestawu:</h3>\n<p data-start=\"796\" data-end=\"886\">✔️ <strong data-start=\"799\" data-end=\"822\">BUTELKA LOVI 150 ml</strong> – 1 szt.<br data-start=\"831\" data-end=\"834\">✔️ <strong data-start=\"837\" data-end=\"877\">SMOCZEK uspokajający LOVI Love Mummy</strong> – 1 szt.</p>\n<h3 data-section-id=\"1spy8f\" data-start=\"888\" data-end=\"910\">? Cechy produktu:</h3>\n<p data-start=\"912\" data-end=\"1222\">? <strong data-start=\"915\" data-end=\"933\">BUTELKA 150 ml</strong> – wygodna pojemność dla niemowląt<br data-start=\"967\" data-end=\"970\">? Wspiera naturalny odruch ssania<br data-start=\"1004\" data-end=\"1007\">? Odpowiednia do codziennego karmienia<br data-start=\"1046\" data-end=\"1049\">? Ergonomiczny kształt ułatwia trzymanie butelki<br data-start=\"1098\" data-end=\"1101\">? <strong data-start=\"1104\" data-end=\"1128\">SMOCZEK uspokajający</strong> z delikatnym wzorem Love Mummy<br data-start=\"1159\" data-end=\"1162\">? Praktyczny zestaw na start lub jako uzupełnienie wyprawki</p>\n<h3 data-section-id=\"89q2ll\" data-start=\"1224\" data-end=\"1251\">✅ Dodatkowe informacje:</h3>\n<p data-start=\"1253\" data-end=\"1411\">✔️ Produkt przeznaczony dla niemowląt<br data-start=\"1290\" data-end=\"1293\">✔️ Wygodny zestaw 2w1: butelka + smoczek<br data-start=\"1333\" data-end=\"1336\">✔️ Dobry wybór do wyprawki dla maluszka<br data-start=\"1375\" data-end=\"1378\">✔️ Estetyczny wzór <strong data-start=\"1397\" data-end=\"1411\">Love Mummy</strong></p>\n<h3 data-section-id=\"awyiix\" data-start=\"1413\" data-end=\"1449\">? Idealny zestaw dla niemowląt!</h3>\n<p data-start=\"1451\" data-end=\"1592\" data-is-last-node=\"\" data-is-only-node=\"\">LOVI Love Mummy to praktyczny komplet dla rodziców, którzy szukają wygodnego zestawu z butelką i smoczkiem uspokajającym w jednym opakowaniu.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"z-0 flex min-h-[46px] justify-start\"><br></div>\n</div>\n</div>\n</section>"
+        },
+        "stock": {
+          "bl_67231": 0
+        },
+        "prices": {
+          "22945": 49.99
+        },
+        "locations": {
+          "bl_67231": ""
+        },
+        "links": {
+          "shop_5022274": {
+            "product_id": "10646497755469",
+            "variant_id": "53821433020749"
+          }
+        },
+        "average_cost": 0,
+        "average_landed_cost": 0,
+        "images": {
+          "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/4fc7035d144a3e3642f6f6887dda34ac.webp?v=1777731225",
+          "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/LOVI-0437m-Zestaw-nie-zaburzajacy-odruchu-ssania-butelka-150ml-smoczek-usp-Love-Mummy__119760__780.jpg?v=1777731158",
+          "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/6e754d7d7f1924c997bc650c79fe6301.webp?v=1777731230",
+          "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/637b5fc0350f8c964ada1fe82ba53eb6.webp?v=1777731234"
+        }
+      }
+    },
+    "sku_index_after": {
+      "MP-TP-KWI-MLE": {
+        "id": "585934315",
+        "parent_id": "0"
+      },
+      "5903407367279": {
+        "id": "585934326",
+        "parent_id": "0"
+      },
+      "5903407367286": {
+        "id": "585934335",
+        "parent_id": "0"
+      },
+      "5909037": {
+        "id": "585934344",
+        "parent_id": "0"
+      }
+    }
+  }
+}

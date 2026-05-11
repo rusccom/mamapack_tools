@@ -1,0 +1,1716 @@
+{
+  "createdAt": "2026-05-10T16:43:16.803551+03:00",
+  "sourceReport": "C:\\Users\\User\\Desktop\\projects\\mamaPack\\pipelines\\marini_to_shopify\\group_25_toys_shopify_sync_report.json",
+  "inventoryId": 43540,
+  "shopifyStorageId": "shop_5022274",
+  "priceGroupId": 22945,
+  "categories": {
+    "Gryzaki": {
+      "category_id": 7988213,
+      "name": "Gryzaki",
+      "parent_id": 2920334,
+      "created": false
+    },
+    "Zabawki": {
+      "category_id": 7988270,
+      "name": "Zabawki",
+      "parent_id": 2920334,
+      "created": false
+    },
+    "Zabawki do kąpieli": {
+      "category_id": 7990072,
+      "name": "Zabawki do kąpieli",
+      "parent_id": 2920334,
+      "created": true
+    }
+  },
+  "productCount": 18,
+  "variantSkuCount": 20,
+  "createdOrUpdatedParents": [
+    {
+      "title": "AKUKU A0055 Gryzak silikonowy Panda",
+      "collectionTitle": "Gryzaki",
+      "parentId": "590794640",
+      "parentPriceFix": null
+    },
+    {
+      "title": "AKUKU A0355 Gryzak wodny Serce",
+      "collectionTitle": "Gryzaki",
+      "parentId": "590794641",
+      "parentPriceFix": null
+    },
+    {
+      "title": "AKUKU A0356 Gryzak wodny Ster",
+      "collectionTitle": "Gryzaki",
+      "parentId": "590794642",
+      "parentPriceFix": null
+    },
+    {
+      "title": "AKUKU A0357 Gryzak wodny Słonik",
+      "collectionTitle": "Gryzaki",
+      "parentId": "590794643",
+      "parentPriceFix": null
+    },
+    {
+      "title": "AKUKU A0358 Gryzak wodny Żyrafa",
+      "collectionTitle": "Gryzaki",
+      "parentId": "590794644",
+      "parentPriceFix": null
+    },
+    {
+      "title": "AKUKU A0413 Grzechotko gryzak",
+      "collectionTitle": "Gryzaki",
+      "parentId": "590794645",
+      "parentPriceFix": null
+    },
+    {
+      "title": "AKUKU A0460 Gryzak silikonowy Miś",
+      "collectionTitle": "Gryzaki",
+      "parentId": "590794646",
+      "parentPriceFix": null
+    },
+    {
+      "title": "AKUKU Gryzak silikonowy Ślimak",
+      "collectionTitle": "Gryzaki",
+      "parentId": "590794647",
+      "parentPriceFix": {
+        "parentProductId": "590794647",
+        "price": 21.28,
+        "response": {
+          "status": "SUCCESS",
+          "product_id": 590794647,
+          "warnings": {}
+        }
+      }
+    },
+    {
+      "title": "AKUKU A0362 Zabawki kąpielowe 4szt.",
+      "collectionTitle": "Zabawki do kąpieli",
+      "parentId": "590794659",
+      "parentPriceFix": null
+    },
+    {
+      "title": "AKUKU A0363 Zabawki kąpielowe 5szt.",
+      "collectionTitle": "Zabawki do kąpieli",
+      "parentId": "590794660",
+      "parentPriceFix": null
+    },
+    {
+      "title": "AKUKU A0449 Grzechotka Lew",
+      "collectionTitle": "Zabawki",
+      "parentId": "590794661",
+      "parentPriceFix": null
+    },
+    {
+      "title": "AKUKU A0450 Grzechotka Słoń",
+      "collectionTitle": "Zabawki",
+      "parentId": "590794662",
+      "parentPriceFix": null
+    },
+    {
+      "title": "AKUKU A0467 Grzechotka czarno-biały Miś",
+      "collectionTitle": "Zabawki",
+      "parentId": "590794663",
+      "parentPriceFix": null
+    },
+    {
+      "title": "AKUKU A0470 Pluszowa zawieszka Miś czarno-biały",
+      "collectionTitle": "Zabawki",
+      "parentId": "590794664",
+      "parentPriceFix": null
+    },
+    {
+      "title": "AKUKU A0482 Grzechotka pluszowa HANTEL",
+      "collectionTitle": "Zabawki",
+      "parentId": "590794665",
+      "parentPriceFix": null
+    },
+    {
+      "title": "AKUKU A0483 Grzechotka pluszowa Maracas",
+      "collectionTitle": "Zabawki",
+      "parentId": "590794666",
+      "parentPriceFix": null
+    },
+    {
+      "title": "AKUKU A0679 Grzechotka Krówka",
+      "collectionTitle": "Zabawki",
+      "parentId": "590794667",
+      "parentPriceFix": null
+    },
+    {
+      "title": "AKUKU Grzechotka Klucze",
+      "collectionTitle": "Zabawki",
+      "parentId": "590794668",
+      "parentPriceFix": {
+        "parentProductId": "590794668",
+        "price": 10.02,
+        "response": {
+          "status": "SUCCESS",
+          "product_id": 590794668,
+          "warnings": {}
+        }
+      }
+    }
+  ],
+  "shopifyProducts": [
+    {
+      "title": "AKUKU A0055 Gryzak silikonowy Panda",
+      "collectionTitle": "Gryzaki",
+      "shopifyProductId": "gid://shopify/Product/10655945457997",
+      "shopifyLegacyResourceId": 10655945457997,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "778303",
+          "barcode": "5907644000555",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873183916365",
+          "shopifyVariantLegacyResourceId": 53873183916365
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A0355 Gryzak wodny Serce",
+      "collectionTitle": "Gryzaki",
+      "shopifyProductId": "gid://shopify/Product/10655945490765",
+      "shopifyLegacyResourceId": 10655945490765,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "765856",
+          "barcode": "5907644003556",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873184080205",
+          "shopifyVariantLegacyResourceId": 53873184080205
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A0356 Gryzak wodny Ster",
+      "collectionTitle": "Gryzaki",
+      "shopifyProductId": "gid://shopify/Product/10655945556301",
+      "shopifyLegacyResourceId": 10655945556301,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "773847",
+          "barcode": "5907644003563",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873184145741",
+          "shopifyVariantLegacyResourceId": 53873184145741
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A0357 Gryzak wodny Słonik",
+      "collectionTitle": "Gryzaki",
+      "shopifyProductId": "gid://shopify/Product/10655945654605",
+      "shopifyLegacyResourceId": 10655945654605,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "765858",
+          "barcode": "5907644003570",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873184276813",
+          "shopifyVariantLegacyResourceId": 53873184276813
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A0358 Gryzak wodny Żyrafa",
+      "collectionTitle": "Gryzaki",
+      "shopifyProductId": "gid://shopify/Product/10655945687373",
+      "shopifyLegacyResourceId": 10655945687373,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "773848",
+          "barcode": "5907644003587",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873184309581",
+          "shopifyVariantLegacyResourceId": 53873184309581
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A0362 Zabawki kąpielowe 4szt.",
+      "collectionTitle": "Zabawki do kąpieli",
+      "shopifyProductId": "gid://shopify/Product/10655945720141",
+      "shopifyLegacyResourceId": 10655945720141,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "767731",
+          "barcode": "5907644003624",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873184342349",
+          "shopifyVariantLegacyResourceId": 53873184342349
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A0363 Zabawki kąpielowe 5szt.",
+      "collectionTitle": "Zabawki do kąpieli",
+      "shopifyProductId": "gid://shopify/Product/10655945752909",
+      "shopifyLegacyResourceId": 10655945752909,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "767732",
+          "barcode": "5907644003631",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873194205517",
+          "shopifyVariantLegacyResourceId": 53873194205517
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A0413 Grzechotko gryzak",
+      "collectionTitle": "Gryzaki",
+      "shopifyProductId": "gid://shopify/Product/10655945818445",
+      "shopifyLegacyResourceId": 10655945818445,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "774732",
+          "barcode": "5907644004133",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873194271053",
+          "shopifyVariantLegacyResourceId": 53873194271053
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A0449 Grzechotka Lew",
+      "collectionTitle": "Zabawki",
+      "shopifyProductId": "gid://shopify/Product/10655945851213",
+      "shopifyLegacyResourceId": 10655945851213,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "780926",
+          "barcode": "5907644004492",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873194303821",
+          "shopifyVariantLegacyResourceId": 53873194303821
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A0450 Grzechotka Słoń",
+      "collectionTitle": "Zabawki",
+      "shopifyProductId": "gid://shopify/Product/10655945883981",
+      "shopifyLegacyResourceId": 10655945883981,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "780927",
+          "barcode": "5907644004508",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873194336589",
+          "shopifyVariantLegacyResourceId": 53873194336589
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A0460 Gryzak silikonowy Miś",
+      "collectionTitle": "Gryzaki",
+      "shopifyProductId": "gid://shopify/Product/10655945916749",
+      "shopifyLegacyResourceId": 10655945916749,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "787885",
+          "barcode": "5907644004607",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873194369357",
+          "shopifyVariantLegacyResourceId": 53873194369357
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A0467 Grzechotka czarno-biały Miś",
+      "collectionTitle": "Zabawki",
+      "shopifyProductId": "gid://shopify/Product/10655946015053",
+      "shopifyLegacyResourceId": 10655946015053,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "783769",
+          "barcode": "5907644004676",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873195745613",
+          "shopifyVariantLegacyResourceId": 53873195745613
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A0470 Pluszowa zawieszka Miś czarno-biały",
+      "collectionTitle": "Zabawki",
+      "shopifyProductId": "gid://shopify/Product/10655946080589",
+      "shopifyLegacyResourceId": 10655946080589,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "783771",
+          "barcode": "5907644004706",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873195811149",
+          "shopifyVariantLegacyResourceId": 53873195811149
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A0482 Grzechotka pluszowa HANTEL",
+      "collectionTitle": "Zabawki",
+      "shopifyProductId": "gid://shopify/Product/10655946113357",
+      "shopifyLegacyResourceId": 10655946113357,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "5902728",
+          "barcode": "5907644004829",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873195843917",
+          "shopifyVariantLegacyResourceId": 53873195843917
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A0483 Grzechotka pluszowa Maracas",
+      "collectionTitle": "Zabawki",
+      "shopifyProductId": "gid://shopify/Product/10655946178893",
+      "shopifyLegacyResourceId": 10655946178893,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "5902729",
+          "barcode": "5907644004836",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873195909453",
+          "shopifyVariantLegacyResourceId": 53873195909453
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A0679 Grzechotka Krówka",
+      "collectionTitle": "Zabawki",
+      "shopifyProductId": "gid://shopify/Product/10655946342733",
+      "shopifyLegacyResourceId": 10655946342733,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "5911655",
+          "barcode": "5907644006793",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873196204365",
+          "shopifyVariantLegacyResourceId": 53873196204365
+        }
+      ]
+    },
+    {
+      "title": "AKUKU Gryzak silikonowy Ślimak",
+      "collectionTitle": "Gryzaki",
+      "shopifyProductId": "gid://shopify/Product/10655946375501",
+      "shopifyLegacyResourceId": 10655946375501,
+      "optionName": "Kolor",
+      "variants": [
+        {
+          "sku": "782872",
+          "barcode": "5907644001149",
+          "optionValue": "niebieski",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873196826957",
+          "shopifyVariantLegacyResourceId": 53873196826957
+        },
+        {
+          "sku": "782873",
+          "barcode": "5907644001156",
+          "optionValue": "różowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873196859725",
+          "shopifyVariantLegacyResourceId": 53873196859725
+        }
+      ]
+    },
+    {
+      "title": "AKUKU Grzechotka Klucze",
+      "collectionTitle": "Zabawki",
+      "shopifyProductId": "gid://shopify/Product/10655946408269",
+      "shopifyLegacyResourceId": 10655946408269,
+      "optionName": "Kolor",
+      "variants": [
+        {
+          "sku": "5911656",
+          "barcode": "5907644006809",
+          "optionValue": "jasne",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873196892493",
+          "shopifyVariantLegacyResourceId": 53873196892493
+        },
+        {
+          "sku": "5911657",
+          "barcode": "5907644006816",
+          "optionValue": "ciemne",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873196925261",
+          "shopifyVariantLegacyResourceId": 53873196925261
+        }
+      ]
+    }
+  ],
+  "baselinkerDetails": {
+    "590794640": {
+      "is_bundle": false,
+      "ean": "5907644000555",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "778303",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988213,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A0055 Gryzak silikonowy Panda",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Gryzaki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU A0055 Gryzak silikonowy Panda</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny gryzak dla maluszka, pomocny w czasie ząbkowania.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Gryzaki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">wygodny format do małych rączek</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">pomocny przy ząbkowaniu</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny na spacer lub do domu</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">778303</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644000555</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 12.58
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655945457997",
+          "variant_id": "53873183916365"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/778303-1.jpg?v=1778419770"
+      }
+    },
+    "590794641": {
+      "is_bundle": false,
+      "ean": "5907644003556",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "765856",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988213,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A0355 Gryzak wodny Serce",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Gryzaki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU A0355 Gryzak wodny Serce</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny gryzak dla maluszka, pomocny w czasie ząbkowania.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Gryzaki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">wygodny format do małych rączek</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">pomocny przy ząbkowaniu</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny na spacer lub do domu</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">765856</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644003556</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 6.53
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655945490765",
+          "variant_id": "53873184080205"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/765856-1.jpg?v=1778419778"
+      }
+    },
+    "590794642": {
+      "is_bundle": false,
+      "ean": "5907644003563",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "773847",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988213,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A0356 Gryzak wodny Ster",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Gryzaki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU A0356 Gryzak wodny Ster</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny gryzak dla maluszka, pomocny w czasie ząbkowania.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Gryzaki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">wygodny format do małych rączek</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">pomocny przy ząbkowaniu</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny na spacer lub do domu</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">773847</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644003563</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 6.53
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655945556301",
+          "variant_id": "53873184145741"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/773847-1.jpg?v=1778419785"
+      }
+    },
+    "590794643": {
+      "is_bundle": false,
+      "ean": "5907644003570",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "765858",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988213,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A0357 Gryzak wodny Słonik",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Gryzaki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU A0357 Gryzak wodny Słonik</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny gryzak dla maluszka, pomocny w czasie ząbkowania.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Gryzaki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">wygodny format do małych rączek</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">pomocny przy ząbkowaniu</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny na spacer lub do domu</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">765858</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644003570</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 6.08
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655945654605",
+          "variant_id": "53873184276813"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/765858-1.jpg?v=1778419793"
+      }
+    },
+    "590794644": {
+      "is_bundle": false,
+      "ean": "5907644003587",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "773848",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988213,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A0358 Gryzak wodny Żyrafa",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Gryzaki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU A0358 Gryzak wodny Żyrafa</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny gryzak dla maluszka, pomocny w czasie ząbkowania.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Gryzaki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">wygodny format do małych rączek</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">pomocny przy ząbkowaniu</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny na spacer lub do domu</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">773848</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644003587</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 6.53
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655945687373",
+          "variant_id": "53873184309581"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/773848-1.jpg?v=1778419800"
+      }
+    },
+    "590794645": {
+      "is_bundle": false,
+      "ean": "5907644004133",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "774732",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988213,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A0413 Grzechotko gryzak",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Gryzaki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU A0413 Grzechotko gryzak</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny gryzak dla maluszka, pomocny w czasie ząbkowania.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Gryzaki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">wygodny format do małych rączek</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">pomocny przy ząbkowaniu</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny na spacer lub do domu</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">774732</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644004133</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 7.68
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655945818445",
+          "variant_id": "53873194271053"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/774732-1.jpg?v=1778419823"
+      }
+    },
+    "590794646": {
+      "is_bundle": false,
+      "ean": "5907644004607",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "787885",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988213,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A0460 Gryzak silikonowy Miś",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Gryzaki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU A0460 Gryzak silikonowy Miś</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny gryzak dla maluszka, pomocny w czasie ząbkowania.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Gryzaki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">wygodny format do małych rączek</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">pomocny przy ząbkowaniu</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny na spacer lub do domu</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">787885</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644004607</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 8.1
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655945916749",
+          "variant_id": "53873194369357"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/787885-1.jpg?v=1778419845"
+      }
+    },
+    "590794647": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988213,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU Gryzak silikonowy Ślimak",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Gryzaki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Gryzak silikonowy Ślimak</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny gryzak dla maluszka, pomocny w czasie ząbkowania.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Gryzaki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Warianty: niebieski, różowy</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">wygodny format do małych rączek</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">pomocny przy ząbkowaniu</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny na spacer lub do domu</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">782872, 782873</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644001149, 5907644001156</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Warianty</strong><span style=\"color:#6a5260;text-align:right;\">niebieski, różowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 21.28
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655946375501",
+          "variant_id": "0"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "variants": {
+        "590794648": {
+          "name": "AKUKU Gryzak silikonowy Ślimak - Kolor: niebieski",
+          "ean": "5907644001149",
+          "asin": "",
+          "sku": "782872",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "21.28"
+          }
+        },
+        "590794658": {
+          "name": "AKUKU Gryzak silikonowy Ślimak - Kolor: różowy",
+          "ean": "5907644001156",
+          "asin": "",
+          "sku": "782873",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "21.28"
+          }
+        }
+      },
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/782872-1.jpg?v=1778419891",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/782873-1.jpg?v=1778419891"
+      }
+    },
+    "590794648": {
+      "is_bundle": false,
+      "ean": "5907644001149",
+      "asin": "",
+      "parent_id": 590794647,
+      "sku": "782872",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988213,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU Gryzak silikonowy Ślimak - Kolor: niebieski",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Gryzaki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Gryzak silikonowy Ślimak</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny gryzak dla maluszka, pomocny w czasie ząbkowania.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Gryzaki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Warianty: niebieski, różowy</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">wygodny format do małych rączek</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">pomocny przy ząbkowaniu</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny na spacer lub do domu</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">782872, 782873</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644001149, 5907644001156</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Warianty</strong><span style=\"color:#6a5260;text-align:right;\">niebieski, różowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 21.28
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655946375501",
+          "variant_id": "53873196826957"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/782872-1.jpg?v=1778419891",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/782873-1.jpg?v=1778419891"
+      }
+    },
+    "590794658": {
+      "is_bundle": false,
+      "ean": "5907644001156",
+      "asin": "",
+      "parent_id": 590794647,
+      "sku": "782873",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988213,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU Gryzak silikonowy Ślimak - Kolor: różowy",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Gryzaki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Gryzak silikonowy Ślimak</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny gryzak dla maluszka, pomocny w czasie ząbkowania.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Gryzaki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Warianty: niebieski, różowy</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">wygodny format do małych rączek</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">pomocny przy ząbkowaniu</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny na spacer lub do domu</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">782872, 782873</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644001149, 5907644001156</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Warianty</strong><span style=\"color:#6a5260;text-align:right;\">niebieski, różowy</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 21.28
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655946375501",
+          "variant_id": "53873196859725"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/782872-1.jpg?v=1778419891",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/782873-1.jpg?v=1778419891"
+      }
+    },
+    "590794659": {
+      "is_bundle": false,
+      "ean": "5907644003624",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "767731",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990072,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A0362 Zabawki kąpielowe 4szt.",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Zabawki do kąpieli</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU A0362 Zabawki kąpielowe 4szt.</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Zabawka do kąpieli, która urozmaica codzienną pielęgnację dziecka.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Zabawki do kąpieli</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Kolorowa zabawka pomaga oswoić kąpiel i zamienić ją w spokojniejszy, przyjemniejszy rytuał.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki, dziecięcy format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do zabrania w podróż lub na spacer</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">767731</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644003624</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 12.08
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655945720141",
+          "variant_id": "53873184342349"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/767731-1.jpg?v=1778419808"
+      }
+    },
+    "590794660": {
+      "is_bundle": false,
+      "ean": "5907644003631",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "767732",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990072,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A0363 Zabawki kąpielowe 5szt.",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Zabawki do kąpieli</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU A0363 Zabawki kąpielowe 5szt.</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Zabawka do kąpieli, która urozmaica codzienną pielęgnację dziecka.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Zabawki do kąpieli</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Kolorowa zabawka pomaga oswoić kąpiel i zamienić ją w spokojniejszy, przyjemniejszy rytuał.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki, dziecięcy format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do zabrania w podróż lub na spacer</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">767732</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644003631</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 15.84
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655945752909",
+          "variant_id": "53873194205517"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/767732-1.jpg?v=1778419815"
+      }
+    },
+    "590794661": {
+      "is_bundle": false,
+      "ean": "5907644004492",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "780926",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988270,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A0449 Grzechotka Lew",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Zabawki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU A0449 Grzechotka Lew</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Lekka zabawka dla niemowląt i małych dzieci do codziennej zabawy.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Zabawki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki, dziecięcy format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do zabrania w podróż lub na spacer</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">780926</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644004492</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 11.14
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655945851213",
+          "variant_id": "53873194303821"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/780926-1.jpg?v=1778419831"
+      }
+    },
+    "590794662": {
+      "is_bundle": false,
+      "ean": "5907644004508",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "780927",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988270,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A0450 Grzechotka Słoń",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Zabawki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU A0450 Grzechotka Słoń</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Lekka zabawka dla niemowląt i małych dzieci do codziennej zabawy.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Zabawki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki, dziecięcy format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do zabrania w podróż lub na spacer</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">780927</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644004508</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 11.14
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655945883981",
+          "variant_id": "53873194336589"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/780927-1.jpg?v=1778419837"
+      }
+    },
+    "590794663": {
+      "is_bundle": false,
+      "ean": "5907644004676",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "783769",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988270,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A0467 Grzechotka czarno-biały Miś",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Zabawki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU A0467 Grzechotka czarno-biały Miś</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Lekka zabawka dla niemowląt i małych dzieci do codziennej zabawy.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Zabawki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki, dziecięcy format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do zabrania w podróż lub na spacer</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">783769</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644004676</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 9.5
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655946015053",
+          "variant_id": "53873195745613"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/783769-1.jpg?v=1778419853"
+      }
+    },
+    "590794664": {
+      "is_bundle": false,
+      "ean": "5907644004706",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "783771",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988270,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A0470 Pluszowa zawieszka Miś czarno-biały",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Zabawki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU A0470 Pluszowa zawieszka Miś czarno-biały</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Lekka zabawka dla niemowląt i małych dzieci do codziennej zabawy.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Zabawki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki, dziecięcy format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do zabrania w podróż lub na spacer</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">783771</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644004706</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 19.01
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655946080589",
+          "variant_id": "53873195811149"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/783771-1.jpg?v=1778419861"
+      }
+    },
+    "590794665": {
+      "is_bundle": false,
+      "ean": "5907644004829",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "5902728",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988270,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A0482 Grzechotka pluszowa HANTEL",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Zabawki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU A0482 Grzechotka pluszowa HANTEL</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Lekka zabawka dla niemowląt i małych dzieci do codziennej zabawy.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Zabawki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki, dziecięcy format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do zabrania w podróż lub na spacer</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">5902728</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644004829</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 15.94
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655946113357",
+          "variant_id": "53873195843917"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902728-1.jpg?v=1778419868"
+      }
+    },
+    "590794666": {
+      "is_bundle": false,
+      "ean": "5907644004836",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "5902729",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988270,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A0483 Grzechotka pluszowa Maracas",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Zabawki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU A0483 Grzechotka pluszowa Maracas</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Lekka zabawka dla niemowląt i małych dzieci do codziennej zabawy.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Zabawki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki, dziecięcy format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do zabrania w podróż lub na spacer</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">5902729</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644004836</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 13.09
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655946178893",
+          "variant_id": "53873195909453"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5902729-1.jpg?v=1778419875"
+      }
+    },
+    "590794667": {
+      "is_bundle": false,
+      "ean": "5907644006793",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "5911655",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988270,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A0679 Grzechotka Krówka",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Zabawki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU A0679 Grzechotka Krówka</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Lekka zabawka dla niemowląt i małych dzieci do codziennej zabawy.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Zabawki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki, dziecięcy format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do zabrania w podróż lub na spacer</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">5911655</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644006793</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 10.54
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655946342733",
+          "variant_id": "53873196204365"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5911655-1.jpg?v=1778419883"
+      }
+    },
+    "590794668": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988270,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU Grzechotka Klucze",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Zabawki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Grzechotka Klucze</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Lekka zabawka dla niemowląt i małych dzieci do codziennej zabawy.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Zabawki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Warianty: jasne, ciemne</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki, dziecięcy format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do zabrania w podróż lub na spacer</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">5911656, 5911657</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644006809, 5907644006816</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Warianty</strong><span style=\"color:#6a5260;text-align:right;\">jasne, ciemne</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 10.02
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655946408269",
+          "variant_id": "0"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "variants": {
+        "590794669": {
+          "name": "AKUKU Grzechotka Klucze - Kolor: jasne",
+          "ean": "5907644006809",
+          "asin": "",
+          "sku": "5911656",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "10.02"
+          }
+        },
+        "590794670": {
+          "name": "AKUKU Grzechotka Klucze - Kolor: ciemne",
+          "ean": "5907644006816",
+          "asin": "",
+          "sku": "5911657",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "9.34"
+          }
+        }
+      },
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5911656-1.jpg?v=1778419902",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5911657-1.jpg?v=1778419901"
+      }
+    },
+    "590794669": {
+      "is_bundle": false,
+      "ean": "5907644006809",
+      "asin": "",
+      "parent_id": 590794668,
+      "sku": "5911656",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988270,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU Grzechotka Klucze - Kolor: jasne",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Zabawki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Grzechotka Klucze</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Lekka zabawka dla niemowląt i małych dzieci do codziennej zabawy.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Zabawki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Warianty: jasne, ciemne</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki, dziecięcy format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do zabrania w podróż lub na spacer</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">5911656, 5911657</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644006809, 5907644006816</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Warianty</strong><span style=\"color:#6a5260;text-align:right;\">jasne, ciemne</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 10.02
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655946408269",
+          "variant_id": "53873196892493"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5911656-1.jpg?v=1778419902",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5911657-1.jpg?v=1778419901"
+      }
+    },
+    "590794670": {
+      "is_bundle": false,
+      "ean": "5907644006816",
+      "asin": "",
+      "parent_id": 590794668,
+      "sku": "5911657",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7988270,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU Grzechotka Klucze - Kolor: ciemne",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Zabawki</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Grzechotka Klucze</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Lekka zabawka dla niemowląt i małych dzieci do codziennej zabawy.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Zabawki</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Warianty: jasne, ciemne</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dlaczego warto?</h3>Produkt sprawdzi się jako mały dodatek do wyprawki, prezent albo element codziennej zabawy dziecka.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki, dziecięcy format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do zabrania w podróż lub na spacer</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dla maluszka</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Forma produktu jest dopasowana do codziennych aktywności dziecka.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały, praktyczny produkt, który łatwo mieć pod ręką.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Akuku</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">5911656, 5911657</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644006809, 5907644006816</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Warianty</strong><span style=\"color:#6a5260;text-align:right;\">jasne, ciemne</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed podaniem dziecku</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed każdym użyciem.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i przechowuj zgodnie z zaleceniami producenta.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy używać pod opieką osoby dorosłej i zgodnie z instrukcją producenta.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 9.34
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655946408269",
+          "variant_id": "53873196925261"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5911656-1.jpg?v=1778419902",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5911657-1.jpg?v=1778419901"
+      }
+    }
+  },
+  "verification": {
+    "allOk": true,
+    "checks": [
+      {
+        "sku": "778303",
+        "collectionTitle": "Gryzaki",
+        "baselinkerProductId": "590794640",
+        "parentId": "0",
+        "expectedProductId": "10655945457997",
+        "actualProductId": "10655945457997",
+        "expectedVariantId": "53873183916365",
+        "actualVariantId": "53873183916365",
+        "linkOk": true,
+        "price": {
+          "22945": 12.58
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "765856",
+        "collectionTitle": "Gryzaki",
+        "baselinkerProductId": "590794641",
+        "parentId": "0",
+        "expectedProductId": "10655945490765",
+        "actualProductId": "10655945490765",
+        "expectedVariantId": "53873184080205",
+        "actualVariantId": "53873184080205",
+        "linkOk": true,
+        "price": {
+          "22945": 6.53
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "773847",
+        "collectionTitle": "Gryzaki",
+        "baselinkerProductId": "590794642",
+        "parentId": "0",
+        "expectedProductId": "10655945556301",
+        "actualProductId": "10655945556301",
+        "expectedVariantId": "53873184145741",
+        "actualVariantId": "53873184145741",
+        "linkOk": true,
+        "price": {
+          "22945": 6.53
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "765858",
+        "collectionTitle": "Gryzaki",
+        "baselinkerProductId": "590794643",
+        "parentId": "0",
+        "expectedProductId": "10655945654605",
+        "actualProductId": "10655945654605",
+        "expectedVariantId": "53873184276813",
+        "actualVariantId": "53873184276813",
+        "linkOk": true,
+        "price": {
+          "22945": 6.08
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "773848",
+        "collectionTitle": "Gryzaki",
+        "baselinkerProductId": "590794644",
+        "parentId": "0",
+        "expectedProductId": "10655945687373",
+        "actualProductId": "10655945687373",
+        "expectedVariantId": "53873184309581",
+        "actualVariantId": "53873184309581",
+        "linkOk": true,
+        "price": {
+          "22945": 6.53
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "767731",
+        "collectionTitle": "Zabawki do kąpieli",
+        "baselinkerProductId": "590794659",
+        "parentId": "0",
+        "expectedProductId": "10655945720141",
+        "actualProductId": "10655945720141",
+        "expectedVariantId": "53873184342349",
+        "actualVariantId": "53873184342349",
+        "linkOk": true,
+        "price": {
+          "22945": 12.08
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "767732",
+        "collectionTitle": "Zabawki do kąpieli",
+        "baselinkerProductId": "590794660",
+        "parentId": "0",
+        "expectedProductId": "10655945752909",
+        "actualProductId": "10655945752909",
+        "expectedVariantId": "53873194205517",
+        "actualVariantId": "53873194205517",
+        "linkOk": true,
+        "price": {
+          "22945": 15.84
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "774732",
+        "collectionTitle": "Gryzaki",
+        "baselinkerProductId": "590794645",
+        "parentId": "0",
+        "expectedProductId": "10655945818445",
+        "actualProductId": "10655945818445",
+        "expectedVariantId": "53873194271053",
+        "actualVariantId": "53873194271053",
+        "linkOk": true,
+        "price": {
+          "22945": 7.68
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "780926",
+        "collectionTitle": "Zabawki",
+        "baselinkerProductId": "590794661",
+        "parentId": "0",
+        "expectedProductId": "10655945851213",
+        "actualProductId": "10655945851213",
+        "expectedVariantId": "53873194303821",
+        "actualVariantId": "53873194303821",
+        "linkOk": true,
+        "price": {
+          "22945": 11.14
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "780927",
+        "collectionTitle": "Zabawki",
+        "baselinkerProductId": "590794662",
+        "parentId": "0",
+        "expectedProductId": "10655945883981",
+        "actualProductId": "10655945883981",
+        "expectedVariantId": "53873194336589",
+        "actualVariantId": "53873194336589",
+        "linkOk": true,
+        "price": {
+          "22945": 11.14
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "787885",
+        "collectionTitle": "Gryzaki",
+        "baselinkerProductId": "590794646",
+        "parentId": "0",
+        "expectedProductId": "10655945916749",
+        "actualProductId": "10655945916749",
+        "expectedVariantId": "53873194369357",
+        "actualVariantId": "53873194369357",
+        "linkOk": true,
+        "price": {
+          "22945": 8.1
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "783769",
+        "collectionTitle": "Zabawki",
+        "baselinkerProductId": "590794663",
+        "parentId": "0",
+        "expectedProductId": "10655946015053",
+        "actualProductId": "10655946015053",
+        "expectedVariantId": "53873195745613",
+        "actualVariantId": "53873195745613",
+        "linkOk": true,
+        "price": {
+          "22945": 9.5
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "783771",
+        "collectionTitle": "Zabawki",
+        "baselinkerProductId": "590794664",
+        "parentId": "0",
+        "expectedProductId": "10655946080589",
+        "actualProductId": "10655946080589",
+        "expectedVariantId": "53873195811149",
+        "actualVariantId": "53873195811149",
+        "linkOk": true,
+        "price": {
+          "22945": 19.01
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5902728",
+        "collectionTitle": "Zabawki",
+        "baselinkerProductId": "590794665",
+        "parentId": "0",
+        "expectedProductId": "10655946113357",
+        "actualProductId": "10655946113357",
+        "expectedVariantId": "53873195843917",
+        "actualVariantId": "53873195843917",
+        "linkOk": true,
+        "price": {
+          "22945": 15.94
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5902729",
+        "collectionTitle": "Zabawki",
+        "baselinkerProductId": "590794666",
+        "parentId": "0",
+        "expectedProductId": "10655946178893",
+        "actualProductId": "10655946178893",
+        "expectedVariantId": "53873195909453",
+        "actualVariantId": "53873195909453",
+        "linkOk": true,
+        "price": {
+          "22945": 13.09
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5911655",
+        "collectionTitle": "Zabawki",
+        "baselinkerProductId": "590794667",
+        "parentId": "0",
+        "expectedProductId": "10655946342733",
+        "actualProductId": "10655946342733",
+        "expectedVariantId": "53873196204365",
+        "actualVariantId": "53873196204365",
+        "linkOk": true,
+        "price": {
+          "22945": 10.54
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "782872",
+        "collectionTitle": "Gryzaki",
+        "baselinkerProductId": "590794648",
+        "parentId": "590794647",
+        "expectedProductId": "10655946375501",
+        "actualProductId": "10655946375501",
+        "expectedVariantId": "53873196826957",
+        "actualVariantId": "53873196826957",
+        "linkOk": true,
+        "price": {
+          "22945": 21.28
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "782873",
+        "collectionTitle": "Gryzaki",
+        "baselinkerProductId": "590794658",
+        "parentId": "590794647",
+        "expectedProductId": "10655946375501",
+        "actualProductId": "10655946375501",
+        "expectedVariantId": "53873196859725",
+        "actualVariantId": "53873196859725",
+        "linkOk": true,
+        "price": {
+          "22945": 21.28
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5911656",
+        "collectionTitle": "Zabawki",
+        "baselinkerProductId": "590794669",
+        "parentId": "590794668",
+        "expectedProductId": "10655946408269",
+        "actualProductId": "10655946408269",
+        "expectedVariantId": "53873196892493",
+        "actualVariantId": "53873196892493",
+        "linkOk": true,
+        "price": {
+          "22945": 10.02
+        },
+        "priceOk": true
+      },
+      {
+        "sku": "5911657",
+        "collectionTitle": "Zabawki",
+        "baselinkerProductId": "590794670",
+        "parentId": "590794668",
+        "expectedProductId": "10655946408269",
+        "actualProductId": "10655946408269",
+        "expectedVariantId": "53873196925261",
+        "actualVariantId": "53873196925261",
+        "linkOk": true,
+        "price": {
+          "22945": 9.34
+        },
+        "priceOk": true
+      }
+    ]
+  }
+}

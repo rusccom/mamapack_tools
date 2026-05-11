@@ -1,0 +1,76 @@
+{
+  "id": "gid://shopify/Product/10648590713165",
+  "legacyResourceId": "10648590713165",
+  "title": "TORBA do szpitala dla mamy M.A.N.I.Y - z dolną komorą",
+  "handle": "torba-do-szpitala-03-copy",
+  "status": "DRAFT",
+  "vendor": "mamapack",
+  "productType": "",
+  "tags": [],
+  "descriptionHtml": "<p>Idealna torba dla przyszłych mam. Wygodny do zbierania rzeczy do szpitala położniczego. Lekki i kompaktowy.</p>\n<p>Specyfikacja:</p>\n<p>Kolor: szary</p>\n<p>Wymiary torby: 49<span style=\"font-size: 0.875rem;\" data-mce-style=\"font-size: 0.875rem;\"> x 32 x 25 cm</span></p>\n<p>Tkanina: nylonu i poliestru.</p>",
+  "totalInventory": 0,
+  "seo": {
+    "title": "Torba do szpitala-03 – mamapack",
+    "description": "Torba do szpitala-03. Wygodny do zbierania rzeczy do szpitala położniczego."
+  },
+  "collections": {
+    "nodes": [
+      {
+        "id": "gid://shopify/Collection/621642481997",
+        "title": "Puste torby i organizery",
+        "handle": "puste-torby-i-organizery"
+      }
+    ]
+  },
+  "options": [
+    {
+      "id": "gid://shopify/ProductOption/13397592932685",
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ],
+      "optionValues": [
+        {
+          "id": "gid://shopify/ProductOptionValue/7728931799373",
+          "name": "Default Title",
+          "hasVariants": true
+        }
+      ]
+    }
+  ],
+  "variants": {
+    "nodes": [
+      {
+        "id": "gid://shopify/ProductVariant/53830507266381",
+        "legacyResourceId": "53830507266381",
+        "title": "Default Title",
+        "sku": "TORBA03",
+        "barcode": null,
+        "price": "89.90",
+        "inventoryPolicy": "CONTINUE",
+        "inventoryQuantity": 0,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "id": "gid://shopify/InventoryItem/55873222869325",
+          "tracked": true,
+          "unitCost": {
+            "amount": "47.0",
+            "currencyCode": "PLN"
+          }
+        },
+        "media": {
+          "nodes": []
+        }
+      }
+    ]
+  },
+  "media": {
+    "nodes": []
+  }
+}

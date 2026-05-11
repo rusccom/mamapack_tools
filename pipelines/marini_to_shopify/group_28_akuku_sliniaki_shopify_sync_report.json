@@ -1,0 +1,592 @@
+{
+  "createdAt": "2026-05-10T17:17:03.095150+03:00",
+  "sourceUrl": "https://b2b.marini.pl/items/28?parent=22",
+  "collection": {
+    "id": "gid://shopify/Collection/660910408013",
+    "title": "Śliniaki",
+    "handle": "sliniaki"
+  },
+  "createdProductCount": 5,
+  "createdSkuCount": 12,
+  "skippedExistingOrMissing": [
+    {
+      "title": "AKUKU Śliniak z rękawkiem",
+      "missing": [],
+      "conflicts": {
+        "skus": [
+          "A0517",
+          "A0518"
+        ],
+        "handles": [
+          "akuku-sliniak-z-rekawkiem"
+        ]
+      }
+    }
+  ],
+  "products": [
+    {
+      "title": "AKUKU Śliniak na rzep",
+      "optionName": "Rozmiar",
+      "skus": [
+        "A1300",
+        "A1320"
+      ],
+      "variantValues": [
+        "mały",
+        "średni"
+      ]
+    },
+    {
+      "title": "AKUKU Śliniak apaszka na rzep",
+      "optionName": "Wzór",
+      "skus": [
+        "A1512",
+        "A1513"
+      ],
+      "variantValues": [
+        "Serduszka",
+        "Jeżyki"
+      ]
+    },
+    {
+      "title": "AKUKU Śliniak wiązany",
+      "optionName": "Rozmiar",
+      "skus": [
+        "A1600",
+        "A1640"
+      ],
+      "variantValues": [
+        "mini",
+        "mały"
+      ]
+    },
+    {
+      "title": "AKUKU Śliniak wiązany z nadrukiem",
+      "optionName": "Wzór",
+      "skus": [
+        "A1662",
+        "A1663",
+        "A1664",
+        "A1665",
+        "A1666"
+      ],
+      "variantValues": [
+        "Sowy",
+        "Autka",
+        "Jeżyki",
+        "Gwiazdki",
+        "Koty"
+      ]
+    },
+    {
+      "title": "AKUKU Śliniak rękawek okulary",
+      "optionName": "Title",
+      "skus": [
+        "A1744"
+      ],
+      "variantValues": [
+        "Default Title"
+      ]
+    }
+  ],
+  "created": [
+    {
+      "product": {
+        "id": "gid://shopify/Product/10655954174285",
+        "title": "AKUKU Śliniak na rzep",
+        "handle": "akuku-sliniak-na-rzep",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "A1300",
+              "barcode": "5907644013005",
+              "price": "7.71",
+              "selectedOptions": [
+                {
+                  "name": "Rozmiar",
+                  "value": "mały"
+                }
+              ]
+            },
+            {
+              "sku": "A1320",
+              "barcode": "5907644013203",
+              "price": "9.14",
+              "selectedOptions": [
+                {
+                  "name": "Rozmiar",
+                  "value": "średni"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU Śliniak na rzep",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "AKUKU Śliniak na rzep",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Śliniaki",
+              "handle": "sliniaki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU Śliniak na rzep | MamaPack",
+          "description": "AKUKU Śliniak na rzep marki AKUKU. Praktyczny śliniak dla dziecka. Warianty SKU: A1300, A1320."
+        }
+      },
+      "sourceItems": [
+        {
+          "sku": "A1300",
+          "sourceSku": "761535",
+          "sourceTitle": "AKUKU A1300 Śliniak na rzep mały",
+          "variantValue": "mały",
+          "barcode": "5907644013005",
+          "purchaseNet": 4.82,
+          "salePrice": "7.71",
+          "stock": 8,
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_28_akuku_sliniaki\\A1300-1.png"
+          ]
+        },
+        {
+          "sku": "A1320",
+          "sourceSku": "25413",
+          "sourceTitle": "AKUKU A1320 Śliniak na rzep średni",
+          "variantValue": "średni",
+          "barcode": "5907644013203",
+          "purchaseNet": 5.71,
+          "salePrice": "9.14",
+          "stock": 0,
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_28_akuku_sliniaki\\A1320-1.png"
+          ]
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": "gid://shopify/Product/10655954239821",
+        "title": "AKUKU Śliniak apaszka na rzep",
+        "handle": "akuku-sliniak-apaszka-na-rzep",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "A1512",
+              "barcode": "5907644015122",
+              "price": "8.34",
+              "selectedOptions": [
+                {
+                  "name": "Wzór",
+                  "value": "Serduszka"
+                }
+              ]
+            },
+            {
+              "sku": "A1513",
+              "barcode": "5907644015139",
+              "price": "7.79",
+              "selectedOptions": [
+                {
+                  "name": "Wzór",
+                  "value": "Jeżyki"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU Śliniak apaszka na rzep",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "AKUKU Śliniak apaszka na rzep",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Śliniaki",
+              "handle": "sliniaki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU Śliniak apaszka na rzep | MamaPack",
+          "description": "AKUKU Śliniak apaszka na rzep marki AKUKU. Praktyczny śliniak dla dziecka. Warianty SKU: A1512, A1513."
+        }
+      },
+      "sourceItems": [
+        {
+          "sku": "A1512",
+          "sourceSku": "5907634",
+          "sourceTitle": "AKUKU A1512 Śliniak - Apaszka na rzep Serduszka",
+          "variantValue": "Serduszka",
+          "barcode": "5907644015122",
+          "purchaseNet": 5.21,
+          "salePrice": "8.34",
+          "stock": 18,
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_28_akuku_sliniaki\\A1512-1.jpg"
+          ]
+        },
+        {
+          "sku": "A1513",
+          "sourceSku": "5907635",
+          "sourceTitle": "AKUKU A1513 Śliniak-Apaszka na rzep Jeżyki",
+          "variantValue": "Jeżyki",
+          "barcode": "5907644015139",
+          "purchaseNet": 4.87,
+          "salePrice": "7.79",
+          "stock": 6,
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_28_akuku_sliniaki\\A1513-1.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": "gid://shopify/Product/10655954305357",
+        "title": "AKUKU Śliniak wiązany",
+        "handle": "akuku-sliniak-wiazany",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "A1600",
+              "barcode": "5907644016006",
+              "price": "4.51",
+              "selectedOptions": [
+                {
+                  "name": "Rozmiar",
+                  "value": "mini"
+                }
+              ]
+            },
+            {
+              "sku": "A1640",
+              "barcode": "5907644016402",
+              "price": "7.49",
+              "selectedOptions": [
+                {
+                  "name": "Rozmiar",
+                  "value": "mały"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU Śliniak wiązany",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "AKUKU Śliniak wiązany",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Śliniaki",
+              "handle": "sliniaki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU Śliniak wiązany | MamaPack",
+          "description": "AKUKU Śliniak wiązany marki AKUKU. Praktyczny śliniak dla dziecka. Warianty SKU: A1600, A1640."
+        }
+      },
+      "sourceItems": [
+        {
+          "sku": "A1600",
+          "sourceSku": "4432",
+          "sourceTitle": "AKUKU A1600 Śliniak wiązany mini",
+          "variantValue": "mini",
+          "barcode": "5907644016006",
+          "purchaseNet": 2.82,
+          "salePrice": "4.51",
+          "stock": 30,
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_28_akuku_sliniaki\\A1600-1.png"
+          ]
+        },
+        {
+          "sku": "A1640",
+          "sourceSku": "763127",
+          "sourceTitle": "AKUKU A1640 Śliniak wiązany mały",
+          "variantValue": "mały",
+          "barcode": "5907644016402",
+          "purchaseNet": 4.68,
+          "salePrice": "7.49",
+          "stock": 8,
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_28_akuku_sliniaki\\A1640-1.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": "gid://shopify/Product/10655954338125",
+        "title": "AKUKU Śliniak wiązany z nadrukiem",
+        "handle": "akuku-sliniak-wiazany-z-nadrukiem",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "A1662",
+              "barcode": "5907644016624",
+              "price": "7.01",
+              "selectedOptions": [
+                {
+                  "name": "Wzór",
+                  "value": "Sowy"
+                }
+              ]
+            },
+            {
+              "sku": "A1663",
+              "barcode": "5907644016631",
+              "price": "7.01",
+              "selectedOptions": [
+                {
+                  "name": "Wzór",
+                  "value": "Autka"
+                }
+              ]
+            },
+            {
+              "sku": "A1664",
+              "barcode": "5907644016648",
+              "price": "7.49",
+              "selectedOptions": [
+                {
+                  "name": "Wzór",
+                  "value": "Jeżyki"
+                }
+              ]
+            },
+            {
+              "sku": "A1665",
+              "barcode": "5907644016655",
+              "price": "7.01",
+              "selectedOptions": [
+                {
+                  "name": "Wzór",
+                  "value": "Gwiazdki"
+                }
+              ]
+            },
+            {
+              "sku": "A1666",
+              "barcode": "5907644016662",
+              "price": "7.49",
+              "selectedOptions": [
+                {
+                  "name": "Wzór",
+                  "value": "Koty"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU Śliniak wiązany z nadrukiem",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "AKUKU Śliniak wiązany z nadrukiem",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "AKUKU Śliniak wiązany z nadrukiem",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "AKUKU Śliniak wiązany z nadrukiem",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "AKUKU Śliniak wiązany z nadrukiem",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Śliniaki",
+              "handle": "sliniaki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU Śliniak wiązany z nadrukiem | MamaPack",
+          "description": "AKUKU Śliniak wiązany z nadrukiem marki AKUKU. Praktyczny śliniak dla dziecka. Warianty SKU: A1662, A1663, A1664, A1665, A1666."
+        }
+      },
+      "sourceItems": [
+        {
+          "sku": "A1662",
+          "sourceSku": "5912512",
+          "sourceTitle": "AKUKU A1662 Śliniak wiązany SOWY",
+          "variantValue": "Sowy",
+          "barcode": "5907644016624",
+          "purchaseNet": 4.38,
+          "salePrice": "7.01",
+          "stock": 16,
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_28_akuku_sliniaki\\A1662-1.jpg"
+          ]
+        },
+        {
+          "sku": "A1663",
+          "sourceSku": "5912513",
+          "sourceTitle": "AKUKU A1663 Śliniak wiązany AUTKA",
+          "variantValue": "Autka",
+          "barcode": "5907644016631",
+          "purchaseNet": 4.38,
+          "salePrice": "7.01",
+          "stock": 13,
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_28_akuku_sliniaki\\A1663-1.jpg"
+          ]
+        },
+        {
+          "sku": "A1664",
+          "sourceSku": "5912514",
+          "sourceTitle": "AKUKU A1664 Śliniak wiązany JEŻYKI",
+          "variantValue": "Jeżyki",
+          "barcode": "5907644016648",
+          "purchaseNet": 4.68,
+          "salePrice": "7.49",
+          "stock": 3,
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_28_akuku_sliniaki\\A1664-1.jpg"
+          ]
+        },
+        {
+          "sku": "A1665",
+          "sourceSku": "5912515",
+          "sourceTitle": "AKUKU A1665 Śliniak wiązany GWIAZDKI",
+          "variantValue": "Gwiazdki",
+          "barcode": "5907644016655",
+          "purchaseNet": 4.38,
+          "salePrice": "7.01",
+          "stock": 4,
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_28_akuku_sliniaki\\A1665-2.jpg"
+          ]
+        },
+        {
+          "sku": "A1666",
+          "sourceSku": "5912516",
+          "sourceTitle": "AKUKU A1666 Śliniak wiązany KOTY",
+          "variantValue": "Koty",
+          "barcode": "5907644016662",
+          "purchaseNet": 4.68,
+          "salePrice": "7.49",
+          "stock": 4,
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_28_akuku_sliniaki\\A1666-1.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": "gid://shopify/Product/10655954370893",
+        "title": "AKUKU Śliniak rękawek okulary",
+        "handle": "akuku-sliniak-rekawek-okulary",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "A1744",
+              "barcode": "5907644017447",
+              "price": "21.41",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU Śliniak rękawek okulary",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Śliniaki",
+              "handle": "sliniaki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU Śliniak rękawek okulary | MamaPack",
+          "description": "AKUKU Śliniak rękawek okulary marki AKUKU. Praktyczny śliniak dla dziecka. Warianty SKU: A1744."
+        }
+      },
+      "sourceItems": [
+        {
+          "sku": "A1744",
+          "sourceSku": "773899",
+          "sourceTitle": "AKUKU A1744 Śliniak rękawek okulary",
+          "variantValue": "Default Title",
+          "barcode": "5907644017447",
+          "purchaseNet": 13.38,
+          "salePrice": "21.41",
+          "stock": 7,
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_28_akuku_sliniaki\\A1744-1.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}

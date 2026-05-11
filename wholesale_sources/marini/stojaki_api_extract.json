@@ -1,0 +1,943 @@
+﻿{
+    "checkedAt":  "2026-05-08T18:05:46.521Z",
+    "pageUrl":  "https://b2b.marini.pl/items/356?parent=0",
+    "list":  {
+                 "url":  "/api/items/articleListXl/?groupId=356\u0026filterInGroup=false\u0026pageNumber=1\u0026sortMode=NameAsc\u0026onlyAvailable=false\u0026warehouseId=1\u0026stockLevelFilter=0",
+                 "ok":  true,
+                 "status":  200,
+                 "json":  {
+                              "articleList":  [
+                                                  {
+                                                      "article":  {
+                                                                      "id":  20938,
+                                                                      "image":  {
+                                                                                    "imageType":  1,
+                                                                                    "imageId":  36967,
+                                                                                    "imageUrl":  null
+                                                                                },
+                                                                      "name":  "TEGA DM-008 Stojak uniwersalny 86/102 LUX biały",
+                                                                      "code":  {
+                                                                                   "value":  "3151",
+                                                                                   "representsExistingValue":  true
+                                                                               },
+                                                                      "symbol":  null,
+                                                                      "type":  1,
+                                                                      "discountPermission":  true
+                                                                  },
+                                                      "flag":  0,
+                                                      "status":  "Available",
+                                                      "rowNumber":  1,
+                                                      "objectExtension":  {
+                                                                              "extendedItemsList":  [
+
+                                                                                                    ]
+                                                                          },
+                                                      "extensions":  {
+                                                                         "extendedItemsList":  {
+
+                                                                                               }
+                                                                     }
+                                                  },
+                                                  {
+                                                      "article":  {
+                                                                      "id":  50790,
+                                                                      "image":  {
+                                                                                    "imageType":  1,
+                                                                                    "imageId":  58751,
+                                                                                    "imageUrl":  null
+                                                                                },
+                                                                      "name":  "TEGA DM-008 Stojak uniwersalny 86/102 LUX grafitowy",
+                                                                      "code":  {
+                                                                                   "value":  "784480",
+                                                                                   "representsExistingValue":  true
+                                                                               },
+                                                                      "symbol":  null,
+                                                                      "type":  1,
+                                                                      "discountPermission":  true
+                                                                  },
+                                                      "flag":  0,
+                                                      "status":  "Available",
+                                                      "rowNumber":  2,
+                                                      "objectExtension":  {
+                                                                              "extendedItemsList":  [
+
+                                                                                                    ]
+                                                                          },
+                                                      "extensions":  {
+                                                                         "extendedItemsList":  {
+
+                                                                                               }
+                                                                     }
+                                                  },
+                                                  {
+                                                      "article":  {
+                                                                      "id":  37117,
+                                                                      "image":  {
+                                                                                    "imageType":  1,
+                                                                                    "imageId":  62559,
+                                                                                    "imageUrl":  null
+                                                                                },
+                                                                      "name":  "TEGA DM-018 Podstawa uniwersalna 102/102LUX czarny",
+                                                                      "code":  {
+                                                                                   "value":  "771230",
+                                                                                   "representsExistingValue":  true
+                                                                               },
+                                                                      "symbol":  null,
+                                                                      "type":  1,
+                                                                      "discountPermission":  true
+                                                                  },
+                                                      "flag":  0,
+                                                      "status":  "Available",
+                                                      "rowNumber":  3,
+                                                      "objectExtension":  {
+                                                                              "extendedItemsList":  [
+
+                                                                                                    ]
+                                                                          },
+                                                      "extensions":  {
+                                                                         "extendedItemsList":  {
+
+                                                                                               }
+                                                                     }
+                                                  },
+                                                  {
+                                                      "article":  {
+                                                                      "id":  50820,
+                                                                      "image":  {
+                                                                                    "imageType":  0,
+                                                                                    "imageId":  null,
+                                                                                    "imageUrl":  null
+                                                                                },
+                                                                      "name":  "TEGA DM-018 Podstawa uniwersalna 102/102LUX grafitowy",
+                                                                      "code":  {
+                                                                                   "value":  "784510",
+                                                                                   "representsExistingValue":  true
+                                                                               },
+                                                                      "symbol":  null,
+                                                                      "type":  1,
+                                                                      "discountPermission":  true
+                                                                  },
+                                                      "flag":  0,
+                                                      "status":  "Available",
+                                                      "rowNumber":  4,
+                                                      "objectExtension":  {
+                                                                              "extendedItemsList":  [
+
+                                                                                                    ]
+                                                                          },
+                                                      "extensions":  {
+                                                                         "extendedItemsList":  {
+
+                                                                                               }
+                                                                     }
+                                                  },
+                                                  {
+                                                      "article":  {
+                                                                      "id":  34078,
+                                                                      "image":  {
+                                                                                    "imageType":  1,
+                                                                                    "imageId":  26543,
+                                                                                    "imageUrl":  null
+                                                                                },
+                                                                      "name":  "TEGA DM-018-103 Podstawa uniwersalna 102/102LUX  biała",
+                                                                      "code":  {
+                                                                                   "value":  "768291",
+                                                                                   "representsExistingValue":  true
+                                                                               },
+                                                                      "symbol":  null,
+                                                                      "type":  1,
+                                                                      "discountPermission":  true
+                                                                  },
+                                                      "flag":  0,
+                                                      "status":  "Available",
+                                                      "rowNumber":  5,
+                                                      "objectExtension":  {
+                                                                              "extendedItemsList":  [
+
+                                                                                                    ]
+                                                                          },
+                                                      "extensions":  {
+                                                                         "extendedItemsList":  {
+
+                                                                                               }
+                                                                     }
+                                                  },
+                                                  {
+                                                      "article":  {
+                                                                      "id":  65423,
+                                                                      "image":  {
+                                                                                    "imageType":  1,
+                                                                                    "imageId":  89926,
+                                                                                    "imageUrl":  null
+                                                                                },
+                                                                      "name":  "TEGA DM-035-103 Stojak pod wanienkę TEGGI biały",
+                                                                      "code":  {
+                                                                                   "value":  "5909167",
+                                                                                   "representsExistingValue":  true
+                                                                               },
+                                                                      "symbol":  null,
+                                                                      "type":  1,
+                                                                      "discountPermission":  true
+                                                                  },
+                                                      "flag":  0,
+                                                      "status":  "Available",
+                                                      "rowNumber":  6,
+                                                      "objectExtension":  {
+                                                                              "extendedItemsList":  [
+
+                                                                                                    ]
+                                                                          },
+                                                      "extensions":  {
+                                                                         "extendedItemsList":  {
+
+                                                                                               }
+                                                                     }
+                                                  },
+                                                  {
+                                                      "article":  {
+                                                                      "id":  72314,
+                                                                      "image":  {
+                                                                                    "imageType":  1,
+                                                                                    "imageId":  89944,
+                                                                                    "imageUrl":  null
+                                                                                },
+                                                                      "name":  "TEGA DM-037-103 Stojak pod wanienkę składaną biały",
+                                                                      "code":  {
+                                                                                   "value":  "5914537",
+                                                                                   "representsExistingValue":  true
+                                                                               },
+                                                                      "symbol":  null,
+                                                                      "type":  1,
+                                                                      "discountPermission":  true
+                                                                  },
+                                                      "flag":  0,
+                                                      "status":  "Available",
+                                                      "rowNumber":  7,
+                                                      "objectExtension":  {
+                                                                              "extendedItemsList":  [
+
+                                                                                                    ]
+                                                                          },
+                                                      "extensions":  {
+                                                                         "extendedItemsList":  {
+
+                                                                                               }
+                                                                     }
+                                                  },
+                                                  {
+                                                      "article":  {
+                                                                      "id":  72313,
+                                                                      "image":  {
+                                                                                    "imageType":  1,
+                                                                                    "imageId":  89943,
+                                                                                    "imageUrl":  null
+                                                                                },
+                                                                      "name":  "TEGA DM-038-103 Stojak pod wanienkę składaną do montażu biały",
+                                                                      "code":  {
+                                                                                   "value":  "5914536",
+                                                                                   "representsExistingValue":  true
+                                                                               },
+                                                                      "symbol":  null,
+                                                                      "type":  1,
+                                                                      "discountPermission":  true
+                                                                  },
+                                                      "flag":  0,
+                                                      "status":  "Available",
+                                                      "rowNumber":  8,
+                                                      "objectExtension":  {
+                                                                              "extendedItemsList":  [
+
+                                                                                                    ]
+                                                                          },
+                                                      "extensions":  {
+                                                                         "extendedItemsList":  {
+
+                                                                                               }
+                                                                     }
+                                                  }
+                                              ],
+                              "paging":  {
+                                             "currentPage":  1,
+                                             "totalPages":  1,
+                                             "buildPager":  false
+                                         }
+                          }
+             },
+    "ids":  [
+                20938,
+                50790,
+                37117,
+                50820,
+                34078,
+                65423,
+                72314,
+                72313
+            ],
+    "units":  {
+                  "url":  "/api/items/unitsXl?ids=20938-50790-37117-50820-34078-65423-72314-72313",
+                  "ok":  true,
+                  "status":  200,
+                  "json":  {
+                               "articleUnitList":  [
+                                                       {
+                                                           "articleId":  20938,
+                                                           "units":  [
+                                                                         {
+                                                                             "unitId":  0,
+                                                                             "unitName":  "szt."
+                                                                         }
+                                                                     ]
+                                                       },
+                                                       {
+                                                           "articleId":  34078,
+                                                           "units":  [
+                                                                         {
+                                                                             "unitId":  0,
+                                                                             "unitName":  "szt."
+                                                                         }
+                                                                     ]
+                                                       },
+                                                       {
+                                                           "articleId":  37117,
+                                                           "units":  [
+                                                                         {
+                                                                             "unitId":  0,
+                                                                             "unitName":  "szt."
+                                                                         }
+                                                                     ]
+                                                       },
+                                                       {
+                                                           "articleId":  50790,
+                                                           "units":  [
+                                                                         {
+                                                                             "unitId":  0,
+                                                                             "unitName":  "szt."
+                                                                         }
+                                                                     ]
+                                                       },
+                                                       {
+                                                           "articleId":  50820,
+                                                           "units":  [
+                                                                         {
+                                                                             "unitId":  0,
+                                                                             "unitName":  "szt."
+                                                                         }
+                                                                     ]
+                                                       },
+                                                       {
+                                                           "articleId":  65423,
+                                                           "units":  [
+                                                                         {
+                                                                             "unitId":  0,
+                                                                             "unitName":  "szt."
+                                                                         }
+                                                                     ]
+                                                       },
+                                                       {
+                                                           "articleId":  72313,
+                                                           "units":  [
+                                                                         {
+                                                                             "unitId":  0,
+                                                                             "unitName":  "szt."
+                                                                         }
+                                                                     ]
+                                                       },
+                                                       {
+                                                           "articleId":  72314,
+                                                           "units":  [
+                                                                         {
+                                                                             "unitId":  0,
+                                                                             "unitName":  "szt."
+                                                                         }
+                                                                     ]
+                                                       }
+                                                   ]
+                           }
+              },
+    "details":  [
+                    {
+                        "url":  "/api/items/articleFromListXl/?articleId=20938\u0026warehouseId=1",
+                        "ok":  true,
+                        "status":  200,
+                        "json":  {
+                                     "unit":  {
+                                                  "unitLockChange":  false,
+                                                  "auxiliaryUnit":  {
+                                                                        "unit":  null,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                  "numerator":  {
+                                                                    "value":  1,
+                                                                    "representsExistingValue":  true
+                                                                },
+                                                  "denominator":  {
+                                                                      "value":  1,
+                                                                      "representsExistingValue":  true
+                                                                  },
+                                                  "basicUnit":  "szt.",
+                                                  "defaultUnitNo":  0,
+                                                  "isUnitTotal":  true
+                                              },
+                                     "price":  {
+                                                   "currency":  "PLN",
+                                                   "netPrice":  57.24,
+                                                   "grossPrice":  70.4052,
+                                                   "baseNetPrice":  65.79,
+                                                   "baseGrossPrice":  80.9217,
+                                                   "unitNetPrice":  {
+                                                                        "value":  0,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                   "unitGrossPrice":  {
+                                                                          "value":  0,
+                                                                          "representsExistingValue":  false
+                                                                      },
+                                                   "vatValue":  23
+                                               },
+                                     "stockLevel":  {
+                                                        "value":  "0",
+                                                        "representsExistingValue":  true
+                                                    },
+                                     "itemExistsInCurrentPriceList":  true,
+                                     "thresholdPriceLists":  {
+                                                                 "constPriceThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "valuableThresholdPriceList":  [
+
+                                                                                                ],
+                                                                 "percentageThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "hasAnyThresholdPriceList":  false
+                                                             },
+                                     "articleDetailsType":  "NotContainVariants",
+                                     "ean":  "",
+                                     "objectExtension":  {
+                                                             "extendedItemsList":  [
+
+                                                                                   ]
+                                                         },
+                                     "extensions":  {
+                                                        "extendedItemsList":  {
+
+                                                                              }
+                                                    },
+                                     "articleInCart":  {
+                                                           "quantity":  null
+                                                       }
+                                 }
+                    },
+                    {
+                        "url":  "/api/items/articleFromListXl/?articleId=50790\u0026warehouseId=1",
+                        "ok":  true,
+                        "status":  200,
+                        "json":  {
+                                     "unit":  {
+                                                  "unitLockChange":  false,
+                                                  "auxiliaryUnit":  {
+                                                                        "unit":  null,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                  "numerator":  {
+                                                                    "value":  1,
+                                                                    "representsExistingValue":  true
+                                                                },
+                                                  "denominator":  {
+                                                                      "value":  1,
+                                                                      "representsExistingValue":  true
+                                                                  },
+                                                  "basicUnit":  "szt.",
+                                                  "defaultUnitNo":  0,
+                                                  "isUnitTotal":  true
+                                              },
+                                     "price":  {
+                                                   "currency":  "PLN",
+                                                   "netPrice":  57.24,
+                                                   "grossPrice":  70.4052,
+                                                   "baseNetPrice":  65.79,
+                                                   "baseGrossPrice":  80.9217,
+                                                   "unitNetPrice":  {
+                                                                        "value":  0,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                   "unitGrossPrice":  {
+                                                                          "value":  0,
+                                                                          "representsExistingValue":  false
+                                                                      },
+                                                   "vatValue":  23
+                                               },
+                                     "stockLevel":  {
+                                                        "value":  "17",
+                                                        "representsExistingValue":  true
+                                                    },
+                                     "itemExistsInCurrentPriceList":  true,
+                                     "thresholdPriceLists":  {
+                                                                 "constPriceThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "valuableThresholdPriceList":  [
+
+                                                                                                ],
+                                                                 "percentageThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "hasAnyThresholdPriceList":  false
+                                                             },
+                                     "articleDetailsType":  "NotContainVariants",
+                                     "ean":  "5902963002150",
+                                     "objectExtension":  {
+                                                             "extendedItemsList":  [
+
+                                                                                   ]
+                                                         },
+                                     "extensions":  {
+                                                        "extendedItemsList":  {
+
+                                                                              }
+                                                    },
+                                     "articleInCart":  {
+                                                           "quantity":  null
+                                                       }
+                                 }
+                    },
+                    {
+                        "url":  "/api/items/articleFromListXl/?articleId=37117\u0026warehouseId=1",
+                        "ok":  true,
+                        "status":  200,
+                        "json":  {
+                                     "unit":  {
+                                                  "unitLockChange":  false,
+                                                  "auxiliaryUnit":  {
+                                                                        "unit":  null,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                  "numerator":  {
+                                                                    "value":  1,
+                                                                    "representsExistingValue":  true
+                                                                },
+                                                  "denominator":  {
+                                                                      "value":  1,
+                                                                      "representsExistingValue":  true
+                                                                  },
+                                                  "basicUnit":  "szt.",
+                                                  "defaultUnitNo":  0,
+                                                  "isUnitTotal":  true
+                                              },
+                                     "price":  {
+                                                   "currency":  "PLN",
+                                                   "netPrice":  57.24,
+                                                   "grossPrice":  70.4052,
+                                                   "baseNetPrice":  65.79,
+                                                   "baseGrossPrice":  80.9217,
+                                                   "unitNetPrice":  {
+                                                                        "value":  0,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                   "unitGrossPrice":  {
+                                                                          "value":  0,
+                                                                          "representsExistingValue":  false
+                                                                      },
+                                                   "vatValue":  23
+                                               },
+                                     "stockLevel":  {
+                                                        "value":  "10",
+                                                        "representsExistingValue":  true
+                                                    },
+                                     "itemExistsInCurrentPriceList":  true,
+                                     "thresholdPriceLists":  {
+                                                                 "constPriceThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "valuableThresholdPriceList":  [
+
+                                                                                                ],
+                                                                 "percentageThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "hasAnyThresholdPriceList":  false
+                                                             },
+                                     "articleDetailsType":  "NotContainVariants",
+                                     "ean":  "5902963071385",
+                                     "objectExtension":  {
+                                                             "extendedItemsList":  [
+
+                                                                                   ]
+                                                         },
+                                     "extensions":  {
+                                                        "extendedItemsList":  {
+
+                                                                              }
+                                                    },
+                                     "articleInCart":  {
+                                                           "quantity":  null
+                                                       }
+                                 }
+                    },
+                    {
+                        "url":  "/api/items/articleFromListXl/?articleId=50820\u0026warehouseId=1",
+                        "ok":  true,
+                        "status":  200,
+                        "json":  {
+                                     "unit":  {
+                                                  "unitLockChange":  false,
+                                                  "auxiliaryUnit":  {
+                                                                        "unit":  null,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                  "numerator":  {
+                                                                    "value":  1,
+                                                                    "representsExistingValue":  true
+                                                                },
+                                                  "denominator":  {
+                                                                      "value":  1,
+                                                                      "representsExistingValue":  true
+                                                                  },
+                                                  "basicUnit":  "szt.",
+                                                  "defaultUnitNo":  0,
+                                                  "isUnitTotal":  true
+                                              },
+                                     "price":  {
+                                                   "currency":  "PLN",
+                                                   "netPrice":  53.05,
+                                                   "grossPrice":  65.2515,
+                                                   "baseNetPrice":  60.98,
+                                                   "baseGrossPrice":  75.0054,
+                                                   "unitNetPrice":  {
+                                                                        "value":  0,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                   "unitGrossPrice":  {
+                                                                          "value":  0,
+                                                                          "representsExistingValue":  false
+                                                                      },
+                                                   "vatValue":  23
+                                               },
+                                     "stockLevel":  {
+                                                        "value":  "10",
+                                                        "representsExistingValue":  true
+                                                    },
+                                     "itemExistsInCurrentPriceList":  true,
+                                     "thresholdPriceLists":  {
+                                                                 "constPriceThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "valuableThresholdPriceList":  [
+
+                                                                                                ],
+                                                                 "percentageThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "hasAnyThresholdPriceList":  false
+                                                             },
+                                     "articleDetailsType":  "NotContainVariants",
+                                     "ean":  "5902963002181",
+                                     "objectExtension":  {
+                                                             "extendedItemsList":  [
+
+                                                                                   ]
+                                                         },
+                                     "extensions":  {
+                                                        "extendedItemsList":  {
+
+                                                                              }
+                                                    },
+                                     "articleInCart":  {
+                                                           "quantity":  null
+                                                       }
+                                 }
+                    },
+                    {
+                        "url":  "/api/items/articleFromListXl/?articleId=34078\u0026warehouseId=1",
+                        "ok":  true,
+                        "status":  200,
+                        "json":  {
+                                     "unit":  {
+                                                  "unitLockChange":  false,
+                                                  "auxiliaryUnit":  {
+                                                                        "unit":  null,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                  "numerator":  {
+                                                                    "value":  1,
+                                                                    "representsExistingValue":  true
+                                                                },
+                                                  "denominator":  {
+                                                                      "value":  1,
+                                                                      "representsExistingValue":  true
+                                                                  },
+                                                  "basicUnit":  "szt.",
+                                                  "defaultUnitNo":  0,
+                                                  "isUnitTotal":  true
+                                              },
+                                     "price":  {
+                                                   "currency":  "PLN",
+                                                   "netPrice":  58,
+                                                   "grossPrice":  71.34,
+                                                   "baseNetPrice":  66.67,
+                                                   "baseGrossPrice":  82.0041,
+                                                   "unitNetPrice":  {
+                                                                        "value":  0,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                   "unitGrossPrice":  {
+                                                                          "value":  0,
+                                                                          "representsExistingValue":  false
+                                                                      },
+                                                   "vatValue":  23
+                                               },
+                                     "stockLevel":  {
+                                                        "value":  "20",
+                                                        "representsExistingValue":  true
+                                                    },
+                                     "itemExistsInCurrentPriceList":  true,
+                                     "thresholdPriceLists":  {
+                                                                 "constPriceThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "valuableThresholdPriceList":  [
+
+                                                                                                ],
+                                                                 "percentageThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "hasAnyThresholdPriceList":  false
+                                                             },
+                                     "articleDetailsType":  "NotContainVariants",
+                                     "ean":  "5901549198812",
+                                     "objectExtension":  {
+                                                             "extendedItemsList":  [
+
+                                                                                   ]
+                                                         },
+                                     "extensions":  {
+                                                        "extendedItemsList":  {
+
+                                                                              }
+                                                    },
+                                     "articleInCart":  {
+                                                           "quantity":  null
+                                                       }
+                                 }
+                    },
+                    {
+                        "url":  "/api/items/articleFromListXl/?articleId=65423\u0026warehouseId=1",
+                        "ok":  true,
+                        "status":  200,
+                        "json":  {
+                                     "unit":  {
+                                                  "unitLockChange":  false,
+                                                  "auxiliaryUnit":  {
+                                                                        "unit":  null,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                  "numerator":  {
+                                                                    "value":  1,
+                                                                    "representsExistingValue":  true
+                                                                },
+                                                  "denominator":  {
+                                                                      "value":  1,
+                                                                      "representsExistingValue":  true
+                                                                  },
+                                                  "basicUnit":  "szt.",
+                                                  "defaultUnitNo":  0,
+                                                  "isUnitTotal":  true
+                                              },
+                                     "price":  {
+                                                   "currency":  "PLN",
+                                                   "netPrice":  56.55,
+                                                   "grossPrice":  69.5565,
+                                                   "baseNetPrice":  65,
+                                                   "baseGrossPrice":  79.95,
+                                                   "unitNetPrice":  {
+                                                                        "value":  0,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                   "unitGrossPrice":  {
+                                                                          "value":  0,
+                                                                          "representsExistingValue":  false
+                                                                      },
+                                                   "vatValue":  23
+                                               },
+                                     "stockLevel":  {
+                                                        "value":  "2",
+                                                        "representsExistingValue":  true
+                                                    },
+                                     "itemExistsInCurrentPriceList":  true,
+                                     "thresholdPriceLists":  {
+                                                                 "constPriceThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "valuableThresholdPriceList":  [
+
+                                                                                                ],
+                                                                 "percentageThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "hasAnyThresholdPriceList":  false
+                                                             },
+                                     "articleDetailsType":  "NotContainVariants",
+                                     "ean":  "5905489408529",
+                                     "objectExtension":  {
+                                                             "extendedItemsList":  [
+
+                                                                                   ]
+                                                         },
+                                     "extensions":  {
+                                                        "extendedItemsList":  {
+
+                                                                              }
+                                                    },
+                                     "articleInCart":  {
+                                                           "quantity":  null
+                                                       }
+                                 }
+                    },
+                    {
+                        "url":  "/api/items/articleFromListXl/?articleId=72314\u0026warehouseId=1",
+                        "ok":  true,
+                        "status":  200,
+                        "json":  {
+                                     "unit":  {
+                                                  "unitLockChange":  false,
+                                                  "auxiliaryUnit":  {
+                                                                        "unit":  null,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                  "numerator":  {
+                                                                    "value":  1,
+                                                                    "representsExistingValue":  true
+                                                                },
+                                                  "denominator":  {
+                                                                      "value":  1,
+                                                                      "representsExistingValue":  true
+                                                                  },
+                                                  "basicUnit":  "szt.",
+                                                  "defaultUnitNo":  0,
+                                                  "isUnitTotal":  true
+                                              },
+                                     "price":  {
+                                                   "currency":  "PLN",
+                                                   "netPrice":  53.8,
+                                                   "grossPrice":  66.174,
+                                                   "baseNetPrice":  61.84,
+                                                   "baseGrossPrice":  76.0632,
+                                                   "unitNetPrice":  {
+                                                                        "value":  0,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                   "unitGrossPrice":  {
+                                                                          "value":  0,
+                                                                          "representsExistingValue":  false
+                                                                      },
+                                                   "vatValue":  23
+                                               },
+                                     "stockLevel":  {
+                                                        "value":  "1",
+                                                        "representsExistingValue":  true
+                                                    },
+                                     "itemExistsInCurrentPriceList":  true,
+                                     "thresholdPriceLists":  {
+                                                                 "constPriceThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "valuableThresholdPriceList":  [
+
+                                                                                                ],
+                                                                 "percentageThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "hasAnyThresholdPriceList":  false
+                                                             },
+                                     "articleDetailsType":  "NotContainVariants",
+                                     "ean":  "5902963002969",
+                                     "objectExtension":  {
+                                                             "extendedItemsList":  [
+
+                                                                                   ]
+                                                         },
+                                     "extensions":  {
+                                                        "extendedItemsList":  {
+
+                                                                              }
+                                                    },
+                                     "articleInCart":  {
+                                                           "quantity":  null
+                                                       }
+                                 }
+                    },
+                    {
+                        "url":  "/api/items/articleFromListXl/?articleId=72313\u0026warehouseId=1",
+                        "ok":  true,
+                        "status":  200,
+                        "json":  {
+                                     "unit":  {
+                                                  "unitLockChange":  false,
+                                                  "auxiliaryUnit":  {
+                                                                        "unit":  null,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                  "numerator":  {
+                                                                    "value":  1,
+                                                                    "representsExistingValue":  true
+                                                                },
+                                                  "denominator":  {
+                                                                      "value":  1,
+                                                                      "representsExistingValue":  true
+                                                                  },
+                                                  "basicUnit":  "szt.",
+                                                  "defaultUnitNo":  0,
+                                                  "isUnitTotal":  true
+                                              },
+                                     "price":  {
+                                                   "currency":  "PLN",
+                                                   "netPrice":  65.25,
+                                                   "grossPrice":  80.2575,
+                                                   "baseNetPrice":  75,
+                                                   "baseGrossPrice":  92.25,
+                                                   "unitNetPrice":  {
+                                                                        "value":  0,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                   "unitGrossPrice":  {
+                                                                          "value":  0,
+                                                                          "representsExistingValue":  false
+                                                                      },
+                                                   "vatValue":  23
+                                               },
+                                     "stockLevel":  {
+                                                        "value":  "2",
+                                                        "representsExistingValue":  true
+                                                    },
+                                     "itemExistsInCurrentPriceList":  true,
+                                     "thresholdPriceLists":  {
+                                                                 "constPriceThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "valuableThresholdPriceList":  [
+
+                                                                                                ],
+                                                                 "percentageThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "hasAnyThresholdPriceList":  false
+                                                             },
+                                     "articleDetailsType":  "NotContainVariants",
+                                     "ean":  "5902963002976",
+                                     "objectExtension":  {
+                                                             "extendedItemsList":  [
+
+                                                                                   ]
+                                                         },
+                                     "extensions":  {
+                                                        "extendedItemsList":  {
+
+                                                                              }
+                                                    },
+                                     "articleInCart":  {
+                                                           "quantity":  null
+                                                       }
+                                 }
+                    }
+                ]
+}

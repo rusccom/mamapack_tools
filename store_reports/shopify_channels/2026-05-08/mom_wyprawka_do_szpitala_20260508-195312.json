@@ -1,0 +1,92 @@
+{
+  "created": true,
+  "collection": {
+    "id": "gid://shopify/Collection/660931871053",
+    "title": "Wyprawka do szpitala dla mamy",
+    "handle": "wyprawka-do-szpitala-dla-mamy",
+    "descriptionHtml": "<style data-mamapack-subcategory-nav>.collection-hero__description{max-width:100%!important;width:100%!important;}</style><section data-mamapack-subcategories=\"true\" style=\"display:block;box-sizing:border-box;width:100%;max-width:1200px;margin:0 auto 16px;padding:16px 18px;border:1px solid #f1d8de;border-radius:18px;background:#fffafb;font-family:Arial,Helvetica,sans-serif;color:#33252f;\"><h2 style=\"margin:0 0 8px;font-size:18px;line-height:1.3;color:#342630;\">W tej kategorii</h2>\n<p style=\"margin:0 0 12px;font-size:15px;color:#5f4954;\">Wybierz podkategori?, aby szybciej znale?? potrzebne produkty.</p>\n<div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;\">\n<a href=\"/collections/podklady-higieniczne\" style=\"display:block;text-decoration:none;color:#33252f;border:1px solid #ead8de;border-radius:10px;padding:10px 12px;background:#fff;line-height:1.25;font-size:14px;\">Podk?ady higieniczne</a><a href=\"/collections/podpaski-poporodowe\" style=\"display:block;text-decoration:none;color:#33252f;border:1px solid #ead8de;border-radius:10px;padding:10px 12px;background:#fff;line-height:1.25;font-size:14px;\">Podpaski poporodowe</a><a href=\"/collections/majtki-poporodowe\" style=\"display:block;text-decoration:none;color:#33252f;border:1px solid #ead8de;border-radius:10px;padding:10px 12px;background:#fff;line-height:1.25;font-size:14px;\">Majtki poporodowe</a><a href=\"/collections/higiena-intymna-po-porodzie\" style=\"display:block;text-decoration:none;color:#33252f;border:1px solid #ead8de;border-radius:10px;padding:10px 12px;background:#fff;line-height:1.25;font-size:14px;\">Higiena intymna</a><a href=\"/collections/produkty-papierowe\" style=\"display:block;text-decoration:none;color:#33252f;border:1px solid #ead8de;border-radius:10px;padding:10px 12px;background:#fff;line-height:1.25;font-size:14px;\">Produkty papierowe</a><a href=\"/collections/koszule-do-karmienia\" style=\"display:block;text-decoration:none;color:#33252f;border:1px solid #ead8de;border-radius:10px;padding:10px 12px;background:#fff;line-height:1.25;font-size:14px;\">Koszule do karmienia</a><a href=\"/collections/szlafroki-dla-mamy\" style=\"display:block;text-decoration:none;color:#33252f;border:1px solid #ead8de;border-radius:10px;padding:10px 12px;background:#fff;line-height:1.25;font-size:14px;\">Szlafroki</a><a href=\"/collections/klapki-i-skarpetki-dla-mamy\" style=\"display:block;text-decoration:none;color:#33252f;border:1px solid #ead8de;border-radius:10px;padding:10px 12px;background:#fff;line-height:1.25;font-size:14px;\">Klapki i skarpetki</a><a href=\"/collections/wkladki-laktacyjne\" style=\"display:block;text-decoration:none;color:#33252f;border:1px solid #ead8de;border-radius:10px;padding:10px 12px;background:#fff;line-height:1.25;font-size:14px;\">Wk?adki laktacyjne</a><a href=\"/collections/oslonki-laktacyjne\" style=\"display:block;text-decoration:none;color:#33252f;border:1px solid #ead8de;border-radius:10px;padding:10px 12px;background:#fff;line-height:1.25;font-size:14px;\">Os?onki laktacyjne</a><a href=\"/collections/pielegnacja-piersi-lanolina\" style=\"display:block;text-decoration:none;color:#33252f;border:1px solid #ead8de;border-radius:10px;padding:10px 12px;background:#fff;line-height:1.25;font-size:14px;\">Piel?gnacja piersi i lanolina</a><a href=\"/collections/biustonosze-do-karmienia\" style=\"display:block;text-decoration:none;color:#33252f;border:1px solid #ead8de;border-radius:10px;padding:10px 12px;background:#fff;line-height:1.25;font-size:14px;\">Biustonosze do karmienia</a>\n</div></section><style data-mamapack-collection-description>.collection-hero__description{max-width:100%!important;width:100%!important;}</style><div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;width:100%;max-width:none;box-sizing:border-box;display:block;\"><section style=\"display:block;box-sizing:border-box;width:100%;max-width:1200px;background:#fffafb;border:1px solid #f1d8de;border-radius:18px;padding:16px 18px;margin:0 auto 16px;\"><h2 style=\"margin:0 0 8px;font-size:18px;line-height:1.3;color:#342630;\">Wyprawka do szpitala dla mamy</h2>\n<p style=\"margin:0 0 10px;font-size:15px;color:#5f4954;\">Produkty potrzebne mamie do porodu, po?ogu, higieny i pierwszych dni karmienia.</p>\n<ul style=\"margin:0 0 0 18px;padding:0;color:#5f4954;font-size:15px;\">\n<li style=\"margin:0 0 7px;\">\n<strong>Por?d i po??g:</strong> podk?ady, podpaski, majtki poporodowe i higiena intymna.</li>\n<li style=\"margin:0 0 7px;\">\n<strong>Pobyt w szpitalu:</strong> koszule, szlafrok, klapki, skarpetki i produkty papierowe.</li>\n<li style=\"margin:0;\">\n<strong>Karmienie:</strong> wk?adki, os?onki, piel?gnacja piersi i biustonosze do karmienia.</li>\n</ul></section></div>",
+    "productsCount": {
+      "count": 85
+    },
+    "publishedOnPublication": true
+  },
+  "source_collections": [
+    {
+      "title": "Podk?ady higieniczne",
+      "handle": "podklady-higieniczne",
+      "count": 8
+    },
+    {
+      "title": "Podpaski poporodowe",
+      "handle": "podpaski-poporodowe",
+      "count": 9
+    },
+    {
+      "title": "Majtki poporodowe",
+      "handle": "majtki-poporodowe",
+      "count": 8
+    },
+    {
+      "title": "Higiena intymna",
+      "handle": "higiena-intymna-po-porodzie",
+      "count": 15
+    },
+    {
+      "title": "Produkty papierowe",
+      "handle": "produkty-papierowe",
+      "count": 7
+    },
+    {
+      "title": "Koszule do karmienia",
+      "handle": "koszule-do-karmienia",
+      "count": 10
+    },
+    {
+      "title": "Szlafroki",
+      "handle": "szlafroki-dla-mamy",
+      "count": 3
+    },
+    {
+      "title": "Klapki i skarpetki",
+      "handle": "klapki-i-skarpetki-dla-mamy",
+      "count": 7
+    },
+    {
+      "title": "Wk?adki laktacyjne",
+      "handle": "wkladki-laktacyjne",
+      "count": 10
+    },
+    {
+      "title": "Os?onki laktacyjne",
+      "handle": "oslonki-laktacyjne",
+      "count": 4
+    },
+    {
+      "title": "Piel?gnacja piersi i lanolina",
+      "handle": "pielegnacja-piersi-lanolina",
+      "count": 8
+    },
+    {
+      "title": "Biustonosze do karmienia",
+      "handle": "biustonosze-do-karmienia",
+      "count": 3
+    }
+  ],
+  "unique_products_added_or_present": 85,
+  "menu_parent": "Dla mamy",
+  "menu_position": "after Poka? wszystko",
+  "included_handles": [
+    "podklady-higieniczne",
+    "podpaski-poporodowe",
+    "majtki-poporodowe",
+    "higiena-intymna-po-porodzie",
+    "produkty-papierowe",
+    "koszule-do-karmienia",
+    "szlafroki-dla-mamy",
+    "klapki-i-skarpetki-dla-mamy",
+    "wkladki-laktacyjne",
+    "oslonki-laktacyjne",
+    "pielegnacja-piersi-lanolina",
+    "biustonosze-do-karmienia"
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "created_at": "20260504-160500",
+  "all_ok": true,
+  "inventory_id": 43540,
+  "shopify_storage_id": "shop_5022274",
+  "parent_id": "585922056",
+  "variant_ids_by_sku": {
+    "TORBA-MANIY-NIEBIESKA": {
+      "id": "585922067",
+      "parent_id": "585922056"
+    },
+    "TORBA-MANIY-ROZOWA": {
+      "id": "585922078",
+      "parent_id": "585922056"
+    },
+    "TORBA-MANIY-SZARA": {
+      "id": "585922087",
+      "parent_id": "585922056"
+    },
+    "TORBA-MANIY-ZIELONA": {
+      "id": "585922107",
+      "parent_id": "585922056"
+    }
+  },
+  "checks": [
+    {
+      "name": "parent_link",
+      "ok": true,
+      "actual": {
+        "product_id": "10648590713165",
+        "variant_id": "0"
+      }
+    },
+    {
+      "name": "parent_category",
+      "ok": true,
+      "actual": 2920341
+    },
+    {
+      "name": "parent_price",
+      "ok": true,
+      "actual": {
+        "22945": 89.9
+      }
+    },
+    {
+      "name": "parent_images",
+      "ok": true,
+      "actual": 11
+    },
+    {
+      "name": "TORBA-MANIY-NIEBIESKA_exists_parent",
+      "ok": true,
+      "actual": {
+        "id": "585922067",
+        "parent_id": "585922056"
+      }
+    },
+    {
+      "name": "TORBA-MANIY-NIEBIESKA_link",
+      "ok": true,
+      "actual": {
+        "product_id": "10648590713165",
+        "variant_id": "53830610813261"
+      }
+    },
+    {
+      "name": "TORBA-MANIY-NIEBIESKA_price",
+      "ok": true,
+      "actual": {
+        "22945": 89.9
+      }
+    },
+    {
+      "name": "TORBA-MANIY-ROZOWA_exists_parent",
+      "ok": true,
+      "actual": {
+        "id": "585922078",
+        "parent_id": "585922056"
+      }
+    },
+    {
+      "name": "TORBA-MANIY-ROZOWA_link",
+      "ok": true,
+      "actual": {
+        "product_id": "10648590713165",
+        "variant_id": "53830610846029"
+      }
+    },
+    {
+      "name": "TORBA-MANIY-ROZOWA_price",
+      "ok": true,
+      "actual": {
+        "22945": 89.9
+      }
+    },
+    {
+      "name": "TORBA-MANIY-SZARA_exists_parent",
+      "ok": true,
+      "actual": {
+        "id": "585922087",
+        "parent_id": "585922056"
+      }
+    },
+    {
+      "name": "TORBA-MANIY-SZARA_link",
+      "ok": true,
+      "actual": {
+        "product_id": "10648590713165",
+        "variant_id": "53830610878797"
+      }
+    },
+    {
+      "name": "TORBA-MANIY-SZARA_price",
+      "ok": true,
+      "actual": {
+        "22945": 89.9
+      }
+    },
+    {
+      "name": "TORBA-MANIY-ZIELONA_exists_parent",
+      "ok": true,
+      "actual": {
+        "id": "585922107",
+        "parent_id": "585922056"
+      }
+    },
+    {
+      "name": "TORBA-MANIY-ZIELONA_link",
+      "ok": true,
+      "actual": {
+        "product_id": "10648590713165",
+        "variant_id": "53830610911565"
+      }
+    },
+    {
+      "name": "TORBA-MANIY-ZIELONA_price",
+      "ok": true,
+      "actual": {
+        "22945": 89.9
+      }
+    }
+  ],
+  "details": {
+    "585922056": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 2920341,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Torba do szpitala dla mamy M.A.N.I.Y z dolną komorą",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Pusta torba do szpitala</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Torba M.A.N.I.Y z dolną komorą</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Pojemna torba dla mamy, która pomaga uporządkować rzeczy do szpitala i oddzielić akcesoria w dolnej komorze.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Dolna komora</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">49 x 32 x 25 cm</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Nylon i poliester</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne pakowanie wyprawki</h3>Torba sprawdzi się do spakowania rzeczy dla mamy na pobyt w szpitalu. Ma kompaktowy, ale pojemny kształt, wygodne uchwyty oraz pasek na ramię.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Na co zwrócić uwagę?</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Dolna komora pomaga oddzielić obuwie, kosmetyczkę, ręcznik albo rzeczy, które chcesz mieć osobno.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka tkanina ułatwia codzienne przenoszenie torby i szybkie czyszczenie.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Wariant koloru możesz wybrać bezpośrednio przy produkcie.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do szpitala</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Dobry format na podstawową wyprawkę dla mamy.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dolna komora</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Dodatkowa przestrzeń na rzeczy, które warto trzymać oddzielnie.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">W podróży</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Torba ma wygodne uchwyty i pasek na ramię.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Kolory</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Dostępne warianty: niebieski, różowy, szary i zielony.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Specyfikacja</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wymiary</strong><span style=\"color:#6a5260;text-align:right;\">49 x 32 x 25 cm</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Materiał</strong><span style=\"color:#6a5260;text-align:right;\">nylon i poliester</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">M.A.N.I.Y z dolną komorą</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">niebieski, różowy, szary, zielony</span>\n</div>\n</div></section>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 89.9
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10648590713165",
+          "variant_id": "0"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "variants": {
+        "585922067": {
+          "name": "Torba do szpitala dla mamy M.A.N.I.Y z dolną komorą - Kolor: Niebieski",
+          "ean": "",
+          "asin": "",
+          "sku": "TORBA-MANIY-NIEBIESKA",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "89.90"
+          }
+        },
+        "585922078": {
+          "name": "Torba do szpitala dla mamy M.A.N.I.Y z dolną komorą - Kolor: Różowy",
+          "ean": "",
+          "asin": "",
+          "sku": "TORBA-MANIY-ROZOWA",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "89.90"
+          }
+        },
+        "585922087": {
+          "name": "Torba do szpitala dla mamy M.A.N.I.Y z dolną komorą - Kolor: Szary",
+          "ean": "",
+          "asin": "",
+          "sku": "TORBA-MANIY-SZARA",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "89.90"
+          }
+        },
+        "585922107": {
+          "name": "Torba do szpitala dla mamy M.A.N.I.Y z dolną komorą - Kolor: Zielony",
+          "ean": "",
+          "asin": "",
+          "sku": "TORBA-MANIY-ZIELONA",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "89.90"
+          }
+        }
+      },
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/6f4f134f-8174-4658-b49c-5d05996567d9.png?v=1777898323",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6993.jpg?v=1777898093",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6984.jpg?v=1777898092",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6985.jpg?v=1777898092",
+        "5": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/d726553b-c5d9-4c84-acc5-ef3b972626ef.png?v=1777898372",
+        "6": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6999.jpg?v=1777898093",
+        "7": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6988.jpg?v=1777898093",
+        "8": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6995.jpg?v=1777898093",
+        "9": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6996.jpg?v=1777898093",
+        "10": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6997.jpg?v=1777898092",
+        "11": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6998.jpg?v=1777898092"
+      }
+    },
+    "585922067": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 585922056,
+      "sku": "TORBA-MANIY-NIEBIESKA",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 2920341,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Torba do szpitala dla mamy M.A.N.I.Y z dolną komorą - Kolor: Niebieski",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Pusta torba do szpitala</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Torba M.A.N.I.Y z dolną komorą</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Pojemna torba dla mamy, która pomaga uporządkować rzeczy do szpitala i oddzielić akcesoria w dolnej komorze.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Dolna komora</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">49 x 32 x 25 cm</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Nylon i poliester</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne pakowanie wyprawki</h3>Torba sprawdzi się do spakowania rzeczy dla mamy na pobyt w szpitalu. Ma kompaktowy, ale pojemny kształt, wygodne uchwyty oraz pasek na ramię.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Na co zwrócić uwagę?</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Dolna komora pomaga oddzielić obuwie, kosmetyczkę, ręcznik albo rzeczy, które chcesz mieć osobno.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka tkanina ułatwia codzienne przenoszenie torby i szybkie czyszczenie.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Wariant koloru możesz wybrać bezpośrednio przy produkcie.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do szpitala</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Dobry format na podstawową wyprawkę dla mamy.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dolna komora</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Dodatkowa przestrzeń na rzeczy, które warto trzymać oddzielnie.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">W podróży</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Torba ma wygodne uchwyty i pasek na ramię.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Kolory</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Dostępne warianty: niebieski, różowy, szary i zielony.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Specyfikacja</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wymiary</strong><span style=\"color:#6a5260;text-align:right;\">49 x 32 x 25 cm</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Materiał</strong><span style=\"color:#6a5260;text-align:right;\">nylon i poliester</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">M.A.N.I.Y z dolną komorą</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">niebieski, różowy, szary, zielony</span>\n</div>\n</div></section>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 89.9
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10648590713165",
+          "variant_id": "53830610813261"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/6f4f134f-8174-4658-b49c-5d05996567d9.png?v=1777898323",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6993.jpg?v=1777898093",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6984.jpg?v=1777898092",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6985.jpg?v=1777898092",
+        "5": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/d726553b-c5d9-4c84-acc5-ef3b972626ef.png?v=1777898372",
+        "6": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6999.jpg?v=1777898093",
+        "7": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6988.jpg?v=1777898093",
+        "8": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6995.jpg?v=1777898093",
+        "9": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6996.jpg?v=1777898093",
+        "10": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6997.jpg?v=1777898092",
+        "11": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6998.jpg?v=1777898092"
+      }
+    },
+    "585922078": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 585922056,
+      "sku": "TORBA-MANIY-ROZOWA",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 2920341,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Torba do szpitala dla mamy M.A.N.I.Y z dolną komorą - Kolor: Różowy",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Pusta torba do szpitala</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Torba M.A.N.I.Y z dolną komorą</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Pojemna torba dla mamy, która pomaga uporządkować rzeczy do szpitala i oddzielić akcesoria w dolnej komorze.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Dolna komora</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">49 x 32 x 25 cm</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Nylon i poliester</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne pakowanie wyprawki</h3>Torba sprawdzi się do spakowania rzeczy dla mamy na pobyt w szpitalu. Ma kompaktowy, ale pojemny kształt, wygodne uchwyty oraz pasek na ramię.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Na co zwrócić uwagę?</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Dolna komora pomaga oddzielić obuwie, kosmetyczkę, ręcznik albo rzeczy, które chcesz mieć osobno.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka tkanina ułatwia codzienne przenoszenie torby i szybkie czyszczenie.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Wariant koloru możesz wybrać bezpośrednio przy produkcie.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do szpitala</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Dobry format na podstawową wyprawkę dla mamy.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dolna komora</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Dodatkowa przestrzeń na rzeczy, które warto trzymać oddzielnie.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">W podróży</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Torba ma wygodne uchwyty i pasek na ramię.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Kolory</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Dostępne warianty: niebieski, różowy, szary i zielony.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Specyfikacja</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wymiary</strong><span style=\"color:#6a5260;text-align:right;\">49 x 32 x 25 cm</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Materiał</strong><span style=\"color:#6a5260;text-align:right;\">nylon i poliester</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">M.A.N.I.Y z dolną komorą</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">niebieski, różowy, szary, zielony</span>\n</div>\n</div></section>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 89.9
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10648590713165",
+          "variant_id": "53830610846029"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/6f4f134f-8174-4658-b49c-5d05996567d9.png?v=1777898323",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6993.jpg?v=1777898093",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6984.jpg?v=1777898092",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6985.jpg?v=1777898092",
+        "5": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/d726553b-c5d9-4c84-acc5-ef3b972626ef.png?v=1777898372",
+        "6": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6999.jpg?v=1777898093",
+        "7": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6988.jpg?v=1777898093",
+        "8": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6995.jpg?v=1777898093",
+        "9": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6996.jpg?v=1777898093",
+        "10": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6997.jpg?v=1777898092",
+        "11": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6998.jpg?v=1777898092"
+      }
+    },
+    "585922087": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 585922056,
+      "sku": "TORBA-MANIY-SZARA",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 2920341,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Torba do szpitala dla mamy M.A.N.I.Y z dolną komorą - Kolor: Szary",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Pusta torba do szpitala</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Torba M.A.N.I.Y z dolną komorą</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Pojemna torba dla mamy, która pomaga uporządkować rzeczy do szpitala i oddzielić akcesoria w dolnej komorze.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Dolna komora</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">49 x 32 x 25 cm</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Nylon i poliester</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne pakowanie wyprawki</h3>Torba sprawdzi się do spakowania rzeczy dla mamy na pobyt w szpitalu. Ma kompaktowy, ale pojemny kształt, wygodne uchwyty oraz pasek na ramię.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Na co zwrócić uwagę?</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Dolna komora pomaga oddzielić obuwie, kosmetyczkę, ręcznik albo rzeczy, które chcesz mieć osobno.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka tkanina ułatwia codzienne przenoszenie torby i szybkie czyszczenie.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Wariant koloru możesz wybrać bezpośrednio przy produkcie.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do szpitala</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Dobry format na podstawową wyprawkę dla mamy.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dolna komora</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Dodatkowa przestrzeń na rzeczy, które warto trzymać oddzielnie.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">W podróży</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Torba ma wygodne uchwyty i pasek na ramię.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Kolory</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Dostępne warianty: niebieski, różowy, szary i zielony.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Specyfikacja</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wymiary</strong><span style=\"color:#6a5260;text-align:right;\">49 x 32 x 25 cm</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Materiał</strong><span style=\"color:#6a5260;text-align:right;\">nylon i poliester</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">M.A.N.I.Y z dolną komorą</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">niebieski, różowy, szary, zielony</span>\n</div>\n</div></section>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 89.9
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10648590713165",
+          "variant_id": "53830610878797"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/6f4f134f-8174-4658-b49c-5d05996567d9.png?v=1777898323",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6993.jpg?v=1777898093",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6984.jpg?v=1777898092",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6985.jpg?v=1777898092",
+        "5": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/d726553b-c5d9-4c84-acc5-ef3b972626ef.png?v=1777898372",
+        "6": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6999.jpg?v=1777898093",
+        "7": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6988.jpg?v=1777898093",
+        "8": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6995.jpg?v=1777898093",
+        "9": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6996.jpg?v=1777898093",
+        "10": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6997.jpg?v=1777898092",
+        "11": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6998.jpg?v=1777898092"
+      }
+    },
+    "585922107": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 585922056,
+      "sku": "TORBA-MANIY-ZIELONA",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 2920341,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Torba do szpitala dla mamy M.A.N.I.Y z dolną komorą - Kolor: Zielony",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Pusta torba do szpitala</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Torba M.A.N.I.Y z dolną komorą</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Pojemna torba dla mamy, która pomaga uporządkować rzeczy do szpitala i oddzielić akcesoria w dolnej komorze.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Dolna komora</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">49 x 32 x 25 cm</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Nylon i poliester</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodne pakowanie wyprawki</h3>Torba sprawdzi się do spakowania rzeczy dla mamy na pobyt w szpitalu. Ma kompaktowy, ale pojemny kształt, wygodne uchwyty oraz pasek na ramię.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Na co zwrócić uwagę?</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Dolna komora pomaga oddzielić obuwie, kosmetyczkę, ręcznik albo rzeczy, które chcesz mieć osobno.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Lekka tkanina ułatwia codzienne przenoszenie torby i szybkie czyszczenie.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Wariant koloru możesz wybrać bezpośrednio przy produkcie.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do szpitala</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Dobry format na podstawową wyprawkę dla mamy.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Dolna komora</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Dodatkowa przestrzeń na rzeczy, które warto trzymać oddzielnie.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">W podróży</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Torba ma wygodne uchwyty i pasek na ramię.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Kolory</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Dostępne warianty: niebieski, różowy, szary i zielony.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Specyfikacja</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wymiary</strong><span style=\"color:#6a5260;text-align:right;\">49 x 32 x 25 cm</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Materiał</strong><span style=\"color:#6a5260;text-align:right;\">nylon i poliester</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">M.A.N.I.Y z dolną komorą</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">niebieski, różowy, szary, zielony</span>\n</div>\n</div></section>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 89.9
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10648590713165",
+          "variant_id": "53830610911565"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/6f4f134f-8174-4658-b49c-5d05996567d9.png?v=1777898323",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6993.jpg?v=1777898093",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6984.jpg?v=1777898092",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6985.jpg?v=1777898092",
+        "5": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/d726553b-c5d9-4c84-acc5-ef3b972626ef.png?v=1777898372",
+        "6": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6999.jpg?v=1777898093",
+        "7": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6988.jpg?v=1777898093",
+        "8": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6995.jpg?v=1777898093",
+        "9": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6996.jpg?v=1777898093",
+        "10": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6997.jpg?v=1777898092",
+        "11": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6998.jpg?v=1777898092"
+      }
+    }
+  }
+}

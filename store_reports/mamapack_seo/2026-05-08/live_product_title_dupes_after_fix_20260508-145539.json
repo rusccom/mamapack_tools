@@ -1,0 +1,2556 @@
+{
+  "generated_at": "2026-05-08T14:56:02.877496",
+  "user_agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+  "product_count": 301,
+  "status_counts": {
+    "200": 301
+  },
+  "duplicate_group_count": 3,
+  "changed_related_duplicate_group_count": 3,
+  "duplicates": [
+    {
+      "title": "CANPOL 26/901 - Pieluszki Muślinowe – mamapack",
+      "count": 2,
+      "items": [
+        {
+          "url": "https://mamapack.pl/products/canpol-26-901-pieluszki-muslinowe-2-szt-70x70cm-bonjour-paris-blue",
+          "handle": "canpol-26-901-pieluszki-muslinowe-2-szt-70x70cm-bonjour-paris-blue",
+          "status": 200,
+          "title": "CANPOL 26/901 - Pieluszki Muślinowe – mamapack",
+          "changed": true,
+          "error": ""
+        },
+        {
+          "url": "https://mamapack.pl/products/canpol-26-901-pieluszki-muslinowe-2-szt-70x70cm-bonjour-paris-pink",
+          "handle": "canpol-26-901-pieluszki-muslinowe-2-szt-70x70cm-bonjour-paris-pink",
+          "status": 200,
+          "title": "CANPOL 26/901 - Pieluszki Muślinowe – mamapack",
+          "changed": true,
+          "error": ""
+        }
+      ]
+    },
+    {
+      "title": "Rożek niemowlęcy - standard 75x75 cm - - bawełna 100% – mamapack",
+      "count": 2,
+      "items": [
+        {
+          "url": "https://mamapack.pl/products/rozek-niemowlecy-standard-75x75-cm-miminu-design-kotki-bawelna-100",
+          "handle": "rozek-niemowlecy-standard-75x75-cm-miminu-design-kotki-bawelna-100",
+          "status": 200,
+          "title": "Rożek niemowlęcy - standard 75x75 cm - - bawełna 100% – mamapack",
+          "changed": true,
+          "error": ""
+        },
+        {
+          "url": "https://mamapack.pl/products/rozek-niemowlecy-standard-75x75-cm-miminu-design-misie-blekit-bawelna-100",
+          "handle": "rozek-niemowlecy-standard-75x75-cm-miminu-design-misie-blekit-bawelna-100",
+          "status": 200,
+          "title": "Rożek niemowlęcy - standard 75x75 cm - - bawełna 100% – mamapack",
+          "changed": true,
+          "error": ""
+        }
+      ]
+    },
+    {
+      "title": "Rożek niemowlęcy - standard 80x80 cm – mamapack",
+      "count": 2,
+      "items": [
+        {
+          "url": "https://mamapack.pl/products/rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-dla-dziewczynki",
+          "handle": "rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-dla-dziewczynki",
+          "status": 200,
+          "title": "Rożek niemowlęcy - standard 80x80 cm – mamapack",
+          "changed": true,
+          "error": ""
+        },
+        {
+          "url": "https://mamapack.pl/products/rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-szary-w-gwiazdki",
+          "handle": "rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-szary-w-gwiazdki",
+          "status": 200,
+          "title": "Rożek niemowlęcy - standard 80x80 cm – mamapack",
+          "changed": true,
+          "error": ""
+        }
+      ]
+    }
+  ],
+  "changed_related_duplicates": [
+    {
+      "title": "CANPOL 26/901 - Pieluszki Muślinowe – mamapack",
+      "count": 2,
+      "items": [
+        {
+          "url": "https://mamapack.pl/products/canpol-26-901-pieluszki-muslinowe-2-szt-70x70cm-bonjour-paris-blue",
+          "handle": "canpol-26-901-pieluszki-muslinowe-2-szt-70x70cm-bonjour-paris-blue",
+          "status": 200,
+          "title": "CANPOL 26/901 - Pieluszki Muślinowe – mamapack",
+          "changed": true,
+          "error": ""
+        },
+        {
+          "url": "https://mamapack.pl/products/canpol-26-901-pieluszki-muslinowe-2-szt-70x70cm-bonjour-paris-pink",
+          "handle": "canpol-26-901-pieluszki-muslinowe-2-szt-70x70cm-bonjour-paris-pink",
+          "status": 200,
+          "title": "CANPOL 26/901 - Pieluszki Muślinowe – mamapack",
+          "changed": true,
+          "error": ""
+        }
+      ]
+    },
+    {
+      "title": "Rożek niemowlęcy - standard 75x75 cm - - bawełna 100% – mamapack",
+      "count": 2,
+      "items": [
+        {
+          "url": "https://mamapack.pl/products/rozek-niemowlecy-standard-75x75-cm-miminu-design-kotki-bawelna-100",
+          "handle": "rozek-niemowlecy-standard-75x75-cm-miminu-design-kotki-bawelna-100",
+          "status": 200,
+          "title": "Rożek niemowlęcy - standard 75x75 cm - - bawełna 100% – mamapack",
+          "changed": true,
+          "error": ""
+        },
+        {
+          "url": "https://mamapack.pl/products/rozek-niemowlecy-standard-75x75-cm-miminu-design-misie-blekit-bawelna-100",
+          "handle": "rozek-niemowlecy-standard-75x75-cm-miminu-design-misie-blekit-bawelna-100",
+          "status": 200,
+          "title": "Rożek niemowlęcy - standard 75x75 cm - - bawełna 100% – mamapack",
+          "changed": true,
+          "error": ""
+        }
+      ]
+    },
+    {
+      "title": "Rożek niemowlęcy - standard 80x80 cm – mamapack",
+      "count": 2,
+      "items": [
+        {
+          "url": "https://mamapack.pl/products/rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-dla-dziewczynki",
+          "handle": "rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-dla-dziewczynki",
+          "status": 200,
+          "title": "Rożek niemowlęcy - standard 80x80 cm – mamapack",
+          "changed": true,
+          "error": ""
+        },
+        {
+          "url": "https://mamapack.pl/products/rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-szary-w-gwiazdki",
+          "handle": "rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-szary-w-gwiazdki",
+          "status": 200,
+          "title": "Rożek niemowlęcy - standard 80x80 cm – mamapack",
+          "changed": true,
+          "error": ""
+        }
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "url": "https://mamapack.pl/products/5903933668482-pieluszki-dada-extra-care-rozm-1-2-5-kg-26-szt",
+      "handle": "5903933668482-pieluszki-dada-extra-care-rozm-1-2-5-kg-26-szt",
+      "status": 200,
+      "title": "Dada Extra Care -Pieluszki - Rozm. 1 - - 26 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0003-platki-kosmetyczne-dla-niemowlat-0m-60szt",
+      "handle": "akuku-a0003-platki-kosmetyczne-dla-niemowlat-0m-60szt",
+      "status": 200,
+      "title": "AKUKU a0003 - Płatki kosmetyczne dla niemowląt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0004-butelka-do-karmienia-125ml",
+      "handle": "akuku-a0004-butelka-do-karmienia-125ml",
+      "status": 200,
+      "title": "AKUKU a0004 - Butelka do karmienia - (125ml) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0015-zestaw-pielegnacyjny-grey-hooligans",
+      "handle": "akuku-a0015-zestaw-pielegnacyjny-grey-hooligans",
+      "status": 200,
+      "title": "AKUKU a0015 - Zestaw pielęgnacyjny - Grey Hooligans – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0030-nawilzany-papier-toaletowy-50-szt",
+      "handle": "akuku-a0030-nawilzany-papier-toaletowy-50-szt",
+      "status": 200,
+      "title": "AKUKU a0030 - Nawilżany papier toaletowy - 50 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0031-jednorazowe-chusteczki-nawilzane-woda-70-szt",
+      "handle": "akuku-a0031-jednorazowe-chusteczki-nawilzane-woda-70-szt",
+      "status": 200,
+      "title": "AKUKU a0031 - chusteczki nawilżane wodą - 70 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0040-zestaw-do-manicure",
+      "handle": "akuku-a0040-zestaw-do-manicure",
+      "status": 200,
+      "title": "AKUKU a0040 - Zestaw Do Manicure – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0069-podklad-poporodowy-slim",
+      "handle": "akuku-a0069-podklad-poporodowy-slim",
+      "status": 200,
+      "title": "AKUKU a0069 - Podkład poporodowy - Slim – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0144-podklad-higieniczny-jednorazowy-60x90-cm-promed-20-szt",
+      "handle": "akuku-a0144-podklad-higieniczny-jednorazowy-60x90-cm-promed-20-szt",
+      "status": 200,
+      "title": "AKUKU a0144 - Podkład higieniczny jednorazowy 60x90 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0160-wkladki-laktacyjne-daily-60-szt",
+      "handle": "akuku-a0160-wkladki-laktacyjne-daily-60-szt",
+      "status": 200,
+      "title": "AKUKU a0160 - Wkładki laktacyjne Daily - 60 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0234-majtki-siateczkowe-wielorazowe-l",
+      "handle": "akuku-a0234-majtki-siateczkowe-wielorazowe-l",
+      "status": 200,
+      "title": "AKUKU a0234 - Majtki siateczkowe wielorazowe - 2 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0254-podklad-peva-55x70-sowy-rozowo-niebieskie",
+      "handle": "akuku-a0254-podklad-peva-55x70-sowy-rozowo-niebieskie",
+      "status": 200,
+      "title": "AKUKU a0254 - Podkład Peva 55x70 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0258-podklad-peva-55x70-sowy-szare",
+      "handle": "akuku-a0258-podklad-peva-55x70-sowy-szare",
+      "status": 200,
+      "title": "AKUKU a0258 - Podkład Peva 55x70cm - Sowy Szare – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0306-laktator-reczny",
+      "handle": "akuku-a0306-laktator-reczny",
+      "status": 200,
+      "title": "AKUKU a0306 - Laktator ręczny – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0307-szczotka-i-grzebien-z-naturalnym-wlosiem-biala",
+      "handle": "akuku-a0307-szczotka-i-grzebien-z-naturalnym-wlosiem-biala",
+      "status": 200,
+      "title": "AKUKU a0307 - Szczotka i grzebień – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0308-zestaw-manicure-niebieski",
+      "handle": "akuku-a0308-zestaw-manicure-niebieski",
+      "status": 200,
+      "title": "AKUKU a0308 - Zestaw manicure - Niebieski – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0338-szczotka-do-butelek",
+      "handle": "akuku-a0338-szczotka-do-butelek",
+      "status": 200,
+      "title": "AKUKU a0338 - Szczotka do butelek – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0354-wkladki-laktacyjne-ultracienkie",
+      "handle": "akuku-a0354-wkladki-laktacyjne-ultracienkie",
+      "status": 200,
+      "title": "AKUKU a0354 - Wkładki laktacyjne – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0369-podklady-poporodowe",
+      "handle": "akuku-a0369-podklady-poporodowe",
+      "status": 200,
+      "title": "AKUKU a0369 - Podkłady poporodowe - 10 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0394-termometr-plywajacy-do-kapieli-zyrafa",
+      "handle": "akuku-a0394-termometr-plywajacy-do-kapieli-zyrafa",
+      "status": 200,
+      "title": "AKUKU a0394 - Termometr pływający do kąpieli - Żyrafa – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0395-termometr-do-kapieli-rybka-rico",
+      "handle": "akuku-a0395-termometr-do-kapieli-rybka-rico",
+      "status": 200,
+      "title": "AKUKU a0395 - Termometr do kąpieli - Rybka Rico – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0399-kolektor-na-mleko",
+      "handle": "akuku-a0399-kolektor-na-mleko",
+      "status": 200,
+      "title": "AKUKU a0399 - Kolektor na mleko - (ręczny) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0418-nozyczki-do-paznokci",
+      "handle": "akuku-a0418-nozyczki-do-paznokci",
+      "status": 200,
+      "title": "AKUKU a0418 - Nożyczki - do paznokci – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0458-zestaw-manicure-rozowy",
+      "handle": "akuku-a0458-zestaw-manicure-rozowy",
+      "status": 200,
+      "title": "AKUKU a0458 - Zestaw manicure - różowy – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0473-zestaw-do-pielegnacji-apple-case-szary",
+      "handle": "akuku-a0473-zestaw-do-pielegnacji-apple-case-szary",
+      "status": 200,
+      "title": "AKUKU a0473 - Zestaw do pielęgnacji - - Szary – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0495-termometr-do-kapieli-biala-owca",
+      "handle": "akuku-a0495-termometr-do-kapieli-biala-owca",
+      "status": 200,
+      "title": "AKUKU a0495 - Termometr do kąpieli - biała Owca – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0501-podklad-jednorazowy-60x90-cm-sensitive-10-szt",
+      "handle": "akuku-a0501-podklad-jednorazowy-60x90-cm-sensitive-10-szt",
+      "status": 200,
+      "title": "AKUKU a0501 - Podkład jednorazowy 60x90 cm Sensitive – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0534-kompresy-zelowe-na-piersi-2-szt",
+      "handle": "akuku-a0534-kompresy-zelowe-na-piersi-2-szt",
+      "status": 200,
+      "title": "AKUKU a0534 - Kompresy żelowe na piersi - 2 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0549-majtki-jednorazowe-poporodowe-s",
+      "handle": "akuku-a0549-majtki-jednorazowe-poporodowe-s",
+      "status": 200,
+      "title": "AKUKU a0549 - Majtki poporodowe - 5 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0573-szczotka-do-butelek-rozowa-mis",
+      "handle": "akuku-a0573-szczotka-do-butelek-rozowa-mis",
+      "status": 200,
+      "title": "AKUKU a0573 - Szczotka do butelek Miś - (różowa) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0586-smoczek-uspokajajacy-0-6m-niebieski",
+      "handle": "akuku-a0586-smoczek-uspokajajacy-0-6m-niebieski",
+      "status": 200,
+      "title": "AKUKU a0586 - Smoczek uspokajający 0-6m - Niebieski – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0587-smoczek-uspokajajacy-0-6m-rozowy",
+      "handle": "akuku-a0587-smoczek-uspokajajacy-0-6m-rozowy",
+      "status": 200,
+      "title": "AKUKU a0587 - Smoczek uspokajający 0-6m - Różowy – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0664-recznik-kapielowy-z-kapturkiem-frotte-100-x-100-cm",
+      "handle": "akuku-a0664-recznik-kapielowy-z-kapturkiem-frotte-100-x-100-cm",
+      "status": 200,
+      "title": "AKUKU a0664 - Ręcznik kąpielowy z kapturkiem - frotte – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0683k-kompres-zelowy-do-okolic-intymnych",
+      "handle": "akuku-a0683k-kompres-zelowy-do-okolic-intymnych",
+      "status": 200,
+      "title": "AKUKU a0683k - Kompres - Żelowy - do okolic intymnych – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0684-butelka-do-podmywania-peri-350-ml",
+      "handle": "akuku-a0684-butelka-do-podmywania-peri-350-ml",
+      "status": 200,
+      "title": "AKUKU a0684 - Butelka do podmywania - Peri - (350 ml) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a0710-bezpieczne-patyczki-do-uszu-dla-niemowlat-60-szt",
+      "handle": "akuku-a0710-bezpieczne-patyczki-do-uszu-dla-niemowlat-60-szt",
+      "status": 200,
+      "title": "AKUKU a0710 - Bezpieczne Patyczki do uszu dla – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/akuku-a12313-8-recznik-kapielowy-z-kapturkiem-80-x-80-cm",
+      "handle": "akuku-a12313-8-recznik-kapielowy-z-kapturkiem-80-x-80-cm",
+      "status": 200,
+      "title": "AKUKU a1231 - Ręcznik kąpielowy - z kapturkiem – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/albero-mio-c015-recznik-kapielowy-z-kapturkiem-100-x-100-cm",
+      "handle": "albero-mio-c015-recznik-kapielowy-z-kapturkiem-100-x-100-cm",
+      "status": 200,
+      "title": "Albero Mio c015 - Ręcznik kąpielowy - z kapturkiem – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/ardo-care-lanolina-10ml",
+      "handle": "ardo-care-lanolina-10ml",
+      "status": 200,
+      "title": "Ardo Care - Lanolina 10ml – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/ardo-krem-przeciw-rozstepom",
+      "handle": "ardo-krem-przeciw-rozstepom",
+      "status": 200,
+      "title": "Ardo - Krem przeciw rozstępom – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/atk-miniania-pielucha-flanelowa-80x70-biala-bez-nadruku-cena-za-1szt-pakowane-po-5szt",
+      "handle": "atk-miniania-pielucha-flanelowa-80x70-biala-bez-nadruku-cena-za-1szt-pakowane-po-5szt",
+      "status": 200,
+      "title": "Atk - Pielucha Flanelowa - Biała - - 1 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/atk-miniania-pielucha-z-flaneli-kolor-z-nadrukiem-pakowane-po-5szt",
+      "handle": "atk-miniania-pielucha-z-flaneli-kolor-z-nadrukiem-pakowane-po-5szt",
+      "status": 200,
+      "title": "Atk - Pielucha Flanelowa - kolor z nadrukiem – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/avent-scf091-05-smoczek-ultra-soft-0-6m-bez-zielen",
+      "handle": "avent-scf091-05-smoczek-ultra-soft-0-6m-bez-zielen",
+      "status": 200,
+      "title": "Avent scf091/05 - Smoczek Ultra Soft - - beż/zieleń – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/avent-scf153-03-oslonki-na-piersi-srednie",
+      "handle": "avent-scf153-03-oslonki-na-piersi-srednie",
+      "status": 200,
+      "title": "Avent scf153/01-03 - Osłonki na piersi – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/avent-scf254-24-wkladki-jednorazowe-24-szt",
+      "handle": "avent-scf254-24-wkladki-jednorazowe-24-szt",
+      "status": 200,
+      "title": "Avent scf254/24 - Wkładki jednorazowe - 24 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/avent-zestaw-butelka-dla-niemowlat-125ml-smoczek-uspokajajacy-0-m-dla-chlopca-copy",
+      "handle": "avent-zestaw-butelka-dla-niemowlat-125ml-smoczek-uspokajajacy-0-m-dla-chlopca-copy",
+      "status": 200,
+      "title": "Avent-Zestaw: Butelka dla niemowląt 125ml + Smoczek – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/avent-zestaw-butelka-niemowlat-125-ml-smoczek-uspokajajacy",
+      "handle": "avent-zestaw-butelka-niemowlat-125-ml-smoczek-uspokajajacy",
+      "status": 200,
+      "title": "Avent-Zestaw: Butelka dla niemowląt 125 ml + Smoczek – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-066-bezpieczne-nozyczki-take-care",
+      "handle": "b-o-066-bezpieczne-nozyczki-take-care",
+      "status": 200,
+      "title": "b.o.066 - Bezpieczne nożyczki - Take Care – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-1450-butelka-180ml-natural-nursing",
+      "handle": "b-o-1450-butelka-180ml-natural-nursing",
+      "status": 200,
+      "title": "b.o.1450 - Butelka antykolkowa – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-1451-butelka-260-ml-natural-nursing",
+      "handle": "b-o-1451-butelka-260-ml-natural-nursing",
+      "status": 200,
+      "title": "b.o.1451 - Butelka antykolkowa – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-1479-02-kocyk-dzianiny-bambusowy-szary",
+      "handle": "b-o-1479-02-kocyk-dzianiny-bambusowy-szary",
+      "status": 200,
+      "title": "b.o.1647/(1,2,3) - Kocyk bawełniany - Dzianinynowy – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-1553-01-okrycie-kapielowe-bambusowe-z-kapturkiem-100x100cm-rozowe",
+      "handle": "b-o-1553-01-okrycie-kapielowe-bambusowe-z-kapturkiem-100x100cm-rozowe",
+      "status": 200,
+      "title": "b.o.1553 - Okrycie kąpielowe z kapturkiem – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-1576-edukacyjna-mata-piankowa-xpe-150x200cm",
+      "handle": "b-o-1576-edukacyjna-mata-piankowa-xpe-150x200cm",
+      "status": 200,
+      "title": "B.O. 1576 - Edukacyjna mata piankowa Xpe - (150x200cm) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-1670-01-smoczek-anatomiczny-silikon-swiecacy-0m-2-szt-braz-bez",
+      "handle": "b-o-1670-01-smoczek-anatomiczny-silikon-swiecacy-0m-2-szt-braz-bez",
+      "status": 200,
+      "title": "B.O. 1670/01 - Smoczek – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-297-01-wkladki-laktacyjne-night-day-40-szt",
+      "handle": "b-o-297-01-wkladki-laktacyjne-night-day-40-szt",
+      "status": 200,
+      "title": "b.o.297/01 - Wkładki laktacyjne Night & Day - 40 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-298-01-wkladki-laktacyjne-natural-nursing-24-szt-biale",
+      "handle": "b-o-298-01-wkladki-laktacyjne-natural-nursing-24-szt-biale",
+      "status": 200,
+      "title": "b.o.298/01 - Wkładki laktacyjne Natural Nursing – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-348-01-pieluszki-muslinowe-3-szt-szary-take-care",
+      "handle": "b-o-348-01-pieluszki-muslinowe-3-szt-szary-take-care",
+      "status": 200,
+      "title": "b.o.348/01 - Pieluszki – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-348-07-pieluszki-muslinowe-super-miekkie",
+      "handle": "b-o-348-07-pieluszki-muslinowe-super-miekkie",
+      "status": 200,
+      "title": "b.o.348/07 - Pieluszki - Muślinowe - super miękkie – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-348-08-pieluszki-muslinowe-super-miekkie",
+      "handle": "b-o-348-08-pieluszki-muslinowe-super-miekkie",
+      "status": 200,
+      "title": "b.o.348/08- Pieluszki - Muślinowe - super miękkie – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-348-10-pieluszki-muslinowe-super-miekkie",
+      "handle": "b-o-348-10-pieluszki-muslinowe-super-miekkie",
+      "status": 200,
+      "title": "b.o.348/10 - Pieluszki - Muślinowe - super miękkie – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-348-11-pieluszki-muslinowe-super-miekkie",
+      "handle": "b-o-348-11-pieluszki-muslinowe-super-miekkie",
+      "status": 200,
+      "title": "b.o.348/11 - Pieluszki - Muślinowe - super miękkie – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-348-12-pieluszki-muslinowe-super-miekkie",
+      "handle": "b-o-348-12-pieluszki-muslinowe-super-miekkie",
+      "status": 200,
+      "title": "b.o.348/12 - Pieluszki - Muślinowe - super miękkie – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-397-04-naturalne-pieluszki-z-wlokien-bambusa-organicznego-mietowe-take-care",
+      "handle": "b-o-397-04-naturalne-pieluszki-z-wlokien-bambusa-organicznego-mietowe-take-care",
+      "status": 200,
+      "title": "b.o.397/04 -Naturalne pieluszki - z włókien Bambusa – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-397-09-naturalne-pieluszki-z-wlokien-bambusa-natural-bamboo",
+      "handle": "b-o-397-09-naturalne-pieluszki-z-wlokien-bambusa-natural-bamboo",
+      "status": 200,
+      "title": "b.o.397/09 - Naturalne pieluszki – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-397-12-naturalne-pieluszki-z-wlokien-bambusa-natural-bamboo",
+      "handle": "b-o-397-12-naturalne-pieluszki-z-wlokien-bambusa-natural-bamboo",
+      "status": 200,
+      "title": "b.o.397/12 - Naturalne pieluszki – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-398-03-zestaw-do-pielegnacji-paznokci-dla-dzieci-i-niemowlat-szary-take-care",
+      "handle": "b-o-398-03-zestaw-do-pielegnacji-paznokci-dla-dzieci-i-niemowlat-szary-take-care",
+      "status": 200,
+      "title": "b.o.398/03 - Zestaw do pielęgnacji paznokci – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-500-xl-jednorazowe-majtki-poporodowe-xl",
+      "handle": "b-o-500-xl-jednorazowe-majtki-poporodowe-xl",
+      "status": 200,
+      "title": "b.o.500 - Jednorazowe Majtki poporodowe - 5 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-503-xxl-wielorazowe-majtki-siateczkowe-xxl-2sz",
+      "handle": "b-o-503-xxl-wielorazowe-majtki-siateczkowe-xxl-2sz",
+      "status": 200,
+      "title": "b.o.503 - Wielorazowe majtki - Siateczkowe - 2 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-509-podklad-do-przewijania-60x90-10-szt",
+      "handle": "b-o-509-podklad-do-przewijania-60x90-10-szt",
+      "status": 200,
+      "title": "b.o.509 - Podkład do przewijania 60x90cm - 10 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-513-podklad-do-przewijania-40x60-10szt",
+      "handle": "b-o-513-podklad-do-przewijania-40x60-10szt",
+      "status": 200,
+      "title": "b.o.513 - Podkład do przewijania 40x60cm - 10 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-568-03-szczotka-i-grzebien-do-wlosow-naturalne-super-miekkie-wlosie-szara-take-care",
+      "handle": "b-o-568-03-szczotka-i-grzebien-do-wlosow-naturalne-super-miekkie-wlosie-szara-take-care",
+      "status": 200,
+      "title": "b.o.568/03 - Szczotka i grzebień do włosów – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-568-04-szczotka-i-grzebien-do-wlosow-naturalne-super-miekkie-wlosie-rozowa-take-care",
+      "handle": "b-o-568-04-szczotka-i-grzebien-do-wlosow-naturalne-super-miekkie-wlosie-rozowa-take-care",
+      "status": 200,
+      "title": "b.o.568/04 - Szczotka i grzebień do włosów – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-585-11-biustonosz-do-karmienia-d70-75-bialy",
+      "handle": "b-o-585-11-biustonosz-do-karmienia-d70-75-bialy",
+      "status": 200,
+      "title": "b.o.585/11 - Biustonosz do karmienia - Biały – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-585-30-biustonosz-do-karmienia-b75-80-neutralny",
+      "handle": "b-o-585-30-biustonosz-do-karmienia-b75-80-neutralny",
+      "status": 200,
+      "title": "b.o.585/30 - Biustonosz do karmienia - Neutralny – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-597-podklady-poporodowe-comfort",
+      "handle": "b-o-597-podklady-poporodowe-comfort",
+      "status": 200,
+      "title": "b.o.597 - Podkłady poporodowe Comfort - 10 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-599-podklady-poporodowe-night-day",
+      "handle": "b-o-599-podklady-poporodowe-night-day",
+      "status": 200,
+      "title": "b.o.599 - Podkłady poporodowe Night & Day - 10 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-721-03-szczotka-do-butelek-i-smoczkow-z-mini-szczoteczka-szara",
+      "handle": "b-o-721-03-szczotka-do-butelek-i-smoczkow-z-mini-szczoteczka-szara",
+      "status": 200,
+      "title": "b.o.721/03 - Szczotka do butelek i smoczków – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-777-03-termometr-do-wody-take-care-niebieski",
+      "handle": "b-o-777-03-termometr-do-wody-take-care-niebieski",
+      "status": 200,
+      "title": "b.o.777/03 - Termometr do wody - Take Care - niebieski – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-777-03-termometr-do-wody-take-care-rozowy",
+      "handle": "b-o-777-03-termometr-do-wody-take-care-rozowy",
+      "status": 200,
+      "title": "b.o.777/03 - Termometr do wody - Take Care - różowy – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-823-m-silikonowe-oslonki-na-piersi-natural-nursing",
+      "handle": "b-o-823-m-silikonowe-oslonki-na-piersi-natural-nursing",
+      "status": 200,
+      "title": "b.o.823 - Silikonowe osłonki na piersi Natural Nursing – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/b-o-kocyk-bambusowy-dzianina",
+      "handle": "b-o-kocyk-bambusowy-dzianina",
+      "status": 200,
+      "title": "b.o.1673 - Kocyk Bambusowy - Dzianina – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/babyono-zestaw-wyprawkowy-dla-mamy-5-produktow",
+      "handle": "babyono-zestaw-wyprawkowy-dla-mamy-5-produktow",
+      "status": 200,
+      "title": "Babyono - Zestaw Wyprawkowy dla mamy - 5 produktów – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bambino-3w1-chusteczki-emolientowe-hipoalergiczne-dla-niemowlat-dzieci-57-szt",
+      "handle": "bambino-3w1-chusteczki-emolientowe-hipoalergiczne-dla-niemowlat-dzieci-57-szt",
+      "status": 200,
+      "title": "Bambino 3w1 - Chusteczki emolientowe hipoalergiczne – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bambino-83649-krem-pielegnacyjny-z-pantenolem-200ml",
+      "handle": "bambino-83649-krem-pielegnacyjny-z-pantenolem-200ml",
+      "status": 200,
+      "title": "Bambino 83649 - Krem pielęgnacyjny z D-Pantenolem – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bambino-83671-zel-do-mycia-ciala-i-wlosow-2w1-400ml",
+      "handle": "bambino-83671-zel-do-mycia-ciala-i-wlosow-2w1-400ml",
+      "status": 200,
+      "title": "Bambino 83671 - Żel do mycia ciała i włosów - 2w1 – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bamboolove-bambusowe-chusteczki-nawilzan-e-60szt",
+      "handle": "bamboolove-bambusowe-chusteczki-nawilzan-e-60szt",
+      "status": 200,
+      "title": "Bamboolove - Chusteczki nawilżane - Bambusowe - 60 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bamboolove-pieluszki-jednorazowe-r-xs-27szt",
+      "handle": "bamboolove-pieluszki-jednorazowe-r-xs-27szt",
+      "status": 200,
+      "title": "Bamboolove - Pieluszki - Rozmiar Xs - 27 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bamboolove-pieluszki-jednorazowe-rozm-m-24szt",
+      "handle": "bamboolove-pieluszki-jednorazowe-rozm-m-24szt",
+      "status": 200,
+      "title": "Bamboolove - Pieluszki - Rozmiar M - 24 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bamboolove-pieluszki-jednorazowe-rozm-s-25szt",
+      "handle": "bamboolove-pieluszki-jednorazowe-rozm-s-25szt",
+      "status": 200,
+      "title": "Bamboolove - Pieluszki - Rozmiar S - 25 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bella-baby-happy-chusteczki-nasaczone-wit-e-i-alantoina-64-szt",
+      "handle": "bella-baby-happy-chusteczki-nasaczone-wit-e-i-alantoina-64-szt",
+      "status": 200,
+      "title": "Bella Baby Happy Chusteczki nasączone - wit.E i – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bella-chusteczki-do-higieny-intymnej-sensitiv-10-szt",
+      "handle": "bella-chusteczki-do-higieny-intymnej-sensitiv-10-szt",
+      "status": 200,
+      "title": "Bella chusteczki do higieny intymnej Sensitiv - 10 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bella-happy-before-newborn-a-46szt-pieluszki-dla-wczesniakow",
+      "handle": "bella-happy-before-newborn-a-46szt-pieluszki-dla-wczesniakow",
+      "status": 200,
+      "title": "Bella Happy 0 Before Newborn - Pieluszki dla – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bella-newborn-a-42szt-pieluszki-hig-2-5-kg",
+      "handle": "bella-newborn-a-42szt-pieluszki-hig-2-5-kg",
+      "status": 200,
+      "title": "Bella Baby Happy Newborn- pieluszki - 2-5kg - 42 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bella-patyczki-a-56-szt-baby-happy-papierowe-patyczki",
+      "handle": "bella-patyczki-a-56-szt-baby-happy-papierowe-patyczki",
+      "status": 200,
+      "title": "Bella Baby Happy Papierowe Patyczki Higieniczne 56szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bella-podkl-a-5szt-hig-40x60-seni-soft-super",
+      "handle": "bella-podkl-a-5szt-hig-40x60-seni-soft-super",
+      "status": 200,
+      "title": "Seni Soft Super - Podkłady higieniczne 40x60cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bella-podklad-higieniczny-mamma-34x11-cm-z-folia-10-szt",
+      "handle": "bella-podklad-higieniczny-mamma-34x11-cm-z-folia-10-szt",
+      "status": 200,
+      "title": "Bella - Podkład higieniczny Mamma – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bella-wkladki-laktacyjne-mamma-30-szt",
+      "handle": "bella-wkladki-laktacyjne-mamma-30-szt",
+      "status": 200,
+      "title": "Bella - Wkładki laktacyjne Mamma - 30 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bialy-jelen-emulsja-intymna-kozie-mleko-141700",
+      "handle": "bialy-jelen-emulsja-intymna-kozie-mleko-141700",
+      "status": 200,
+      "title": "Biały Jeleń hipoalergiczna emulsja do Higieny – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bialy-jelen-emulsja-intymna-szalwia-i-ogorek-265ml-141274",
+      "handle": "bialy-jelen-emulsja-intymna-szalwia-i-ogorek-265ml-141274",
+      "status": 200,
+      "title": "Biały Jeleń Premium Hipoalergiczna emulsja do Higieny – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bibs-1001000231-smoczek-anatomiczny-kauczuk-0-baby-blue-1-szt",
+      "handle": "bibs-1001000231-smoczek-anatomiczny-kauczuk-0-baby-blue-1-szt",
+      "status": 200,
+      "title": "BIBS - Smoczek anatomiczny - - - Baby Blue - 1 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bibs-1001000244-smoczek-anatomiczny-kauczuk-0-rozowy-1-szt",
+      "handle": "bibs-1001000244-smoczek-anatomiczny-kauczuk-0-rozowy-1-szt",
+      "status": 200,
+      "title": "BIBS - Smoczek anatomiczny - - - Różowy - 1 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bibs-butelka-silikon-sredni-przeplyw-270-ml-kosc",
+      "handle": "bibs-butelka-silikon-sredni-przeplyw-270-ml-kosc",
+      "status": 200,
+      "title": "BIBS - Butelka - - Średni Przepływ - - Kość Słoniowa – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bibs-liberty-smoczek-uspokajajacy-2-pak-latex-rozowy",
+      "handle": "bibs-liberty-smoczek-uspokajajacy-2-pak-latex-rozowy",
+      "status": 200,
+      "title": "BIBS Liberty - Smoczek uspokajający - - latex - Różowy – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bibs-smoczek-anatomiczny-kauczuk-0-ivory-1-szt",
+      "handle": "bibs-smoczek-anatomiczny-kauczuk-0-ivory-1-szt",
+      "status": 200,
+      "title": "BIBS - Smoczek anatomiczny - - - Ivory - 1 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bibs-smoczek-anatomiczny-kauczuk-0-vanilla-1-szt",
+      "handle": "bibs-smoczek-anatomiczny-kauczuk-0-vanilla-1-szt",
+      "status": 200,
+      "title": "BIBS - Smoczek anatomiczny - - - Vanilla - 1 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bibs-smoczek-kauczuk-szalwia",
+      "handle": "bibs-smoczek-kauczuk-szalwia",
+      "status": 200,
+      "title": "BIBS - Smoczek - kauczuk - Szałwia – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bibs-studio-smoczek-uspokajajacy-2-pak-latex-baby",
+      "handle": "bibs-studio-smoczek-uspokajajacy-2-pak-latex-baby",
+      "status": 200,
+      "title": "BIBS Studio smoczek Baby Blue/Dusty Blue 2-pak – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bibs-studio-smoczek-uspokajajacy-okragly-2-pak-latex-baby-blue-dusty-blue-copy",
+      "handle": "bibs-studio-smoczek-uspokajajacy-okragly-2-pak-latex-baby-blue-dusty-blue-copy",
+      "status": 200,
+      "title": "BIBS smoczek symetryczny Ivory/Blush 2-pak – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bibs-studio-smoczek-uspokajajacy-okragly-2-pak-latex-baby-blue-dusty-blue-copy-1",
+      "handle": "bibs-studio-smoczek-uspokajajacy-okragly-2-pak-latex-baby-blue-dusty-blue-copy-1",
+      "status": 200,
+      "title": "BIBS Studio - Smoczek uspokajający – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bibs-supreme-160336-smoczek-uspokajajacy-silikon-0-vanilla-dark-oak-2-szt",
+      "handle": "bibs-supreme-160336-smoczek-uspokajajacy-silikon-0-vanilla-dark-oak-2-szt",
+      "status": 200,
+      "title": "BIBS Supreme (160336) - Smoczek uspokajający – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/biustonosz-sportowy-do-karmienia-doctor-nap",
+      "handle": "biustonosz-sportowy-do-karmienia-doctor-nap",
+      "status": 200,
+      "title": "Biustonosz sportowy do karmienia Doctor Nap – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/bocioland-bl151-podklad-jenorazowy-60x90-cm-op-10-szt",
+      "handle": "bocioland-bl151-podklad-jenorazowy-60x90-cm-op-10-szt",
+      "status": 200,
+      "title": "Bocioland - Podkład Jednorazowy - 60x90cm - 10 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-1-500-ekologiczny-plyn-do-mycia-smoczkow-i-butelek-500-ml",
+      "handle": "canpol-1-500-ekologiczny-plyn-do-mycia-smoczkow-i-butelek-500-ml",
+      "status": 200,
+      "title": "CANPOL 1/500 - Ekologiczny Płyn do mycia smoczków i – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-1-653-wkladki-laktacyjne-30-szt",
+      "handle": "canpol-1-653-wkladki-laktacyjne-30-szt",
+      "status": 200,
+      "title": "CANPOL 1/653 - Wkładki laktacyjne - 30 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-1-658-suche-chusteczki-bambusowe-dla-niemowlat-100-szt",
+      "handle": "canpol-1-658-suche-chusteczki-bambusowe-dla-niemowlat-100-szt",
+      "status": 200,
+      "title": "CANPOL 1/658 - Suche Chusteczki Bambusowe dla – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-1-661-reczniki-bambusowe-dla-niemowlat-i-dzieci-20x20cm-120szt",
+      "handle": "canpol-1-661-reczniki-bambusowe-dla-niemowlat-i-dzieci-20x20cm-120szt",
+      "status": 200,
+      "title": "CANPOL 1/661 - Ręczniki bambusowe dla niemowląt i – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-12-216-laktator-reczny-basic-light",
+      "handle": "canpol-12-216-laktator-reczny-basic-light",
+      "status": 200,
+      "title": "CANPOL 12/216 - Laktator - Ręczny - Basic light – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-14-000-masc-lanolinowa-do-brodawek-sutkowych-7-g",
+      "handle": "canpol-14-000-masc-lanolinowa-do-brodawek-sutkowych-7-g",
+      "status": 200,
+      "title": "CANPOL 14/000 - Maść lanolinowa – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-16-000-majtki-dla-kobiet-w-ciazy-i-po-porodzie-2-szt-s-m",
+      "handle": "canpol-16-000-majtki-dla-kobiet-w-ciazy-i-po-porodzie-2-szt-s-m",
+      "status": 200,
+      "title": "CANPOL 16/000(1) - Majtki dla kobiet w ciąży i po – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-2-118-gruszka-do-nosa",
+      "handle": "canpol-2-118-gruszka-do-nosa",
+      "status": 200,
+      "title": "CANPOL 2/118 - Gruszka do nosa – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-2-417-szczotka-grzebien-do-wlosow-miekka-goose",
+      "handle": "canpol-2-417-szczotka-grzebien-do-wlosow-miekka-goose",
+      "status": 200,
+      "title": "CANPOL 2/417 - Szczotka + grzebień do włosów - - Goose – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-2-424-szczotka-grzebien-do-wlosow-miekka-biala",
+      "handle": "canpol-2-424-szczotka-grzebien-do-wlosow-miekka-biala",
+      "status": 200,
+      "title": "CANPOL 2/424 - Szczotka + grzebień do włosów - - Biała – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-2-424-szczotka-grzebien-do-wlosow-miekka-niebieska",
+      "handle": "canpol-2-424-szczotka-grzebien-do-wlosow-miekka-niebieska",
+      "status": 200,
+      "title": "Canpol 2/424 szczotka i grzebie? niebieska – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-2-424-szczotka-grzebien-do-wlosow-miekka-rozowa",
+      "handle": "canpol-2-424-szczotka-grzebien-do-wlosow-miekka-rozowa",
+      "status": 200,
+      "title": "Canpol 2/424 szczotka i grzebień różowa – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-2-441-lancuszek-do-smoczka-uspokajajacego-goose",
+      "handle": "canpol-2-441-lancuszek-do-smoczka-uspokajajacego-goose",
+      "status": 200,
+      "title": "CANPOL 2/441 - Łańcuszek – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-2-782-termometr-kapielowy-delfin-niebieski",
+      "handle": "canpol-2-782-termometr-kapielowy-delfin-niebieski",
+      "status": 200,
+      "title": "CANPOL 2/782 - Termometr kąpielowy – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-22-565-smoczek-anatomiczny-silikon-orthodontic-0m-bezowy",
+      "handle": "canpol-22-565-smoczek-anatomiczny-silikon-orthodontic-0m-bezowy",
+      "status": 200,
+      "title": "Canpol 22/580 smoczek symetryczny 0m+ beżowy – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-22-580-smoczek-uspokajajacy-silikonowy-symetryczny-okragly-0-6m-nawborn-niebieski",
+      "handle": "canpol-22-580-smoczek-uspokajajacy-silikonowy-symetryczny-okragly-0-6m-nawborn-niebieski",
+      "status": 200,
+      "title": "CANPOL 22/562 - Smoczek – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-22-581-smoczek-silikonowy-6-18m-symetryczny-bezowy",
+      "handle": "canpol-22-581-smoczek-silikonowy-6-18m-symetryczny-bezowy",
+      "status": 200,
+      "title": "CANPOL 22/581 - Smoczek silikonowy – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-22-667-smoczek-silikon-orthodontic-symetryczny-0-6-m-goose-2-szt",
+      "handle": "canpol-22-667-smoczek-silikon-orthodontic-symetryczny-0-6-m-goose-2-szt",
+      "status": 200,
+      "title": "CANPOL 22/667(8) - Smoczek – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-23-910-smoczek-symetryczny-0-2-m-mini-2szt",
+      "handle": "canpol-23-910-smoczek-symetryczny-0-2-m-mini-2szt",
+      "status": 200,
+      "title": "CANPOL 23/910 - Smoczek - Symetryczny - - 2szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-24-001-smoczek-silikonowy-symetryczny-uspakajajacy-0-6-m-bialy",
+      "handle": "canpol-24-001-smoczek-silikonowy-symetryczny-uspakajajacy-0-6-m-bialy",
+      "status": 200,
+      "title": "CANPOL 24/001 Smoczek silikonowy - Symetryczny – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-26-901-pieluszki-muslinowe-2-szt-70x70cm-bonjour-paris-blue",
+      "handle": "canpol-26-901-pieluszki-muslinowe-2-szt-70x70cm-bonjour-paris-blue",
+      "status": 200,
+      "title": "CANPOL 26/901 - Pieluszki Muślinowe – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-26-901-pieluszki-muslinowe-2-szt-70x70cm-bonjour-paris-pink",
+      "handle": "canpol-26-901-pieluszki-muslinowe-2-szt-70x70cm-bonjour-paris-pink",
+      "status": 200,
+      "title": "CANPOL 26/901 - Pieluszki Muślinowe – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-3-115-bezpieczne-patyczki-dla-niemowlat-55-szt",
+      "handle": "canpol-3-115-bezpieczne-patyczki-dla-niemowlat-55-szt",
+      "status": 200,
+      "title": "CANPOL 3/115 - Bezpieczne patyczki dla niemowląt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-34-920-smoczek-silikonowy-0-6m-symetryczny-exotic-lama",
+      "handle": "canpol-34-920-smoczek-silikonowy-0-6m-symetryczny-exotic-lama",
+      "status": 200,
+      "title": "Canpol 34/920 smoczek Exotic Lama 0-6m – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-34-920-smoczek-silikonowy-0-m-symetryczny-exotic-koala",
+      "handle": "canpol-34-920-smoczek-silikonowy-0-m-symetryczny-exotic-koala",
+      "status": 200,
+      "title": "CANPOL 34/920 - Smoczek silikonowy – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-34-920-smoczek-silikonowy-symetryczny-0-6m-panda",
+      "handle": "canpol-34-920-smoczek-silikonowy-symetryczny-0-6m-panda",
+      "status": 200,
+      "title": "Canpol 34/920 smoczek Panda 0-6m – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-34-922-smoczek-silikonowy-18-m-symetryczny-exotic-koala",
+      "handle": "canpol-34-922-smoczek-silikonowy-18-m-symetryczny-exotic-koala",
+      "status": 200,
+      "title": "CANPOL 34/922 - Smoczek silikonowy – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-34-924-smoczek-uspokajajacy-silikonowy-symetryczny-0-6-m-animals-niebieski",
+      "handle": "canpol-34-924-smoczek-uspokajajacy-silikonowy-symetryczny-0-6-m-animals-niebieski",
+      "status": 200,
+      "title": "CANPOL 34/924 Smoczek uspokajający silikonowy – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-34-930-smoczek-silikon-orthodontic-symetryczny-0-6-m-mountains-zolte-2-szt",
+      "handle": "canpol-34-930-smoczek-silikon-orthodontic-symetryczny-0-6-m-mountains-zolte-2-szt",
+      "status": 200,
+      "title": "CANPOL 34/930(1) - Smoczek – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-35-2423-butelka-antykolkowa-easystart-mountains-green-120ml-240ml",
+      "handle": "canpol-35-2423-butelka-antykolkowa-easystart-mountains-green-120ml-240ml",
+      "status": 200,
+      "title": "Canpol EasyStart Mountains Green butelka 120/240 ml – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-35-243-butelka-antykolkowa-240-ml-beige-3m",
+      "handle": "canpol-35-243-butelka-antykolkowa-240-ml-beige-3m",
+      "status": 200,
+      "title": "Canpol EasyStart Mountains Beige butelka 120/240 ml – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-35-245-butelka-antykolkowa-pojemnik-na-mleko-240-ml-goose-3m",
+      "handle": "canpol-35-245-butelka-antykolkowa-pojemnik-na-mleko-240-ml-goose-3m",
+      "status": 200,
+      "title": "CANPOL 35/245 - Butelka antykolkowa + pojemnik na – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-51-034-tasiemka-do-smoczka-uspokajajacego-mountains-yellow",
+      "handle": "canpol-51-034-tasiemka-do-smoczka-uspokajajacego-mountains-yellow",
+      "status": 200,
+      "title": "CANPOL 51/034 - Tasiemka do smoczka (uspokajającego) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-73-002-wielorazowe-majtki-poporodowe-siateczkowe-2szt-l-xl",
+      "handle": "canpol-73-002-wielorazowe-majtki-poporodowe-siateczkowe-2szt-l-xl",
+      "status": 200,
+      "title": "CANPOL 73/001(2) - Wielorazowe majtki poporodowe – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-73-003-wysokochlonne-podklady-poporodowe-10szt",
+      "handle": "canpol-73-003-wysokochlonne-podklady-poporodowe-10szt",
+      "status": 200,
+      "title": "CANPOL 73/003 - Wysokochłonne podkłady poporodowe – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-78-001-oddychajace-podklady-poporodowe-na-noc-10szt",
+      "handle": "canpol-78-001-oddychajace-podklady-poporodowe-na-noc-10szt",
+      "status": 200,
+      "title": "canpol 78/001 - Oddychające podkłady poporodowe Na Noc – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-78-002-wielofunkcyjne-jednorazowe-podklady-higieniczne-10szt-z-naklejka",
+      "handle": "canpol-78-002-wielofunkcyjne-jednorazowe-podklady-higieniczne-10szt-z-naklejka",
+      "status": 200,
+      "title": "canpol 78/002 - Wielofunkcyjne Podkłady Higieniczne – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-78-006-wielofunkcyjne-podklady-higieniczne-60x60-cm",
+      "handle": "canpol-78-006-wielofunkcyjne-podklady-higieniczne-60x60-cm",
+      "status": 200,
+      "title": "CANPOL 78/006 - Wielofunkcyjne podklady higieniczne – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-78-007-dyskretne-podpaski-poporodowe-ze-skrzydelkami-day",
+      "handle": "canpol-78-007-dyskretne-podpaski-poporodowe-ze-skrzydelkami-day",
+      "status": 200,
+      "title": "CANPOL 78/007 - Dyskretne podpaski poporodowe – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-78-008-dyskretne-podpaski-poporodowe-ze-skrzydelkami-night",
+      "handle": "canpol-78-008-dyskretne-podpaski-poporodowe-ze-skrzydelkami-night",
+      "status": 200,
+      "title": "CANPOL 78/008 - Dyskretne podpaski poporodowe – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-78-026-jednorazowe-splukiwalne-nakladki-na-toalete-10-szt-copy",
+      "handle": "canpol-78-026-jednorazowe-splukiwalne-nakladki-na-toalete-10-szt-copy",
+      "status": 200,
+      "title": "Canpol 78/025 ręczniki jednorazowe 2 szt. – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-9-809-nozyczki-cazki-pilniczek",
+      "handle": "canpol-9-809-nozyczki-cazki-pilniczek",
+      "status": 200,
+      "title": "CANPOL 9/809 - Nożyczki + cążki + pilniczek – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-9-814-zestaw-pielegnacyjny-do-paznokci-dla-niemowlat-i-dzieci-roz",
+      "handle": "canpol-9-814-zestaw-pielegnacyjny-do-paznokci-dla-niemowlat-i-dzieci-roz",
+      "status": 200,
+      "title": "CANPOL 9/814 - Zestaw pielęgnacyjny – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-kolekcja-goose-zestaw-3m-4-elementow",
+      "handle": "canpol-kolekcja-goose-zestaw-3m-4-elementow",
+      "status": 200,
+      "title": "CANPOL - Kolekcja Goose - zestaw 3m+ (4 elementów) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol-zestaw-wyprawkowy-do-szpitala",
+      "handle": "canpol-zestaw-wyprawkowy-do-szpitala",
+      "status": 200,
+      "title": "CANPOL - Zestaw Wyprawkowy do szpitala - 5 produktów – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/canpol24-201-butelka-antykolkowa-s-shape-szeroka-pp-200-ml-0m",
+      "handle": "canpol24-201-butelka-antykolkowa-s-shape-szeroka-pp-200-ml-0m",
+      "status": 200,
+      "title": "canpol24/201 - Butelka antykolkowa – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/chicco-00002256400000-krem-na-brodawki-30-ml",
+      "handle": "chicco-00002256400000-krem-na-brodawki-30-ml",
+      "status": 200,
+      "title": "CHICCO 00002256400000 - Krem na brodawki - (30 ml) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/chicco-00006569100000-szczotka-grzebien-naturalne-wlosie-roz",
+      "handle": "chicco-00006569100000-szczotka-grzebien-naturalne-wlosie-roz",
+      "status": 200,
+      "title": "CHICCO 00006569100000 - Szczotka+grzebień – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/chicco-00006569200000-szczotka-grzebien-naturalne-wlosie-niebieska",
+      "handle": "chicco-00006569200000-szczotka-grzebien-naturalne-wlosie-niebieska",
+      "status": 200,
+      "title": "CHICCO 00006569200000 - Szczotka+grzebień – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/chicco-00010242000000-oliwka-do-masazu-200ml-0m",
+      "handle": "chicco-00010242000000-oliwka-do-masazu-200ml-0m",
+      "status": 200,
+      "title": "CHICCO - Oliwka do masażu 0m+ (200ml) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/chicco-00010580000000-plyn-do-kapieli-protection-500ml-0m",
+      "handle": "chicco-00010580000000-plyn-do-kapieli-protection-500ml-0m",
+      "status": 200,
+      "title": "CHICCO 00010580000000 - Płyn do kąpieli protection 0m+ – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/chicco-00061779000000-wkladki-laktacyjne-30-szt",
+      "handle": "chicco-00061779000000-wkladki-laktacyjne-30-szt",
+      "status": 200,
+      "title": "CHICCO 00061779000000 - Wkładki laktacyjne - 30 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/chicco-00081311300000-butelka-nf-plastikowa-0m-150-ml-neutralna",
+      "handle": "chicco-00081311300000-butelka-nf-plastikowa-0m-150-ml-neutralna",
+      "status": 200,
+      "title": "CHICCO 00081311300000 - Butelka Nf – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/chicco-916310-chusteczki-pielegnacyjne-72szt-0m",
+      "handle": "chicco-916310-chusteczki-pielegnacyjne-72szt-0m",
+      "status": 200,
+      "title": "CHICCO - Chusteczki Pielęgnacyjne - 72 szt. 0m+ – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/chicco-916500-chusteczki-do-pielegnacji-piersi-16szt",
+      "handle": "chicco-916500-chusteczki-do-pielegnacji-piersi-16szt",
+      "status": 200,
+      "title": "CHICCO- Chusteczki Do Pielęgnacji Piersi 16szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/chicco-916600-chusteczki-do-pielegnacji-piersi-72szt",
+      "handle": "chicco-916600-chusteczki-do-pielegnacji-piersi-72szt",
+      "status": 200,
+      "title": "CHICCO- Chusteczki Do Pielęgnacji Piersi 72szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/chicco-termometr-elektroniczny-digi-baby-mix-kolorow",
+      "handle": "chicco-termometr-elektroniczny-digi-baby-mix-kolorow",
+      "status": 200,
+      "title": "CHICCO - Termometr elektroniczny - Digi Baby – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/chusteczki-dezynfekcyjne-nasaczone-alkoholem-70-apteo-30-x-30-mm-5-szt",
+      "handle": "chusteczki-dezynfekcyjne-nasaczone-alkoholem-70-apteo-30-x-30-mm-5-szt",
+      "status": 200,
+      "title": "Chusteczki dezynfekcyjne nasączone alkoholem 70% – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/doctor-nap-szlafrok-damski-suwak",
+      "handle": "doctor-nap-szlafrok-damski-suwak",
+      "status": 200,
+      "title": "Doctor Nap szlafrok damski suwak – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/dr-browns-sb2100-butelka-standard-60ml-options",
+      "handle": "dr-browns-sb2100-butelka-standard-60ml-options",
+      "status": 200,
+      "title": "Dr.Browns sb2100 - Butelka standard - (60ml) - Options – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/drewniany-organizer-dzieciecy-oh-baby-z-drazkiem",
+      "handle": "drewniany-organizer-dzieciecy-oh-baby-z-drazkiem",
+      "status": 200,
+      "title": "Drewniany Organizer dziecięcy - Oh Baby - z drążkiem – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/duet-baby-547-okrycie-kapielowe-z-kapturkiem-kocyk-dla-niemowlat",
+      "handle": "duet-baby-547-okrycie-kapielowe-z-kapturkiem-kocyk-dla-niemowlat",
+      "status": 200,
+      "title": "Duet Baby 547 - Okrycie Kąpielowe z kapturkiem + – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/fara-pielucha-tetra-druk-70x80-mix-kolorow",
+      "handle": "fara-pielucha-tetra-druk-70x80-mix-kolorow",
+      "status": 200,
+      "title": "Pieluszka tetrowa - Druk - (70x80) - mix kolorów – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/fara-pieluszka-tetrowa-70x80-biala",
+      "handle": "fara-pieluszka-tetrowa-70x80-biala",
+      "status": 200,
+      "title": "Pieluszka tetrowa - Biała - (70x80) - 1 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/gumki-do-wlosow-elastyczne",
+      "handle": "gumki-do-wlosow-elastyczne",
+      "status": 200,
+      "title": "Gumki do włosów elastyczne 3 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/horizon-majtki-poporodowe-siatka-38-40-a-2szt",
+      "handle": "horizon-majtki-poporodowe-siatka-38-40-a-2szt",
+      "status": 200,
+      "title": "Horizon-Majtki Poporodowe Siatka 2 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/huggies-extra-care-pieluszki-jednorazowe-1-25-kg",
+      "handle": "huggies-extra-care-pieluszki-jednorazowe-1-25-kg",
+      "status": 200,
+      "title": "Huggies Extra Care – Pieluszki - Rozmiar 1 - - 26 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/jednorazowe-nakladki-na-toalete-biodegradowalne-podkladki-6-szt-copy",
+      "handle": "jednorazowe-nakladki-na-toalete-biodegradowalne-podkladki-6-szt-copy",
+      "status": 200,
+      "title": "Jednorazowe nakładki na toaletę - Biodegradowalne – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/jednorazowe-nakladki-na-toalete-biodegradowalne-podkladki-8-szt",
+      "handle": "jednorazowe-nakladki-na-toalete-biodegradowalne-podkladki-8-szt",
+      "status": 200,
+      "title": "Intervion nak?adki na toalet? biodegradowalne 6 szt. – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/kindii-chusteczki-a-60szt-pure-water-99-har02dz04",
+      "handle": "kindii-chusteczki-a-60szt-pure-water-99-har02dz04",
+      "status": 200,
+      "title": "Kindii - Pure Water 99% - Chusteczki Wodne 60 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/kindii-patyczki-a-60szt-pudelko-pure",
+      "handle": "kindii-patyczki-a-60szt-pudelko-pure",
+      "status": 200,
+      "title": "Kindii Pure kin000017 - Patyczki dla niemowląt 60 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/kindii-platki-baby-a-60szt-12863",
+      "handle": "kindii-platki-baby-a-60szt-12863",
+      "status": 200,
+      "title": "Kindii Pure - Płatki Bawełniane Kosmetyczne Dla – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/klapki-damskie-bialy",
+      "handle": "klapki-damskie-bialy",
+      "status": 200,
+      "title": "Klapki damskie - Biały – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/klapki-damskie-brazowy",
+      "handle": "klapki-damskie-brazowy",
+      "status": 200,
+      "title": "Klapki damskie – Brązowy – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/klapki-damskie-rozowy",
+      "handle": "klapki-damskie-rozowy",
+      "status": 200,
+      "title": "Klapki damskie - Różowy – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/klapki-damskie-zolty",
+      "handle": "klapki-damskie-zolty",
+      "status": 200,
+      "title": "Klapki damskie - Żółty – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/kompletny-md",
+      "handle": "kompletny-md",
+      "status": 200,
+      "title": "Torba do szpitala mama i noworodek - Premium – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/koszula-do-karmienia-beige-xxl-doctor-nap",
+      "handle": "koszula-do-karmienia-beige-xxl-doctor-nap",
+      "status": 200,
+      "title": "Koszula do karmienia - (beige) - Doctor Nap – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/koszula-do-karmienia-dark_grey-xxl-doctor-nap",
+      "handle": "koszula-do-karmienia-dark_grey-xxl-doctor-nap",
+      "status": 200,
+      "title": "Koszula do karmienia -(dark_grey) -Doctor Nap – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/koszula-do-karmienia-deep-blue-xl-doctor-nap",
+      "handle": "koszula-do-karmienia-deep-blue-xl-doctor-nap",
+      "status": 200,
+      "title": "Koszula do karmienia -( Deep Blue) - Doctor Nap – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/koszula-do-karmienia-graphite-xxl-doctor-nap",
+      "handle": "koszula-do-karmienia-graphite-xxl-doctor-nap",
+      "status": 200,
+      "title": "Koszula do karmienia -(graphite) - Doctor Nap – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/koszula-do-karmienia-grey-xxxl-doctor-nap",
+      "handle": "koszula-do-karmienia-grey-xxxl-doctor-nap",
+      "status": 200,
+      "title": "Koszula do karmienia -(grey) - Doctor Nap – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/koszula-do-karmienia-rozowy-xl-doctor-nap",
+      "handle": "koszula-do-karmienia-rozowy-xl-doctor-nap",
+      "status": 200,
+      "title": "Koszula do karmienia -( różowy) - Doctor Nap – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/koszula-do-karmienia-sweet_pink-xl-doctor-nap",
+      "handle": "koszula-do-karmienia-sweet_pink-xl-doctor-nap",
+      "status": 200,
+      "title": "Koszula do karmienia - (sweet_pink) - Doctor Nap – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/lansinoh-butelka-do-karmienia-szklana-160ml",
+      "handle": "lansinoh-butelka-do-karmienia-szklana-160ml",
+      "status": 200,
+      "title": "Lansinoh - Butelka do karmienia - Szklana ze smoczkiem – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/lansinoh-lanolina-40-ml",
+      "handle": "lansinoh-lanolina-40-ml",
+      "status": 200,
+      "title": "Lansinoh - Lanolina Hpa - krem na brodawki sutkowe – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/lansinoh-oslonki-laktacyjne-nipple-shields-24mm",
+      "handle": "lansinoh-oslonki-laktacyjne-nipple-shields-24mm",
+      "status": 200,
+      "title": "Lansinoh - Osłonki laktacyjne Nipple Shields – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/lansinoh-pericare-wkladki-zelowe-poporodowe-therapearl",
+      "handle": "lansinoh-pericare-wkladki-zelowe-poporodowe-therapearl",
+      "status": 200,
+      "title": "Lansinoh Pericare - Wkładki Żelowe poporodowe – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/lansinoh-wkladki-laktacyjne-jednorazowe-60-szt",
+      "handle": "lansinoh-wkladki-laktacyjne-jednorazowe-60-szt",
+      "status": 200,
+      "title": "Lansinoh - Wkładki laktacyjne jednorazowe - 60 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/linomag-balsam-dla-dzieci-i-niemowlat-200ml",
+      "handle": "linomag-balsam-dla-dzieci-i-niemowlat-200ml",
+      "status": 200,
+      "title": "Linomag - Balsam - dla dzieci i niemowląt - (200ml) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/linomag-krem-bobo-a-e-50ml",
+      "handle": "linomag-krem-bobo-a-e-50ml",
+      "status": 200,
+      "title": "Linomag - Krem Bobo A+e - (50ml) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/linomag-krem-z-tlenkiem-cynku-50-ml-k014",
+      "handle": "linomag-krem-z-tlenkiem-cynku-50-ml-k014",
+      "status": 200,
+      "title": "Linomag - Krem z tlenkiem Cynku - (50 Ml) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/linomag-puder-100g-hig-kosm-dla-dzieci-i-niemowlat-k056",
+      "handle": "linomag-puder-100g-hig-kosm-dla-dzieci-i-niemowlat-k056",
+      "status": 200,
+      "title": "Linomag - Puder dla dzieci i niemowląt - (100g) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/linomag-zel-do-mycia-ciala-i-glowy-dla-dzieci-i-niemowlat-200-ml-k035",
+      "handle": "linomag-zel-do-mycia-ciala-i-glowy-dla-dzieci-i-niemowlat-200-ml-k035",
+      "status": 200,
+      "title": "Linomag - Żel do mycia ciała i głowy – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/lovi-22-905-smoczek-silikonowy-dynamiczny-0-3m-2-szt-harmony-girl",
+      "handle": "lovi-22-905-smoczek-silikonowy-dynamiczny-0-3m-2-szt-harmony-girl",
+      "status": 200,
+      "title": "LOVI 22/905 - Smoczek silikonowy dynamiczny 2 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/lovi-5-606-silikonowe-oslonki-piersi-skin-touch-2-szt-m-l",
+      "handle": "lovi-5-606-silikonowe-oslonki-piersi-skin-touch-2-szt-m-l",
+      "status": 200,
+      "title": "LOVI 5/605(606) - Silikonowe osłonki piersi Skin – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/luba-tuli-chusteczki-nawilzane-dla-dzieci-z-aloesem-60-szt",
+      "handle": "luba-tuli-chusteczki-nawilzane-dla-dzieci-z-aloesem-60-szt",
+      "status": 200,
+      "title": "Luba Tuli - chusteczki nawilżane dla dzieci – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/me-figi-l-bialy",
+      "handle": "me-figi-l-bialy",
+      "status": 200,
+      "title": "Majtki ciążowe MEDELA - Rozmiar L – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/medela-101041323-purelan-masc-lanolinowa-7g",
+      "handle": "medela-101041323-purelan-masc-lanolinowa-7g",
+      "status": 200,
+      "title": "MEDELA 101041323 - Purelan maść Lanolinowa- (7g) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/nakladka-sedesowa-jednorazowa-1-szt",
+      "handle": "nakladka-sedesowa-jednorazowa-1-szt",
+      "status": 200,
+      "title": "Nakładka sedesowa jednorazowa - 1 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/nivea-baby-80512-zel-2w1-do-mycia-ciala-i-wlosow-z-dozownikiem-500-ml",
+      "handle": "nivea-baby-80512-zel-2w1-do-mycia-ciala-i-wlosow-z-dozownikiem-500-ml",
+      "status": 200,
+      "title": "Nivea Baby (80512) - Żel 2w1 do mycia ciała i włosów – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/nivea-baby-80529-krem-pielegnacyjny-do-twarzy-i-ciala-200-ml",
+      "handle": "nivea-baby-80529-krem-pielegnacyjny-do-twarzy-i-ciala-200-ml",
+      "status": 200,
+      "title": "Nivea Baby - Krem Pielęgnacyjny - do twarzy i ciała – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/nivea-baby-80538-moj-pierwszy-krem-75-ml",
+      "handle": "nivea-baby-80538-moj-pierwszy-krem-75-ml",
+      "status": 200,
+      "title": "Nivea Baby - Mój pierwszy Krem - (75 ml) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/nivea-baby-80571-chusteczki-toddies-a57",
+      "handle": "nivea-baby-80571-chusteczki-toddies-a57",
+      "status": 200,
+      "title": "Nivea Baby Toddies - Chusteczki nawilżane dla dzieci – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/nivea-baby-80590-oliwka-pielegnacyjna-200-ml",
+      "handle": "nivea-baby-80590-oliwka-pielegnacyjna-200-ml",
+      "status": 200,
+      "title": "Nivea Baby (80590) - Oliwka pielęgnacyjna - (200 ml) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/nuk-252137-wkladki-laktacyjne-high-peformence-8szt",
+      "handle": "nuk-252137-wkladki-laktacyjne-high-peformence-8szt",
+      "status": 200,
+      "title": "Nuk 252137 - Wkładki laktacyjne High Peformence – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/odzywka-z-keratyna-kondycjonujaca-kozie-mleko-ziaja-200-ml",
+      "handle": "odzywka-z-keratyna-kondycjonujaca-kozie-mleko-ziaja-200-ml",
+      "status": 200,
+      "title": "Odżywka z keratyną - Kozie Mleko - Ziaja – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/ola-baby-chusteczki-nawilzane-z-alantoli-na-a-72szt",
+      "handle": "ola-baby-chusteczki-nawilzane-z-alantoli-na-a-72szt",
+      "status": 200,
+      "title": "Ola Baby - Chusteczki nawilżane z alantoiną - 72 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/organizer-akcesoria-niemowlece-w-stylu-boho",
+      "handle": "organizer-akcesoria-niemowlece-w-stylu-boho",
+      "status": 200,
+      "title": "Organizer na akcesoria niemowlęce - w stylu Boho – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/organizer-na-pieluchy-i-akcesoria-pleciony-3-przegrody-uchwyty",
+      "handle": "organizer-na-pieluchy-i-akcesoria-pleciony-3-przegrody-uchwyty",
+      "status": 200,
+      "title": "Organizer na pieluchy i akcesoria - Pleciony- 3 – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/organizer-na-pieluchy-i-akcesoria-z-misiem-37-5-25-18-cm",
+      "handle": "organizer-na-pieluchy-i-akcesoria-z-misiem-37-5-25-18-cm",
+      "status": 200,
+      "title": "Organizer na pieluchy i akcesoria - z misiem – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/pielucha-flanela-70x80-jednokolorowa",
+      "handle": "pielucha-flanela-70x80-jednokolorowa",
+      "status": 200,
+      "title": "Fara - Pielucha Flanelowa - Jednokolorowa - (70x80cm) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/pieluszka-muslinowa-ulewajka-38x38-cm-100-bawelna",
+      "handle": "pieluszka-muslinowa-ulewajka-38x38-cm-100-bawelna",
+      "status": 200,
+      "title": "Pieluszka muślinowa - ulewajka – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/pieluszka-wielorazowa-ega-ch-622-biala-1-szt",
+      "handle": "pieluszka-wielorazowa-ega-ch-622-biala-1-szt",
+      "status": 200,
+      "title": "Pieluszka tetrowa wielorazowa - Biała - - 1 szt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/pikowana-torba-dla-mamy-i-niemowlecia-z-kieszeniami-mleczna-w-kwiaty",
+      "handle": "pikowana-torba-dla-mamy-i-niemowlecia-z-kieszeniami-mleczna-w-kwiaty",
+      "status": 200,
+      "title": "Pikowana torba dla mamy i niemowlęcia - mleczna w kwiaty – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/pikowana-torba-do-szpitala",
+      "handle": "pikowana-torba-do-szpitala",
+      "status": 200,
+      "title": "Pikowana Torba do szpitala z Tulipanami - Rozmiar: L – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/pikowana-torba-do-szpitala-motywem-gwiazdek-ksiezyca-l",
+      "handle": "pikowana-torba-do-szpitala-motywem-gwiazdek-ksiezyca-l",
+      "status": 200,
+      "title": "Pikowana Torba do szpitala z Motywem Gwiazdek I – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/pikowana-torba-do-szpitala-z-haftem-galazek-oliwnych-rozmiar-l",
+      "handle": "pikowana-torba-do-szpitala-z-haftem-galazek-oliwnych-rozmiar-l",
+      "status": 200,
+      "title": "Pikowana Torba do szpitala z haftem gałązek Oliwnych – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/pikowana-torba-do-szpitala-z-niedzwiedziem",
+      "handle": "pikowana-torba-do-szpitala-z-niedzwiedziem",
+      "status": 200,
+      "title": "Pikowana Torba do szpitala z Niedźwiedziem - Rozmiar – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/pikowana-torba-do-szpitala-z-niedzwiedziem-rozmiar-m",
+      "handle": "pikowana-torba-do-szpitala-z-niedzwiedziem-rozmiar-m",
+      "status": 200,
+      "title": "Pikowana torba do szpitala z niedźwiedziem M – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/pikowana-torba-do-szpitala-z-tulipanami-rozmiar-m",
+      "handle": "pikowana-torba-do-szpitala-z-tulipanami-rozmiar-m",
+      "status": 200,
+      "title": "Pikowana Torba do szpitala z Tulipanami - Rozmiar: M – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/pikowana-torba-mamy-niemowlecia-mleczna-motywem-misiow",
+      "handle": "pikowana-torba-mamy-niemowlecia-mleczna-motywem-misiow",
+      "status": 200,
+      "title": "Pikowana Torba dla mamy i niemowlęcia – mleczna Z – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/rozek-niemowlecy-mix-standard-80x80-cm-dwustronny-bawelna",
+      "handle": "rozek-niemowlecy-mix-standard-80x80-cm-dwustronny-bawelna",
+      "status": 200,
+      "title": "Rożek niemowlęcy Mix - standard 80x80 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/rozek-niemowlecy-muslinowy-75-x-cm-kokarda-bawelna",
+      "handle": "rozek-niemowlecy-muslinowy-75-x-cm-kokarda-bawelna",
+      "status": 200,
+      "title": "Rożek niemowlęcy Muślinowy - 75x75 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/rozek-niemowlecy-standard-75x75-cm-miminu-design-kotki-bawelna-100",
+      "handle": "rozek-niemowlecy-standard-75x75-cm-miminu-design-kotki-bawelna-100",
+      "status": 200,
+      "title": "Rożek niemowlęcy - standard 75x75 cm - - bawełna 100% – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/rozek-niemowlecy-standard-75x75-cm-miminu-design-little-ballerina-bawelna-100",
+      "handle": "rozek-niemowlecy-standard-75x75-cm-miminu-design-little-ballerina-bawelna-100",
+      "status": 200,
+      "title": "Ro?ek niemowl?cy 75x75 Little Ballerina – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/rozek-niemowlecy-standard-75x75-cm-miminu-design-misie-blekit-bawelna-100",
+      "handle": "rozek-niemowlecy-standard-75x75-cm-miminu-design-misie-blekit-bawelna-100",
+      "status": 200,
+      "title": "Rożek niemowlęcy - standard 75x75 cm - - bawełna 100% – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/rozek-niemowlecy-standard-80x80-cm-becik-otulacz-dwustronny-bawelna",
+      "handle": "rozek-niemowlecy-standard-80x80-cm-becik-otulacz-dwustronny-bawelna",
+      "status": 200,
+      "title": "Ro?ek niemowl?cy 80x80 dwustronny bawe?na – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-dla-chlopca",
+      "handle": "rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-dla-chlopca",
+      "status": 200,
+      "title": "Rożek niemowlęcy 80x80 na rzep dla chłopca – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-dla-dziewczynki",
+      "handle": "rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-dla-dziewczynki",
+      "status": 200,
+      "title": "Rożek niemowlęcy - standard 80x80 cm – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-szary-w-gwiazdki",
+      "handle": "rozek-niemowlecy-standard-80x80-cm-na-rzep-bawelna-100-szary-w-gwiazdki",
+      "status": 200,
+      "title": "Rożek niemowlęcy - standard 80x80 cm – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/rozek-niemowlecy-teddy-standard-80x80-cm-dwustronny-bawelna",
+      "handle": "rozek-niemowlecy-teddy-standard-80x80-cm-dwustronny-bawelna",
+      "status": 200,
+      "title": "Rożek niemowlęcy Teddy - standard 80x80 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/roztwor-fizjologiczny-inhalacja-soli-5-ampulek",
+      "handle": "roztwor-fizjologiczny-inhalacja-soli-5-ampulek",
+      "status": 200,
+      "title": "Roztwór Fizjologiczny - INhalacja soli - 5 Ampułek – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/skarb-matki-femina-pianka-do-higieny-int-ymnej-250ml",
+      "handle": "skarb-matki-femina-pianka-do-higieny-int-ymnej-250ml",
+      "status": 200,
+      "title": "Skarb Matki-Femina - Pianka do Higieny Intymnej – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/skarb-matki-oliwka-pielegnacyjna-w-zelu-125-m-z-witamina-e",
+      "handle": "skarb-matki-oliwka-pielegnacyjna-w-zelu-125-m-z-witamina-e",
+      "status": 200,
+      "title": "Skarb Matki- Oliwka Pielęgnacyjna - w żelu z witaminą – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/skarb-matki-pielegnacyjny-krem-ochronny-dla-niemowlat-i-dzieci-75ml",
+      "handle": "skarb-matki-pielegnacyjny-krem-ochronny-dla-niemowlat-i-dzieci-75ml",
+      "status": 200,
+      "title": "Skarb Matki - Pielęgnacyjny Krem Ochronny – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/skarb-matki-pomadka-ochronna-dla-dzieci-o-smaku-kokosa-i-wanilii",
+      "handle": "skarb-matki-pomadka-ochronna-dla-dzieci-o-smaku-kokosa-i-wanilii",
+      "status": 200,
+      "title": "Skarb Matki pomadka kokos i wanilia 6,5 g – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/skarb-matki-pomadka-ochronna-dla-dzieci-smak-malinowy",
+      "handle": "skarb-matki-pomadka-ochronna-dla-dzieci-smak-malinowy",
+      "status": 200,
+      "title": "Skarb Matki pomadka malinowa 6,5 g – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/skarb-matki-puder-dla-niemowlat-i-dzieci-120g",
+      "handle": "skarb-matki-puder-dla-niemowlat-i-dzieci-120g",
+      "status": 200,
+      "title": "Skarb Matki - Puder - dla niemowląt i dzieci - 120g – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/skarpetki-niemowlece-z-misiami-0-3-m",
+      "handle": "skarpetki-niemowlece-z-misiami-0-3-m",
+      "status": 200,
+      "title": "Skarpetki niemowlęce - z misiami - (0–3 m) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/skarpety-damskie-cosmos-best-mom-doctor-nap",
+      "handle": "skarpety-damskie-cosmos-best-mom-doctor-nap",
+      "status": 200,
+      "title": "Skarpety damskie (cosmos) Best Mom - Doctor Nap – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/skarpety-damskie-grey-swan-doctor-nap",
+      "handle": "skarpety-damskie-grey-swan-doctor-nap",
+      "status": 200,
+      "title": "Skarpety damskie (grey Swan) - Doctor Nap – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/smoczek-uspokajajacy-0-6m-symetryczny-okragly-rozowy",
+      "handle": "smoczek-uspokajajacy-0-6m-symetryczny-okragly-rozowy",
+      "status": 200,
+      "title": "Canpol 22/580 smoczek symetryczny 0m+ różowy – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/szampon-i-zel-do-kapieli-2w1-bebble-200ml",
+      "handle": "szampon-i-zel-do-kapieli-2w1-bebble-200ml",
+      "status": 200,
+      "title": "Bobini Baby - Żel do mycia ciała i włosów dla – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/szampon-z-keratyna-kozie-mleko-ziaja-400ml",
+      "handle": "szampon-z-keratyna-kozie-mleko-ziaja-400ml",
+      "status": 200,
+      "title": "Szampon z keratyną - Kozie Mleko - Ziaja - 400ml – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/szlafrok-damski-bambusowy-wiazany-xl-doctor-nap",
+      "handle": "szlafrok-damski-bambusowy-wiazany-xl-doctor-nap",
+      "status": 200,
+      "title": "Szlafrok damski bambusowy wiązany - Doctor Nap – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/szlafrok-damski-z-delikatnego-muslinu-l-wiazany-doctor-nap",
+      "handle": "szlafrok-damski-z-delikatnego-muslinu-l-wiazany-doctor-nap",
+      "status": 200,
+      "title": "Szlafrok Damski z delikatnego muślinu - Doctor Nap – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tcb-9504-koszula-do-karmienia-xl-grey-doctor-nap",
+      "handle": "tcb-9504-koszula-do-karmienia-xl-grey-doctor-nap",
+      "status": 200,
+      "title": "tcb.9504 - Koszula do karmienia - (grey) - Doctor Nap – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tcb-9505-koszula-do-karmienia-l-graphite-doctor-nap",
+      "handle": "tcb-9505-koszula-do-karmienia-l-graphite-doctor-nap",
+      "status": 200,
+      "title": "tcb.9505 - Koszula do karmienia - L - - Doctor Nap – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tcb-9505-koszula-do-karmienia-xxl-pink-doctor-nap",
+      "handle": "tcb-9505-koszula-do-karmienia-xxl-pink-doctor-nap",
+      "status": 200,
+      "title": "tcb.9505 - Koszula do karmienia - Xxl - - Doctor Nap – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/teczka-na-dokumenty-rozmiar-a4-mix-kolorow",
+      "handle": "teczka-na-dokumenty-rozmiar-a4-mix-kolorow",
+      "status": 200,
+      "title": "Teczka na dokumenty - rozmiar a4 - (mix kolorów) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tega-baby-wanienka-monsters-z-odplywem-102-cm",
+      "handle": "tega-baby-wanienka-monsters-z-odplywem-102-cm",
+      "status": 200,
+      "title": "Tega Baby Wanienka Monsters z odpływem 102 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tega-baby-wanienka-monsters-z-odplywem-86-cm",
+      "handle": "tega-baby-wanienka-monsters-z-odplywem-86-cm",
+      "status": 200,
+      "title": "Tega Baby Wanienka Monsters z odpływem 86 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tega-baby-wanienka-skladana-z-odplywem-standard",
+      "handle": "tega-baby-wanienka-skladana-z-odplywem-standard",
+      "status": 200,
+      "title": "Tega Baby Wanienka składana z odpływem standard – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tega-baby-wanna-dziecieca-dziki-zachod-102-cm",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-102-cm",
+      "status": 200,
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 102 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tega-baby-wanna-dziecieca-dziki-zachod-86-cm",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-86-cm",
+      "status": 200,
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 86 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tega-baby-wanna-dziecieca-dziki-zachod-z-odplywem-86-cm",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-z-odplywem-86-cm",
+      "status": 200,
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód z odpływem 86 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tega-baby-wanna-dziecieca-kaczka-102-cm",
+      "handle": "tega-baby-wanna-dziecieca-kaczka-102-cm",
+      "status": 200,
+      "title": "Tega Baby Wanna dziecięca Kaczka 102 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tega-baby-wanna-dziecieca-kaczka-86-cm",
+      "handle": "tega-baby-wanna-dziecieca-kaczka-86-cm",
+      "status": 200,
+      "title": "Tega Baby Wanna dziecięca Kaczka 86 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tega-baby-wanna-dziecieca-kroliczki-z-odplywem-102-cm",
+      "handle": "tega-baby-wanna-dziecieca-kroliczki-z-odplywem-102-cm",
+      "status": 200,
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 102 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tega-baby-wanna-dziecieca-kroliczki-z-odplywem-86-cm",
+      "handle": "tega-baby-wanna-dziecieca-kroliczki-z-odplywem-86-cm",
+      "status": 200,
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 86 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tega-baby-wanna-dziecieca-lesna-opowiesc-102-cm",
+      "handle": "tega-baby-wanna-dziecieca-lesna-opowiesc-102-cm",
+      "status": 200,
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 102 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tega-baby-wanna-dziecieca-lesna-opowiesc-86-cm",
+      "handle": "tega-baby-wanna-dziecieca-lesna-opowiesc-86-cm",
+      "status": 200,
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 86 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tega-baby-wanna-dziecieca-meteo-z-odplywem-102-cm",
+      "handle": "tega-baby-wanna-dziecieca-meteo-z-odplywem-102-cm",
+      "status": 200,
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 102 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tega-baby-wanna-dziecieca-meteo-z-odplywem-86-cm",
+      "handle": "tega-baby-wanna-dziecieca-meteo-z-odplywem-86-cm",
+      "status": 200,
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 86 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tega-baby-wanna-dziecieca-mis-102-cm",
+      "handle": "tega-baby-wanna-dziecieca-mis-102-cm",
+      "status": 200,
+      "title": "Tega Baby Wanna dziecięca Miś 102 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/tega-baby-wanna-dziecieca-mis-86-cm",
+      "handle": "tega-baby-wanna-dziecieca-mis-86-cm",
+      "status": 200,
+      "title": "Tega Baby Wanna dziecięca Miś 86 cm – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/torba-bawelna-do-szpitala",
+      "handle": "torba-bawelna-do-szpitala",
+      "status": 200,
+      "title": "Torba bawełna do szpitala – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/torba-do-szpitala",
+      "handle": "torba-do-szpitala",
+      "status": 200,
+      "title": "Torba do szpitala-010 – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/torba-do-szpitala-01",
+      "handle": "torba-do-szpitala-01",
+      "status": 200,
+      "title": "Torba do szpitala-01 – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/torba-do-szpitala-02",
+      "handle": "torba-do-szpitala-02",
+      "status": 200,
+      "title": "Torba do szpitala-02 – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/torba-do-szpitala-dla-noworodka-gotowa-wyprawka-premium",
+      "handle": "torba-do-szpitala-dla-noworodka-gotowa-wyprawka-premium",
+      "status": 200,
+      "title": "Torba do szpitala dla noworodka - wyprawka Podstawowa – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/torba-do-szpitala-mamy-gotowa-wyprawka-kompletna",
+      "handle": "torba-do-szpitala-mamy-gotowa-wyprawka-kompletna",
+      "status": 200,
+      "title": "Torba do szpitala dla Mamy – gotowa wyprawka Kompletna – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/torba-do-szpitala-mamy-gotowa-wyprawka-podstawowa",
+      "handle": "torba-do-szpitala-mamy-gotowa-wyprawka-podstawowa",
+      "status": 200,
+      "title": "Torba do szpitala dla Mamy – wyprawka Podstawowa – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/torba-do-szpitala-mamy-gotowa-wyprawka-premium",
+      "handle": "torba-do-szpitala-mamy-gotowa-wyprawka-premium",
+      "status": 200,
+      "title": "Torba do szpitala dla Mamy – gotowa wyprawka Premium – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/torba-do-szpitala-mamy-gotowa-wyprawka-rozszerzona",
+      "handle": "torba-do-szpitala-mamy-gotowa-wyprawka-rozszerzona",
+      "status": 200,
+      "title": "Torba do szpitala dla Mamy – wyprawka Rozszerzona – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-kompletna",
+      "handle": "torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-kompletna",
+      "status": 200,
+      "title": "Torba do szpitala mama i noworodek - Kompletna – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-podstawowa",
+      "handle": "torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-podstawowa",
+      "status": 200,
+      "title": "Torba do szpitala mama i noworodek - Podstawowa – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-rozszerzona",
+      "handle": "torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-rozszerzona",
+      "status": 200,
+      "title": "Torba do szpitala dla Mamy I Noworodka – gotowa – mamapack",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/torba-do-szpitala-maniy-z-dolna-komora",
+      "handle": "torba-do-szpitala-maniy-z-dolna-komora",
+      "status": 200,
+      "title": "Torba do szpitala M.A.N.I.Y z dolną komorą | MamaPack – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/torba-do-szpitala-noworodka-gotowa-wyprawka-kompletna",
+      "handle": "torba-do-szpitala-noworodka-gotowa-wyprawka-kompletna",
+      "status": 200,
+      "title": "Torba do szpitala dla noworodka - wyprawka Kompletna – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/torba-do-szpitala-noworodka-gotowa-wyprawka-premium",
+      "handle": "torba-do-szpitala-noworodka-gotowa-wyprawka-premium",
+      "status": 200,
+      "title": "Torba do szpitala dla noworodka - wyprawka Premium – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/torba-do-szpitala-noworodka-gotowa-wyprawka-rozszerzona",
+      "handle": "torba-do-szpitala-noworodka-gotowa-wyprawka-rozszerzona",
+      "status": 200,
+      "title": "Torba do szpitala dla noworodka - wyprawka Rozszerzona – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/zestaw-plastikowych-butelek-na-produkty-higieniczne-9-szt",
+      "handle": "zestaw-plastikowych-butelek-na-produkty-higieniczne-9-szt",
+      "status": 200,
+      "title": "Zestaw plastikowych butelek na produkty higieniczne 9 – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/zestaw-wyprawkowy-mountains-yellow-pielegnacja-i-karmienie",
+      "handle": "zestaw-wyprawkowy-mountains-yellow-pielegnacja-i-karmienie",
+      "status": 200,
+      "title": "Zestaw Wyprawkowy Mountains Yellow – (4 elementów) – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/ziaja-antyperspirant",
+      "handle": "ziaja-antyperspirant",
+      "status": 200,
+      "title": "Ziaja - antyperspirant – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/ziaja-plyn-do-higieny-intymnej-mamma-mia-300-ml",
+      "handle": "ziaja-plyn-do-higieny-intymnej-mamma-mia-300-ml",
+      "status": 200,
+      "title": "Ziaja - Płyn do higieny intymnej - Mamma Mia - 300 ml – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/ziajka-krem-do-pielegnacji-dzieci-i-niemowlat",
+      "handle": "ziajka-krem-do-pielegnacji-dzieci-i-niemowlat",
+      "status": 200,
+      "title": "Ziajka - krem do pielęgnacji dzieci i niemowląt – mamapack",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/products/ziajka-masc-na-posladki-przeciw-odparzeniom-50-ml",
+      "handle": "ziajka-masc-na-posladki-przeciw-odparzeniom-50-ml",
+      "status": 200,
+      "title": "Ziajka - maść na pośladki przeciw odparzeniom - 50 ml – mamapack",
+      "changed": false,
+      "error": ""
+    }
+  ]
+}

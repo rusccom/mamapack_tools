@@ -1,0 +1,141 @@
+{
+  "createdAt": "2026-05-10T17:04:00.914781+03:00",
+  "collection": {
+    "id": "gid://shopify/Collection/660910408013",
+    "title": "Śliniaki",
+    "handle": "sliniaki"
+  },
+  "sourceItems": [
+    {
+      "sourceSku": "788472",
+      "sku": "A0517",
+      "barcode": "5907644005178",
+      "sourceTitle": "AKUKU A0517 Śliniak z rękawkiem BORSUK",
+      "pattern": "Borsuk",
+      "purchaseNet": 12.18,
+      "salePrice": "19.49",
+      "stockText": "duża ilość",
+      "description": "Fartuszek dziecięcy z rękawkami skutecznie ochroni ubranka Twojego dziecka przed zabrudzeniem w trakcie jedzenia i podczas zabaw. Wykonany z lekkiego, miękkiego oraz łatwo zmywalnego tworzywa EVA. Wyposażony w dużą kieszeń, która zatrzymuje resztki pokarmu. Posiada także wygodne zapięcie na rzep. Łatwy do utrzymania w czystości. Wystarczy zaraz po jedzeniu umyć śliniaczek w ciepłej wodzie z mydłem dla dzieci.\n\nSkład: 100% EVA\n\nRozmiar: 33 cm (szerokość) x 35 cm (długość od szyi)",
+      "imagePaths": [
+        "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\akuku_sliniak_rekawki\\A0517-1.jpg"
+      ]
+    },
+    {
+      "sourceSku": "788473",
+      "sku": "A0518",
+      "barcode": "5907644005185",
+      "sourceTitle": "AKUKU A0518 Śliniak z rękawkiem MISIO",
+      "pattern": "Misio",
+      "purchaseNet": 12.18,
+      "salePrice": "19.49",
+      "stockText": "brak",
+      "description": "Fartuszek dziecięcy z rękawkami skutecznie ochroni ubranka Twojego dziecka przed zabrudzeniem w trakcie jedzenia i podczas zabaw. Wykonany z lekkiego, miękkiego oraz łatwo zmywalnego tworzywa EVA. Wyposażony w dużą kieszeń, która zatrzymuje resztki pokarmu. Posiada także wygodne zapięcie na rzep. Łatwy do utrzymania w czystości. Wystarczy zaraz po jedzeniu umyć śliniaczek w ciepłej wodzie z mydłem dla dzieci.\n\nSkład: 100% EVA\n\nRozmiar: 33 cm (szerokość) x 35 cm (długość od szyi)",
+      "imagePaths": [
+        "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\akuku_sliniak_rekawki\\A0518-1.jpg"
+      ]
+    }
+  ],
+  "product": {
+    "title": "AKUKU Śliniak z rękawkiem",
+    "handle": "akuku-sliniak-z-rekawkiem",
+    "optionName": "Wzór",
+    "skus": [
+      "A0517",
+      "A0518"
+    ],
+    "variantValues": [
+      "Borsuk",
+      "Misio"
+    ]
+  },
+  "created": {
+    "product": {
+      "id": "gid://shopify/Product/10655952535885",
+      "title": "AKUKU Śliniak z rękawkiem",
+      "handle": "akuku-sliniak-z-rekawkiem",
+      "status": "DRAFT",
+      "variants": {
+        "nodes": [
+          {
+            "sku": "A0517",
+            "barcode": "5907644005178",
+            "price": "19.49",
+            "selectedOptions": [
+              {
+                "name": "Wzór",
+                "value": "Borsuk"
+              }
+            ]
+          },
+          {
+            "sku": "A0518",
+            "barcode": "5907644005185",
+            "price": "19.49",
+            "selectedOptions": [
+              {
+                "name": "Wzór",
+                "value": "Misio"
+              }
+            ]
+          }
+        ]
+      },
+      "media": {
+        "nodes": [
+          {
+            "status": "READY",
+            "alt": "AKUKU Śliniak z rękawkiem",
+            "mediaContentType": "IMAGE"
+          },
+          {
+            "status": "READY",
+            "alt": "AKUKU Śliniak z rękawkiem",
+            "mediaContentType": "IMAGE"
+          }
+        ]
+      },
+      "collections": {
+        "nodes": [
+          {
+            "title": "Śliniaki",
+            "handle": "sliniaki"
+          }
+        ]
+      },
+      "seo": {
+        "title": "AKUKU Śliniak z rękawkiem | MamaPack",
+        "description": "AKUKU Śliniak z rękawkiem AKUKU z lekkiego EVA. Śliniak z rękawkami, kieszonką i zapięciem na rzep. Wzory: Borsuk, Misio."
+      }
+    },
+    "sourceItems": [
+      {
+        "sourceSku": "788472",
+        "sku": "A0517",
+        "barcode": "5907644005178",
+        "sourceTitle": "AKUKU A0517 Śliniak z rękawkiem BORSUK",
+        "pattern": "Borsuk",
+        "purchaseNet": 12.18,
+        "salePrice": "19.49",
+        "stockText": "duża ilość",
+        "description": "Fartuszek dziecięcy z rękawkami skutecznie ochroni ubranka Twojego dziecka przed zabrudzeniem w trakcie jedzenia i podczas zabaw. Wykonany z lekkiego, miękkiego oraz łatwo zmywalnego tworzywa EVA. Wyposażony w dużą kieszeń, która zatrzymuje resztki pokarmu. Posiada także wygodne zapięcie na rzep. Łatwy do utrzymania w czystości. Wystarczy zaraz po jedzeniu umyć śliniaczek w ciepłej wodzie z mydłem dla dzieci.\n\nSkład: 100% EVA\n\nRozmiar: 33 cm (szerokość) x 35 cm (długość od szyi)",
+        "imagePaths": [
+          "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\akuku_sliniak_rekawki\\A0517-1.jpg"
+        ]
+      },
+      {
+        "sourceSku": "788473",
+        "sku": "A0518",
+        "barcode": "5907644005185",
+        "sourceTitle": "AKUKU A0518 Śliniak z rękawkiem MISIO",
+        "pattern": "Misio",
+        "purchaseNet": 12.18,
+        "salePrice": "19.49",
+        "stockText": "brak",
+        "description": "Fartuszek dziecięcy z rękawkami skutecznie ochroni ubranka Twojego dziecka przed zabrudzeniem w trakcie jedzenia i podczas zabaw. Wykonany z lekkiego, miękkiego oraz łatwo zmywalnego tworzywa EVA. Wyposażony w dużą kieszeń, która zatrzymuje resztki pokarmu. Posiada także wygodne zapięcie na rzep. Łatwy do utrzymania w czystości. Wystarczy zaraz po jedzeniu umyć śliniaczek w ciepłej wodzie z mydłem dla dzieci.\n\nSkład: 100% EVA\n\nRozmiar: 33 cm (szerokość) x 35 cm (długość od szyi)",
+        "imagePaths": [
+          "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\akuku_sliniak_rekawki\\A0518-1.jpg"
+        ]
+      }
+    ]
+  }
+}

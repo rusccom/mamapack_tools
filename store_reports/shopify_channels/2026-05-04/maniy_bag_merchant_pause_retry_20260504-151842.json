@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-05-04T15:19:08",
+  "rows": [
+    {
+      "offer_id": "shopify_PL_10648590713165_53830610813261",
+      "found_before": false,
+      "before_status": 404,
+      "before_pause": "",
+      "patch_status": "",
+      "found_after": false,
+      "after_status": 404,
+      "after_pause": "",
+      "title": ""
+    },
+    {
+      "offer_id": "shopify_PL_10648590713165_53830610846029",
+      "found_before": false,
+      "before_status": 404,
+      "before_pause": "",
+      "patch_status": "",
+      "found_after": false,
+      "after_status": 404,
+      "after_pause": "",
+      "title": ""
+    },
+    {
+      "offer_id": "shopify_PL_10648590713165_53830610878797",
+      "found_before": false,
+      "before_status": 404,
+      "before_pause": "",
+      "patch_status": "",
+      "found_after": false,
+      "after_status": 404,
+      "after_pause": "",
+      "title": ""
+    },
+    {
+      "offer_id": "shopify_PL_10648590713165_53830610911565",
+      "found_before": false,
+      "before_status": 404,
+      "before_pause": "",
+      "patch_status": "",
+      "found_after": false,
+      "after_status": 404,
+      "after_pause": "",
+      "title": ""
+    }
+  ]
+}

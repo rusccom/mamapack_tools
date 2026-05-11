@@ -1,0 +1,138 @@
+{
+  "createdAt": "2026-05-10T16:49:37.366960+03:00",
+  "sourceUrl": "https://b2b.marini.pl/items/41009?parent=22",
+  "collection": {
+    "id": "gid://shopify/Collection/627599278413",
+    "title": "Rożki i kocyki dla niemowląt",
+    "handle": "rozki-i-kocyki-dla-niemowlat"
+  },
+  "availableSkuCount": 2,
+  "skippedCount": 0,
+  "skipped": [],
+  "productCountAfterGrouping": 1,
+  "products": [
+    {
+      "title": "AKUKU Kocyk / otulacz / ręcznik muślinowy 110x105 cm",
+      "optionName": "Wzór",
+      "variantCount": 2,
+      "skus": [
+        "5912746",
+        "5912747"
+      ],
+      "variantValues": [
+        "Dinozaury",
+        "Flamingi"
+      ]
+    }
+  ],
+  "created": [
+    {
+      "product": {
+        "id": "gid://shopify/Product/10655950864717",
+        "title": "AKUKU Kocyk / otulacz / ręcznik muślinowy 110x105 cm",
+        "handle": "akuku-kocyk-otulacz-recznik-muslinowy-110x105-cm",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "5912746",
+              "barcode": "5907644006854",
+              "price": "39.39",
+              "selectedOptions": [
+                {
+                  "name": "Wzór",
+                  "value": "Dinozaury"
+                }
+              ]
+            },
+            {
+              "sku": "5912747",
+              "barcode": "5907644006861",
+              "price": "39.39",
+              "selectedOptions": [
+                {
+                  "name": "Wzór",
+                  "value": "Flamingi"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU Kocyk / otulacz / ręcznik muślinowy 110x105 cm",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "AKUKU Kocyk / otulacz / ręcznik muślinowy 110x105 cm",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "AKUKU Kocyk / otulacz / ręcznik muślinowy 110x105 cm",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "AKUKU Kocyk / otulacz / ręcznik muślinowy 110x105 cm",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Rożki i kocyki dla niemowląt",
+              "handle": "rozki-i-kocyki-dla-niemowlat"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU Kocyk / otulacz / ręcznik muślinowy 110x105 cm | MamaPack",
+          "description": "AKUKU Kocyk / otulacz / ręcznik muślinowy 110x105 cm marki AKUKU. Muślinowy kocyk, otulacz i ręcznik dla niemowląt. Wzory: Dinozaury, Flamingi."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 70342,
+          "sku": "5912746",
+          "title": "AKUKU A0685 Kocyk / otulacz / ręcznik muślinowy 110x105 cm Dinozaury",
+          "imageId": 84540,
+          "stock": 16,
+          "purchaseNet": 24.62,
+          "barcode": "5907644006854",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0685 Kocyk / otulacz / ręcznik muślinowy 110x105 cm Dinozaury",
+          "brand": "AKUKU",
+          "variantValue": "Dinozaury",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_41009_rozki_kocyki\\5912746-2.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_41009_rozki_kocyki\\5912746-3.jpg"
+          ],
+          "salePrice": "39.39"
+        },
+        {
+          "id": 70343,
+          "sku": "5912747",
+          "title": "AKUKU A0686 Kocyk / otulacz / ręcznik muślinowy 110x105 cm Flamingi",
+          "imageId": 84537,
+          "stock": 42,
+          "purchaseNet": 24.62,
+          "barcode": "5907644006861",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0686 Kocyk / otulacz / ręcznik muślinowy 110x105 cm Flamingi",
+          "brand": "AKUKU",
+          "variantValue": "Flamingi",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_41009_rozki_kocyki\\5912747-1.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_41009_rozki_kocyki\\5912747-3.jpg"
+          ],
+          "salePrice": "39.39"
+        }
+      ]
+    }
+  ]
+}

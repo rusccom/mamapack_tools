@@ -1,0 +1,397 @@
+{
+  "generated_at": "2026-05-07T19:39:12.847098",
+  "base": "https://mamapack.pl",
+  "user_agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+  "robots_status": 200,
+  "robots_sitemaps": [
+    "https://mamapack.pl/sitemap.xml",
+    "https://mamapack.pl/sitemap.xml",
+    "https://mamapack.pl/sitemap.xml"
+  ],
+  "sitemaps": [
+    {
+      "url": "https://mamapack.pl/sitemap.xml",
+      "status": 200,
+      "loc_count": 5
+    },
+    {
+      "url": "https://mamapack.pl/sitemap_agentic_discovery.xml",
+      "status": 200,
+      "loc_count": 3
+    },
+    {
+      "url": "https://mamapack.pl/sitemap_blogs_1.xml",
+      "status": 200,
+      "loc_count": 22
+    }
+  ],
+  "url_count": 19,
+  "by_type": {
+    "other": 6,
+    "blog": 12,
+    "home": 1
+  },
+  "status_counts": {
+    "200": 19
+  },
+  "issue_counts": {
+    "missing_title": 6,
+    "missing_description": 8,
+    "missing_canonical": 6,
+    "missing_h1": 6,
+    "short_title": 2,
+    "long_title": 6,
+    "long_description": 10
+  },
+  "duplicate_title_groups": 0,
+  "duplicate_description_groups": 0,
+  "noindex_urls": [],
+  "nofollow_urls": [],
+  "canonical_mismatch_count": 0,
+  "canonical_mismatch_sample": [],
+  "duplicate_title_sample": [],
+  "duplicate_description_sample": [],
+  "key_pages": [
+    {
+      "url": "https://mamapack.pl/",
+      "final_url": "https://mamapack.pl/",
+      "status": 200,
+      "type": "home",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 431736,
+      "elapsed_ms": 523,
+      "title": "MamaPack - wyprawka do szpitala i produkty dla mamy i dziecka – mamapack",
+      "title_len": 72,
+      "description": "Skompletuj z MamaPack wyprawkę do szpitala: produkty dla mamy i dziecka, higiena, pielęgnacja, karmienie, kąpiel oraz praktyczne akcesoria.",
+      "description_len": 139,
+      "canonical": "https://mamapack.pl/",
+      "robots": "",
+      "noindex": false,
+      "nofollow": false,
+      "h1_count": 1,
+      "h1": "MamaPack - wyprawka do szpitala i pierwsze dni z dzieckiem",
+      "visible_h1": "MamaPack - wyprawka do szpitala i pierwsze dni z dzieckiem",
+      "og_title": "MamaPack - wyprawka do szpitala i produkty dla mamy i dziecka",
+      "og_description": "Skompletuj z MamaPack wyprawkę do szpitala: produkty dla mamy i dziecka, higiena, pielęgnacja, karmienie, kąpiel oraz praktyczne akcesoria.",
+      "terms": {
+        "gotowe torby": 4,
+        "torba do szpitala": 10,
+        "wyprawka": 3,
+        "razem taniej": 2,
+        "zestaw": 0,
+        "laktacja": 6
+      },
+      "issues": [
+        "long_title"
+      ],
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/pages/gotowe-torby",
+      "final_url": "https://mamapack.pl/pages/gotowe-torby",
+      "status": 200,
+      "type": "page",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 799473,
+      "elapsed_ms": 508,
+      "title": "Gotowe torby do szpitala dla mamy i noworodka | mamapack",
+      "title_len": 56,
+      "description": "Wybierz gotową torbę do szpitala dla mamy, noworodka lub dla mamy i dziecka. Porównaj warianty i znajdź zestaw dopasowany do porodu.",
+      "description_len": 132,
+      "canonical": "https://mamapack.pl/pages/gotowe-torby",
+      "robots": "robots=noindex,nofollow; robots=noindex",
+      "noindex": true,
+      "nofollow": true,
+      "h1_count": 1,
+      "h1": "Gotowe torby do szpitala",
+      "visible_h1": "Gotowe torby do szpitala",
+      "og_title": "Gotowe torby do szpitala dla mamy i noworodka | mamapack",
+      "og_description": "Wybierz gotową torbę do szpitala dla mamy, noworodka lub dla mamy i dziecka. Porównaj warianty i znajdź zestaw dopasowany do porodu.",
+      "terms": {
+        "gotowe torby": 5,
+        "torba do szpitala": 33,
+        "wyprawka": 26,
+        "razem taniej": 2,
+        "zestaw": 5,
+        "laktacja": 4
+      },
+      "issues": [
+        "noindex",
+        "nofollow"
+      ],
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/collections/gotowe-torby-do-szpitala",
+      "final_url": "https://mamapack.pl/collections/gotowe-torby-do-szpitala",
+      "status": 200,
+      "type": "collection",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 328172,
+      "elapsed_ms": 631,
+      "title": "Gotowe torby do szpitala dla mamy i dziecka | MamaPack – mamapack",
+      "title_len": 65,
+      "description": "Gotowe torby do szpitala dla mamy, noworodka lub mamy i dziecka. Wybierz wyprawkę podstawową, rozszerzoną albo premium.",
+      "description_len": 119,
+      "canonical": "https://mamapack.pl/collections/gotowe-torby-do-szpitala",
+      "robots": "",
+      "noindex": false,
+      "nofollow": false,
+      "h1_count": 1,
+      "h1": "Kolekcja: Gotowe torby do szpitala",
+      "visible_h1": "Gotowe torby do szpitala",
+      "og_title": "Gotowe torby do szpitala dla mamy i dziecka | MamaPack",
+      "og_description": "Gotowe torby do szpitala dla mamy, noworodka lub mamy i dziecka. Wybierz wyprawkę podstawową, rozszerzoną albo premium.",
+      "terms": {
+        "gotowe torby": 5,
+        "torba do szpitala": 27,
+        "wyprawka": 24,
+        "razem taniej": 2,
+        "zestaw": 1,
+        "laktacja": 2
+      },
+      "issues": [
+        "hidden_collection_prefix_in_h1_text"
+      ],
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/collections/razem-taniej",
+      "final_url": "https://mamapack.pl/collections/razem-taniej",
+      "status": 200,
+      "type": "collection",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 275581,
+      "elapsed_ms": 421,
+      "title": "Razem taniej - zestawy promocyjne | MamaPack – mamapack",
+      "title_len": 55,
+      "description": "Zestawy promocyjne MamaPack w lepszej cenie niż osobno. Sprawdź pakiety produktów do pielęgnacji, higieny i codziennych zakupów.",
+      "description_len": 128,
+      "canonical": "https://mamapack.pl/collections/razem-taniej",
+      "robots": "",
+      "noindex": false,
+      "nofollow": false,
+      "h1_count": 1,
+      "h1": "Kolekcja: Razem taniej",
+      "visible_h1": "Razem taniej",
+      "og_title": "Razem taniej - zestawy promocyjne | MamaPack",
+      "og_description": "Zestawy promocyjne MamaPack w lepszej cenie niż osobno. Sprawdź pakiety produktów do pielęgnacji, higieny i codziennych zakupów.",
+      "terms": {
+        "gotowe torby": 2,
+        "torba do szpitala": 0,
+        "wyprawka": 6,
+        "razem taniej": 4,
+        "zestaw": 10,
+        "laktacja": 2
+      },
+      "issues": [
+        "hidden_collection_prefix_in_h1_text"
+      ],
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/collections/dla-mamy",
+      "final_url": "https://mamapack.pl/collections/dla-mamy",
+      "status": 200,
+      "type": "collection",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 345572,
+      "elapsed_ms": 627,
+      "title": "Produkty dla mamy do szpitala i po porodzie | MamaPack – mamapack",
+      "title_len": 65,
+      "description": "Produkty dla mamy: higiena poporodowa, laktacja, odzież, kosmetyki i akcesoria przydatne w szpitalu oraz w domu.",
+      "description_len": 112,
+      "canonical": "https://mamapack.pl/collections/dla-mamy",
+      "robots": "",
+      "noindex": false,
+      "nofollow": false,
+      "h1_count": 1,
+      "h1": "Kolekcja: Dla mamy",
+      "visible_h1": "Dla mamy",
+      "og_title": "Produkty dla mamy do szpitala i po porodzie | MamaPack",
+      "og_description": "Produkty dla mamy: higiena poporodowa, laktacja, odzież, kosmetyki i akcesoria przydatne w szpitalu oraz w domu.",
+      "terms": {
+        "gotowe torby": 2,
+        "torba do szpitala": 0,
+        "wyprawka": 0,
+        "razem taniej": 2,
+        "zestaw": 1,
+        "laktacja": 6
+      },
+      "issues": [
+        "hidden_collection_prefix_in_h1_text"
+      ],
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/collections/porod-i-polog",
+      "final_url": "https://mamapack.pl/collections/porod-i-polog",
+      "status": 200,
+      "type": "collection",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 347216,
+      "elapsed_ms": 422,
+      "title": "Poród i połóg | MamaPack – mamapack",
+      "title_len": 35,
+      "description": "Majtki poporodowe, podpaski poporodowe i podkłady higieniczne dla mamy na pierwsze dni po porodzie.",
+      "description_len": 99,
+      "canonical": "https://mamapack.pl/collections/porod-i-polog",
+      "robots": "",
+      "noindex": false,
+      "nofollow": false,
+      "h1_count": 1,
+      "h1": "Kolekcja: Poród i połóg",
+      "visible_h1": "Poród i połóg",
+      "og_title": "Poród i połóg | MamaPack",
+      "og_description": "Majtki poporodowe, podpaski poporodowe i podkłady higieniczne dla mamy na pierwsze dni po porodzie.",
+      "terms": {
+        "gotowe torby": 2,
+        "torba do szpitala": 0,
+        "wyprawka": 0,
+        "razem taniej": 2,
+        "zestaw": 0,
+        "laktacja": 2
+      },
+      "issues": [
+        "hidden_collection_prefix_in_h1_text"
+      ],
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/collections/karmienie-piersia-i-laktatory",
+      "final_url": "https://mamapack.pl/collections/karmienie-piersia-i-laktatory",
+      "status": 200,
+      "type": "collection",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 345886,
+      "elapsed_ms": 793,
+      "title": "Karmienie piersią i laktatory | MamaPack – mamapack",
+      "title_len": 51,
+      "description": "Laktatory, wkładki i osłonki laktacyjne, lanolina oraz biustonosze do karmienia dla mamy karmiącej.",
+      "description_len": 99,
+      "canonical": "https://mamapack.pl/collections/karmienie-piersia-i-laktatory",
+      "robots": "",
+      "noindex": false,
+      "nofollow": false,
+      "h1_count": 1,
+      "h1": "Kolekcja: Karmienie piersią i laktatory",
+      "visible_h1": "Karmienie piersią i laktatory",
+      "og_title": "Karmienie piersią i laktatory | MamaPack",
+      "og_description": "Laktatory, wkładki i osłonki laktacyjne, lanolina oraz biustonosze do karmienia dla mamy karmiącej.",
+      "terms": {
+        "gotowe torby": 2,
+        "torba do szpitala": 0,
+        "wyprawka": 0,
+        "razem taniej": 2,
+        "zestaw": 0,
+        "laktacja": 20
+      },
+      "issues": [
+        "hidden_collection_prefix_in_h1_text"
+      ],
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/collections/koszule-i-szlafroki-do-karmienia",
+      "final_url": "https://mamapack.pl/collections/koszule-i-szlafroki-do-karmienia",
+      "status": 200,
+      "type": "collection",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 333533,
+      "elapsed_ms": 451,
+      "title": "Koszule i szlafroki do karmienia | MamaPack – mamapack",
+      "title_len": 54,
+      "description": "Koszule do karmienia i szlafroki dla mamy do szpitala, połogu oraz pierwszych tygodni karmienia piersią.",
+      "description_len": 104,
+      "canonical": "https://mamapack.pl/collections/koszule-i-szlafroki-do-karmienia",
+      "robots": "",
+      "noindex": false,
+      "nofollow": false,
+      "h1_count": 1,
+      "h1": "Kolekcja: Koszule i szlafroki do karmienia",
+      "visible_h1": "Koszule i szlafroki do karmienia",
+      "og_title": "Koszule i szlafroki do karmienia | MamaPack",
+      "og_description": "Koszule do karmienia i szlafroki dla mamy do szpitala, połogu oraz pierwszych tygodni karmienia piersią.",
+      "terms": {
+        "gotowe torby": 2,
+        "torba do szpitala": 0,
+        "wyprawka": 0,
+        "razem taniej": 2,
+        "zestaw": 1,
+        "laktacja": 2
+      },
+      "issues": [
+        "hidden_collection_prefix_in_h1_text"
+      ],
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/collections/pielegnacja-i-akcesoria-dla-mamy",
+      "final_url": "https://mamapack.pl/collections/pielegnacja-i-akcesoria-dla-mamy",
+      "status": 200,
+      "type": "collection",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 344687,
+      "elapsed_ms": 443,
+      "title": "Pielęgnacja i akcesoria dla mamy | MamaPack – mamapack",
+      "title_len": 54,
+      "description": "Kosmetyki, akcesoria i produkty papierowe dla mamy do szpitala, podróży oraz codziennej organizacji po porodzie.",
+      "description_len": 112,
+      "canonical": "https://mamapack.pl/collections/pielegnacja-i-akcesoria-dla-mamy",
+      "robots": "",
+      "noindex": false,
+      "nofollow": false,
+      "h1_count": 1,
+      "h1": "Kolekcja: Pielęgnacja i akcesoria dla mamy",
+      "visible_h1": "Pielęgnacja i akcesoria dla mamy",
+      "og_title": "Pielęgnacja i akcesoria dla mamy | MamaPack",
+      "og_description": "Kosmetyki, akcesoria i produkty papierowe dla mamy do szpitala, podróży oraz codziennej organizacji po porodzie.",
+      "terms": {
+        "gotowe torby": 2,
+        "torba do szpitala": 0,
+        "wyprawka": 0,
+        "razem taniej": 2,
+        "zestaw": 4,
+        "laktacja": 2
+      },
+      "issues": [
+        "hidden_collection_prefix_in_h1_text"
+      ],
+      "error": ""
+    },
+    {
+      "url": "https://mamapack.pl/collections/przechowywanie-pokarmu",
+      "final_url": "https://mamapack.pl/collections/przechowywanie-pokarmu",
+      "status": 200,
+      "type": "collection",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 261936,
+      "elapsed_ms": 513,
+      "title": "Przechowywanie pokarmu | MamaPack – mamapack",
+      "title_len": 44,
+      "description": "Pojemniki, kolektory i akcesoria do przechowywania mleka mamy. Wygodne przygotowanie zapasu pokarmu.",
+      "description_len": 100,
+      "canonical": "https://mamapack.pl/collections/przechowywanie-pokarmu",
+      "robots": "",
+      "noindex": false,
+      "nofollow": false,
+      "h1_count": 1,
+      "h1": "Kolekcja: Przechowywanie pokarmu",
+      "visible_h1": "Przechowywanie pokarmu",
+      "og_title": "Przechowywanie pokarmu | MamaPack",
+      "og_description": "Pojemniki, kolektory i akcesoria do przechowywania mleka mamy. Wygodne przygotowanie zapasu pokarmu.",
+      "terms": {
+        "gotowe torby": 2,
+        "torba do szpitala": 0,
+        "wyprawka": 0,
+        "razem taniej": 2,
+        "zestaw": 0,
+        "laktacja": 2
+      },
+      "issues": [
+        "hidden_collection_prefix_in_h1_text"
+      ],
+      "error": ""
+    }
+  ]
+}

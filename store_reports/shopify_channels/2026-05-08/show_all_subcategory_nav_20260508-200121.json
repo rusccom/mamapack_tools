@@ -1,0 +1,123 @@
+{
+  "updated": [
+    {
+      "title": "Dla mamy",
+      "handle": "dla-mamy",
+      "children": 6,
+      "products": 100,
+      "changed": true
+    },
+    {
+      "title": "Dla dziecka",
+      "handle": "dla-dziecka",
+      "children": 9,
+      "products": 216,
+      "changed": true
+    },
+    {
+      "title": "Wyprawka do szpitala dla mamy",
+      "handle": "wyprawka-do-szpitala-dla-mamy",
+      "children": 12,
+      "products": 85,
+      "changed": true
+    },
+    {
+      "title": "Poród i połóg",
+      "handle": "porod-i-polog",
+      "children": 3,
+      "products": 25,
+      "changed": true
+    },
+    {
+      "title": "Higiena intymna po porodzie",
+      "handle": "higiena-intymna-po-porodzie",
+      "children": 1,
+      "products": 15,
+      "changed": true
+    },
+    {
+      "title": "Karmienie piersią i laktatory",
+      "handle": "karmienie-piersia-i-laktatory",
+      "children": 6,
+      "products": 29,
+      "changed": true
+    },
+    {
+      "title": "Koszule i szlafroki do karmienia",
+      "handle": "koszule-i-szlafroki-do-karmienia",
+      "children": 2,
+      "products": 13,
+      "changed": true
+    },
+    {
+      "title": "Pielęgnacja i akcesoria dla mamy",
+      "handle": "pielegnacja-i-akcesoria-dla-mamy",
+      "children": 3,
+      "products": 16,
+      "changed": true
+    },
+    {
+      "title": "Wyprawka dla noworodka",
+      "handle": "wyprawka-dla-noworodka",
+      "children": 8,
+      "products": 208,
+      "changed": true
+    },
+    {
+      "title": "Pielęgnacja i higiena dziecka",
+      "handle": "pielegnacja-i-higiena-dziecka",
+      "children": 12,
+      "products": 97,
+      "changed": true
+    },
+    {
+      "title": "Kąpiel dziecka",
+      "handle": "kapiel-dziecka",
+      "children": 5,
+      "products": 41,
+      "changed": true
+    },
+    {
+      "title": "Karmienie dziecka",
+      "handle": "karmienie-dziecka",
+      "children": 8,
+      "products": 50,
+      "changed": true
+    },
+    {
+      "title": "Sen i pokój dziecka",
+      "handle": "sen-i-pokoj-dziecka",
+      "children": 9,
+      "products": 21,
+      "changed": true
+    },
+    {
+      "title": "Spacer i podróż",
+      "handle": "spacer-i-podroz",
+      "children": 5,
+      "products": 0,
+      "changed": true
+    },
+    {
+      "title": "Bezpieczeństwo dziecka",
+      "handle": "bezpieczenstwo-dziecka",
+      "children": 5,
+      "products": 11,
+      "changed": true
+    },
+    {
+      "title": "Elektronika dziecka",
+      "handle": "elektronika-dziecka",
+      "children": 4,
+      "products": 7,
+      "changed": true
+    },
+    {
+      "title": "Zabawa i rozwój",
+      "handle": "zabawa-i-rozwoj",
+      "children": 4,
+      "products": 1,
+      "changed": true
+    }
+  ]
+}

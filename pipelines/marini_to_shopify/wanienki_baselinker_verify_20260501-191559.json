@@ -1,0 +1,409 @@
+{
+  "createdAt": "2026-05-01T19:16:00.747217",
+  "sourceReport": "C:\\Users\\User\\Desktop\\projects\\mamaPack\\pipelines\\marini_to_shopify\\wanienki_baselinker_sync_report_20260501-191340.json",
+  "inventoryId": 43540,
+  "categoryId": 7547654,
+  "shopifyStorageId": "shop_5022274",
+  "expectedSkuCount": 44,
+  "foundSkuCount": 44,
+  "parentCount": 16,
+  "errors": [],
+  "checks": [
+    {
+      "sku": "10953",
+      "baselinkerProductId": "584232546",
+      "parentId": "0",
+      "links": {
+        "product_id": "10644511293773",
+        "variant_id": "53812106297677"
+      }
+    },
+    {
+      "sku": "5906224",
+      "baselinkerProductId": "584232154",
+      "parentId": "0",
+      "links": {
+        "product_id": "10644511228237",
+        "variant_id": "53812106232141"
+      }
+    },
+    {
+      "sku": "5906227",
+      "baselinkerProductId": "584232163",
+      "parentId": "0",
+      "links": {
+        "product_id": "10644511195469",
+        "variant_id": "53812106199373"
+      }
+    },
+    {
+      "sku": "5914538",
+      "baselinkerProductId": "584232175",
+      "parentId": "584232170",
+      "links": {
+        "product_id": "10644509720909",
+        "variant_id": "53812104593741"
+      }
+    },
+    {
+      "sku": "5914539",
+      "baselinkerProductId": "584232183",
+      "parentId": "584232170",
+      "links": {
+        "product_id": "10644509720909",
+        "variant_id": "53816003395917"
+      }
+    },
+    {
+      "sku": "5914540",
+      "baselinkerProductId": "584232191",
+      "parentId": "584232170",
+      "links": {
+        "product_id": "10644509720909",
+        "variant_id": "53816003428685"
+      }
+    },
+    {
+      "sku": "762787",
+      "baselinkerProductId": "584232340",
+      "parentId": "584232338",
+      "links": {
+        "product_id": "10644510540109",
+        "variant_id": "53812105544013"
+      }
+    },
+    {
+      "sku": "762788",
+      "baselinkerProductId": "584232322",
+      "parentId": "584232316",
+      "links": {
+        "product_id": "10644510671181",
+        "variant_id": "53812105675085"
+      }
+    },
+    {
+      "sku": "771546",
+      "baselinkerProductId": "584232541",
+      "parentId": "0",
+      "links": {
+        "product_id": "10644511359309",
+        "variant_id": "53812106363213"
+      }
+    },
+    {
+      "sku": "771956",
+      "baselinkerProductId": "584232290",
+      "parentId": "584232277",
+      "links": {
+        "product_id": "10644508737869",
+        "variant_id": "53816002249037"
+      }
+    },
+    {
+      "sku": "771957",
+      "baselinkerProductId": "584232247",
+      "parentId": "584232230",
+      "links": {
+        "product_id": "10644509065549",
+        "variant_id": "53816002380109"
+      }
+    },
+    {
+      "sku": "772044",
+      "baselinkerProductId": "584232254",
+      "parentId": "584232230",
+      "links": {
+        "product_id": "10644509065549",
+        "variant_id": "53816002412877"
+      }
+    },
+    {
+      "sku": "772045",
+      "baselinkerProductId": "584232260",
+      "parentId": "584232230",
+      "links": {
+        "product_id": "10644509065549",
+        "variant_id": "53816002445645"
+      }
+    },
+    {
+      "sku": "772046",
+      "baselinkerProductId": "584232270",
+      "parentId": "584232230",
+      "links": {
+        "product_id": "10644509065549",
+        "variant_id": "53816002478413"
+      }
+    },
+    {
+      "sku": "772049",
+      "baselinkerProductId": "584232297",
+      "parentId": "584232277",
+      "links": {
+        "product_id": "10644508737869",
+        "variant_id": "53816002281805"
+      }
+    },
+    {
+      "sku": "772050",
+      "baselinkerProductId": "584232304",
+      "parentId": "584232277",
+      "links": {
+        "product_id": "10644508737869",
+        "variant_id": "53816002314573"
+      }
+    },
+    {
+      "sku": "772051",
+      "baselinkerProductId": "584232310",
+      "parentId": "584232277",
+      "links": {
+        "product_id": "10644508737869",
+        "variant_id": "53816002347341"
+      }
+    },
+    {
+      "sku": "772185",
+      "baselinkerProductId": "584232283",
+      "parentId": "584232277",
+      "links": {
+        "product_id": "10644508737869",
+        "variant_id": "53812103577933"
+      }
+    },
+    {
+      "sku": "772187",
+      "baselinkerProductId": "584232238",
+      "parentId": "584232230",
+      "links": {
+        "product_id": "10644509065549",
+        "variant_id": "53812103905613"
+      }
+    },
+    {
+      "sku": "772413",
+      "baselinkerProductId": "584232396",
+      "parentId": "584232376",
+      "links": {
+        "product_id": "10644510441805",
+        "variant_id": "53812105445709"
+      }
+    },
+    {
+      "sku": "772414",
+      "baselinkerProductId": "584232436",
+      "parentId": "584232376",
+      "links": {
+        "product_id": "10644510441805",
+        "variant_id": "53816002707789"
+      }
+    },
+    {
+      "sku": "772415",
+      "baselinkerProductId": "584232448",
+      "parentId": "584232376",
+      "links": {
+        "product_id": "10644510441805",
+        "variant_id": "53816002740557"
+      }
+    },
+    {
+      "sku": "772416",
+      "baselinkerProductId": "584232449",
+      "parentId": "584232376",
+      "links": {
+        "product_id": "10644510441805",
+        "variant_id": "53816002773325"
+      }
+    },
+    {
+      "sku": "772417",
+      "baselinkerProductId": "584232450",
+      "parentId": "584232376",
+      "links": {
+        "product_id": "10644510441805",
+        "variant_id": "53816002806093"
+      }
+    },
+    {
+      "sku": "772418",
+      "baselinkerProductId": "584232461",
+      "parentId": "584232451",
+      "links": {
+        "product_id": "10644510146893",
+        "variant_id": "53812105150797"
+      }
+    },
+    {
+      "sku": "772419",
+      "baselinkerProductId": "584232468",
+      "parentId": "584232451",
+      "links": {
+        "product_id": "10644510146893",
+        "variant_id": "53816002543949"
+      }
+    },
+    {
+      "sku": "772420",
+      "baselinkerProductId": "584232474",
+      "parentId": "584232451",
+      "links": {
+        "product_id": "10644510146893",
+        "variant_id": "53816002576717"
+      }
+    },
+    {
+      "sku": "772421",
+      "baselinkerProductId": "584232485",
+      "parentId": "584232451",
+      "links": {
+        "product_id": "10644510146893",
+        "variant_id": "53816002609485"
+      }
+    },
+    {
+      "sku": "772422",
+      "baselinkerProductId": "584232491",
+      "parentId": "584232451",
+      "links": {
+        "product_id": "10644510146893",
+        "variant_id": "53816002642253"
+      }
+    },
+    {
+      "sku": "779244",
+      "baselinkerProductId": "584232215",
+      "parentId": "584232199",
+      "links": {
+        "product_id": "10644509622605",
+        "variant_id": "53816003297613"
+      }
+    },
+    {
+      "sku": "779245",
+      "baselinkerProductId": "584232219",
+      "parentId": "584232216",
+      "links": {
+        "product_id": "10644509393229",
+        "variant_id": "53816003232077"
+      }
+    },
+    {
+      "sku": "779246",
+      "baselinkerProductId": "584232223",
+      "parentId": "584232220",
+      "links": {
+        "product_id": "10644509524301",
+        "variant_id": "53816003330381"
+      }
+    },
+    {
+      "sku": "779256",
+      "baselinkerProductId": "584232207",
+      "parentId": "584232199",
+      "links": {
+        "product_id": "10644509622605",
+        "variant_id": "53812104462669"
+      }
+    },
+    {
+      "sku": "779257",
+      "baselinkerProductId": "584232217",
+      "parentId": "584232216",
+      "links": {
+        "product_id": "10644509393229",
+        "variant_id": "53812104233293"
+      }
+    },
+    {
+      "sku": "779258",
+      "baselinkerProductId": "584232221",
+      "parentId": "584232220",
+      "links": {
+        "product_id": "10644509524301",
+        "variant_id": "53812104331597"
+      }
+    },
+    {
+      "sku": "786676",
+      "baselinkerProductId": "584232502",
+      "parentId": "584232497",
+      "links": {
+        "product_id": "10644511064397",
+        "variant_id": "53812106068301"
+      }
+    },
+    {
+      "sku": "786678",
+      "baselinkerProductId": "584232508",
+      "parentId": "584232497",
+      "links": {
+        "product_id": "10644511064397",
+        "variant_id": "53816003101005"
+      }
+    },
+    {
+      "sku": "786679",
+      "baselinkerProductId": "584232514",
+      "parentId": "584232497",
+      "links": {
+        "product_id": "10644511064397",
+        "variant_id": "53816003133773"
+      }
+    },
+    {
+      "sku": "786680",
+      "baselinkerProductId": "584232524",
+      "parentId": "584232519",
+      "links": {
+        "product_id": "10644510900557",
+        "variant_id": "53812105904461"
+      }
+    },
+    {
+      "sku": "786682",
+      "baselinkerProductId": "584232536",
+      "parentId": "584232519",
+      "links": {
+        "product_id": "10644510900557",
+        "variant_id": "53816003035469"
+      }
+    },
+    {
+      "sku": "786683",
+      "baselinkerProductId": "584232530",
+      "parentId": "584232519",
+      "links": {
+        "product_id": "10644510900557",
+        "variant_id": "53816003002701"
+      }
+    },
+    {
+      "sku": "788737",
+      "baselinkerProductId": "584232360",
+      "parentId": "584232338",
+      "links": {
+        "product_id": "10644510540109",
+        "variant_id": "53816002871629"
+      }
+    },
+    {
+      "sku": "791380",
+      "baselinkerProductId": "584232328",
+      "parentId": "584232316",
+      "links": {
+        "product_id": "10644510671181",
+        "variant_id": "53816002937165"
+      }
+    },
+    {
+      "sku": "791381",
+      "baselinkerProductId": "584232337",
+      "parentId": "584232316",
+      "links": {
+        "product_id": "10644510671181",
+        "variant_id": "53816002969933"
+      }
+    }
+  ]
+}

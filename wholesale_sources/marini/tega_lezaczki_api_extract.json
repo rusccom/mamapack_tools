@@ -1,0 +1,1212 @@
+{
+  "sourceUrl": "https://b2b.marini.pl/items/355?parent=351",
+  "pages": [
+    {
+      "page": 1,
+      "payload": {
+        "groupId": 355,
+        "parentId": 351,
+        "pageNumber": 1,
+        "sortMode": null,
+        "filters": {}
+      },
+      "response": {
+        "articleList": [
+          {
+            "article": {
+              "id": 43157,
+              "image": {
+                "imageType": 1,
+                "imageId": 34893,
+                "imageUrl": null
+              },
+              "name": "TEGA DM-020-103 Leżaczek do kąpieli 100% bawełna biały",
+              "code": {
+                "value": "777113",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 1,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 43621,
+              "image": {
+                "imageType": 1,
+                "imageId": 34904,
+                "imageUrl": null
+              },
+              "name": "TEGA DM-020-106 Leżaczek do kąpieli 100% bawełna szary",
+              "code": {
+                "value": "777568",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 2,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 43158,
+              "image": {
+                "imageType": 1,
+                "imageId": 34894,
+                "imageUrl": null
+              },
+              "name": "TEGA DM-020-135 Leżaczek do kąpieli 100% bawełna j.niebieski",
+              "code": {
+                "value": "777114",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 3,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 43159,
+              "image": {
+                "imageType": 1,
+                "imageId": 34895,
+                "imageUrl": null
+              },
+              "name": "TEGA DM-020-136 Leżaczek do kąpieli 100% bawełna j.różowy",
+              "code": {
+                "value": "777115",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 4,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 43161,
+              "image": {
+                "imageType": 1,
+                "imageId": 34897,
+                "imageUrl": null
+              },
+              "name": "TEGA DM-020-137 Leżaczek do kąpieli 100% bawełna żółty",
+              "code": {
+                "value": "777117",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 5,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 43160,
+              "image": {
+                "imageType": 1,
+                "imageId": 34896,
+                "imageUrl": null
+              },
+              "name": "TEGA DM-020-138 Leżaczek do kąpieli 100% bawełna j.zielony",
+              "code": {
+                "value": "777116",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 6,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 52505,
+              "image": {
+                "imageType": 1,
+                "imageId": 62883,
+                "imageUrl": null
+              },
+              "name": "TEGA DM-020-140 Leżaczek do kąpieli 100% bawełna turkus",
+              "code": {
+                "value": "786151",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Available",
+            "rowNumber": 7,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 43618,
+              "image": {
+                "imageType": 1,
+                "imageId": 34905,
+                "imageUrl": null
+              },
+              "name": "TEGA DM-020-157 Leżaczek do kąpieli 100% bawełna ecru",
+              "code": {
+                "value": "777565",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 8,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 45382,
+              "image": {
+                "imageType": 1,
+                "imageId": 37032,
+                "imageUrl": null
+              },
+              "name": "TEGA DZ-003-103-JELONEK Fotelik do kąpieli DZIKI ZACHÓD",
+              "code": {
+                "value": "779259",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Available",
+            "rowNumber": 9,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 45370,
+              "image": {
+                "imageType": 0,
+                "imageId": null,
+                "imageUrl": null
+              },
+              "name": "TEGA DZ-003-103-SŁONIK Fotelik do kąpieli DZIKI ZACHÓD",
+              "code": {
+                "value": "779247",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 10,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 45383,
+              "image": {
+                "imageType": 1,
+                "imageId": 37033,
+                "imageUrl": null
+              },
+              "name": "TEGA DZ-026-103-JELONEK Leżaczek kąpielowy z wizerunkiem DZIKI ZACHÓD",
+              "code": {
+                "value": "779260",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 11,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 45371,
+              "image": {
+                "imageType": 1,
+                "imageId": 37021,
+                "imageUrl": null
+              },
+              "name": "TEGA DZ-026-103-SŁONIK Leżaczek kąpielowy z wizerunkiem DZIKI ZACHÓD",
+              "code": {
+                "value": "779248",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 12,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 38276,
+              "image": {
+                "imageType": 1,
+                "imageId": 27266,
+                "imageUrl": null
+              },
+              "name": "TEGA FF-003-107 Fotelik do kąpieli antypoślizgowy LEŚNA OPOWIEŚĆ j.różowy",
+              "code": {
+                "value": "772353",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Available",
+            "rowNumber": 13,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 38275,
+              "image": {
+                "imageType": 1,
+                "imageId": 27267,
+                "imageUrl": null
+              },
+              "name": "TEGA FF-003-108 Fotelik do kąpieli antypoślizgowy LEŚNA OPOWIEŚĆ j.niebieski",
+              "code": {
+                "value": "772352",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 14,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 38278,
+              "image": {
+                "imageType": 1,
+                "imageId": 27268,
+                "imageUrl": null
+              },
+              "name": "TEGA FF-003-109 Fotelik do kąpieli antypoślizgowy LEŚNA OPOWIEŚĆ j.żółty",
+              "code": {
+                "value": "772355",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Available",
+            "rowNumber": 15,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 38274,
+              "image": {
+                "imageType": 1,
+                "imageId": 27269,
+                "imageUrl": null
+              },
+              "name": "TEGA FF-003-111 Fotelik do kąpieli antypoślizgowy LEŚNA OPOWIEŚĆ j.beżowy",
+              "code": {
+                "value": "772351",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Available",
+            "rowNumber": 16,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 38277,
+              "image": {
+                "imageType": 1,
+                "imageId": 27271,
+                "imageUrl": null
+              },
+              "name": "TEGA FF-003-112 Fotelik do kąpieli antypoślizgowy LEŚNA OPOWIEŚĆ j.zielony",
+              "code": {
+                "value": "772354",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 17,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 47119,
+              "image": {
+                "imageType": 1,
+                "imageId": 48951,
+                "imageUrl": null
+              },
+              "name": "TEGA KR-003-103 Fotelik do kąpieli antypoślizgowy KRÓLICZKI biały",
+              "code": {
+                "value": "780954",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Available",
+            "rowNumber": 18,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 26336,
+              "image": {
+                "imageType": 1,
+                "imageId": 12346,
+                "imageUrl": null
+              },
+              "name": "TEGA KR-003-104 Fotelik do kapieli antypoślizgowy KRÓLICZKI j.różowy",
+              "code": {
+                "value": "762776",
+                "representsExistingValue": true
+              },
+              "symbol": "KR-003",
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 19,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 47120,
+              "image": {
+                "imageType": 1,
+                "imageId": 48952,
+                "imageUrl": null
+              },
+              "name": "TEGA KR-003-105 Fotelik do kąpieli antypoślizgowy KRÓLICZKI j.zielony",
+              "code": {
+                "value": "780955",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 20,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 37231,
+              "image": {
+                "imageType": 1,
+                "imageId": 26616,
+                "imageUrl": null
+              },
+              "name": "TEGA KR-026-103 Leżaczek kąpielowy z wizerunkiem Króliczki biały",
+              "code": {
+                "value": "771343",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Available",
+            "rowNumber": 21,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 37232,
+              "image": {
+                "imageType": 1,
+                "imageId": 26617,
+                "imageUrl": null
+              },
+              "name": "TEGA KR-026-104 Leżaczek kąpielowy z wizerunkiem Króliczki j.róż",
+              "code": {
+                "value": "771344",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 22,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 37233,
+              "image": {
+                "imageType": 1,
+                "imageId": 26618,
+                "imageUrl": null
+              },
+              "name": "TEGA KR-026-105 Leżaczek kąpielowy z wizerunkiem Króliczki j.zielony",
+              "code": {
+                "value": "771345",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Available",
+            "rowNumber": 23,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 53035,
+              "image": {
+                "imageType": 1,
+                "imageId": 53102,
+                "imageUrl": null
+              },
+              "name": "TEGA ME-003-123 Fotelik do kąpieli antypoślizgowy METEO różowy",
+              "code": {
+                "value": "786638",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 24,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 53033,
+              "image": {
+                "imageType": 1,
+                "imageId": 53104,
+                "imageUrl": null
+              },
+              "name": "TEGA ME-003-164 Fotelik do kąpieli antypoślizgowy METEO granatowy",
+              "code": {
+                "value": "786636",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 25,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 53036,
+              "image": {
+                "imageType": 1,
+                "imageId": 53101,
+                "imageUrl": null
+              },
+              "name": "TEGA ME-003-165 Fotelik do kąpieli antypoślizgowy METEO turkusowy",
+              "code": {
+                "value": "786639",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 26,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 53034,
+              "image": {
+                "imageType": 1,
+                "imageId": 53103,
+                "imageUrl": null
+              },
+              "name": "TEGA ME-003-166 Fotelik do kąpieli antypoślizgowy METEO musztardowy",
+              "code": {
+                "value": "786637",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 27,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 53518,
+              "image": {
+                "imageType": 0,
+                "imageId": null,
+                "imageUrl": null
+              },
+              "name": "TEGA ME-026-123 Leżaczek kąpielowy z wizerunkiem METEO różowy",
+              "code": {
+                "value": "787099",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 28,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 53516,
+              "image": {
+                "imageType": 0,
+                "imageId": null,
+                "imageUrl": null
+              },
+              "name": "TEGA ME-026-164 Leżaczek kąpielowy z wizerunkiem METEO granatowy",
+              "code": {
+                "value": "787097",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 29,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 53519,
+              "image": {
+                "imageType": 1,
+                "imageId": 82780,
+                "imageUrl": null
+              },
+              "name": "TEGA ME-026-165 Leżaczek kąpielowy z wizerunkiem METEO turkusowy",
+              "code": {
+                "value": "787100",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 30,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 53517,
+              "image": {
+                "imageType": 0,
+                "imageId": null,
+                "imageUrl": null
+              },
+              "name": "TEGA ME-026-166 Leżaczek kąpielowy z wizerunkiem METEO musztardowy",
+              "code": {
+                "value": "787098",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 31,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 62179,
+              "image": {
+                "imageType": 1,
+                "imageId": 69546,
+                "imageUrl": null
+              },
+              "name": "TEGA MN-003-124 Fotelik do kąpieli antypoślizgowy Monsters żółty",
+              "code": {
+                "value": "5906192",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Available",
+            "rowNumber": 32,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 62203,
+              "image": {
+                "imageType": 1,
+                "imageId": 69551,
+                "imageUrl": null
+              },
+              "name": "TEGA MN-006-124 Podnóżek antypoślizgowy Monsters żółty",
+              "code": {
+                "value": "5906215",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Available",
+            "rowNumber": 33,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 62184,
+              "image": {
+                "imageType": 0,
+                "imageId": null,
+                "imageUrl": null
+              },
+              "name": "TEGA MN-026-124 Leżaczek kąpielowy z wizerunkiem Monsters żółty",
+              "code": {
+                "value": "5906197",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Available",
+            "rowNumber": 34,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 62181,
+              "image": {
+                "imageType": 0,
+                "imageId": null,
+                "imageUrl": null
+              },
+              "name": "TEGA MN-026-127 Leżaczek kąpielowy z wizerunkiem Monsters c. różowy",
+              "code": {
+                "value": "5906194",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Available",
+            "rowNumber": 35,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 40657,
+              "image": {
+                "imageType": 1,
+                "imageId": 31721,
+                "imageUrl": null
+              },
+              "name": "TEGA MS-003-118 Fotelik do kąpieli antypoślizgowy MIŚ biała perła",
+              "code": {
+                "value": "774691",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Available",
+            "rowNumber": 36,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 20859,
+              "image": {
+                "imageType": 1,
+                "imageId": 31720,
+                "imageUrl": null
+              },
+              "name": "TEGA MS-003-119 Fotelik do kąpieli antypoślizgowy MIŚ beżowy",
+              "code": {
+                "value": "3605",
+                "representsExistingValue": true
+              },
+              "symbol": "MS-003",
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 37,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 40658,
+              "image": {
+                "imageType": 1,
+                "imageId": 31713,
+                "imageUrl": null
+              },
+              "name": "TEGA MS-020-119 Nakładka sedesowa miękka MIŚ beżowy",
+              "code": {
+                "value": "774692",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 38,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 36849,
+              "image": {
+                "imageType": 1,
+                "imageId": 26513,
+                "imageUrl": null
+              },
+              "name": "TEGA MS-026-103 Leżaczek kąpielowy z wizerunkiem Miś biały",
+              "code": {
+                "value": "770969",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 39,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 36848,
+              "image": {
+                "imageType": 1,
+                "imageId": 26514,
+                "imageUrl": null
+              },
+              "name": "TEGA MS-026-119 Leżaczek kąpielowy z wizerunkiem Miś beżowy",
+              "code": {
+                "value": "770968",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 40,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 20857,
+              "image": {
+                "imageType": 0,
+                "imageId": null,
+                "imageUrl": null
+              },
+              "name": "TEGA SO-003-103 Fotelik do kąpieli antypoślizgowy SOWA biały",
+              "code": {
+                "value": "14499",
+                "representsExistingValue": true
+              },
+              "symbol": "SO-003",
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 41,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 42011,
+              "image": {
+                "imageType": 1,
+                "imageId": 34874,
+                "imageUrl": null
+              },
+              "name": "TEGA SO-003-106 Fotelik do kąpieli antypoślizgowy SOWA szary",
+              "code": {
+                "value": "776017",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 42,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 37669,
+              "image": {
+                "imageType": 1,
+                "imageId": 31836,
+                "imageUrl": null
+              },
+              "name": "TEGA SO-026-103 Leżaczek kąpielowy z wizerunkiem Sowa biała",
+              "code": {
+                "value": "771758",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 43,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          },
+          {
+            "article": {
+              "id": 36853,
+              "image": {
+                "imageType": 1,
+                "imageId": 31831,
+                "imageUrl": null
+              },
+              "name": "TEGA SO-026-106 Leżaczek kąpielowy z wizerunkiem Sowa szary",
+              "code": {
+                "value": "770973",
+                "representsExistingValue": true
+              },
+              "symbol": null,
+              "type": 1,
+              "discountPermission": true
+            },
+            "flag": 0,
+            "status": "Preview",
+            "rowNumber": 44,
+            "objectExtension": {
+              "extendedItemsList": []
+            },
+            "extensions": {
+              "extendedItemsList": {}
+            }
+          }
+        ],
+        "paging": {
+          "currentPage": 1,
+          "totalPages": 1,
+          "buildPager": false
+        }
+      }
+    }
+  ]
+}

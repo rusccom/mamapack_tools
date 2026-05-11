@@ -1,0 +1,1282 @@
+{
+  "createdAt": "2026-05-09T20:55:19+0300",
+  "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+  "availableSkuCount": 19,
+  "skippedZeroStockOrNoPrice": [
+    {
+      "id": 66403,
+      "sku": "5910055",
+      "sourceTitle": "4 BABY Fotelik APP-FIX XXIV 100-150 cm Black I-Size",
+      "title": "4 BABY Fotelik APP-FIX XXIV 100-150 cm Black I-Size",
+      "imageId": 78651,
+      "stock": "0",
+      "purchaseNet": "276.3",
+      "barcode": "5901691959606",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 66404,
+      "sku": "5910056",
+      "sourceTitle": "4 BABY Fotelik APP-FIX XXIV 100-150 cm Dark Green I-Size",
+      "title": "4 BABY Fotelik APP-FIX XXIV 100-150 cm Dark Green I-Size",
+      "imageId": 78655,
+      "stock": "0",
+      "purchaseNet": "276.3",
+      "barcode": "5901691959613",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 66405,
+      "sku": "5910057",
+      "sourceTitle": "4 BABY Fotelik APP-FIX XXIV 100-150 cm Graphit I-Size",
+      "title": "4 BABY Fotelik APP-FIX XXIV 100-150 cm Graphit I-Size",
+      "imageId": 78661,
+      "stock": "0",
+      "purchaseNet": "276.3",
+      "barcode": "5901691959620",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 66406,
+      "sku": "5910058",
+      "sourceTitle": "4 BABY Fotelik APP-FIX XXIV 100-150 cm Mokka I-Size",
+      "title": "4 BABY Fotelik APP-FIX XXIV 100-150 cm Mokka I-Size",
+      "imageId": 78665,
+      "stock": "0",
+      "purchaseNet": "263.46",
+      "barcode": "5901691959637",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 67816,
+      "sku": "5911363",
+      "sourceTitle": "4 BABY Fotelik BOOST 125-150cm MOKKA I-SIZE",
+      "title": "4 BABY Fotelik BOOST 125-150cm MOKKA I-SIZE",
+      "imageId": 81163,
+      "stock": "0",
+      "purchaseNet": "60.69",
+      "barcode": "5901691959798",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 63309,
+      "sku": "5907249",
+      "sourceTitle": "4 BABY Fotelik ENZO-FIX 40-150cm graphite I-SIZE",
+      "title": "4 BABY Fotelik ENZO-FIX 40-150cm graphite I-SIZE",
+      "imageId": 70963,
+      "stock": "0",
+      "purchaseNet": "445",
+      "barcode": "5901691959026",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 66485,
+      "sku": "5910132",
+      "sourceTitle": "4 BABY Fotelik ENZO-FIX 40-150cm mokka I-SIZE",
+      "title": "4 BABY Fotelik ENZO-FIX 40-150cm mokka I-SIZE",
+      "imageId": 79007,
+      "stock": "0",
+      "purchaseNet": "445",
+      "barcode": "5901691959644",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 66942,
+      "sku": "5910567",
+      "sourceTitle": "4 BABY Fotelik GO-FIX 76-150cm BLACK I-SIZE",
+      "title": "4 BABY Fotelik GO-FIX 76-150cm BLACK I-SIZE",
+      "imageId": 79015,
+      "stock": "0",
+      "purchaseNet": "268.71",
+      "barcode": "5901691959675",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 66943,
+      "sku": "5910568",
+      "sourceTitle": "4 BABY Fotelik GO-FIX 76-150cm DARK GREEN I-SIZE",
+      "title": "4 BABY Fotelik GO-FIX 76-150cm DARK GREEN I-SIZE",
+      "imageId": 79025,
+      "stock": "0",
+      "purchaseNet": "268.71",
+      "barcode": "5901691959682",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 66944,
+      "sku": "5910569",
+      "sourceTitle": "4 BABY Fotelik GO-FIX 76-150cm GRAPHITE I-SIZE",
+      "title": "4 BABY Fotelik GO-FIX 76-150cm GRAPHITE I-SIZE",
+      "imageId": 79034,
+      "stock": "0",
+      "purchaseNet": "268.71",
+      "barcode": "5901691959699",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 66945,
+      "sku": "5910570",
+      "sourceTitle": "4 BABY Fotelik GO-FIX 76-150cm MOKKA I-SIZE",
+      "title": "4 BABY Fotelik GO-FIX 76-150cm MOKKA I-SIZE",
+      "imageId": 79043,
+      "stock": "0",
+      "purchaseNet": "268.71",
+      "barcode": "5901691959705",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 58432,
+      "sku": "5902736",
+      "sourceTitle": "4 BABY Fotelik HI-FIX 125-150cm BLACK I-SIZE",
+      "title": "4 BABY Fotelik HI-FIX 125-150cm BLACK I-SIZE",
+      "imageId": 63490,
+      "stock": "0",
+      "purchaseNet": "116.1",
+      "barcode": "5901691958494",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 58433,
+      "sku": "5902737",
+      "sourceTitle": "4 BABY Fotelik HI-FIX 125-150cm GRAPHITE I-SIZE",
+      "title": "4 BABY Fotelik HI-FIX 125-150cm GRAPHITE I-SIZE",
+      "imageId": 63489,
+      "stock": "0",
+      "purchaseNet": "116.1",
+      "barcode": "5901691958500",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 58988,
+      "sku": "5903259",
+      "sourceTitle": "4 BABY Fotelik HI-FIX 125-150cm GREY I-SIZE",
+      "title": "4 BABY Fotelik HI-FIX 125-150cm GREY I-SIZE",
+      "imageId": 63933,
+      "stock": "0",
+      "purchaseNet": "116.1",
+      "barcode": "5901691958517",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 67878,
+      "sku": "5911415",
+      "sourceTitle": "4 BABY Fotelik HI-FIX 125-150cm MOKKA I-SIZE",
+      "title": "4 BABY Fotelik HI-FIX 125-150cm MOKKA I-SIZE",
+      "imageId": 82569,
+      "stock": "0",
+      "purchaseNet": "116.1",
+      "barcode": "5901691959811",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 67886,
+      "sku": "5911422",
+      "sourceTitle": "4 BABY Fotelik MATT-FIX 40-150cm BLACK I-SIZE",
+      "title": "4 BABY Fotelik MATT-FIX 40-150cm BLACK I-SIZE",
+      "imageId": 81249,
+      "stock": "0",
+      "purchaseNet": "342.9",
+      "barcode": "5901691959866",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 70724,
+      "sku": "5913101",
+      "sourceTitle": "4 BABY Fotelik NEO 40-87cm MOKKA I-SIZE",
+      "title": "4 BABY Fotelik NEO 40-87cm MOKKA I-SIZE",
+      "imageId": 85647,
+      "stock": "0",
+      "purchaseNet": "190.72",
+      "barcode": "5901691959262",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 63958,
+      "sku": "5907843",
+      "sourceTitle": "4 BABY Fotelik ROTO-FIX 40-150cm Dark green I-Size",
+      "title": "4 BABY Fotelik ROTO-FIX 40-150cm Dark green I-Size",
+      "imageId": 72449,
+      "stock": "0",
+      "purchaseNet": "391.5",
+      "barcode": "5901691959101",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 63959,
+      "sku": "5907844",
+      "sourceTitle": "4 BABY Fotelik ROTO-FIX 40-150cm Graphite I-Size",
+      "title": "4 BABY Fotelik ROTO-FIX 40-150cm Graphite I-Size",
+      "imageId": 72451,
+      "stock": "0",
+      "purchaseNet": "391.5",
+      "barcode": "5901691959118",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 63961,
+      "sku": "5907845",
+      "sourceTitle": "4 BABY Fotelik ROTO-FIX 40-150cm Grey I-Size",
+      "title": "4 BABY Fotelik ROTO-FIX 40-150cm Grey I-Size",
+      "imageId": 72453,
+      "stock": "0",
+      "purchaseNet": "391.5",
+      "barcode": "5901691959125",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    },
+    {
+      "id": 66442,
+      "sku": "5910092",
+      "sourceTitle": "4 BABY Fotelik ROTO-FIX 40-150cm MOKKA I-Size",
+      "title": "4 BABY Fotelik ROTO-FIX 40-150cm MOKKA I-Size",
+      "imageId": 78840,
+      "stock": "0",
+      "purchaseNet": "391.5",
+      "barcode": "5901691959651",
+      "sourceUrl": "https://b2b.marini.pl/items/11?parent=10"
+    }
+  ],
+  "pricing": {
+    "purchaseSource": "Marini netPrice",
+    "salePriceMultiplier": "1.60"
+  },
+  "collection": {
+    "id": "gid://shopify/Collection/660910899533",
+    "title": "Foteliki samochodowe",
+    "handle": "foteliki-samochodowe"
+  },
+  "productCountAfterGrouping": 9,
+  "products": [
+    {
+      "title": "4 Baby BOOST fotelik samochodowy 125-150 cm i-Size",
+      "handle": "4-baby-boost-fotelik-samochodowy-125-150-cm-i-size",
+      "optionName": "Kolor",
+      "variantCount": 3,
+      "skus": [
+        "5911362",
+        "5908244",
+        "5908245"
+      ],
+      "variantValues": [
+        "dark green",
+        "graphite",
+        "grey"
+      ],
+      "sourceItems": [
+        {
+          "id": 67815,
+          "sku": "5911362",
+          "sourceTitle": "4 BABY Fotelik BOOST 125-150cm DARK GREEN I-SIZE",
+          "title": "4 BABY Fotelik BOOST 125-150cm DARK GREEN I-SIZE",
+          "imageId": 81161,
+          "stock": "68",
+          "purchaseNet": "60.69",
+          "barcode": "5901691959781",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "97.10"
+        },
+        {
+          "id": 64399,
+          "sku": "5908244",
+          "sourceTitle": "4 BABY Fotelik BOOST 125-150cm GRAPHITE I-SIZE",
+          "title": "4 BABY Fotelik BOOST 125-150cm GRAPHITE I-SIZE",
+          "imageId": 73556,
+          "stock": "22",
+          "purchaseNet": "60.69",
+          "barcode": "5901691959057",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "97.10"
+        },
+        {
+          "id": 64400,
+          "sku": "5908245",
+          "sourceTitle": "4 BABY Fotelik BOOST 125-150cm GREY I-SIZE",
+          "title": "4 BABY Fotelik BOOST 125-150cm GREY I-SIZE",
+          "imageId": 73558,
+          "stock": "19",
+          "purchaseNet": "60.69",
+          "barcode": "5901691959064",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "97.10"
+        }
+      ]
+    },
+    {
+      "title": "4 Baby ENZO-FIX fotelik samochodowy 40-150 cm i-Size",
+      "handle": "4-baby-enzo-fix-fotelik-samochodowy-40-150-cm-i-size",
+      "optionName": "Kolor",
+      "variantCount": 2,
+      "skus": [
+        "5907247",
+        "5907248"
+      ],
+      "variantValues": [
+        "black",
+        "dark green"
+      ],
+      "sourceItems": [
+        {
+          "id": 63307,
+          "sku": "5907247",
+          "sourceTitle": "4 BABY Fotelik ENZO-FIX 40-150cm black I-SIZE",
+          "title": "4 BABY Fotelik ENZO-FIX 40-150cm black I-SIZE",
+          "imageId": 70950,
+          "stock": "49",
+          "purchaseNet": "445",
+          "barcode": "5901691959002",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "712.00"
+        },
+        {
+          "id": 63308,
+          "sku": "5907248",
+          "sourceTitle": "4 BABY Fotelik ENZO-FIX 40-150cm dark green I-SIZE",
+          "title": "4 BABY Fotelik ENZO-FIX 40-150cm dark green I-SIZE",
+          "imageId": 70957,
+          "stock": "12",
+          "purchaseNet": "445",
+          "barcode": "5901691959019",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "712.00"
+        }
+      ]
+    },
+    {
+      "title": "4 Baby MATT-FIX fotelik samochodowy 40-150 cm i-Size",
+      "handle": "4-baby-matt-fix-fotelik-samochodowy-40-150-cm-i-size",
+      "optionName": "Kolor",
+      "variantCount": 3,
+      "skus": [
+        "5911423",
+        "5911424",
+        "5911425"
+      ],
+      "variantValues": [
+        "dark green",
+        "graphite",
+        "grey"
+      ],
+      "sourceItems": [
+        {
+          "id": 67887,
+          "sku": "5911423",
+          "sourceTitle": "4 BABY Fotelik MATT-FIX 40-150cm DARK GREEN I-SIZE",
+          "title": "4 BABY Fotelik MATT-FIX 40-150cm DARK GREEN I-SIZE",
+          "imageId": 81250,
+          "stock": "3",
+          "purchaseNet": "342.9",
+          "barcode": "5901691959859",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "548.64"
+        },
+        {
+          "id": 67888,
+          "sku": "5911424",
+          "sourceTitle": "4 BABY Fotelik MATT-FIX 40-150cm GRAPHITE I-SIZE",
+          "title": "4 BABY Fotelik MATT-FIX 40-150cm GRAPHITE I-SIZE",
+          "imageId": 81251,
+          "stock": "7",
+          "purchaseNet": "342.9",
+          "barcode": "5901691959842",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "548.64"
+        },
+        {
+          "id": 67889,
+          "sku": "5911425",
+          "sourceTitle": "4 BABY Fotelik MATT-FIX 40-150cm GREY I-SIZE",
+          "title": "4 BABY Fotelik MATT-FIX 40-150cm GREY I-SIZE",
+          "imageId": 81252,
+          "stock": "6",
+          "purchaseNet": "342.9",
+          "barcode": "5901691959835",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "548.64"
+        }
+      ]
+    },
+    {
+      "title": "4 Baby NEO fotelik samochodowy 40-87 cm i-Size",
+      "handle": "4-baby-neo-fotelik-samochodowy-40-87-cm-i-size",
+      "optionName": "Kolor",
+      "variantCount": 3,
+      "skus": [
+        "5913099",
+        "5913098",
+        "5913100"
+      ],
+      "variantValues": [
+        "black",
+        "dark green",
+        "graphite"
+      ],
+      "sourceItems": [
+        {
+          "id": 70722,
+          "sku": "5913099",
+          "sourceTitle": "4 BABY Fotelik NEO 40-87cm BLACK I-SIZE",
+          "title": "4 BABY Fotelik NEO 40-87cm BLACK I-SIZE",
+          "imageId": 85644,
+          "stock": "21",
+          "purchaseNet": "190.72",
+          "barcode": "5901691959231",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "305.15"
+        },
+        {
+          "id": 70721,
+          "sku": "5913098",
+          "sourceTitle": "4 BABY Fotelik NEO 40-87cm DARK GREEN I-SIZE",
+          "title": "4 BABY Fotelik NEO 40-87cm DARK GREEN I-SIZE",
+          "imageId": 85645,
+          "stock": "12",
+          "purchaseNet": "190.72",
+          "barcode": "5901691959248",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "305.15"
+        },
+        {
+          "id": 70723,
+          "sku": "5913100",
+          "sourceTitle": "4 BABY Fotelik NEO 40-87cm GRAPHITE I-SIZE",
+          "title": "4 BABY Fotelik NEO 40-87cm GRAPHITE I-SIZE",
+          "imageId": 85646,
+          "stock": "23",
+          "purchaseNet": "190.72",
+          "barcode": "5901691959255",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "305.15"
+        }
+      ]
+    },
+    {
+      "title": "4 Baby NERO fotelik samochodowy 100-150 cm i-Size",
+      "handle": "4-baby-nero-fotelik-samochodowy-100-150-cm-i-size",
+      "optionName": "Kolor",
+      "variantCount": 4,
+      "skus": [
+        "5912550",
+        "5912551",
+        "5912553",
+        "5912554"
+      ],
+      "variantValues": [
+        "black",
+        "dark green",
+        "graphite",
+        "mokka"
+      ],
+      "sourceItems": [
+        {
+          "id": 69121,
+          "sku": "5912550",
+          "sourceTitle": "4 BABY Fotelik NERO 100-150 cm BLACK I-SIZE",
+          "title": "4 BABY Fotelik NERO 100-150 cm BLACK I-SIZE",
+          "imageId": 85421,
+          "stock": "27",
+          "purchaseNet": "162.37",
+          "barcode": "5901691959958",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "259.79"
+        },
+        {
+          "id": 69122,
+          "sku": "5912551",
+          "sourceTitle": "4 BABY Fotelik NERO 100-150 cm DARK GREEN I-SIZE",
+          "title": "4 BABY Fotelik NERO 100-150 cm DARK GREEN I-SIZE",
+          "imageId": 84066,
+          "stock": "19",
+          "purchaseNet": "162.37",
+          "barcode": "5901691959965",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "259.79"
+        },
+        {
+          "id": 69124,
+          "sku": "5912553",
+          "sourceTitle": "4 BABY Fotelik NERO 100-150 cm GRAPHITE I-SIZE",
+          "title": "4 BABY Fotelik NERO 100-150 cm GRAPHITE I-SIZE",
+          "imageId": 84067,
+          "stock": "25",
+          "purchaseNet": "162.37",
+          "barcode": "5901691959972",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "259.79"
+        },
+        {
+          "id": 69125,
+          "sku": "5912554",
+          "sourceTitle": "4 BABY Fotelik NERO 100-150 cm MOKKA I-SIZE",
+          "title": "4 BABY Fotelik NERO 100-150 cm MOKKA I-SIZE",
+          "imageId": 84068,
+          "stock": "11",
+          "purchaseNet": "162.37",
+          "barcode": "5901691959989",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "259.79"
+        }
+      ]
+    },
+    {
+      "title": "4 Baby HI-FIX fotelik samochodowy 125-150 cm dark green i-Size",
+      "handle": "4-baby-hi-fix-fotelik-samochodowy-125-150-cm-dark-green-i-size",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5911414"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 67877,
+          "sku": "5911414",
+          "sourceTitle": "4 BABY Fotelik HI-FIX 125-150cm DARK GREEN I-SIZE",
+          "title": "4 Baby HI-FIX fotelik samochodowy 125-150 cm dark green i-Size",
+          "imageId": 82570,
+          "stock": "107",
+          "purchaseNet": "116.1",
+          "barcode": "5901691959804",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "185.76"
+        }
+      ]
+    },
+    {
+      "title": "4 Baby NANO-FIX fotelik samochodowy 0-18 kg red",
+      "handle": "4-baby-nano-fix-fotelik-samochodowy-0-18-kg-red",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "780113"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 46258,
+          "sku": "780113",
+          "sourceTitle": "4 BABY Fotelik NANO-FIX 0-18 RED",
+          "title": "4 Baby NANO-FIX fotelik samochodowy 0-18 kg red",
+          "imageId": 38922,
+          "stock": "1",
+          "purchaseNet": "539.1",
+          "barcode": "",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "862.56"
+        }
+      ]
+    },
+    {
+      "title": "4 Baby ROTO-FIX fotelik samochodowy 40-150 cm black i-Size",
+      "handle": "4-baby-roto-fix-fotelik-samochodowy-40-150-cm-black-i-size",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5907840"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 63944,
+          "sku": "5907840",
+          "sourceTitle": "4 BABY Fotelik ROTO-FIX 40-150cm Black I-Size",
+          "title": "4 Baby ROTO-FIX fotelik samochodowy 40-150 cm black i-Size",
+          "imageId": 72447,
+          "stock": "4",
+          "purchaseNet": "391.5",
+          "barcode": "5901691959095",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "626.40"
+        }
+      ]
+    },
+    {
+      "title": "4 Baby VEL-FIX fotelik samochodowy 40-150 cm black i-Size",
+      "handle": "4-baby-vel-fix-fotelik-samochodowy-40-150-cm-black-i-size",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5908249"
+      ],
+      "variantValues": [
+        "Default Title"
+      ],
+      "sourceItems": [
+        {
+          "id": 64404,
+          "sku": "5908249",
+          "sourceTitle": "4 BABY Fotelik VEL-FIX 40-150cm BLACK I-SIZE",
+          "title": "4 Baby VEL-FIX fotelik samochodowy 40-150 cm black i-Size",
+          "imageId": 73553,
+          "stock": "1",
+          "purchaseNet": "637.39",
+          "barcode": "5901691957817",
+          "sourceUrl": "https://b2b.marini.pl/items/11?parent=10",
+          "salePrice": "1019.82"
+        }
+      ]
+    }
+  ],
+  "shopifyResults": [
+    {
+      "action": "created",
+      "productId": "gid://shopify/Product/10655506104653",
+      "collectionAction": "added",
+      "seo": {
+        "id": "gid://shopify/Product/10655506104653",
+        "handle": "4-baby-boost-fotelik-samochodowy-125-150-cm-i-size",
+        "seo": {
+          "title": "4 Baby BOOST fotelik samochodowy 125-150 cm i-Size | Mama Pack",
+          "description": "4 Baby BOOST fotelik samochodowy 125-150 cm i-Size. Fotelik samochodowy 4 Baby do podróży z dzieckiem. Dostępne SKU: 5911362, 5908244, 5908245."
+        }
+      },
+      "product": {
+        "handle": "4-baby-boost-fotelik-samochodowy-125-150-cm-i-size",
+        "title": "4 Baby BOOST fotelik samochodowy 125-150 cm i-Size",
+        "description_html": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">FOTELIKI SAMOCHODOWE</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby BOOST fotelik samochodowy 125-150 cm i-Size</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">fotelik samochodowy</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">i-Size</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Do podróży z dzieckiem</h3>Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">fotelik samochodowy marki 4 Baby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">praktyczny wybór do codziennych przejazdów i dłuższych podróży</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">warianty kolorystyczne zachowują osobne SKU i kody EAN</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda wyboru</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Jedna karta produktu zbiera dostępne kolory tej samej wersji fotelika.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Porządek w SKU</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Każdy wariant ma swój oryginalny SKU i kod producenta.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">BOOST</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">5911362, 5908244, 5908245</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5901691959781, 5901691959057, 5901691959064</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">dark green, graphite, grey</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed zakupem</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Dobierz fotelik do wzrostu, wagi i wieku dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź zgodność fotelika z samochodem i instrukcją montażu producenta.</span>\n</div></section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>",
+        "vendor": "4 Baby",
+        "product_type": "Foteliki samochodowe",
+        "tags": [
+          "4 Baby",
+          "Dla dziecka",
+          "Foteliki samochodowe",
+          "Marini",
+          "Spacer i podróż"
+        ],
+        "option_name": "Kolor",
+        "option_values": [
+          "dark green",
+          "graphite",
+          "grey"
+        ],
+        "shopify_id": "gid://shopify/Product/10655506104653",
+        "legacy_resource_id": 10655506104653,
+        "status": "DRAFT",
+        "media_urls": [
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5911362-1.jpg?v=1778349253",
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908244-1.jpg?v=1778349253",
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908245-1.jpg?v=1778349253"
+        ],
+        "variants": [
+          {
+            "option_value": "dark green",
+            "sku": "5911362",
+            "barcode": "5901691959781",
+            "price": "97.10",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5911362",
+            "source_title": "4 BABY Fotelik BOOST 125-150cm DARK GREEN I-SIZE",
+            "source_sku": "5911362",
+            "shopify_id": "gid://shopify/ProductVariant/53868670812493",
+            "legacy_resource_id": 53868670812493,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5911362-1.jpg?v=1778349253"
+            ]
+          },
+          {
+            "option_value": "graphite",
+            "sku": "5908244",
+            "barcode": "5901691959057",
+            "price": "97.10",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5908244",
+            "source_title": "4 BABY Fotelik BOOST 125-150cm GRAPHITE I-SIZE",
+            "source_sku": "5908244",
+            "shopify_id": "gid://shopify/ProductVariant/53868670845261",
+            "legacy_resource_id": 53868670845261,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908244-1.jpg?v=1778349253"
+            ]
+          },
+          {
+            "option_value": "grey",
+            "sku": "5908245",
+            "barcode": "5901691959064",
+            "price": "97.10",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5908245",
+            "source_title": "4 BABY Fotelik BOOST 125-150cm GREY I-SIZE",
+            "source_sku": "5908245",
+            "shopify_id": "gid://shopify/ProductVariant/53868670878029",
+            "legacy_resource_id": 53868670878029,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908245-1.jpg?v=1778349253"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": "created",
+      "productId": "gid://shopify/Product/10655506137421",
+      "collectionAction": "added",
+      "seo": {
+        "id": "gid://shopify/Product/10655506137421",
+        "handle": "4-baby-enzo-fix-fotelik-samochodowy-40-150-cm-i-size",
+        "seo": {
+          "title": "4 Baby ENZO-FIX fotelik samochodowy 40-150 cm i-Size | Mama Pack",
+          "description": "4 Baby ENZO-FIX fotelik samochodowy 40-150 cm i-Size. Fotelik samochodowy 4 Baby do podróży z dzieckiem. Dostępne SKU: 5907247, 5907248."
+        }
+      },
+      "product": {
+        "handle": "4-baby-enzo-fix-fotelik-samochodowy-40-150-cm-i-size",
+        "title": "4 Baby ENZO-FIX fotelik samochodowy 40-150 cm i-Size",
+        "description_html": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">FOTELIKI SAMOCHODOWE</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby ENZO-FIX fotelik samochodowy 40-150 cm i-Size</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">fotelik samochodowy</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">i-Size</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Do podróży z dzieckiem</h3>Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">fotelik samochodowy marki 4 Baby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">praktyczny wybór do codziennych przejazdów i dłuższych podróży</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">warianty kolorystyczne zachowują osobne SKU i kody EAN</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda wyboru</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Jedna karta produktu zbiera dostępne kolory tej samej wersji fotelika.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Porządek w SKU</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Każdy wariant ma swój oryginalny SKU i kod producenta.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">ENZO-FIX</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">5907247, 5907248</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5901691959002, 5901691959019</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">black, dark green</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed zakupem</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Dobierz fotelik do wzrostu, wagi i wieku dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź zgodność fotelika z samochodem i instrukcją montażu producenta.</span>\n</div></section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>",
+        "vendor": "4 Baby",
+        "product_type": "Foteliki samochodowe",
+        "tags": [
+          "4 Baby",
+          "Dla dziecka",
+          "Foteliki samochodowe",
+          "Marini",
+          "Spacer i podróż"
+        ],
+        "option_name": "Kolor",
+        "option_values": [
+          "black",
+          "dark green"
+        ],
+        "shopify_id": "gid://shopify/Product/10655506137421",
+        "legacy_resource_id": 10655506137421,
+        "status": "DRAFT",
+        "media_urls": [
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5907247-1.jpg?v=1778349262",
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5907248-1.jpg?v=1778349262"
+        ],
+        "variants": [
+          {
+            "option_value": "black",
+            "sku": "5907247",
+            "barcode": "5901691959002",
+            "price": "712.00",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5907247",
+            "source_title": "4 BABY Fotelik ENZO-FIX 40-150cm black I-SIZE",
+            "source_sku": "5907247",
+            "shopify_id": "gid://shopify/ProductVariant/53868670910797",
+            "legacy_resource_id": 53868670910797,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5907247-1.jpg?v=1778349262"
+            ]
+          },
+          {
+            "option_value": "dark green",
+            "sku": "5907248",
+            "barcode": "5901691959019",
+            "price": "712.00",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5907248",
+            "source_title": "4 BABY Fotelik ENZO-FIX 40-150cm dark green I-SIZE",
+            "source_sku": "5907248",
+            "shopify_id": "gid://shopify/ProductVariant/53868670943565",
+            "legacy_resource_id": 53868670943565,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5907248-1.jpg?v=1778349262"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": "created",
+      "productId": "gid://shopify/Product/10655506170189",
+      "collectionAction": "added",
+      "seo": {
+        "id": "gid://shopify/Product/10655506170189",
+        "handle": "4-baby-matt-fix-fotelik-samochodowy-40-150-cm-i-size",
+        "seo": {
+          "title": "4 Baby MATT-FIX fotelik samochodowy 40-150 cm i-Size | Mama Pack",
+          "description": "4 Baby MATT-FIX fotelik samochodowy 40-150 cm i-Size. Fotelik samochodowy 4 Baby do podróży z dzieckiem. Dostępne SKU: 5911423, 5911424, 5911425."
+        }
+      },
+      "product": {
+        "handle": "4-baby-matt-fix-fotelik-samochodowy-40-150-cm-i-size",
+        "title": "4 Baby MATT-FIX fotelik samochodowy 40-150 cm i-Size",
+        "description_html": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">FOTELIKI SAMOCHODOWE</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby MATT-FIX fotelik samochodowy 40-150 cm i-Size</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">fotelik samochodowy</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">i-Size</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Do podróży z dzieckiem</h3>Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">fotelik samochodowy marki 4 Baby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">praktyczny wybór do codziennych przejazdów i dłuższych podróży</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">warianty kolorystyczne zachowują osobne SKU i kody EAN</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda wyboru</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Jedna karta produktu zbiera dostępne kolory tej samej wersji fotelika.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Porządek w SKU</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Każdy wariant ma swój oryginalny SKU i kod producenta.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">MATT-FIX</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">5911423, 5911424, 5911425</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5901691959859, 5901691959842, 5901691959835</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">dark green, graphite, grey</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed zakupem</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Dobierz fotelik do wzrostu, wagi i wieku dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź zgodność fotelika z samochodem i instrukcją montażu producenta.</span>\n</div></section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>",
+        "vendor": "4 Baby",
+        "product_type": "Foteliki samochodowe",
+        "tags": [
+          "4 Baby",
+          "Dla dziecka",
+          "Foteliki samochodowe",
+          "Marini",
+          "Spacer i podróż"
+        ],
+        "option_name": "Kolor",
+        "option_values": [
+          "dark green",
+          "graphite",
+          "grey"
+        ],
+        "shopify_id": "gid://shopify/Product/10655506170189",
+        "legacy_resource_id": 10655506170189,
+        "status": "DRAFT",
+        "media_urls": [
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5911423-1.jpg?v=1778349270",
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5911424-1.jpg?v=1778349270",
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5911425-1.jpg?v=1778349270"
+        ],
+        "variants": [
+          {
+            "option_value": "dark green",
+            "sku": "5911423",
+            "barcode": "5901691959859",
+            "price": "548.64",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5911423",
+            "source_title": "4 BABY Fotelik MATT-FIX 40-150cm DARK GREEN I-SIZE",
+            "source_sku": "5911423",
+            "shopify_id": "gid://shopify/ProductVariant/53868670976333",
+            "legacy_resource_id": 53868670976333,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5911423-1.jpg?v=1778349270"
+            ]
+          },
+          {
+            "option_value": "graphite",
+            "sku": "5911424",
+            "barcode": "5901691959842",
+            "price": "548.64",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5911424",
+            "source_title": "4 BABY Fotelik MATT-FIX 40-150cm GRAPHITE I-SIZE",
+            "source_sku": "5911424",
+            "shopify_id": "gid://shopify/ProductVariant/53868671009101",
+            "legacy_resource_id": 53868671009101,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5911424-1.jpg?v=1778349270"
+            ]
+          },
+          {
+            "option_value": "grey",
+            "sku": "5911425",
+            "barcode": "5901691959835",
+            "price": "548.64",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5911425",
+            "source_title": "4 BABY Fotelik MATT-FIX 40-150cm GREY I-SIZE",
+            "source_sku": "5911425",
+            "shopify_id": "gid://shopify/ProductVariant/53868671041869",
+            "legacy_resource_id": 53868671041869,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5911425-1.jpg?v=1778349270"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": "created",
+      "productId": "gid://shopify/Product/10655506202957",
+      "collectionAction": "added",
+      "seo": {
+        "id": "gid://shopify/Product/10655506202957",
+        "handle": "4-baby-neo-fotelik-samochodowy-40-87-cm-i-size",
+        "seo": {
+          "title": "4 Baby NEO fotelik samochodowy 40-87 cm i-Size | Mama Pack",
+          "description": "4 Baby NEO fotelik samochodowy 40-87 cm i-Size. Fotelik samochodowy 4 Baby do podróży z dzieckiem. Dostępne SKU: 5913099, 5913098, 5913100."
+        }
+      },
+      "product": {
+        "handle": "4-baby-neo-fotelik-samochodowy-40-87-cm-i-size",
+        "title": "4 Baby NEO fotelik samochodowy 40-87 cm i-Size",
+        "description_html": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">FOTELIKI SAMOCHODOWE</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby NEO fotelik samochodowy 40-87 cm i-Size</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">fotelik samochodowy</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">i-Size</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Do podróży z dzieckiem</h3>Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">fotelik samochodowy marki 4 Baby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">praktyczny wybór do codziennych przejazdów i dłuższych podróży</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">warianty kolorystyczne zachowują osobne SKU i kody EAN</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda wyboru</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Jedna karta produktu zbiera dostępne kolory tej samej wersji fotelika.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Porządek w SKU</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Każdy wariant ma swój oryginalny SKU i kod producenta.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">NEO</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">5913099, 5913098, 5913100</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5901691959231, 5901691959248, 5901691959255</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">black, dark green, graphite</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed zakupem</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Dobierz fotelik do wzrostu, wagi i wieku dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź zgodność fotelika z samochodem i instrukcją montażu producenta.</span>\n</div></section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>",
+        "vendor": "4 Baby",
+        "product_type": "Foteliki samochodowe",
+        "tags": [
+          "4 Baby",
+          "Dla dziecka",
+          "Foteliki samochodowe",
+          "Marini",
+          "Spacer i podróż"
+        ],
+        "option_name": "Kolor",
+        "option_values": [
+          "black",
+          "dark green",
+          "graphite"
+        ],
+        "shopify_id": "gid://shopify/Product/10655506202957",
+        "legacy_resource_id": 10655506202957,
+        "status": "DRAFT",
+        "media_urls": [
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5913099-1.jpg?v=1778349280",
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5913098-1.jpg?v=1778349280",
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5913100-1.jpg?v=1778349280"
+        ],
+        "variants": [
+          {
+            "option_value": "black",
+            "sku": "5913099",
+            "barcode": "5901691959231",
+            "price": "305.15",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5913099",
+            "source_title": "4 BABY Fotelik NEO 40-87cm BLACK I-SIZE",
+            "source_sku": "5913099",
+            "shopify_id": "gid://shopify/ProductVariant/53868671074637",
+            "legacy_resource_id": 53868671074637,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5913099-1.jpg?v=1778349280"
+            ]
+          },
+          {
+            "option_value": "dark green",
+            "sku": "5913098",
+            "barcode": "5901691959248",
+            "price": "305.15",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5913098",
+            "source_title": "4 BABY Fotelik NEO 40-87cm DARK GREEN I-SIZE",
+            "source_sku": "5913098",
+            "shopify_id": "gid://shopify/ProductVariant/53868671107405",
+            "legacy_resource_id": 53868671107405,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5913098-1.jpg?v=1778349280"
+            ]
+          },
+          {
+            "option_value": "graphite",
+            "sku": "5913100",
+            "barcode": "5901691959255",
+            "price": "305.15",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5913100",
+            "source_title": "4 BABY Fotelik NEO 40-87cm GRAPHITE I-SIZE",
+            "source_sku": "5913100",
+            "shopify_id": "gid://shopify/ProductVariant/53868671140173",
+            "legacy_resource_id": 53868671140173,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5913100-1.jpg?v=1778349280"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": "created",
+      "productId": "gid://shopify/Product/10655506235725",
+      "collectionAction": "added",
+      "seo": {
+        "id": "gid://shopify/Product/10655506235725",
+        "handle": "4-baby-nero-fotelik-samochodowy-100-150-cm-i-size",
+        "seo": {
+          "title": "4 Baby NERO fotelik samochodowy 100-150 cm i-Size | Mama Pack",
+          "description": "4 Baby NERO fotelik samochodowy 100-150 cm i-Size. Fotelik samochodowy 4 Baby do podróży z dzieckiem. Dostępne SKU: 5912550, 5912551, 5912553, 5912554."
+        }
+      },
+      "product": {
+        "handle": "4-baby-nero-fotelik-samochodowy-100-150-cm-i-size",
+        "title": "4 Baby NERO fotelik samochodowy 100-150 cm i-Size",
+        "description_html": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">FOTELIKI SAMOCHODOWE</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby NERO fotelik samochodowy 100-150 cm i-Size</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">fotelik samochodowy</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">i-Size</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Do podróży z dzieckiem</h3>Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">fotelik samochodowy marki 4 Baby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">praktyczny wybór do codziennych przejazdów i dłuższych podróży</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">warianty kolorystyczne zachowują osobne SKU i kody EAN</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda wyboru</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Jedna karta produktu zbiera dostępne kolory tej samej wersji fotelika.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Porządek w SKU</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Każdy wariant ma swój oryginalny SKU i kod producenta.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">NERO</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">5912550, 5912551, 5912553, 5912554</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5901691959958, 5901691959965, 5901691959972, 5901691959989</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolory</strong><span style=\"color:#6a5260;text-align:right;\">black, dark green, graphite, mokka</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed zakupem</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Dobierz fotelik do wzrostu, wagi i wieku dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź zgodność fotelika z samochodem i instrukcją montażu producenta.</span>\n</div></section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>",
+        "vendor": "4 Baby",
+        "product_type": "Foteliki samochodowe",
+        "tags": [
+          "4 Baby",
+          "Dla dziecka",
+          "Foteliki samochodowe",
+          "Marini",
+          "Spacer i podróż"
+        ],
+        "option_name": "Kolor",
+        "option_values": [
+          "black",
+          "dark green",
+          "graphite",
+          "mokka"
+        ],
+        "shopify_id": "gid://shopify/Product/10655506235725",
+        "legacy_resource_id": 10655506235725,
+        "status": "DRAFT",
+        "media_urls": [
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912550-1.jpg?v=1778349290",
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912551-1.jpg?v=1778349290",
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912553-1.jpg?v=1778349290",
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912554-1.jpg?v=1778349290"
+        ],
+        "variants": [
+          {
+            "option_value": "black",
+            "sku": "5912550",
+            "barcode": "5901691959958",
+            "price": "259.79",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5912550",
+            "source_title": "4 BABY Fotelik NERO 100-150 cm BLACK I-SIZE",
+            "source_sku": "5912550",
+            "shopify_id": "gid://shopify/ProductVariant/53868671172941",
+            "legacy_resource_id": 53868671172941,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912550-1.jpg?v=1778349290"
+            ]
+          },
+          {
+            "option_value": "dark green",
+            "sku": "5912551",
+            "barcode": "5901691959965",
+            "price": "259.79",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5912551",
+            "source_title": "4 BABY Fotelik NERO 100-150 cm DARK GREEN I-SIZE",
+            "source_sku": "5912551",
+            "shopify_id": "gid://shopify/ProductVariant/53868671205709",
+            "legacy_resource_id": 53868671205709,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912551-1.jpg?v=1778349290"
+            ]
+          },
+          {
+            "option_value": "graphite",
+            "sku": "5912553",
+            "barcode": "5901691959972",
+            "price": "259.79",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5912553",
+            "source_title": "4 BABY Fotelik NERO 100-150 cm GRAPHITE I-SIZE",
+            "source_sku": "5912553",
+            "shopify_id": "gid://shopify/ProductVariant/53868671238477",
+            "legacy_resource_id": 53868671238477,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912553-1.jpg?v=1778349290"
+            ]
+          },
+          {
+            "option_value": "mokka",
+            "sku": "5912554",
+            "barcode": "5901691959989",
+            "price": "259.79",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5912554",
+            "source_title": "4 BABY Fotelik NERO 100-150 cm MOKKA I-SIZE",
+            "source_sku": "5912554",
+            "shopify_id": "gid://shopify/ProductVariant/53868671271245",
+            "legacy_resource_id": 53868671271245,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5912554-1.jpg?v=1778349290"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": "created",
+      "productId": "gid://shopify/Product/10655506334029",
+      "collectionAction": "added",
+      "seo": {
+        "id": "gid://shopify/Product/10655506334029",
+        "handle": "4-baby-hi-fix-fotelik-samochodowy-125-150-cm-dark-green-i-size",
+        "seo": {
+          "title": "4 Baby HI-FIX fotelik samochodowy 125-150 cm dark green i-Size | Mama Pack",
+          "description": "4 Baby HI-FIX fotelik samochodowy 125-150 cm dark green i-Size. Fotelik samochodowy 4 Baby do podróży z dzieckiem. Dostępne SKU: 5911414."
+        }
+      },
+      "product": {
+        "handle": "4-baby-hi-fix-fotelik-samochodowy-125-150-cm-dark-green-i-size",
+        "title": "4 Baby HI-FIX fotelik samochodowy 125-150 cm dark green i-Size",
+        "description_html": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">FOTELIKI SAMOCHODOWE</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby HI-FIX fotelik samochodowy 125-150 cm dark green i-Size</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">fotelik samochodowy</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">i-Size</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Do podróży z dzieckiem</h3>Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">fotelik samochodowy marki 4 Baby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">praktyczny wybór do codziennych przejazdów i dłuższych podróży</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">warianty kolorystyczne zachowują osobne SKU i kody EAN</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda wyboru</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Jedna karta produktu zbiera dostępne kolory tej samej wersji fotelika.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Porządek w SKU</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Każdy wariant ma swój oryginalny SKU i kod producenta.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">HI-FIX</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">5911414</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5901691959804</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed zakupem</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Dobierz fotelik do wzrostu, wagi i wieku dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź zgodność fotelika z samochodem i instrukcją montażu producenta.</span>\n</div></section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>",
+        "vendor": "4 Baby",
+        "product_type": "Foteliki samochodowe",
+        "tags": [
+          "4 Baby",
+          "Dla dziecka",
+          "Foteliki samochodowe",
+          "Marini",
+          "Spacer i podróż"
+        ],
+        "option_name": "Title",
+        "option_values": [
+          "Default Title"
+        ],
+        "shopify_id": "gid://shopify/Product/10655506334029",
+        "legacy_resource_id": 10655506334029,
+        "status": "DRAFT",
+        "media_urls": [
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5911414-1.jpg?v=1778349296"
+        ],
+        "variants": [
+          {
+            "option_value": "Default Title",
+            "sku": "5911414",
+            "barcode": "5901691959804",
+            "price": "185.76",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5911414",
+            "source_title": "4 BABY Fotelik HI-FIX 125-150cm DARK GREEN I-SIZE",
+            "source_sku": "5911414",
+            "shopify_id": "gid://shopify/ProductVariant/53868671402317",
+            "legacy_resource_id": 53868671402317,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5911414-1.jpg?v=1778349296"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": "created",
+      "productId": "gid://shopify/Product/10655506366797",
+      "collectionAction": "added",
+      "seo": {
+        "id": "gid://shopify/Product/10655506366797",
+        "handle": "4-baby-nano-fix-fotelik-samochodowy-0-18-kg-red",
+        "seo": {
+          "title": "4 Baby NANO-FIX fotelik samochodowy 0-18 kg red | Mama Pack",
+          "description": "4 Baby NANO-FIX fotelik samochodowy 0-18 kg red. Fotelik samochodowy 4 Baby do podróży z dzieckiem. Dostępne SKU: 780113."
+        }
+      },
+      "product": {
+        "handle": "4-baby-nano-fix-fotelik-samochodowy-0-18-kg-red",
+        "title": "4 Baby NANO-FIX fotelik samochodowy 0-18 kg red",
+        "description_html": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">FOTELIKI SAMOCHODOWE</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby NANO-FIX fotelik samochodowy 0-18 kg red</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">fotelik samochodowy</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">transport</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Do podróży z dzieckiem</h3>Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">fotelik samochodowy marki 4 Baby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">praktyczny wybór do codziennych przejazdów i dłuższych podróży</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">warianty kolorystyczne zachowują osobne SKU i kody EAN</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda wyboru</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Jedna karta produktu zbiera dostępne kolory tej samej wersji fotelika.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Porządek w SKU</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Każdy wariant ma swój oryginalny SKU i kod producenta.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">NANO-FIX</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">780113</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed zakupem</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Dobierz fotelik do wzrostu, wagi i wieku dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź zgodność fotelika z samochodem i instrukcją montażu producenta.</span>\n</div></section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>",
+        "vendor": "4 Baby",
+        "product_type": "Foteliki samochodowe",
+        "tags": [
+          "4 Baby",
+          "Dla dziecka",
+          "Foteliki samochodowe",
+          "Marini",
+          "Spacer i podróż"
+        ],
+        "option_name": "Title",
+        "option_values": [
+          "Default Title"
+        ],
+        "shopify_id": "gid://shopify/Product/10655506366797",
+        "legacy_resource_id": 10655506366797,
+        "status": "DRAFT",
+        "media_urls": [
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/780113-1.jpg?v=1778349303"
+        ],
+        "variants": [
+          {
+            "option_value": "Default Title",
+            "sku": "780113",
+            "barcode": "",
+            "price": "862.56",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "780113",
+            "source_title": "4 BABY Fotelik NANO-FIX 0-18 RED",
+            "source_sku": "780113",
+            "shopify_id": "gid://shopify/ProductVariant/53868671435085",
+            "legacy_resource_id": 53868671435085,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/780113-1.jpg?v=1778349303"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": "created",
+      "productId": "gid://shopify/Product/10655506399565",
+      "collectionAction": "added",
+      "seo": {
+        "id": "gid://shopify/Product/10655506399565",
+        "handle": "4-baby-roto-fix-fotelik-samochodowy-40-150-cm-black-i-size",
+        "seo": {
+          "title": "4 Baby ROTO-FIX fotelik samochodowy 40-150 cm black i-Size | Mama Pack",
+          "description": "4 Baby ROTO-FIX fotelik samochodowy 40-150 cm black i-Size. Fotelik samochodowy 4 Baby do podróży z dzieckiem. Dostępne SKU: 5907840."
+        }
+      },
+      "product": {
+        "handle": "4-baby-roto-fix-fotelik-samochodowy-40-150-cm-black-i-size",
+        "title": "4 Baby ROTO-FIX fotelik samochodowy 40-150 cm black i-Size",
+        "description_html": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">FOTELIKI SAMOCHODOWE</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby ROTO-FIX fotelik samochodowy 40-150 cm black i-Size</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">fotelik samochodowy</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">i-Size</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Do podróży z dzieckiem</h3>Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">fotelik samochodowy marki 4 Baby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">praktyczny wybór do codziennych przejazdów i dłuższych podróży</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">warianty kolorystyczne zachowują osobne SKU i kody EAN</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda wyboru</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Jedna karta produktu zbiera dostępne kolory tej samej wersji fotelika.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Porządek w SKU</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Każdy wariant ma swój oryginalny SKU i kod producenta.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">ROTO-FIX</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">5907840</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5901691959095</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed zakupem</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Dobierz fotelik do wzrostu, wagi i wieku dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź zgodność fotelika z samochodem i instrukcją montażu producenta.</span>\n</div></section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>",
+        "vendor": "4 Baby",
+        "product_type": "Foteliki samochodowe",
+        "tags": [
+          "4 Baby",
+          "Dla dziecka",
+          "Foteliki samochodowe",
+          "Marini",
+          "Spacer i podróż"
+        ],
+        "option_name": "Title",
+        "option_values": [
+          "Default Title"
+        ],
+        "shopify_id": "gid://shopify/Product/10655506399565",
+        "legacy_resource_id": 10655506399565,
+        "status": "DRAFT",
+        "media_urls": [
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5907840-1.jpg?v=1778349310"
+        ],
+        "variants": [
+          {
+            "option_value": "Default Title",
+            "sku": "5907840",
+            "barcode": "5901691959095",
+            "price": "626.40",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5907840",
+            "source_title": "4 BABY Fotelik ROTO-FIX 40-150cm Black I-Size",
+            "source_sku": "5907840",
+            "shopify_id": "gid://shopify/ProductVariant/53868671467853",
+            "legacy_resource_id": 53868671467853,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5907840-1.jpg?v=1778349310"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action": "created",
+      "productId": "gid://shopify/Product/10655506432333",
+      "collectionAction": "added",
+      "seo": {
+        "id": "gid://shopify/Product/10655506432333",
+        "handle": "4-baby-vel-fix-fotelik-samochodowy-40-150-cm-black-i-size",
+        "seo": {
+          "title": "4 Baby VEL-FIX fotelik samochodowy 40-150 cm black i-Size | Mama Pack",
+          "description": "4 Baby VEL-FIX fotelik samochodowy 40-150 cm black i-Size. Fotelik samochodowy 4 Baby do podróży z dzieckiem. Dostępne SKU: 5908249."
+        }
+      },
+      "product": {
+        "handle": "4-baby-vel-fix-fotelik-samochodowy-40-150-cm-black-i-size",
+        "title": "4 Baby VEL-FIX fotelik samochodowy 40-150 cm black i-Size",
+        "description_html": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">FOTELIKI SAMOCHODOWE</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">4 Baby VEL-FIX fotelik samochodowy 40-150 cm black i-Size</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">4 Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">fotelik samochodowy</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">i-Size</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Do podróży z dzieckiem</h3>Fotelik samochodowy 4 Baby do codziennych przejazdów z dzieckiem. Wygodny wybór do kategorii spaceru i podróży, przygotowany z myślą o bezpiecznym i spokojnym transporcie malucha.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">fotelik samochodowy marki 4 Baby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">praktyczny wybór do codziennych przejazdów i dłuższych podróży</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">warianty kolorystyczne zachowują osobne SKU i kody EAN</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda wyboru</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Jedna karta produktu zbiera dostępne kolory tej samej wersji fotelika.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Porządek w SKU</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Każdy wariant ma swój oryginalny SKU i kod producenta.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">4 Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">VEL-FIX</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">5908249</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5901691957817</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed zakupem</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Dobierz fotelik do wzrostu, wagi i wieku dziecka.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Sprawdź zgodność fotelika z samochodem i instrukcją montażu producenta.</span>\n</div></section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>",
+        "vendor": "4 Baby",
+        "product_type": "Foteliki samochodowe",
+        "tags": [
+          "4 Baby",
+          "Dla dziecka",
+          "Foteliki samochodowe",
+          "Marini",
+          "Spacer i podróż"
+        ],
+        "option_name": "Title",
+        "option_values": [
+          "Default Title"
+        ],
+        "shopify_id": "gid://shopify/Product/10655506432333",
+        "legacy_resource_id": 10655506432333,
+        "status": "DRAFT",
+        "media_urls": [
+          "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908249-1.jpg?v=1778349317"
+        ],
+        "variants": [
+          {
+            "option_value": "Default Title",
+            "sku": "5908249",
+            "barcode": "5901691957817",
+            "price": "1019.82",
+            "detail_url": "https://b2b.marini.pl/items/11?parent=10",
+            "source_code": "5908249",
+            "source_title": "4 BABY Fotelik VEL-FIX 40-150cm BLACK I-SIZE",
+            "source_sku": "5908249",
+            "shopify_id": "gid://shopify/ProductVariant/53868671500621",
+            "legacy_resource_id": 53868671500621,
+            "media_urls": [
+              "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/5908249-1.jpg?v=1778349317"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

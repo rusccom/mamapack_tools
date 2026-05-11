@@ -1,0 +1,44 @@
+{
+  "summary": {
+    "created_at": "2026-05-02T19:10:01",
+    "deleted_redirect_id": "gid://shopify/UrlRedirect/1028415160653",
+    "redirects_before_count": 1,
+    "redirects_after_count": 0,
+    "collection_handle": "wanienki-dla-dzieci",
+    "collection_title": "Wanienki dla dzieci"
+  },
+  "before": {
+    "urlRedirects": {
+      "nodes": [
+        {
+          "id": "gid://shopify/UrlRedirect/1028415160653",
+          "path": "/collections/wanienki",
+          "target": "/collections/wanienki-dla-dzieci"
+        }
+      ]
+    },
+    "collections": {
+      "nodes": [
+        {
+          "id": "gid://shopify/Collection/660457816397",
+          "title": "Wanienki dla dzieci",
+          "handle": "wanienki-dla-dzieci"
+        }
+      ]
+    }
+  },
+  "after": {
+    "urlRedirects": {
+      "nodes": []
+    },
+    "collections": {
+      "nodes": [
+        {
+          "id": "gid://shopify/Collection/660457816397",
+          "title": "Wanienki dla dzieci",
+          "handle": "wanienki-dla-dzieci"
+        }
+      ]
+    }
+  }
+}

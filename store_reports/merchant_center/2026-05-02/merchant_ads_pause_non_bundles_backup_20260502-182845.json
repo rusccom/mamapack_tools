@@ -1,0 +1,601 @@
+{
+  "merchant_id": "5548494754",
+  "created_at": "2026-05-02T18:28:45",
+  "targets": [
+    {
+      "kind": "content#product",
+      "id": "online:pl:PL:13606874948860542676",
+      "offerId": "13606874948860542676",
+      "source": "crawl",
+      "title": "BIBS - Smoczek - kauczuk - SZAŁWIA",
+      "description": "BIBS - Smoczek anatomiczny - kauczuk - rozmiar 1 - SZAŁWIABIBS - Smoczek anatomiczny - kauczuk - rozmiar 2 - SZAŁWIA\n\nWiek:\nRozmiar: 1 ( 0 m+)\nRozmiar: 2 ( 6 m+)\nIlość: 1 szt.\n\nOpis\nColour to smoczek który wyróżnia się tym, że zapewnia komfort niemowlętom\n\n\nWłaściwości\n\n\nDostępne w wersji z lateksu kauczuku naturalnego, materiału, który naśladuje miękkość iteksturę brodawki sutkowej matki\nWykonane w 100% z bezpiecznych materiałów spożywczych, wolnych od BPA i ftalanów\nOkrągła osłona zakrzywia się z dala od delikatnej skóry wokół ust, abyzapobiega gromadzeniu się wilgoci i podrażnieniom\nZawór smoczka uwalnia powietrze, aby naturalnie dopasować się do jamy ustnej dziecka\nEleganckie, miękkie, matowe wykończenie\n\n\n\n\nOstrzeżenia\n\n\nBardzo niewiele dzieci jest uczulonych na naturalny kauczuk Hevea, jakkolwiek przy pierwszym zastosowaniu należy zwrócić szczególną uwagę na wszelkie możliwe reakcje alergiczne i w przypadku ich wystąpienia zamienić smoczek na smoczek z silikonu medycznego.\nPrzed pierwszym użyciem należy zawsze sprawdzać wielkość smoczka w stosunku do możliwości anatomicznych dziecka.\nUżywać wyłącznie pod nadzorem osoby dorosłej.\nProdukt nie nadaje się do mycia w zmywarce.\nLateks naturalny (inaczej kauczuk naturalny) ulegnie zniszczeniu, jeśli temperatura przekroczy 100°C. Dlatego nie zaleca się sterylizacji smoczka w mikrofalówce.\nSmoczki Bibs to smoczki otwarte posiadające wentyl. W momencie zanurzenia w wodzie może dochodzić do zalania wodą środka smoczka poprzez wentyl. Jest to proces naturalny i nie stanowi o wadliwym produkcie. W przypadku wystąpienia takiej sytuacji należy po wyciągnięciu smoczka z wody, usunąć wodę ze środka końcówki do ssania poprzez jej mechaniczne wyciśnięcie.\nPrzed każdym użyciem należy sprawdzić stan smoczka, przekrzywiając go w każdym możliwym kierunku. Wyrzucić w przypadku jakichkolwiek oznak uszkodzenia lub osłabienia materiału.\nNie należy pozostawiać smoczka w miejscu bezpośredniego nasłonecznienia, bezpośredniego działania ciepła lub w płynach i urządzeniach dezynfekujących dłużej niż jest to wskazane, ponieważ może to skutkować osłabieniem smoczka a w skrajnych przypadkach jego zniszczeniem.\nSmoczek Bibs jest w 100% naturalnym produktem i nie zawiera stabilizatorów chemicznych, które utwardzają smoczek i zapobiegają jego rozciąganiu w czasie użytkowania. W wyniku ssania smoczek może delikatnie zmienić kształt i rozmiar, co nie stanowi wady produktu, a jest naturalnym procesem. Rekomenduje się używanie dwóch smoczków o tym samym rozmiarze na zmianę.\n\nProducent\n\nBIBS Dania ApSHogevej 19DK-3400 Hillerod, Daniacare@bibsworld.com",
+      "link": "https://mamapack.pl/products/bibs-1001000250-smoczek-anatomiczny-kauczuk-0-szalwia-1-szt-copy",
+      "imageLink": "http://mamapack.pl/cdn/shop/files/BIBS-COLOUR-1-PACK-SAGE-S-Smoczek-Uspokajajacy-kauczuk-Hevea_1.jpg?v=1768345380",
+      "contentLanguage": "pl",
+      "targetCountry": "PL",
+      "feedLabel": "PL",
+      "channel": "online",
+      "availability": "in stock",
+      "brand": "mamapack",
+      "condition": "new",
+      "price": {
+        "value": "19.99",
+        "currency": "PLN"
+      },
+      "shipping": [
+        {
+          "country": "PL"
+        }
+      ]
+    },
+    {
+      "kind": "content#product",
+      "id": "online:pl:PL:shopify_PL_10489715360077_53749050212685",
+      "offerId": "shopify_PL_10489715360077_53749050212685",
+      "source": "api",
+      "title": "BIBS Supreme (160336) - Smoczek uspokajający – mamapack 1 (0+)",
+      "description": "BIBS Supreme (160336) - Smoczek uspokajający - (silikon) - (0+) - Vanilla /Dark Oak - 2 szt. Opis Colour to smoczek który wyróżnia się tym, że zapewnia",
+      "link": "https://mamapack.pl/products/bibs-supreme-160336-smoczek-uspokajajacy-silikon-0-vanilla-dark-oak-2-szt?variant=53749050212685&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "imageLink": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/bibs-supreme-2pack-pacifier-vanilla-darkoak-shield.webp?v=1776613500",
+      "additionalImageLinks": [
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/0457F60AE4EBB33E7E3D7E6E46D08D94.jpg?v=1776613500",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/610243_5713795060030_BIBS_SUPREME_DarkOak_1_1000x1000_11b6a4dd-e936-4074-a320-a21d02873f81.webp?v=1776613500",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/61wPioRRzTL._AC_SL1500_d9813a5b-0248-493e-bf79-e075ab466ca6.jpg?v=1776613500"
+      ],
+      "contentLanguage": "pl",
+      "targetCountry": "PL",
+      "feedLabel": "PL",
+      "channel": "online",
+      "availability": "in stock",
+      "brand": "mamapack",
+      "color": "bezowy",
+      "googleProductCategory": "566",
+      "itemGroupId": "shopify_PL_10489715360077",
+      "price": {
+        "value": "39.99",
+        "currency": "PLN"
+      },
+      "sellOnGoogleQuantity": "2",
+      "shippingWeight": {
+        "value": 0,
+        "unit": "kg"
+      },
+      "sizes": [
+        "1 (0+)"
+      ],
+      "productDetails": [
+        {
+          "sectionName": "Variant",
+          "attributeName": "rozmiar",
+          "attributeValue": "1 (0+)"
+        }
+      ],
+      "customAttributes": [
+        {
+          "name": "merchant item id",
+          "value": "gid://shopify/ProductVariant/53749050212685"
+        },
+        {
+          "name": "sku",
+          "value": "160336"
+        },
+        {
+          "name": "modification info",
+          "groupValues": [
+            {
+              "name": "modifier",
+              "value": "third party syncing"
+            },
+            {
+              "name": "modification source",
+              "value": "third party shopify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "content#product",
+      "id": "online:pl:PL:shopify_PL_10489715360077_53749050245453",
+      "offerId": "shopify_PL_10489715360077_53749050245453",
+      "source": "api",
+      "title": "BIBS Supreme (160336) - Smoczek uspokajający – mamapack 2 (6+)",
+      "description": "BIBS Supreme (160336) - Smoczek uspokajający - (silikon) - (0+) - Vanilla /Dark Oak - 2 szt. Opis Colour to smoczek który wyróżnia się tym, że zapewnia",
+      "link": "https://mamapack.pl/products/bibs-supreme-160336-smoczek-uspokajajacy-silikon-0-vanilla-dark-oak-2-szt?variant=53749050245453&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "imageLink": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/bibs-supreme-2pack-pacifier-vanilla-darkoak-shield.webp?v=1776613500",
+      "additionalImageLinks": [
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/0457F60AE4EBB33E7E3D7E6E46D08D94.jpg?v=1776613500",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/610243_5713795060030_BIBS_SUPREME_DarkOak_1_1000x1000_11b6a4dd-e936-4074-a320-a21d02873f81.webp?v=1776613500",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/61wPioRRzTL._AC_SL1500_d9813a5b-0248-493e-bf79-e075ab466ca6.jpg?v=1776613500"
+      ],
+      "contentLanguage": "pl",
+      "targetCountry": "PL",
+      "feedLabel": "PL",
+      "channel": "online",
+      "availability": "in stock",
+      "brand": "mamapack",
+      "color": "bezowy",
+      "googleProductCategory": "566",
+      "itemGroupId": "shopify_PL_10489715360077",
+      "price": {
+        "value": "39.99",
+        "currency": "PLN"
+      },
+      "shippingWeight": {
+        "value": 0,
+        "unit": "kg"
+      },
+      "sizes": [
+        "2 (6+)"
+      ],
+      "productDetails": [
+        {
+          "sectionName": "Variant",
+          "attributeName": "rozmiar",
+          "attributeValue": "2 (6+)"
+        }
+      ],
+      "customAttributes": [
+        {
+          "name": "merchant item id",
+          "value": "gid://shopify/ProductVariant/53749050245453"
+        },
+        {
+          "name": "sku",
+          "value": "260336"
+        },
+        {
+          "name": "modification info",
+          "groupValues": [
+            {
+              "name": "modifier",
+              "value": "third party syncing"
+            },
+            {
+              "name": "modification source",
+              "value": "third party shopify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "content#product",
+      "id": "online:pl:PL:shopify_PL_10606522073421_53653080539469",
+      "offerId": "shopify_PL_10606522073421_53653080539469",
+      "source": "api",
+      "title": "BIBS Studio - Smoczek uspokajający – mamapack 1 (0m+)",
+      "description": "BIBS Studio - Smoczek uspokajający - (2-pak) - latex - baby blue / dusty blue. Stylowy zestaw smoczków uspokajających BIBS Studio w kolorze baby blue /",
+      "link": "https://mamapack.pl/products/bibs-studio-smoczek-uspokajajacy-2-pak-latex-baby?variant=53653080539469&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "imageLink": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/BE04889929-p14.webp?v=1776604028",
+      "additionalImageLinks": [
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/11022103_5713795267590_BIBS_Studio_COLOUR_PACK_Rnd_Latex_S1_Block_BabyBlueDustyBlueMix_1000x1000_4533046a-3506-4a0f-8144-644625204b17.webp?v=1776604028",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/bibs-colour-pacifier-babyblue-round.webp?v=1776604028",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/bibs-colour-pacifier-round-ivory.webp?v=1776604028",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/BIBS_Studio_Lifestyle_1_8d6d943c-399c-4dfe-97ab-9240d743bed6.webp?v=1776604028",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/BIBS_Studio_Lifestyle_2_a036b259-7a4a-41a1-b73f-4686e5016796.jpg?v=1776604028",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/BIBS-LIBERTY-COLOUR-2-PACK-ELOISE-BLUSH-S-Smoczek-uspokajajacy-kauczuk-Heve-Informacje-dodatkowe-nie-zawiera-BPA.jpg?v=1776612519"
+      ],
+      "contentLanguage": "pl",
+      "targetCountry": "PL",
+      "feedLabel": "PL",
+      "channel": "online",
+      "availability": "out of stock",
+      "brand": "mamapack",
+      "googleProductCategory": "566",
+      "itemGroupId": "shopify_PL_10606522073421",
+      "price": {
+        "value": "55.50",
+        "currency": "PLN"
+      },
+      "sellOnGoogleQuantity": "0",
+      "shippingWeight": {
+        "value": 0,
+        "unit": "kg"
+      },
+      "sizes": [
+        "1 (0m+)"
+      ],
+      "productDetails": [
+        {
+          "sectionName": "Variant",
+          "attributeName": "rozmiar",
+          "attributeValue": "1 (0m+)"
+        }
+      ],
+      "customAttributes": [
+        {
+          "name": "merchant item id",
+          "value": "gid://shopify/ProductVariant/53653080539469"
+        },
+        {
+          "name": "sku",
+          "value": "11022103"
+        },
+        {
+          "name": "modification info",
+          "groupValues": [
+            {
+              "name": "modifier",
+              "value": "third party syncing"
+            },
+            {
+              "name": "modification source",
+              "value": "third party shopify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "content#product",
+      "id": "online:pl:PL:shopify_PL_10606522073421_53653080572237",
+      "offerId": "shopify_PL_10606522073421_53653080572237",
+      "source": "api",
+      "title": "BIBS Studio - Smoczek uspokajający – mamapack 2 (6m+)",
+      "description": "BIBS Studio - Smoczek uspokajający - (2-pak) - latex - baby blue / dusty blue. Stylowy zestaw smoczków uspokajających BIBS Studio w kolorze baby blue /",
+      "link": "https://mamapack.pl/products/bibs-studio-smoczek-uspokajajacy-2-pak-latex-baby?variant=53653080572237&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "imageLink": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/BE04889929-p14.webp?v=1776604028",
+      "additionalImageLinks": [
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/11022103_5713795267590_BIBS_Studio_COLOUR_PACK_Rnd_Latex_S1_Block_BabyBlueDustyBlueMix_1000x1000_4533046a-3506-4a0f-8144-644625204b17.webp?v=1776604028",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/bibs-colour-pacifier-babyblue-round.webp?v=1776604028",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/bibs-colour-pacifier-round-ivory.webp?v=1776604028",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/BIBS_Studio_Lifestyle_1_8d6d943c-399c-4dfe-97ab-9240d743bed6.webp?v=1776604028",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/BIBS_Studio_Lifestyle_2_a036b259-7a4a-41a1-b73f-4686e5016796.jpg?v=1776604028",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/BIBS-LIBERTY-COLOUR-2-PACK-ELOISE-BLUSH-S-Smoczek-uspokajajacy-kauczuk-Heve-Informacje-dodatkowe-nie-zawiera-BPA.jpg?v=1776612519"
+      ],
+      "contentLanguage": "pl",
+      "targetCountry": "PL",
+      "feedLabel": "PL",
+      "channel": "online",
+      "availability": "out of stock",
+      "brand": "mamapack",
+      "googleProductCategory": "566",
+      "itemGroupId": "shopify_PL_10606522073421",
+      "price": {
+        "value": "55.50",
+        "currency": "PLN"
+      },
+      "sellOnGoogleQuantity": "0",
+      "shippingWeight": {
+        "value": 0,
+        "unit": "kg"
+      },
+      "sizes": [
+        "2 (6m+)"
+      ],
+      "productDetails": [
+        {
+          "sectionName": "Variant",
+          "attributeName": "rozmiar",
+          "attributeValue": "2 (6m+)"
+        }
+      ],
+      "customAttributes": [
+        {
+          "name": "merchant item id",
+          "value": "gid://shopify/ProductVariant/53653080572237"
+        },
+        {
+          "name": "sku",
+          "value": "BIBS-STUDIO-BABYBLUE-DUSTYBLUE-2"
+        },
+        {
+          "name": "modification info",
+          "groupValues": [
+            {
+              "name": "modifier",
+              "value": "third party syncing"
+            },
+            {
+              "name": "modification source",
+              "value": "third party shopify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "content#product",
+      "id": "online:pl:PL:shopify_PL_10606522073421_53653080605005",
+      "offerId": "shopify_PL_10606522073421_53653080605005",
+      "source": "api",
+      "title": "BIBS Studio - Smoczek uspokajający – mamapack 3 (18m+)",
+      "description": "BIBS Studio - Smoczek uspokajający - (2-pak) - latex - baby blue / dusty blue. Stylowy zestaw smoczków uspokajających BIBS Studio w kolorze baby blue /",
+      "link": "https://mamapack.pl/products/bibs-studio-smoczek-uspokajajacy-2-pak-latex-baby?variant=53653080605005&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "imageLink": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/BE04889929-p14.webp?v=1776604028",
+      "additionalImageLinks": [
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/11022103_5713795267590_BIBS_Studio_COLOUR_PACK_Rnd_Latex_S1_Block_BabyBlueDustyBlueMix_1000x1000_4533046a-3506-4a0f-8144-644625204b17.webp?v=1776604028",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/bibs-colour-pacifier-babyblue-round.webp?v=1776604028",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/bibs-colour-pacifier-round-ivory.webp?v=1776604028",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/BIBS_Studio_Lifestyle_1_8d6d943c-399c-4dfe-97ab-9240d743bed6.webp?v=1776604028",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/BIBS_Studio_Lifestyle_2_a036b259-7a4a-41a1-b73f-4686e5016796.jpg?v=1776604028",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/BIBS-LIBERTY-COLOUR-2-PACK-ELOISE-BLUSH-S-Smoczek-uspokajajacy-kauczuk-Heve-Informacje-dodatkowe-nie-zawiera-BPA.jpg?v=1776612519"
+      ],
+      "contentLanguage": "pl",
+      "targetCountry": "PL",
+      "feedLabel": "PL",
+      "channel": "online",
+      "availability": "out of stock",
+      "brand": "mamapack",
+      "googleProductCategory": "566",
+      "itemGroupId": "shopify_PL_10606522073421",
+      "price": {
+        "value": "55.50",
+        "currency": "PLN"
+      },
+      "sellOnGoogleQuantity": "0",
+      "shippingWeight": {
+        "value": 0,
+        "unit": "kg"
+      },
+      "sizes": [
+        "3 (18m+)"
+      ],
+      "productDetails": [
+        {
+          "sectionName": "Variant",
+          "attributeName": "rozmiar",
+          "attributeValue": "3 (18m+)"
+        }
+      ],
+      "customAttributes": [
+        {
+          "name": "merchant item id",
+          "value": "gid://shopify/ProductVariant/53653080605005"
+        },
+        {
+          "name": "sku",
+          "value": "BIBS-STUDIO-BABYBLUE-DUSTYBLUE-3"
+        },
+        {
+          "name": "modification info",
+          "groupValues": [
+            {
+              "name": "modifier",
+              "value": "third party syncing"
+            },
+            {
+              "name": "modification source",
+              "value": "third party shopify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "content#product",
+      "id": "online:pl:PL:shopify_PL_10630605209933_53748969636173",
+      "offerId": "shopify_PL_10630605209933_53748969636173",
+      "source": "api",
+      "title": "BIBS Studio - Smoczek uspokajający – mamapack",
+      "description": "BIBS Studio - Smoczek uspokajający - (2-pak) - latex - baby blue / dusty blue. Stylowy zestaw smoczków uspokajających BIBS Studio w kolorze baby blue /",
+      "link": "https://mamapack.pl/products/bibs-studio-smoczek-uspokajajacy-okragly-2-pak-latex-baby-blue-dusty-blue-copy?variant=53748969636173&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "imageLink": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/bibs-colour-2pack-pacifier-ivory-blush-shield_945d26d7-b1a2-4119-b2b1-6cf2bb14c70e.webp?v=1776611161",
+      "additionalImageLinks": [
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/BIB000070_5713795242382_1_BIBS_COLOUR_PACK_Sym_Latex_Ivory_Blush_2000x2000_600_x_600.jpg?v=1776611562",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/BIB000070_5713795242382_2_BIBS_COLOUR_PACK_Sym_Latex_Ivory_Blush_2000x2000_600_x_600.jpg?v=1776611562"
+      ],
+      "contentLanguage": "pl",
+      "targetCountry": "PL",
+      "feedLabel": "PL",
+      "channel": "online",
+      "availability": "out of stock",
+      "brand": "mamapack",
+      "googleProductCategory": "566",
+      "price": {
+        "value": "55.50",
+        "currency": "PLN"
+      },
+      "sellOnGoogleQuantity": "0",
+      "shippingWeight": {
+        "value": 0,
+        "unit": "kg"
+      },
+      "sizes": [
+        "1 (0m+)"
+      ],
+      "productDetails": [
+        {
+          "sectionName": "Variant",
+          "attributeName": "rozmiar",
+          "attributeValue": "1 (0m+)"
+        }
+      ],
+      "customAttributes": [
+        {
+          "name": "merchant item id",
+          "value": "gid://shopify/ProductVariant/53748969636173"
+        },
+        {
+          "name": "sku",
+          "value": "2121417"
+        },
+        {
+          "name": "modification info",
+          "groupValues": [
+            {
+              "name": "modifier",
+              "value": "third party syncing"
+            },
+            {
+              "name": "modification source",
+              "value": "third party shopify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "content#product",
+      "id": "online:pl:PL:shopify_PL_10630618480973_53749032124749",
+      "offerId": "shopify_PL_10630618480973_53749032124749",
+      "source": "api",
+      "title": "BIBS Studio - Smoczek uspokajający – mamapack",
+      "description": "BIBS Studio - Smoczek uspokajający - (2-pak) - latex - baby blue / dusty blue. Stylowy zestaw smoczków uspokajających BIBS Studio w kolorze baby blue /",
+      "link": "https://mamapack.pl/products/bibs-studio-smoczek-uspokajajacy-okragly-2-pak-latex-baby-blue-dusty-blue-copy-1?variant=53749032124749&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "imageLink": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/11015104_5713795259694_BIBS_Studio_COLOUR_PACK_Rnd_Latex_Pin_IvoryVanillaMix_1000x1000_ea269676-9b2a-4898-8d57-49ad33b5e4ca.webp?v=1776612519",
+      "additionalImageLinks": [
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/207FD5_1.webp?v=1776612519",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/200152_3.webp?v=1776612519",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/BIB000040_5713795259694_1_BIBS_Studio_COLOUR_PACK_Rnd_Latex_Pin_IvoryVanillaMix_2000x2000_600_x_600.jpg?v=1776612519",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/BIB000040_5713795259694_3_BIBS_Studio_COLOUR_PACK_Rnd_Latex_Pin_IvoryVanillaMix_2000x2000_600_x_600.jpg?v=1776612519",
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/BIBS-LIBERTY-COLOUR-2-PACK-ELOISE-BLUSH-S-Smoczek-uspokajajacy-kauczuk-Heve-Informacje-dodatkowe-nie-zawiera-BPA.jpg?v=1776612519"
+      ],
+      "contentLanguage": "pl",
+      "targetCountry": "PL",
+      "feedLabel": "PL",
+      "channel": "online",
+      "availability": "out of stock",
+      "brand": "mamapack",
+      "googleProductCategory": "566",
+      "price": {
+        "value": "55.50",
+        "currency": "PLN"
+      },
+      "sellOnGoogleQuantity": "0",
+      "shippingWeight": {
+        "value": 0,
+        "unit": "kg"
+      },
+      "sizes": [
+        "1 (0m+)"
+      ],
+      "productDetails": [
+        {
+          "sectionName": "Variant",
+          "attributeName": "rozmiar",
+          "attributeValue": "1 (0m+)"
+        }
+      ],
+      "customAttributes": [
+        {
+          "name": "merchant item id",
+          "value": "gid://shopify/ProductVariant/53749032124749"
+        },
+        {
+          "name": "sku",
+          "value": "11015104"
+        },
+        {
+          "name": "modification info",
+          "groupValues": [
+            {
+              "name": "modifier",
+              "value": "third party syncing"
+            },
+            {
+              "name": "modification source",
+              "value": "third party shopify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "content#product",
+      "id": "online:pl:PL:shopify_PL_9984490242381_51163459060045",
+      "offerId": "shopify_PL_9984490242381_51163459060045",
+      "source": "api",
+      "title": "Rożek niemowlęcy - standard 75x75 cm - - bawełna 100% – mamapack",
+      "description": "Rożek niemowlęcy - standard 75x75 cm - (miminu Design Kotki ) - bawełna 100%. Rożek niemowlęcy standard 75x75 cm KIECZMERSKI MIMINU DESIGN Kotki bawełna",
+      "link": "https://mamapack.pl/products/rozek-niemowlecy-standard-75x75-cm-miminu-design-kotki-bawelna-100?variant=51163459060045&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "imageLink": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/kieczmerski-rozek-niemowlecy-standard-75x75-cm-miminu-design-kotki-bawelna-100.jpg?v=1771781300",
+      "contentLanguage": "pl",
+      "targetCountry": "PL",
+      "feedLabel": "PL",
+      "channel": "online",
+      "availability": "in stock",
+      "brand": "mamapack",
+      "googleProductCategory": "540",
+      "price": {
+        "value": "59.90",
+        "currency": "PLN"
+      },
+      "shippingWeight": {
+        "value": 0,
+        "unit": "kg"
+      },
+      "costOfGoodsSold": {
+        "value": "30.51",
+        "currency": "PLN"
+      },
+      "customAttributes": [
+        {
+          "name": "merchant item id",
+          "value": "gid://shopify/ProductVariant/51163459060045"
+        },
+        {
+          "name": "sku",
+          "value": "5911186"
+        },
+        {
+          "name": "modification info",
+          "groupValues": [
+            {
+              "name": "modifier",
+              "value": "third party syncing"
+            },
+            {
+              "name": "modification source",
+              "value": "third party shopify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "content#product",
+      "id": "online:pl:PL:shopify_PL_9984493814093_51163500806477",
+      "offerId": "shopify_PL_9984493814093_51163500806477",
+      "source": "api",
+      "title": "Rożek niemowlęcy - standard 75x75 cm - - bawełna 100% – mamapack",
+      "description": "Rożek niemowlęcy - standard 75x75 cm - (miminu Design, little ballerina) - bawełna 100%. Rożek niemowlęcy 75x75 cm z tkaniny bawełnianej, wyprodukowanej w",
+      "link": "https://mamapack.pl/products/rozek-niemowlecy-standard-75x75-cm-miminu-design-little-ballerina-bawelna-100?variant=51163500806477&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "imageLink": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/rozek-niemowlecy-75x75-cm-standard-little-ballerina.jpg?v=1740845925",
+      "contentLanguage": "pl",
+      "targetCountry": "PL",
+      "feedLabel": "PL",
+      "channel": "online",
+      "availability": "in stock",
+      "brand": "mamapack",
+      "color": "pink",
+      "googleProductCategory": "538",
+      "price": {
+        "value": "59.90",
+        "currency": "PLN"
+      },
+      "shippingWeight": {
+        "value": 0,
+        "unit": "kg"
+      },
+      "costOfGoodsSold": {
+        "value": "30.51",
+        "currency": "PLN"
+      },
+      "customAttributes": [
+        {
+          "name": "merchant item id",
+          "value": "gid://shopify/ProductVariant/51163500806477"
+        },
+        {
+          "name": "sku",
+          "value": "5911326"
+        },
+        {
+          "name": "modification info",
+          "groupValues": [
+            {
+              "name": "modifier",
+              "value": "third party syncing"
+            },
+            {
+              "name": "modification source",
+              "value": "third party shopify"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

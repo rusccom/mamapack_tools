@@ -1,0 +1,195 @@
+{
+  "created_at": "2026-05-07T19:01:30",
+  "collection": {
+    "id": "gid://shopify/Collection/660840022349",
+    "legacyResourceId": "660840022349",
+    "title": "Koszule i szlafroki do karmienia",
+    "handle": "koszule-i-szlafroki-do-karmienia",
+    "seo": {
+      "title": "Koszule i szlafroki do karmienia | MamaPack",
+      "description": "Koszule do karmienia i szlafroki dla mamy do szpitala, połogu oraz pierwszych tygodni karmienia piersią."
+    },
+    "productsCount": {
+      "count": 13
+    },
+    "resourcePublications": {
+      "nodes": []
+    }
+  },
+  "created_now": true,
+  "source_handles": [
+    "koszule-do-karmienia",
+    "szlafroki-dla-mamy"
+  ],
+  "source_candidate_count": 13,
+  "added_count": 13,
+  "unpublished_publication_ids": [],
+  "products": [
+    {
+      "id": "gid://shopify/Product/9807598911821",
+      "legacyResourceId": "9807598911821",
+      "title": "Koszula do karmienia -( DEEP BLUE) - Doctor Nap",
+      "handle": "koszula-do-karmienia-deep-blue-xl-doctor-nap",
+      "status": "ACTIVE",
+      "skus": [
+        "TCB.5336.DEEP_BLUE.S.01",
+        "TCB.5336.DEEP_BLUE.M.01",
+        "TCB.5336.DEEP_BLUE.L.01",
+        "TCB.5336.DEEP_BLUE.XL.01"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9807599829325",
+      "legacyResourceId": "9807599829325",
+      "title": "Koszula do karmienia -(DARK_GREY) -Doctor Nap",
+      "handle": "koszula-do-karmienia-dark_grey-xxl-doctor-nap",
+      "status": "ACTIVE",
+      "skus": [
+        "TM.9301.DARK_GREY.S.01",
+        "TM.9301.DARK_GREY.M.01",
+        "TM.9301.DARK_GREY.L.01",
+        "TM.9301.DARK_GREY.XL.01",
+        "TM.9301.DARK_GREY.XXL.01"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9807599468877",
+      "legacyResourceId": "9807599468877",
+      "title": "Koszula do karmienia -(GRAPHITE) - Doctor Nap",
+      "handle": "koszula-do-karmienia-graphite-xxl-doctor-nap",
+      "status": "ACTIVE",
+      "skus": [
+        "TCB.9992.GRAPHITE.S.01",
+        "TCB.9992.GRAPHITE.M.01",
+        "TCB.9992.GRAPHITE.L.01",
+        "TCB.9992.GRAPHITE.XL.01",
+        "TCB.9992.GRAPHITE.XXL.01"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9807599108429",
+      "legacyResourceId": "9807599108429",
+      "title": "Koszula do karmienia - (SWEET_PINK) - Doctor Nap",
+      "handle": "koszula-do-karmienia-sweet_pink-xl-doctor-nap",
+      "status": "ACTIVE",
+      "skus": [
+        "TCB.9504.SWEET_PINK.S.01",
+        "TCB.9504.SWEET_PINK.M.01",
+        "TCB.9504.SWEET_PINK.L.01",
+        "TCB.9504.SWEET_PINK.XL.01",
+        "TCB.9504.SWEET_PINK.XXL.01"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9807598747981",
+      "legacyResourceId": "9807598747981",
+      "title": "Koszula do karmienia - (beige) - Doctor Nap",
+      "handle": "koszula-do-karmienia-beige-xxl-doctor-nap",
+      "status": "ACTIVE",
+      "skus": [
+        "TCB.4348.BEIGE.S.01",
+        "TCB.4348.BEIGE.M.01",
+        "TCB.4348.BEIGE.L.01",
+        "TCB.4348.BEIGE.XL.01",
+        "TCB.4348.BEIGE.XXL.01"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9816066851149",
+      "legacyResourceId": "9816066851149",
+      "title": "Doctor Nap szlafrok damski suwak",
+      "handle": "doctor-nap-szlafrok-damski-suwak",
+      "status": "ACTIVE",
+      "skus": [
+        "SMZ.9756.WOOD.S.01",
+        "SMZ.9756.WOOD.M.01",
+        "SMZ.9756.WOOD.L.01",
+        "SMZ.9756.WOOD.XL.01"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9807599272269",
+      "legacyResourceId": "9807599272269",
+      "title": "Koszula do karmienia -( różowy) - Doctor Nap",
+      "handle": "koszula-do-karmienia-rozowy-xl-doctor-nap",
+      "status": "ACTIVE",
+      "skus": [
+        "TCB.9600.DOLCE_VITA.S.01",
+        "TCB.9600.DOLCE_VITA.M.01",
+        "TCB.9600.DOLCE_VITA.L.01",
+        "TCB.9600.DOLCE_VITA.XL.01"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9807598387533",
+      "legacyResourceId": "9807598387533",
+      "title": "Szlafrok damski bambusowy wiązany - Doctor Nap",
+      "handle": "szlafrok-damski-bambusowy-wiazany-xl-doctor-nap",
+      "status": "ACTIVE",
+      "skus": [
+        "SWB.9999.DARK_GREY.S.01",
+        "SWB.9999.DARK_GREY.M.01",
+        "SWB.9999.DARK_GREY.L.01",
+        "SWB.9999.DARK_GREY.XL.01"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10497188561229",
+      "legacyResourceId": "10497188561229",
+      "title": "TCB.9505 - Koszula do karmienia - XXL - (PINK) - Doctor Nap",
+      "handle": "tcb-9505-koszula-do-karmienia-xxl-pink-doctor-nap",
+      "status": "ACTIVE",
+      "skus": [
+        "TCB.9505.SWEET_PINK.01"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10497186496845",
+      "legacyResourceId": "10497186496845",
+      "title": "TCB.9505 - Koszula do karmienia - L - (GRAPHITE) - Doctor Nap",
+      "handle": "tcb-9505-koszula-do-karmienia-l-graphite-doctor-nap",
+      "status": "ACTIVE",
+      "skus": [
+        "5902701146597"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10497183809869",
+      "legacyResourceId": "10497183809869",
+      "title": "TCB.9504 - Koszula do karmienia - (GREY) - Doctor Nap",
+      "handle": "tcb-9504-koszula-do-karmienia-xl-grey-doctor-nap",
+      "status": "ACTIVE",
+      "skus": [
+        "TCB.9504.GREY.M.01",
+        "TCB.9504.GREY.XL.01"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9807599665485",
+      "legacyResourceId": "9807599665485",
+      "title": "Koszula do karmienia -(GREY) - Doctor Nap",
+      "handle": "koszula-do-karmienia-grey-xxxl-doctor-nap",
+      "status": "ACTIVE",
+      "skus": [
+        "TM.4119.GREY.S.01",
+        "TM.4119.GREY.M.01",
+        "TM.4119.GREY.L.01",
+        "TM.4119.GREY.XL.01",
+        "TM.4119.GREY.XXL.01",
+        "TM.4119.GREY.XXXL.01"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9807598485837",
+      "legacyResourceId": "9807598485837",
+      "title": "SZLAFROK DAMSKI z delikatnego muślinu (wiązany) - Doctor Nap",
+      "handle": "szlafrok-damski-z-delikatnego-muslinu-l-wiazany-doctor-nap",
+      "status": "ACTIVE",
+      "skus": [
+        "SWW.5364.BARBIE_PINK.S.01",
+        "SWW.5364.BARBIE_PINK.M.01",
+        "SWW.5364.BARBIE_PINK.L.01"
+      ]
+    }
+  ]
+}

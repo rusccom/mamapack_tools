@@ -1,0 +1,282 @@
+{
+  "generated_at": "2026-05-04T15:19:51",
+  "product": {
+    "id": "gid://shopify/Product/10648590713165",
+    "legacyResourceId": "10648590713165",
+    "title": "Torba do szpitala dla mamy M.A.N.I.Y z dolną komorą",
+    "handle": "torba-do-szpitala-maniy-z-dolna-komora",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://mamapack.pl/products/torba-do-szpitala-maniy-z-dolna-komora",
+    "seo": {
+      "title": "Torba do szpitala M.A.N.I.Y z dolną komorą | MamaPack",
+      "description": "Torba do szpitala dla mamy z dolną komorą. Wymiary 49 x 32 x 25 cm, nylon i poliester, dostępna w 4 kolorach."
+    },
+    "options": [
+      {
+        "name": "Kolor",
+        "values": [
+          "Niebieski",
+          "Różowy",
+          "Szary",
+          "Zielony"
+        ]
+      }
+    ],
+    "collections": {
+      "nodes": [
+        {
+          "title": "Puste torby i organizery",
+          "handle": "puste-torby-i-organizery"
+        }
+      ]
+    },
+    "resourcePublications": {
+      "nodes": [
+        {
+          "isPublished": true,
+          "publication": {
+            "name": "Online Store"
+          }
+        },
+        {
+          "isPublished": true,
+          "publication": {
+            "name": "Google & YouTube"
+          }
+        },
+        {
+          "isPublished": true,
+          "publication": {
+            "name": "Shop"
+          }
+        }
+      ]
+    },
+    "variants": {
+      "nodes": [
+        {
+          "legacyResourceId": "53830610813261",
+          "title": "Niebieski",
+          "sku": "TORBA-MANIY-NIEBIESKA",
+          "price": "89.90",
+          "inventoryPolicy": "CONTINUE",
+          "inventoryQuantity": 0,
+          "selectedOptions": [
+            {
+              "name": "Kolor",
+              "value": "Niebieski"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "unitCost": {
+              "amount": "47.0",
+              "currencyCode": "PLN"
+            }
+          },
+          "media": {
+            "nodes": [
+              {
+                "id": "gid://shopify/MediaImage/62103151935821",
+                "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, przód",
+                "preview": {
+                  "status": "READY"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "legacyResourceId": "53830610846029",
+          "title": "Różowy",
+          "sku": "TORBA-MANIY-ROZOWA",
+          "price": "89.90",
+          "inventoryPolicy": "CONTINUE",
+          "inventoryQuantity": 0,
+          "selectedOptions": [
+            {
+              "name": "Kolor",
+              "value": "Różowy"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "unitCost": {
+              "amount": "47.0",
+              "currencyCode": "PLN"
+            }
+          },
+          "media": {
+            "nodes": [
+              {
+                "id": "gid://shopify/MediaImage/62103152132429",
+                "alt": "Torba M.A.N.I.Y z dolną komorą - kolor różowy, przód",
+                "preview": {
+                  "status": "READY"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "legacyResourceId": "53830610878797",
+          "title": "Szary",
+          "sku": "TORBA-MANIY-SZARA",
+          "price": "89.90",
+          "inventoryPolicy": "CONTINUE",
+          "inventoryQuantity": 0,
+          "selectedOptions": [
+            {
+              "name": "Kolor",
+              "value": "Szary"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "unitCost": {
+              "amount": "47.0",
+              "currencyCode": "PLN"
+            }
+          },
+          "media": {
+            "nodes": [
+              {
+                "id": "gid://shopify/MediaImage/62103152197965",
+                "alt": "Torba M.A.N.I.Y z dolną komorą - kolor szary, przód",
+                "preview": {
+                  "status": "READY"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "legacyResourceId": "53830610911565",
+          "title": "Zielony",
+          "sku": "TORBA-MANIY-ZIELONA",
+          "price": "89.90",
+          "inventoryPolicy": "CONTINUE",
+          "inventoryQuantity": 0,
+          "selectedOptions": [
+            {
+              "name": "Kolor",
+              "value": "Zielony"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "unitCost": {
+              "amount": "47.0",
+              "currencyCode": "PLN"
+            }
+          },
+          "media": {
+            "nodes": []
+          }
+        }
+      ]
+    },
+    "media": {
+      "nodes": [
+        {
+          "id": "gid://shopify/MediaImage/62103151935821",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, przód",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6984.jpg?v=1777896772"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103151968589",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, widok z góry",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6988.jpg?v=1777896773"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103152001357",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, szczegóły",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6995.jpg?v=1777896773"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103152034125",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, bok",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6996.jpg?v=1777896773"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103152066893",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - wnętrze dolnej komory",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6997.jpg?v=1777896773"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103152099661",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - mocowanie na walizce",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6998.jpg?v=1777896773"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103152132429",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor różowy, przód",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6985.jpg?v=1777896773"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103152165197",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor różowy, w użyciu",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6999.jpg?v=1777896773"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103152197965",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor szary, przód",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6993.jpg?v=1777896773"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "live": {
+    "status": 200,
+    "h1_count": 1,
+    "h1s": [
+      "Torba do szpitala dla mamy M.A.N.I.Y z dolną komorą"
+    ],
+    "has_h1_in_description": false
+  }
+}

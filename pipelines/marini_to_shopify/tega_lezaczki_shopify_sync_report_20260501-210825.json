@@ -1,0 +1,950 @@
+{
+  "syncedAt": "2026-05-01T21:09:38.085207+03:00",
+  "sourceCategoryUrl": "https://b2b.marini.pl/items/355?parent=351",
+  "parentCollectionId": "gid://shopify/Collection/616586740045",
+  "collections": [
+    {
+      "id": "gid://shopify/Collection/660457816397",
+      "title": "Wanienki",
+      "handle": "wanienki"
+    },
+    {
+      "id": "gid://shopify/Collection/660498415949",
+      "title": "Leżaczki do wanny",
+      "handle": "lezaczki-do-wanny"
+    }
+  ],
+  "pricing": {
+    "purchaseSource": "marini XML cena / baseNetPrice",
+    "salePriceMultiplier": "1.60"
+  },
+  "sourceItemCount": 44,
+  "productCount": 14,
+  "variantCount": 36,
+  "skippedCount": 8,
+  "skipped": [
+    {
+      "sku": "779259",
+      "producerCode": "DZ-003-103-JELONEK",
+      "title": "TEGA DZ-003-103-JELONEK Fotelik do kąpieli DZIKI ZACHÓD",
+      "stock": 0,
+      "imageCount": 1,
+      "reasons": [
+        "stock_zero"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/45382?group=355"
+    },
+    {
+      "sku": "779247",
+      "producerCode": "DZ-003-103-SŁONIK",
+      "title": "TEGA DZ-003-103-SŁONIK Fotelik do kąpieli DZIKI ZACHÓD",
+      "stock": 8,
+      "imageCount": 0,
+      "reasons": [
+        "missing_image"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/45370?group=355"
+    },
+    {
+      "sku": "787099",
+      "producerCode": "ME-026-123",
+      "title": "TEGA ME-026-123 Leżaczek kąpielowy z wizerunkiem METEO różowy",
+      "stock": 11,
+      "imageCount": 0,
+      "reasons": [
+        "missing_image"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/53518?group=355"
+    },
+    {
+      "sku": "787097",
+      "producerCode": "ME-026-164",
+      "title": "TEGA ME-026-164 Leżaczek kąpielowy z wizerunkiem METEO granatowy",
+      "stock": 15,
+      "imageCount": 0,
+      "reasons": [
+        "missing_image"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/53516?group=355"
+    },
+    {
+      "sku": "787098",
+      "producerCode": "ME-026-166",
+      "title": "TEGA ME-026-166 Leżaczek kąpielowy z wizerunkiem METEO musztardowy",
+      "stock": 4,
+      "imageCount": 0,
+      "reasons": [
+        "missing_image"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/53517?group=355"
+    },
+    {
+      "sku": "5906197",
+      "producerCode": "MN-026-124",
+      "title": "TEGA MN-026-124 Leżaczek kąpielowy z wizerunkiem Monsters żółty",
+      "stock": 9,
+      "imageCount": 0,
+      "reasons": [
+        "missing_image"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/62184?group=355"
+    },
+    {
+      "sku": "5906194",
+      "producerCode": "MN-026-127",
+      "title": "TEGA MN-026-127 Leżaczek kąpielowy z wizerunkiem Monsters c. różowy",
+      "stock": 5,
+      "imageCount": 0,
+      "reasons": [
+        "missing_image"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/62181?group=355"
+    },
+    {
+      "sku": "14499",
+      "producerCode": "SO-003-103",
+      "title": "TEGA SO-003-103 Fotelik do kąpieli antypoślizgowy SOWA biały",
+      "stock": 11,
+      "imageCount": 0,
+      "reasons": [
+        "missing_image"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/20857?group=355"
+    }
+  ],
+  "products": [
+    {
+      "title": "Tega Baby Leżaczek do kąpieli 100% bawełna",
+      "handle": "tega-baby-lezaczek-do-kapieli-100-bawelna",
+      "sourceHandle": "tega-baby-lezaczek-do-kapieli-100-bawelna",
+      "productId": "gid://shopify/Product/10645600698701",
+      "legacyResourceId": "10645600698701",
+      "status": "DRAFT",
+      "optionName": "Kolor",
+      "variantCount": 8,
+      "mediaCount": 8,
+      "variants": [
+        {
+          "sourceSku": "777113",
+          "shopifySku": "777113",
+          "barcode": "5902963007063",
+          "price": "21.06",
+          "purchasePrice": "13.16",
+          "optionValue": "biały",
+          "variantId": "gid://shopify/ProductVariant/53816543969613",
+          "legacyResourceId": "53816543969613",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/43157?group=355",
+          "supplierTitle": "TEGA DM-020-103 Leżaczek do kąpieli 100% bawełna biały"
+        },
+        {
+          "sourceSku": "777568",
+          "shopifySku": "777568",
+          "barcode": "5902963070227",
+          "price": "21.06",
+          "purchasePrice": "13.16",
+          "optionValue": "szary",
+          "variantId": "gid://shopify/ProductVariant/53816544002381",
+          "legacyResourceId": "53816544002381",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/43621?group=355",
+          "supplierTitle": "TEGA DM-020-106 Leżaczek do kąpieli 100% bawełna szary"
+        },
+        {
+          "sourceSku": "777114",
+          "shopifySku": "777114",
+          "barcode": "5902963007087",
+          "price": "21.06",
+          "purchasePrice": "13.16",
+          "optionValue": "jasny niebieski",
+          "variantId": "gid://shopify/ProductVariant/53816544035149",
+          "legacyResourceId": "53816544035149",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/43158?group=355",
+          "supplierTitle": "TEGA DM-020-135 Leżaczek do kąpieli 100% bawełna j.niebieski"
+        },
+        {
+          "sourceSku": "777115",
+          "shopifySku": "777115",
+          "barcode": "5902963007094",
+          "price": "21.06",
+          "purchasePrice": "13.16",
+          "optionValue": "jasny różowy",
+          "variantId": "gid://shopify/ProductVariant/53816544067917",
+          "legacyResourceId": "53816544067917",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/43159?group=355",
+          "supplierTitle": "TEGA DM-020-136 Leżaczek do kąpieli 100% bawełna j.różowy"
+        },
+        {
+          "sourceSku": "777117",
+          "shopifySku": "777117",
+          "barcode": "5902963007100",
+          "price": "21.06",
+          "purchasePrice": "13.16",
+          "optionValue": "żółty",
+          "variantId": "gid://shopify/ProductVariant/53816544100685",
+          "legacyResourceId": "53816544100685",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/43161?group=355",
+          "supplierTitle": "TEGA DM-020-137 Leżaczek do kąpieli 100% bawełna żółty"
+        },
+        {
+          "sourceSku": "777116",
+          "shopifySku": "777116",
+          "barcode": "5902963007117",
+          "price": "20.00",
+          "purchasePrice": "12.50",
+          "optionValue": "jasny zielony",
+          "variantId": "gid://shopify/ProductVariant/53816544133453",
+          "legacyResourceId": "53816544133453",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/43160?group=355",
+          "supplierTitle": "TEGA DM-020-138 Leżaczek do kąpieli 100% bawełna j.zielony"
+        },
+        {
+          "sourceSku": "786151",
+          "shopifySku": "786151",
+          "barcode": "5902963007124",
+          "price": "21.06",
+          "purchasePrice": "13.16",
+          "optionValue": "turkus",
+          "variantId": "gid://shopify/ProductVariant/53816544166221",
+          "legacyResourceId": "53816544166221",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/52505?group=355",
+          "supplierTitle": "TEGA DM-020-140 Leżaczek do kąpieli 100% bawełna turkus"
+        },
+        {
+          "sourceSku": "777565",
+          "shopifySku": "777565",
+          "barcode": "5902963007131",
+          "price": "21.06",
+          "purchasePrice": "13.16",
+          "optionValue": "ecru",
+          "variantId": "gid://shopify/ProductVariant/53816544198989",
+          "legacyResourceId": "53816544198989",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/43618?group=355",
+          "supplierTitle": "TEGA DM-020-157 Leżaczek do kąpieli 100% bawełna ecru"
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Leżaczek kąpielowy z wizerunkiem Dziki Zachód",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-dziki-zachod",
+      "sourceHandle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-dziki-zachod",
+      "productId": "gid://shopify/Product/10645600731469",
+      "legacyResourceId": "10645600731469",
+      "status": "DRAFT",
+      "optionName": "Wzór",
+      "variantCount": 2,
+      "mediaCount": 2,
+      "variants": [
+        {
+          "sourceSku": "779260",
+          "shopifySku": "779260",
+          "barcode": "5902963001542",
+          "price": "26.53",
+          "purchasePrice": "16.58",
+          "optionValue": "Jelonek",
+          "variantId": "gid://shopify/ProductVariant/53816545018189",
+          "legacyResourceId": "53816545018189",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/45383?group=355",
+          "supplierTitle": "TEGA DZ-026-103-JELONEK Leżaczek kąpielowy z wizerunkiem DZIKI ZACHÓD"
+        },
+        {
+          "sourceSku": "779248",
+          "shopifySku": "779248",
+          "barcode": "5902963001559",
+          "price": "26.53",
+          "purchasePrice": "16.58",
+          "optionValue": "Słonik",
+          "variantId": "gid://shopify/ProductVariant/53816545050957",
+          "legacyResourceId": "53816545050957",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/45371?group=355",
+          "supplierTitle": "TEGA DZ-026-103-SŁONIK Leżaczek kąpielowy z wizerunkiem DZIKI ZACHÓD"
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Leśna Opowieść",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-lesna-opowiesc",
+      "sourceHandle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-lesna-opowiesc",
+      "productId": "gid://shopify/Product/10645600764237",
+      "legacyResourceId": "10645600764237",
+      "status": "DRAFT",
+      "optionName": "Kolor",
+      "variantCount": 5,
+      "mediaCount": 5,
+      "variants": [
+        {
+          "sourceSku": "772353",
+          "shopifySku": "772353",
+          "barcode": "5902963015082",
+          "price": "27.38",
+          "purchasePrice": "17.11",
+          "optionValue": "jasny różowy",
+          "variantId": "gid://shopify/ProductVariant/53816545083725",
+          "legacyResourceId": "53816545083725",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/38276?group=355",
+          "supplierTitle": "TEGA FF-003-107 Fotelik do kąpieli antypoślizgowy LEŚNA OPOWIEŚĆ j.różowy"
+        },
+        {
+          "sourceSku": "772352",
+          "shopifySku": "772352",
+          "barcode": "5902963015075",
+          "price": "27.38",
+          "purchasePrice": "17.11",
+          "optionValue": "jasny niebieski",
+          "variantId": "gid://shopify/ProductVariant/53816545116493",
+          "legacyResourceId": "53816545116493",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/38275?group=355",
+          "supplierTitle": "TEGA FF-003-108 Fotelik do kąpieli antypoślizgowy LEŚNA OPOWIEŚĆ j.niebieski"
+        },
+        {
+          "sourceSku": "772355",
+          "shopifySku": "772355",
+          "barcode": "5902963015068",
+          "price": "27.38",
+          "purchasePrice": "17.11",
+          "optionValue": "jasny żółty",
+          "variantId": "gid://shopify/ProductVariant/53816545149261",
+          "legacyResourceId": "53816545149261",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/38278?group=355",
+          "supplierTitle": "TEGA FF-003-109 Fotelik do kąpieli antypoślizgowy LEŚNA OPOWIEŚĆ j.żółty"
+        },
+        {
+          "sourceSku": "772351",
+          "shopifySku": "772351",
+          "barcode": "5902963015051",
+          "price": "27.38",
+          "purchasePrice": "17.11",
+          "optionValue": "jasny beżowy",
+          "variantId": "gid://shopify/ProductVariant/53816545182029",
+          "legacyResourceId": "53816545182029",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/38274?group=355",
+          "supplierTitle": "TEGA FF-003-111 Fotelik do kąpieli antypoślizgowy LEŚNA OPOWIEŚĆ j.beżowy"
+        },
+        {
+          "sourceSku": "772354",
+          "shopifySku": "772354",
+          "barcode": "5902963015044",
+          "price": "27.38",
+          "purchasePrice": "17.11",
+          "optionValue": "jasny zielony",
+          "variantId": "gid://shopify/ProductVariant/53816545214797",
+          "legacyResourceId": "53816545214797",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/38277?group=355",
+          "supplierTitle": "TEGA FF-003-112 Fotelik do kąpieli antypoślizgowy LEŚNA OPOWIEŚĆ j.zielony"
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Króliczki",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-kroliczki",
+      "sourceHandle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-kroliczki",
+      "productId": "gid://shopify/Product/10645600797005",
+      "legacyResourceId": "10645600797005",
+      "status": "DRAFT",
+      "optionName": "Kolor",
+      "variantCount": 3,
+      "mediaCount": 3,
+      "variants": [
+        {
+          "sourceSku": "780954",
+          "shopifySku": "780954",
+          "barcode": "5902963008022",
+          "price": "27.38",
+          "purchasePrice": "17.11",
+          "optionValue": "biały",
+          "variantId": "gid://shopify/ProductVariant/53816545247565",
+          "legacyResourceId": "53816545247565",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/47119?group=355",
+          "supplierTitle": "TEGA KR-003-103 Fotelik do kąpieli antypoślizgowy KRÓLICZKI biały"
+        },
+        {
+          "sourceSku": "762776",
+          "shopifySku": "762776",
+          "barcode": "5902963008039",
+          "price": "27.38",
+          "purchasePrice": "17.11",
+          "optionValue": "jasny różowy",
+          "variantId": "gid://shopify/ProductVariant/53816545280333",
+          "legacyResourceId": "53816545280333",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/26336?group=355",
+          "supplierTitle": "TEGA KR-003-104 Fotelik do kapieli antypoślizgowy KRÓLICZKI j.różowy"
+        },
+        {
+          "sourceSku": "780955",
+          "shopifySku": "780955",
+          "barcode": "5902963008046",
+          "price": "27.38",
+          "purchasePrice": "17.11",
+          "optionValue": "jasny zielony",
+          "variantId": "gid://shopify/ProductVariant/53816545313101",
+          "legacyResourceId": "53816545313101",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/47120?group=355",
+          "supplierTitle": "TEGA KR-003-105 Fotelik do kąpieli antypoślizgowy KRÓLICZKI j.zielony"
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Leżaczek kąpielowy z wizerunkiem Króliczki",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-kroliczki",
+      "sourceHandle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-kroliczki",
+      "productId": "gid://shopify/Product/10645600829773",
+      "legacyResourceId": "10645600829773",
+      "status": "DRAFT",
+      "optionName": "Kolor",
+      "variantCount": 3,
+      "mediaCount": 3,
+      "variants": [
+        {
+          "sourceSku": "771343",
+          "shopifySku": "771343",
+          "barcode": "5902963070999",
+          "price": "26.53",
+          "purchasePrice": "16.58",
+          "optionValue": "biały",
+          "variantId": "gid://shopify/ProductVariant/53816545345869",
+          "legacyResourceId": "53816545345869",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/37231?group=355",
+          "supplierTitle": "TEGA KR-026-103 Leżaczek kąpielowy z wizerunkiem Króliczki biały"
+        },
+        {
+          "sourceSku": "771344",
+          "shopifySku": "771344",
+          "barcode": "5902963071002",
+          "price": "26.53",
+          "purchasePrice": "16.58",
+          "optionValue": "jasny różowy",
+          "variantId": "gid://shopify/ProductVariant/53816545378637",
+          "legacyResourceId": "53816545378637",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/37232?group=355",
+          "supplierTitle": "TEGA KR-026-104 Leżaczek kąpielowy z wizerunkiem Króliczki j.róż"
+        },
+        {
+          "sourceSku": "771345",
+          "shopifySku": "771345",
+          "barcode": "5902963071019",
+          "price": "26.53",
+          "purchasePrice": "16.58",
+          "optionValue": "jasny zielony",
+          "variantId": "gid://shopify/ProductVariant/53816545411405",
+          "legacyResourceId": "53816545411405",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/37233?group=355",
+          "supplierTitle": "TEGA KR-026-105 Leżaczek kąpielowy z wizerunkiem Króliczki j.zielony"
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Meteo",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-meteo",
+      "sourceHandle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-meteo",
+      "productId": "gid://shopify/Product/10645600862541",
+      "legacyResourceId": "10645600862541",
+      "status": "DRAFT",
+      "optionName": "Kolor",
+      "variantCount": 4,
+      "mediaCount": 4,
+      "variants": [
+        {
+          "sourceSku": "786638",
+          "shopifySku": "786638",
+          "barcode": "5902963002419",
+          "price": "27.38",
+          "purchasePrice": "17.11",
+          "optionValue": "różowy",
+          "variantId": "gid://shopify/ProductVariant/53816545444173",
+          "legacyResourceId": "53816545444173",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/53035?group=355",
+          "supplierTitle": "TEGA ME-003-123 Fotelik do kąpieli antypoślizgowy METEO różowy"
+        },
+        {
+          "sourceSku": "786636",
+          "shopifySku": "786636",
+          "barcode": "5902963002426",
+          "price": "27.38",
+          "purchasePrice": "17.11",
+          "optionValue": "granatowy",
+          "variantId": "gid://shopify/ProductVariant/53816545476941",
+          "legacyResourceId": "53816545476941",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/53033?group=355",
+          "supplierTitle": "TEGA ME-003-164 Fotelik do kąpieli antypoślizgowy METEO granatowy"
+        },
+        {
+          "sourceSku": "786639",
+          "shopifySku": "786639",
+          "barcode": "5902963002433",
+          "price": "27.01",
+          "purchasePrice": "16.88",
+          "optionValue": "turkusowy",
+          "variantId": "gid://shopify/ProductVariant/53816545509709",
+          "legacyResourceId": "53816545509709",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/53036?group=355",
+          "supplierTitle": "TEGA ME-003-165 Fotelik do kąpieli antypoślizgowy METEO turkusowy"
+        },
+        {
+          "sourceSku": "786637",
+          "shopifySku": "786637",
+          "barcode": "5902963002440",
+          "price": "26.00",
+          "purchasePrice": "16.25",
+          "optionValue": "musztardowy",
+          "variantId": "gid://shopify/ProductVariant/53816545542477",
+          "legacyResourceId": "53816545542477",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/53034?group=355",
+          "supplierTitle": "TEGA ME-003-166 Fotelik do kąpieli antypoślizgowy METEO musztardowy"
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Leżaczek kąpielowy z wizerunkiem Meteo",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-meteo",
+      "sourceHandle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-meteo",
+      "productId": "gid://shopify/Product/10645600928077",
+      "legacyResourceId": "10645600928077",
+      "status": "DRAFT",
+      "optionName": "Title",
+      "variantCount": 1,
+      "mediaCount": 1,
+      "variants": [
+        {
+          "sourceSku": "787100",
+          "shopifySku": "787100",
+          "barcode": "5902963002815",
+          "price": "26.53",
+          "purchasePrice": "16.58",
+          "optionValue": "Default Title",
+          "variantId": "gid://shopify/ProductVariant/53816545575245",
+          "legacyResourceId": "53816545575245",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/53519?group=355",
+          "supplierTitle": "TEGA ME-026-165 Leżaczek kąpielowy z wizerunkiem METEO turkusowy"
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Monsters",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-monsters",
+      "sourceHandle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-monsters",
+      "productId": "gid://shopify/Product/10645600960845",
+      "legacyResourceId": "10645600960845",
+      "status": "DRAFT",
+      "optionName": "Title",
+      "variantCount": 1,
+      "mediaCount": 1,
+      "variants": [
+        {
+          "sourceSku": "5906192",
+          "shopifySku": "5906192",
+          "barcode": "5902963004734",
+          "price": "26.00",
+          "purchasePrice": "16.25",
+          "optionValue": "Default Title",
+          "variantId": "gid://shopify/ProductVariant/53816545640781",
+          "legacyResourceId": "53816545640781",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/62179?group=355",
+          "supplierTitle": "TEGA MN-003-124 Fotelik do kąpieli antypoślizgowy Monsters żółty"
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Podnóżek antypoślizgowy Monsters",
+      "handle": "tega-baby-podnozek-antyposlizgowy-monsters",
+      "sourceHandle": "tega-baby-podnozek-antyposlizgowy-monsters",
+      "productId": "gid://shopify/Product/10645600993613",
+      "legacyResourceId": "10645600993613",
+      "status": "DRAFT",
+      "optionName": "Title",
+      "variantCount": 1,
+      "mediaCount": 1,
+      "variants": [
+        {
+          "sourceSku": "5906215",
+          "shopifySku": "5906215",
+          "barcode": "5902963004666",
+          "price": "31.01",
+          "purchasePrice": "19.38",
+          "optionValue": "Default Title",
+          "variantId": "gid://shopify/ProductVariant/53816545673549",
+          "legacyResourceId": "53816545673549",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/62203?group=355",
+          "supplierTitle": "TEGA MN-006-124 Podnóżek antypoślizgowy Monsters żółty"
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Miś",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-mis",
+      "sourceHandle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-mis",
+      "productId": "gid://shopify/Product/10645601059149",
+      "legacyResourceId": "10645601059149",
+      "status": "DRAFT",
+      "optionName": "Kolor",
+      "variantCount": 2,
+      "mediaCount": 2,
+      "variants": [
+        {
+          "sourceSku": "774691",
+          "shopifySku": "774691",
+          "barcode": "5902963008732",
+          "price": "27.01",
+          "purchasePrice": "16.88",
+          "optionValue": "biała perła",
+          "variantId": "gid://shopify/ProductVariant/53816545739085",
+          "legacyResourceId": "53816545739085",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/40657?group=355",
+          "supplierTitle": "TEGA MS-003-118 Fotelik do kąpieli antypoślizgowy MIŚ biała perła"
+        },
+        {
+          "sourceSku": "3605",
+          "shopifySku": "3605",
+          "barcode": "5902963008749",
+          "price": "27.38",
+          "purchasePrice": "17.11",
+          "optionValue": "beżowy",
+          "variantId": "gid://shopify/ProductVariant/53816545771853",
+          "legacyResourceId": "53816545771853",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/20859?group=355",
+          "supplierTitle": "TEGA MS-003-119 Fotelik do kąpieli antypoślizgowy MIŚ beżowy"
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Nakładka sedesowa miękka Miś",
+      "handle": "tega-baby-nakladka-sedesowa-miekka-mis",
+      "sourceHandle": "tega-baby-nakladka-sedesowa-miekka-mis",
+      "productId": "gid://shopify/Product/10645601091917",
+      "legacyResourceId": "10645601091917",
+      "status": "DRAFT",
+      "optionName": "Title",
+      "variantCount": 1,
+      "mediaCount": 1,
+      "variants": [
+        {
+          "sourceSku": "774692",
+          "shopifySku": "774692",
+          "barcode": "5902963009012",
+          "price": "48.42",
+          "purchasePrice": "30.26",
+          "optionValue": "Default Title",
+          "variantId": "gid://shopify/ProductVariant/53816545804621",
+          "legacyResourceId": "53816545804621",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/40658?group=355",
+          "supplierTitle": "TEGA MS-020-119 Nakładka sedesowa miękka MIŚ beżowy"
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Leżaczek kąpielowy z wizerunkiem Miś",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-mis",
+      "sourceHandle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-mis",
+      "productId": "gid://shopify/Product/10645601124685",
+      "legacyResourceId": "10645601124685",
+      "status": "DRAFT",
+      "optionName": "Kolor",
+      "variantCount": 2,
+      "mediaCount": 2,
+      "variants": [
+        {
+          "sourceSku": "770969",
+          "shopifySku": "770969",
+          "barcode": "5902963071040",
+          "price": "26.18",
+          "purchasePrice": "16.36",
+          "optionValue": "biały",
+          "variantId": "gid://shopify/ProductVariant/53816545837389",
+          "legacyResourceId": "53816545837389",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/36849?group=355",
+          "supplierTitle": "TEGA MS-026-103 Leżaczek kąpielowy z wizerunkiem Miś biały"
+        },
+        {
+          "sourceSku": "770968",
+          "shopifySku": "770968",
+          "barcode": "5902963071101",
+          "price": "26.53",
+          "purchasePrice": "16.58",
+          "optionValue": "beżowy",
+          "variantId": "gid://shopify/ProductVariant/53816545870157",
+          "legacyResourceId": "53816545870157",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/36848?group=355",
+          "supplierTitle": "TEGA MS-026-119 Leżaczek kąpielowy z wizerunkiem Miś beżowy"
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Sowa",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-sowa",
+      "sourceHandle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-sowa",
+      "productId": "gid://shopify/Product/10645601157453",
+      "legacyResourceId": "10645601157453",
+      "status": "DRAFT",
+      "optionName": "Title",
+      "variantCount": 1,
+      "mediaCount": 1,
+      "variants": [
+        {
+          "sourceSku": "776017",
+          "shopifySku": "776017",
+          "barcode": "5902963011312",
+          "price": "27.38",
+          "purchasePrice": "17.11",
+          "optionValue": "Default Title",
+          "variantId": "gid://shopify/ProductVariant/53816545902925",
+          "legacyResourceId": "53816545902925",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/42011?group=355",
+          "supplierTitle": "TEGA SO-003-106 Fotelik do kąpieli antypoślizgowy SOWA szary"
+        }
+      ]
+    },
+    {
+      "title": "Tega Baby Leżaczek kąpielowy z wizerunkiem Sowa",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-sowa",
+      "sourceHandle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-sowa",
+      "productId": "gid://shopify/Product/10645601190221",
+      "legacyResourceId": "10645601190221",
+      "status": "DRAFT",
+      "optionName": "Kolor",
+      "variantCount": 2,
+      "mediaCount": 2,
+      "variants": [
+        {
+          "sourceSku": "771758",
+          "shopifySku": "771758",
+          "barcode": "5902963071088",
+          "price": "26.53",
+          "purchasePrice": "16.58",
+          "optionValue": "biały",
+          "variantId": "gid://shopify/ProductVariant/53816545935693",
+          "legacyResourceId": "53816545935693",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/37669?group=355",
+          "supplierTitle": "TEGA SO-026-103 Leżaczek kąpielowy z wizerunkiem Sowa biała"
+        },
+        {
+          "sourceSku": "770973",
+          "shopifySku": "770973",
+          "barcode": "5902963071095",
+          "price": "26.53",
+          "purchasePrice": "16.58",
+          "optionValue": "szary",
+          "variantId": "gid://shopify/ProductVariant/53816545968461",
+          "legacyResourceId": "53816545968461",
+          "mediaCount": 1,
+          "sourceUrl": "https://b2b.marini.pl/itemdetails/36853?group=355",
+          "supplierTitle": "TEGA SO-026-106 Leżaczek kąpielowy z wizerunkiem Sowa szary"
+        }
+      ]
+    }
+  ],
+  "mediaStatuses": [
+    {
+      "productId": "gid://shopify/Product/10645600698701",
+      "mediaId": "gid://shopify/MediaImage/62042982089037",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600698701",
+      "mediaId": "gid://shopify/MediaImage/62042982121805",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600698701",
+      "mediaId": "gid://shopify/MediaImage/62042982154573",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600698701",
+      "mediaId": "gid://shopify/MediaImage/62042982187341",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600698701",
+      "mediaId": "gid://shopify/MediaImage/62042982220109",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600698701",
+      "mediaId": "gid://shopify/MediaImage/62042982252877",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600698701",
+      "mediaId": "gid://shopify/MediaImage/62042982285645",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600698701",
+      "mediaId": "gid://shopify/MediaImage/62042982318413",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600731469",
+      "mediaId": "gid://shopify/MediaImage/62042982449485",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600731469",
+      "mediaId": "gid://shopify/MediaImage/62042982482253",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600764237",
+      "mediaId": "gid://shopify/MediaImage/62042982711629",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600764237",
+      "mediaId": "gid://shopify/MediaImage/62042982744397",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600764237",
+      "mediaId": "gid://shopify/MediaImage/62042982777165",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600764237",
+      "mediaId": "gid://shopify/MediaImage/62042982809933",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600764237",
+      "mediaId": "gid://shopify/MediaImage/62042982842701",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600797005",
+      "mediaId": "gid://shopify/MediaImage/62042983006541",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600797005",
+      "mediaId": "gid://shopify/MediaImage/62042983039309",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600797005",
+      "mediaId": "gid://shopify/MediaImage/62042983072077",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600829773",
+      "mediaId": "gid://shopify/MediaImage/62042983170381",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600829773",
+      "mediaId": "gid://shopify/MediaImage/62042983203149",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600829773",
+      "mediaId": "gid://shopify/MediaImage/62042983235917",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600862541",
+      "mediaId": "gid://shopify/MediaImage/62042983563597",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600862541",
+      "mediaId": "gid://shopify/MediaImage/62042983596365",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600862541",
+      "mediaId": "gid://shopify/MediaImage/62042983629133",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600862541",
+      "mediaId": "gid://shopify/MediaImage/62042983661901",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600928077",
+      "mediaId": "gid://shopify/MediaImage/62042983694669",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600960845",
+      "mediaId": "gid://shopify/MediaImage/62042983727437",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645600993613",
+      "mediaId": "gid://shopify/MediaImage/62042983760205",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645601059149",
+      "mediaId": "gid://shopify/MediaImage/62042983891277",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645601059149",
+      "mediaId": "gid://shopify/MediaImage/62042983924045",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645601091917",
+      "mediaId": "gid://shopify/MediaImage/62042983956813",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645601124685",
+      "mediaId": "gid://shopify/MediaImage/62042983989581",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645601124685",
+      "mediaId": "gid://shopify/MediaImage/62042984022349",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645601157453",
+      "mediaId": "gid://shopify/MediaImage/62042984055117",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645601190221",
+      "mediaId": "gid://shopify/MediaImage/62042984251725",
+      "status": "READY"
+    },
+    {
+      "productId": "gid://shopify/Product/10645601190221",
+      "mediaId": "gid://shopify/MediaImage/62042984284493",
+      "status": "READY"
+    }
+  ],
+  "reportPath": "pipelines/marini_to_shopify/tega_lezaczki_shopify_sync_report_20260501-210825.json"
+}

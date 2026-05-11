@@ -1,0 +1,67 @@
+{
+  "updatedAt": "2026-05-08T21:24:29.067087+03:00",
+  "reason": "Fixed Polish characters after adding zero-stock SKU 3151.",
+  "source": {
+    "url": "https://b2b.marini.pl/items/356?parent=0",
+    "sku": "3151",
+    "stock": 0
+  },
+  "product": {
+    "id": "gid://shopify/Product/10654682120525",
+    "title": "Tega Baby Stojak uniwersalny 86/102 LUX",
+    "handle": "tega-baby-stojak-uniwersalny-86-102-lux",
+    "status": "DRAFT",
+    "descriptionHtml": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Tega Baby</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">Tega Baby Stojak uniwersalny 86/102 LUX</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Uniwersalny stojak do wanienek Tega 86 cm oraz 102 cm, dostępny w dwóch kolorach.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Tega Baby</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Stojaki do wanienek</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">2 kolory</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygodna kąpiel bez schylania</h3>Stojak pomaga ustawić wanienkę na wygodnej wysokości, dzięki czemu codzienna kąpiel dziecka jest spokojniejsza i mniej obciąża plecy rodzica.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Pasuje do wanienek Tega 86 cm oraz 102 cm LUX.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Stabilna konstrukcja wykonana z trwałych materiałów.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Antypoślizgowe nóżki wspierają bezpieczeństwo podczas użytkowania.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Po złożeniu zajmuje niewiele miejsca.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">Wyższy od standardowego stojaka o około 10 cm.</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Stabilne podparcie</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Konstrukcja pomaga utrzymać wanienkę na wygodnej wysokości.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Wygoda rodzica</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mniej schylania podczas kąpieli to większy komfort w codziennej pielęgnacji.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Szczegóły produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Tega Baby</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kategoria</strong><span style=\"color:#6a5260;text-align:right;\">Stojaki do wanienek</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Kolor</strong><span style=\"color:#6a5260;text-align:right;\">biały, grafitowy</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Artykuł Marini</strong><span style=\"color:#6a5260;text-align:right;\">3151, 784480</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Użytkowanie</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed kąpielą upewnij się, że stojak stoi stabilnie na równej powierzchni.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po użyciu wytrzyj mokre elementy i pozostaw produkt do wyschnięcia.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przechowuj złożony stojak w suchym miejscu.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Bezpieczeństwo</h3>Produkt należy stosować wyłącznie pod stałym nadzorem osoby dorosłej.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B i producenta Tega Baby.</p>\n</div>",
+    "collections": {
+      "nodes": [
+        {
+          "id": "gid://shopify/Collection/660910375245",
+          "title": "Stojaki do wanienek",
+          "handle": "stojaki-do-wanienek"
+        }
+      ]
+    },
+    "media": {
+      "nodes": [
+        {
+          "id": "gid://shopify/MediaImage/62184587198797",
+          "status": "READY",
+          "alt": "Tega Baby Stojak uniwersalny 86/102 LUX bia?y"
+        },
+        {
+          "id": "gid://shopify/MediaImage/62184461205837",
+          "status": "READY",
+          "alt": "Tega Baby DM-008 Stojak uniwersalny 86/102 LUX grafitowy"
+        }
+      ]
+    },
+    "variants": {
+      "nodes": [
+        {
+          "id": "gid://shopify/ProductVariant/53865299542349",
+          "sku": "3151",
+          "barcode": "",
+          "price": "105.26",
+          "selectedOptions": [
+            {
+              "name": "Kolor",
+              "value": "biały"
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53865224503629",
+          "sku": "784480",
+          "barcode": "5902963002150",
+          "price": "105.26",
+          "selectedOptions": [
+            {
+              "name": "Kolor",
+              "value": "grafitowy"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

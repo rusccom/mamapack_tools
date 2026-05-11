@@ -1,0 +1,481 @@
+{
+  "generated_at": "2026-05-08T14:36:27.537170",
+  "page_before": {
+    "id": "gid://shopify/Page/143115256141",
+    "title": "Gotowe torby",
+    "handle": "gotowe-torby",
+    "templateSuffix": "",
+    "isPublished": true,
+    "metafields": {
+      "nodes": [
+        {
+          "id": "gid://shopify/Metafield/57874692768077",
+          "namespace": "global",
+          "key": "title_tag",
+          "type": "string",
+          "value": "Gotowe torby do szpitala dla mamy i noworodka | mamapack"
+        },
+        {
+          "id": "gid://shopify/Metafield/57874692833613",
+          "namespace": "global",
+          "key": "description_tag",
+          "type": "string",
+          "value": "Wybierz gotową torbę do szpitala dla mamy, noworodka lub dla mamy i dziecka. Porównaj warianty i znajdź zestaw dopasowany do porodu."
+        },
+        {
+          "id": "gid://shopify/Metafield/58264941723981",
+          "namespace": "seo",
+          "key": "hidden",
+          "type": "number_integer",
+          "value": "1"
+        }
+      ]
+    }
+  },
+  "page_result": {
+    "changed": true,
+    "deleted": [
+      {
+        "ownerId": "gid://shopify/Page/143115256141",
+        "namespace": "seo",
+        "key": "hidden"
+      }
+    ],
+    "old_metafield": {
+      "id": "gid://shopify/Metafield/58264941723981",
+      "namespace": "seo",
+      "key": "hidden",
+      "type": "number_integer",
+      "value": "1"
+    }
+  },
+  "page_after": {
+    "id": "gid://shopify/Page/143115256141",
+    "title": "Gotowe torby",
+    "handle": "gotowe-torby",
+    "templateSuffix": "",
+    "isPublished": true,
+    "metafields": {
+      "nodes": [
+        {
+          "id": "gid://shopify/Metafield/57874692768077",
+          "namespace": "global",
+          "key": "title_tag",
+          "type": "string",
+          "value": "Gotowe torby do szpitala dla mamy i noworodka | mamapack"
+        },
+        {
+          "id": "gid://shopify/Metafield/57874692833613",
+          "namespace": "global",
+          "key": "description_tag",
+          "type": "string",
+          "value": "Wybierz gotową torbę do szpitala dla mamy, noworodka lub dla mamy i dziecka. Porównaj warianty i znajdź zestaw dopasowany do porodu."
+        }
+      ]
+    }
+  },
+  "products_before_count": 19,
+  "products_after_h1_count": 0,
+  "products_after_h1": [],
+  "product_results": [
+    {
+      "id": "gid://shopify/Product/9756449702221",
+      "legacyResourceId": "9756449702221",
+      "handle": "me-figi-l-bialy",
+      "title": "Majtki ciążowe Medela - Rozmiar L",
+      "old_h1": {
+        "open": 1,
+        "close": 1
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h1>Majtki ciążowe Medela - Rozmiar L</h1>\n<article class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"request-WEB:d4fff1e0-d63d-40b2-b844-9cd9398024c7-36\" data-testid=\"conversation-turn-66\" data-scroll-anchor=\"true\" data-turn=\"assistant\" tabindex=\"-1\">\n<div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)\">\n<div class=\"[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\" tabindex=\"-1\">\n<div class=\"flex max-w-full flex-col grow\">\n<div data-message-author-role=\"assistant\" data-message-id=\"4cdad15b-9bcc-49af-bc36-d8c537cb03a7\" dir=\"auto\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\" data-message-model-slug=\"gpt-5-thinking\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[1px]\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</article>\n<p>Producent:<span> </span><b>Medela</b></p>\n<article class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"request-WEB:d4fff1e0-d63d-40b2-b844-9cd9398024c7-33\" data-testid=\"conversation-turn-60\" data-scroll-anchor=\"true\" data-turn=\"assistant\" tabindex=\"-1\">\n<div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)\">\n<div class=\"[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\" tabindex=\"-1\">\n<div class=\"flex max-w-full flex-col grow\">\n<div data-message-author-role=\"assistant\" data-message-id=\"d0f583d6-75ff-44de-ad5c-28f55744fe3c\" dir=\"auto\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\" data-message-model-slug=\"gpt-5-thinking\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[1px]\">\n<div class=\"markdown prose dark:prose-invert w-full break-words light markdown-new-styling\">\n<p data-start=\"0\" data-end=\"12\" data-is-last-node=\"\" data-is-only-node=\"\">Kolor: <strong>biały</strong></p>\n<article class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"request-WEB:d4fff1e0-d63d-40b2-b844-9cd9398024c7-36\" data-testid=\"conversation-turn-66\" data-scroll-anchor=\"true\" data-turn=\"assistant\" tabindex=\"-1\">\n<div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)\">\n<div class=\"[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\" tabindex=\"-1\">\n<div class=\"flex max-w-full flex-col grow\">\n<div data-message-author-role=\"assistant\" data-message-id=\"4cdad15b-9bcc-49af-bc36-d8c537cb03a7\" dir=\"auto\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\" data-message-model-slug=\"gpt-5-thinking\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[1px]\">\n<div class=\"markdown prose dark:prose-invert w-full break-words light markdown-new-styling\">\n<p data-start=\"0\" data-end=\"9\" data-is-last-node=\"\" data-is-only-node=\"\">Rozmiar:  <strong>L</strong></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</article>\n<p data-start=\"0\" data-end=\"12\" data-is-last-node=\"\" data-is-only-node=\"\">Obwód bioder: <strong>100–120 cm</strong></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</article>\n<p><b>Majtki ciążowe<span> </span></b>od marki<span> </span><b>Medela<span> </span></b>sprawdzą się idealnie również podczas połogu. Nie powodują ucisku, a<span> </span><b>bezszwowa konstrukcja</b><span> </span>sprawia, że są one niewidoczne pod odzieżą, co zapewnia pełną dyskrecję. Wykonane zostały z oddychającej tkaniny, która jest bezpieczna dla skóry i nie powoduje podrażnień. Komfort matki jest bardzo ważny w tym szczególnym okresie dlatego, aby zapewnić jak największa wygodę majtki posiadają wyprofilowane wycięcie pod brzuchem.</p>\n<p>Cechy majtek:</p>\n<ul>\n<li>Wykonane z oddychającej tkaniny,</li>\n<li>Nie powodują podrażnień,</li>\n<li>Wykonane metodą bezszwową zapewniają dyskrecję,</li>\n<li>Wyprofilowane wycięcie pod brzuchem,</li>\n<li>Zapewniają odpowiedni komfort,</li>\n<li>Idealne w ciąży i połogu.</li>\n</ul>\n<p><br></p>",
+      "new_descriptionHtml": "<h2>Majtki ciążowe Medela - Rozmiar L</h2>\n<article class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"request-WEB:d4fff1e0-d63d-40b2-b844-9cd9398024c7-36\" data-testid=\"conversation-turn-66\" data-scroll-anchor=\"true\" data-turn=\"assistant\" tabindex=\"-1\">\n<div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)\">\n<div class=\"[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\" tabindex=\"-1\">\n<div class=\"flex max-w-full flex-col grow\">\n<div data-message-author-role=\"assistant\" data-message-id=\"4cdad15b-9bcc-49af-bc36-d8c537cb03a7\" dir=\"auto\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\" data-message-model-slug=\"gpt-5-thinking\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[1px]\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</article>\n<p>Producent:<span> </span><b>Medela</b></p>\n<article class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"request-WEB:d4fff1e0-d63d-40b2-b844-9cd9398024c7-33\" data-testid=\"conversation-turn-60\" data-scroll-anchor=\"true\" data-turn=\"assistant\" tabindex=\"-1\">\n<div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)\">\n<div class=\"[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\" tabindex=\"-1\">\n<div class=\"flex max-w-full flex-col grow\">\n<div data-message-author-role=\"assistant\" data-message-id=\"d0f583d6-75ff-44de-ad5c-28f55744fe3c\" dir=\"auto\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\" data-message-model-slug=\"gpt-5-thinking\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[1px]\">\n<div class=\"markdown prose dark:prose-invert w-full break-words light markdown-new-styling\">\n<p data-start=\"0\" data-end=\"12\" data-is-last-node=\"\" data-is-only-node=\"\">Kolor: <strong>biały</strong></p>\n<article class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"request-WEB:d4fff1e0-d63d-40b2-b844-9cd9398024c7-36\" data-testid=\"conversation-turn-66\" data-scroll-anchor=\"true\" data-turn=\"assistant\" tabindex=\"-1\">\n<div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)\">\n<div class=\"[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\" tabindex=\"-1\">\n<div class=\"flex max-w-full flex-col grow\">\n<div data-message-author-role=\"assistant\" data-message-id=\"4cdad15b-9bcc-49af-bc36-d8c537cb03a7\" dir=\"auto\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\" data-message-model-slug=\"gpt-5-thinking\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[1px]\">\n<div class=\"markdown prose dark:prose-invert w-full break-words light markdown-new-styling\">\n<p data-start=\"0\" data-end=\"9\" data-is-last-node=\"\" data-is-only-node=\"\">Rozmiar:  <strong>L</strong></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</article>\n<p data-start=\"0\" data-end=\"12\" data-is-last-node=\"\" data-is-only-node=\"\">Obwód bioder: <strong>100–120 cm</strong></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</article>\n<p><b>Majtki ciążowe<span> </span></b>od marki<span> </span><b>Medela<span> </span></b>sprawdzą się idealnie również podczas połogu. Nie powodują ucisku, a<span> </span><b>bezszwowa konstrukcja</b><span> </span>sprawia, że są one niewidoczne pod odzieżą, co zapewnia pełną dyskrecję. Wykonane zostały z oddychającej tkaniny, która jest bezpieczna dla skóry i nie powoduje podrażnień. Komfort matki jest bardzo ważny w tym szczególnym okresie dlatego, aby zapewnić jak największa wygodę majtki posiadają wyprofilowane wycięcie pod brzuchem.</p>\n<p>Cechy majtek:</p>\n<ul>\n<li>Wykonane z oddychającej tkaniny,</li>\n<li>Nie powodują podrażnień,</li>\n<li>Wykonane metodą bezszwową zapewniają dyskrecję,</li>\n<li>Wyprofilowane wycięcie pod brzuchem,</li>\n<li>Zapewniają odpowiedni komfort,</li>\n<li>Idealne w ciąży i połogu.</li>\n</ul>\n<p><br></p>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/9790711562573",
+      "legacyResourceId": "9790711562573",
+      "handle": "akuku-a0307-szczotka-i-grzebien-z-naturalnym-wlosiem-biala",
+      "title": "AKUKU A0307 - Szczotka i grzebień - z naturalnym włosiem -  BIAŁA",
+      "old_h1": {
+        "open": 2,
+        "close": 2
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h1>Szczotka i grzebień z naturalnego włosia</h1>\n<p>Kolor: biała sówka</p>\n<p>wiek: 0m+</p>\n<p>model: A0307</p>\n<p>Bezpieczna i delikatna szczotka do czesania dziecięcych włosów wykonana z naturalnego włosia w zestawie z grzebieniem. Miękkie włosie idealnie nadaje się do pielęgnacji delikatnych włosków niemowlaka, a dzięki właściwościom antystatycznym nie elektryzuje ich. Grzebyk natomiast posiada zaokrąglone końce, przez co chroni delikatną skórę dziecka.</p>\n<h1>Praktyczny grzebyk</h1>\n<p>Grzebyk z zaokrąglonymi końcówkami zapobiegają podrażnieniom skóry głowy. Ząbki zakończone kuleczkami, które chronią przed nieprzyjemnym dla dziecka dotykiem. Grzebyk również posiada antypoślizgowe rączki, aby jego utrzymanie było komfortowe dla Rodzica, ale też samego dziecka, które zechce samodzielnie zadbać o swoje włosy.</p>\n<p>Szczotka z naturalnym włosiem jest idealna do pielęgnacji delikatnych włosów dziecka. Zaokrąglone ząbki grzebyka nie drażnią skóry głowy. Nie elektryzują włosów i umożliwiają delikatny masaż. Produkt nie jest zabawką i powinien być przechowywany w miejscu niedostępnym dla dzieci.</p>",
+      "new_descriptionHtml": "<h2>Szczotka i grzebień z naturalnego włosia</h2>\n<p>Kolor: biała sówka</p>\n<p>wiek: 0m+</p>\n<p>model: A0307</p>\n<p>Bezpieczna i delikatna szczotka do czesania dziecięcych włosów wykonana z naturalnego włosia w zestawie z grzebieniem. Miękkie włosie idealnie nadaje się do pielęgnacji delikatnych włosków niemowlaka, a dzięki właściwościom antystatycznym nie elektryzuje ich. Grzebyk natomiast posiada zaokrąglone końce, przez co chroni delikatną skórę dziecka.</p>\n<h2>Praktyczny grzebyk</h2>\n<p>Grzebyk z zaokrąglonymi końcówkami zapobiegają podrażnieniom skóry głowy. Ząbki zakończone kuleczkami, które chronią przed nieprzyjemnym dla dziecka dotykiem. Grzebyk również posiada antypoślizgowe rączki, aby jego utrzymanie było komfortowe dla Rodzica, ale też samego dziecka, które zechce samodzielnie zadbać o swoje włosy.</p>\n<p>Szczotka z naturalnym włosiem jest idealna do pielęgnacji delikatnych włosów dziecka. Zaokrąglone ząbki grzebyka nie drażnią skóry głowy. Nie elektryzują włosów i umożliwiają delikatny masaż. Produkt nie jest zabawką i powinien być przechowywany w miejscu niedostępnym dla dzieci.</p>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/9807598485837",
+      "legacyResourceId": "9807598485837",
+      "handle": "szlafrok-damski-z-delikatnego-muslinu-l-wiazany-doctor-nap",
+      "title": "SZLAFROK DAMSKI z delikatnego muślinu (wiązany) - Doctor Nap",
+      "old_h1": {
+        "open": 1,
+        "close": 1
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h1>Doctor Nap SWW.5364 barbie pink L Nocna szlafrok</h1>\n<p>Nocna marki Doctor Nap.</p>\n<p>Model SWW.5364.</p>\n<p>Skład: 100% bawełna.</p>\n<p>Stylowy muślinowy szlafrok, który łączy elegancję z wygodą.</p>\n<p>Jego krój kimono z rękawami ¾ i praktycznymi kieszeniami dodaje funkcjonalności, podczas gdy wiązanie w pasie umożliwia idealne dopasowanie.</p>\n<p>Szlafrok sięga przed kolano, oferując subtelną długość i lekkość.</p>\n<p>Wykonany z wysokiej jakości muślinowej bawełny, jest przewiewny i przyjemny w dotyku, zapewniając komfort przez cały dzień.</p>\n<p>Idealny wybór dla osób ceniących sobie zarówno styl, jak i wygodę.</p>\n<p><br></p>",
+      "new_descriptionHtml": "<h2>Doctor Nap SWW.5364 barbie pink L Nocna szlafrok</h2>\n<p>Nocna marki Doctor Nap.</p>\n<p>Model SWW.5364.</p>\n<p>Skład: 100% bawełna.</p>\n<p>Stylowy muślinowy szlafrok, który łączy elegancję z wygodą.</p>\n<p>Jego krój kimono z rękawami ¾ i praktycznymi kieszeniami dodaje funkcjonalności, podczas gdy wiązanie w pasie umożliwia idealne dopasowanie.</p>\n<p>Szlafrok sięga przed kolano, oferując subtelną długość i lekkość.</p>\n<p>Wykonany z wysokiej jakości muślinowej bawełny, jest przewiewny i przyjemny w dotyku, zapewniając komfort przez cały dzień.</p>\n<p>Idealny wybór dla osób ceniących sobie zarówno styl, jak i wygodę.</p>\n<p><br></p>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/9916745384269",
+      "legacyResourceId": "9916745384269",
+      "handle": "5903933668482-pieluszki-dada-extra-care-rozm-1-2-5-kg-26-szt",
+      "title": "DADA Extra Care -PIELUSZKI JEDNORAZOWE-  Rozm. 1 - (2-5 kg) - 26 szt.",
+      "old_h1": {
+        "open": 1,
+        "close": 1
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h1>Pieluszki Dada Extra Care</h1>\n<ul>\n<li><b>Seria: Extra Care</b></li>\n<li><b>Rozmiar 1 (2-5 kg)</b></li>\n<li><b>1 opakowanie (26 pieluszek w opakowaniu)</b></li>\n<li><b>chłonne do 12 godzin</b></li>\n<li><b>wyprodukowane bez użycia chloru</b></li>\n<li><b>optymalna cyrkulacja powietrza</b></li>\n<li><b>innowacyjny wkład chłonny</b></li>\n<li><b>idealnie dopasowana i elastyczna pieluszka</b></li>\n<li><b>ochrona mikrobiomu</b></li>\n</ul>\n<p>Pieluszki Dada Extra Care z rewolucyjną technologią Climaflex® zostały stworzone z myślą o najwyższym komforcie Twojego Maluszka. Innowacyjny superchłonny wkład zapewnia niezawodną ochronę przed wilgocią i efektywnie odprowadza ciepło na zewnątrz, by minimalizować ryzyko podrażnień.</p>\n<p>Unikalny kształt kanalika chłonnego sprawia, ze wilgoć jest szybko wiązana we wnętrzu pieluszki, pomagając utrzymać skórę dziecka w suchości. Dzięki zastosowanej technologii pieluszka jest cieńsza, elastyczna i jeszcze bardziej niezawodna*.</p>\n<p>Zastosowanie nowych technologii Double Lock Layer oraz Wee Zones zapewnia efektywne odprowadzenie wilgoci w każdej pozycji zarówno dla dziewczynek, jak i chłopców. Konstrukcja pieluszki sprawia, że wilgoć jest natychmiast transportowana i długotrwale wiązana we wkładzie chłonnym pieluszki. Dzięki temu pieluszka staje się natychmiast sucha, utrzymując skórę dziecka w komforcie.</p>\n<p>Pieluszki wyprodukowane są bez użycia chloru cząsteczkowego oraz bez dodatku substancji zapachowych, aby zminimalizować ryzyko wystąpienia reakcji alergicznej skóry. Nie zaburzają równowagi mikrobiologicznej skóry oraz wspierają naturalną mikroflorę skóry niemowląt. Mięciutka powłoczka jest przyjazna dla nawet najbardziej delikatnej skóry.</p>\n<p>Dada to jedyne pieluszki w Polsce powstałe we współpracy z Instytutem Matki i Dziecka. Jakość pieluszek została potwierdzona przez certyfikaty Dermatest oraz Oeko-Tex.</p>\n<p>W pieluszkach w rozmiarze 2 zastosowana została unikalna technologia powłoczki wewnętrznej, która wchłania również płynną kupkę i zapobiega jej wyciekaniu. Elastyczny wkład taliowy gwarantuje lepsze dopasowanie pieluszki do ciała niemowlęcia.</p>",
+      "new_descriptionHtml": "<h2>Pieluszki Dada Extra Care</h2>\n<ul>\n<li><b>Seria: Extra Care</b></li>\n<li><b>Rozmiar 1 (2-5 kg)</b></li>\n<li><b>1 opakowanie (26 pieluszek w opakowaniu)</b></li>\n<li><b>chłonne do 12 godzin</b></li>\n<li><b>wyprodukowane bez użycia chloru</b></li>\n<li><b>optymalna cyrkulacja powietrza</b></li>\n<li><b>innowacyjny wkład chłonny</b></li>\n<li><b>idealnie dopasowana i elastyczna pieluszka</b></li>\n<li><b>ochrona mikrobiomu</b></li>\n</ul>\n<p>Pieluszki Dada Extra Care z rewolucyjną technologią Climaflex® zostały stworzone z myślą o najwyższym komforcie Twojego Maluszka. Innowacyjny superchłonny wkład zapewnia niezawodną ochronę przed wilgocią i efektywnie odprowadza ciepło na zewnątrz, by minimalizować ryzyko podrażnień.</p>\n<p>Unikalny kształt kanalika chłonnego sprawia, ze wilgoć jest szybko wiązana we wnętrzu pieluszki, pomagając utrzymać skórę dziecka w suchości. Dzięki zastosowanej technologii pieluszka jest cieńsza, elastyczna i jeszcze bardziej niezawodna*.</p>\n<p>Zastosowanie nowych technologii Double Lock Layer oraz Wee Zones zapewnia efektywne odprowadzenie wilgoci w każdej pozycji zarówno dla dziewczynek, jak i chłopców. Konstrukcja pieluszki sprawia, że wilgoć jest natychmiast transportowana i długotrwale wiązana we wkładzie chłonnym pieluszki. Dzięki temu pieluszka staje się natychmiast sucha, utrzymując skórę dziecka w komforcie.</p>\n<p>Pieluszki wyprodukowane są bez użycia chloru cząsteczkowego oraz bez dodatku substancji zapachowych, aby zminimalizować ryzyko wystąpienia reakcji alergicznej skóry. Nie zaburzają równowagi mikrobiologicznej skóry oraz wspierają naturalną mikroflorę skóry niemowląt. Mięciutka powłoczka jest przyjazna dla nawet najbardziej delikatnej skóry.</p>\n<p>Dada to jedyne pieluszki w Polsce powstałe we współpracy z Instytutem Matki i Dziecka. Jakość pieluszek została potwierdzona przez certyfikaty Dermatest oraz Oeko-Tex.</p>\n<p>W pieluszkach w rozmiarze 2 zastosowana została unikalna technologia powłoczki wewnętrznej, która wchłania również płynną kupkę i zapobiega jej wyciekaniu. Elastyczny wkład taliowy gwarantuje lepsze dopasowanie pieluszki do ciała niemowlęcia.</p>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/9916753576269",
+      "legacyResourceId": "9916753576269",
+      "handle": "jednorazowe-nakladki-na-toalete-biodegradowalne-podkladki-8-szt",
+      "title": "Jednorazowe nakładki na toaletę -  Biodegradowalne podkładki - (6 szt.)",
+      "old_h1": {
+        "open": 1,
+        "close": 1
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h1><span>Intervion Jednorazowe Nakładki Na Sedes Podkładki Biodegradowalne 6 szt</span></h1>\n<h2><span>Podkłady celulozowe toaletowe</span></h2>\n<p><b><span>Zadbaj o higienę i komfort podczas korzystania z toalety publicznej</span></b><span> dzięki higienicznemu wkładowi toaletowemu. Opakowanie zawiera 6 jednorazowych podkładek celulozowych, które można szybko i łatwo umieścić na desce siedziska.</span></p>\n<p><span>Podkładki są nie tylko wygodne i higieniczne, ale odzo przeządzą dla przyżna dla przypiętych dla przyżno dla przyłych dla przyjrodzie </span><b><span>biodegradji</span></b><span> , co oznacza, że po ich użyciu są one pozłądane w przyrodzie. Dzięki nim możesz cieszyć się spokojem i czystością nawet podczas podróży, toalet publicznych czy miejsc użyteczności publicznej.</span></p>\n<p><b><span>Opakowanie jest niewielchich, nawet kieszonkowych rozmirów, dzięki czemu idealnie zmieści się w każdej torbie czy kieszeni.</span></b></p>\n<p><b><span>Opakowanie 6 szt.</span></b></p>",
+      "new_descriptionHtml": "<h2><span>Intervion Jednorazowe Nakładki Na Sedes Podkładki Biodegradowalne 6 szt</span></h2>\n<h2><span>Podkłady celulozowe toaletowe</span></h2>\n<p><b><span>Zadbaj o higienę i komfort podczas korzystania z toalety publicznej</span></b><span> dzięki higienicznemu wkładowi toaletowemu. Opakowanie zawiera 6 jednorazowych podkładek celulozowych, które można szybko i łatwo umieścić na desce siedziska.</span></p>\n<p><span>Podkładki są nie tylko wygodne i higieniczne, ale odzo przeządzą dla przyżna dla przypiętych dla przyżno dla przyłych dla przyjrodzie </span><b><span>biodegradji</span></b><span> , co oznacza, że po ich użyciu są one pozłądane w przyrodzie. Dzięki nim możesz cieszyć się spokojem i czystością nawet podczas podróży, toalet publicznych czy miejsc użyteczności publicznej.</span></p>\n<p><b><span>Opakowanie jest niewielchich, nawet kieszonkowych rozmirów, dzięki czemu idealnie zmieści się w każdej torbie czy kieszeni.</span></b></p>\n<p><b><span>Opakowanie 6 szt.</span></b></p>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/9916759179597",
+      "legacyResourceId": "9916759179597",
+      "handle": "chusteczki-dezynfekcyjne-nasaczone-alkoholem-70-apteo-30-x-30-mm-5-szt",
+      "title": "Chusteczki dezynfekcyjne nasączone alkoholem 70% - (30 x 30 mm) - 4 szt.",
+      "old_h1": {
+        "open": 1,
+        "close": 1
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h1><span>Gaziki do dezynfekcji</span></h1>\n<h2><span>30 x 30 mm 4 szt.</span></h2>\n<div class=\"desc-field\">\n<h2>Opis produktu</h2>\n<br><span class=\"desc-field-content\">Gaziki do dezynfekcji 30 mm x 30 mm, 2- warstwowe, wyrób medyczny jednorazowego użycia, przeznaczony tylko do czyszczenia i dezynfekcji wyrobów medycznych w szpitalu i w domu.<br>Skład: gazik nasączony 70% alkoholem izopropylowym.<br>Sposób użycia: otworzyć saszetkę i dezynfekowany obszar wyrobu przetrzeć gazikiem. Po użyciu gazik wyrzucić do śmietnika.</span><br><br>\n</div>\n<div class=\"desc-field\">\n<h2>Dodatkowe informacje</h2>\n<br>\n<ul>\n<li>Wyłącznie do dezynfekcji wyrobów medycznych.</li>\n<li>Nie używać powtórnie.</li>\n<li>Unikać kontaktu gazika z oczami.</li>\n<li>Nie stosować w przypadku nadwrażliwości na alkohol etylowy.</li>\n<li>Chronić przed dziećmi.</li>\n<li>Należy unikać kontaktu gazika z okiem.</li>\n<li>Przechowywać w suchym i chłodnym miejscu.</li>\n</ul>\n</div>",
+      "new_descriptionHtml": "<h2><span>Gaziki do dezynfekcji</span></h2>\n<h2><span>30 x 30 mm 4 szt.</span></h2>\n<div class=\"desc-field\">\n<h2>Opis produktu</h2>\n<br><span class=\"desc-field-content\">Gaziki do dezynfekcji 30 mm x 30 mm, 2- warstwowe, wyrób medyczny jednorazowego użycia, przeznaczony tylko do czyszczenia i dezynfekcji wyrobów medycznych w szpitalu i w domu.<br>Skład: gazik nasączony 70% alkoholem izopropylowym.<br>Sposób użycia: otworzyć saszetkę i dezynfekowany obszar wyrobu przetrzeć gazikiem. Po użyciu gazik wyrzucić do śmietnika.</span><br><br>\n</div>\n<div class=\"desc-field\">\n<h2>Dodatkowe informacje</h2>\n<br>\n<ul>\n<li>Wyłącznie do dezynfekcji wyrobów medycznych.</li>\n<li>Nie używać powtórnie.</li>\n<li>Unikać kontaktu gazika z oczami.</li>\n<li>Nie stosować w przypadku nadwrażliwości na alkohol etylowy.</li>\n<li>Chronić przed dziećmi.</li>\n<li>Należy unikać kontaktu gazika z okiem.</li>\n<li>Przechowywać w suchym i chłodnym miejscu.</li>\n</ul>\n</div>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/9916816064845",
+      "legacyResourceId": "9916816064845",
+      "handle": "ziajka-krem-do-pielegnacji-dzieci-i-niemowlat",
+      "title": "Ziajka - krem do pielęgnacji dzieci i niemowląt",
+      "old_h1": {
+        "open": 2,
+        "close": 2
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h1><span>Ziajka Krem pielęgnacyjny dla dzieci i </span></h1>\n<h1 data-testid=\"productName\" class=\"mb0 mt0 product-name visible-lg-up\" data-v-8c5351ec=\"\">niemowląt</h1>\n<p><span>Nawilżający krem ​​​​ziajka dla dzieci już od 1 dnia życia.</span></p>\n<p><span>DZIAŁANIE</span></p>\n<p><span>• doskonała pielęgnuje důre dziecka</span></p>\n<p><span>• wyraźnie zmiękczający i władła osłaniająco na naskórek</span></p>\n<p><span>• święcej pobiepagie wysuszaniu</span></p>\n<p><span>• bardzo łączy się dystrybucja i dobrze szczęści</span></p>\n<p><span>sposób użycia</span></p>\n<p><span>Po kąpieli nałóż niewielką warstwę kremu na skórę dziecka.</span></p>\n<p><span>bezpieczeństwo</span></p>\n<p><span>PREPARAT TESTOWANY DERMATOLOGICZNIE I ALERGOLOGICZNIE</span></p>\n<p><span>Produkt otrzymał pozytywną opinię Centrum Zdrowia Dziecka</span></p>",
+      "new_descriptionHtml": "<h2><span>Ziajka Krem pielęgnacyjny dla dzieci i </span></h2>\n<h2 data-testid=\"productName\" class=\"mb0 mt0 product-name visible-lg-up\" data-v-8c5351ec=\"\">niemowląt</h2>\n<p><span>Nawilżający krem ​​​​ziajka dla dzieci już od 1 dnia życia.</span></p>\n<p><span>DZIAŁANIE</span></p>\n<p><span>• doskonała pielęgnuje důre dziecka</span></p>\n<p><span>• wyraźnie zmiękczający i władła osłaniająco na naskórek</span></p>\n<p><span>• święcej pobiepagie wysuszaniu</span></p>\n<p><span>• bardzo łączy się dystrybucja i dobrze szczęści</span></p>\n<p><span>sposób użycia</span></p>\n<p><span>Po kąpieli nałóż niewielką warstwę kremu na skórę dziecka.</span></p>\n<p><span>bezpieczeństwo</span></p>\n<p><span>PREPARAT TESTOWANY DERMATOLOGICZNIE I ALERGOLOGICZNIE</span></p>\n<p><span>Produkt otrzymał pozytywną opinię Centrum Zdrowia Dziecka</span></p>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/9984490242381",
+      "legacyResourceId": "9984490242381",
+      "handle": "rozek-niemowlecy-standard-75x75-cm-miminu-design-kotki-bawelna-100",
+      "title": "Rożek niemowlęcy - standard 75x75 cm - (MIMINU DESIGN Kotki ) - bawełna 100%",
+      "old_h1": {
+        "open": 1,
+        "close": 1
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h1>Rożek niemowlęcy standard 75x75 cm KIECZMERSKI MIMINU DESIGN Kotki bawełna 100%</h1>\n<h2>Cechy:</h2>\n<ul>\n<li>Rożek niemowlęcy 75x75 cm z tkaniny bawełnianej, wyprodukowanej w polskich fabrykach.</li>\n<li>Idealny do przenoszenia dziecka, ułatwia karmienie i usypianie niemowlęcia. Dopasowuje się do kształtu ciała, zachowując odpowiednią twardość.</li>\n<li>Niezwykle miękka i przyjemna w dotyku tkanina bawełniana zapewnia komfort użytkowania, stwarza bezpieczną i przyjazną dziecku atmosferę.</li>\n<li>Rożek zapinany na rzep.</li>\n<li>Naturalna 100% tkanina bawełniana wyprodukowana w Polsce, która nie powoduje żadnych podrażnień, ani alergii.</li>\n<li>Niezwykle miękka i przyjemna w dotyku, a jednocześnie wytrzymała w użytkowaniu.</li>\n<li>Poszycie rożka - BAWEŁNA 100%</li>\n<li>Wypełnienie antyalergiczne - standard, poliester 100% silikonowany.</li>\n</ul>\n<p>Rożek niemowlęcy Kieczmerski Miminu o wymiarach 75x75 cm to niezastąpiony element wyprawki dla każdego maluszka. Wykonany w 100% z wysokiej jakości bawełny, zapewnia delikatność i komfort dla wrażliwej skóry dziecka. Uroczy wzór w kotki dodaje mu wyjątkowego uroku, czyniąc go nie tylko praktycznym, ale i estetycznym dodatkiem do dziecięcej wyprawki.</p>\n<p>Dzięki antyalergicznemu wypełnieniu, rożek jest bezpieczny dla niemowląt z wrażliwą skórą, minimalizując ryzyko podrażnień. Jego miękkość i przyjemna w dotyku tkanina sprawiają, że maluszek czuje się w nim komfortowo i bezpiecznie. Dodatkowo, rożek jest łatwy w pielęgnacji, co ułatwia utrzymanie go w czystości.</p>\n<h2>Zalety rożka niemowlęcego Kieczmerski Miminu:</h2>\n<p><strong>Naturalna bawełna</strong>: Wykonany w 100% z bawełny, zapewnia miękkość i przewiewność, idealną dla delikatnej skóry dziecka.</p>\n<p><strong>Antyalergiczne wypełnienie:</strong><span> </span>Bezpieczne dla niemowląt, minimalizuje ryzyko alergii i podrażnień.</p>\n<p><strong>Uroczy design:</strong><span> </span>Wzór w kotki dodaje estetycznego uroku, czyniąc rożek atrakcyjnym wizualnie.</p>\n<p><strong>Łatwość pielęgnacji:</strong><span> </span>Prosty w utrzymaniu czystości, co jest istotne w codziennym użytkowaniu.</p>\n<p><strong>Uniwersalny rozmiar:</strong><span> </span>Wymiary 75x75 cm sprawiają, że rożek doskonale otula maluszka, zapewniając mu ciepło i komfort.</p>\n<p>Gwarantowane bezpieczeństwo i jakość produktu, zachowanie odpowiednich atestów i certyfikatów.</p>\n<p>Pielęgnacja - można prać w pralce w temperaturze 30°C, wirować na obrotach max 800.</p>\n<p>PRODUKT POLSKI, PRODUKT ANTYALERGICZNY</p>\n<p>WZÓR - KOTKI</p>",
+      "new_descriptionHtml": "<h2>Rożek niemowlęcy standard 75x75 cm KIECZMERSKI MIMINU DESIGN Kotki bawełna 100%</h2>\n<h2>Cechy:</h2>\n<ul>\n<li>Rożek niemowlęcy 75x75 cm z tkaniny bawełnianej, wyprodukowanej w polskich fabrykach.</li>\n<li>Idealny do przenoszenia dziecka, ułatwia karmienie i usypianie niemowlęcia. Dopasowuje się do kształtu ciała, zachowując odpowiednią twardość.</li>\n<li>Niezwykle miękka i przyjemna w dotyku tkanina bawełniana zapewnia komfort użytkowania, stwarza bezpieczną i przyjazną dziecku atmosferę.</li>\n<li>Rożek zapinany na rzep.</li>\n<li>Naturalna 100% tkanina bawełniana wyprodukowana w Polsce, która nie powoduje żadnych podrażnień, ani alergii.</li>\n<li>Niezwykle miękka i przyjemna w dotyku, a jednocześnie wytrzymała w użytkowaniu.</li>\n<li>Poszycie rożka - BAWEŁNA 100%</li>\n<li>Wypełnienie antyalergiczne - standard, poliester 100% silikonowany.</li>\n</ul>\n<p>Rożek niemowlęcy Kieczmerski Miminu o wymiarach 75x75 cm to niezastąpiony element wyprawki dla każdego maluszka. Wykonany w 100% z wysokiej jakości bawełny, zapewnia delikatność i komfort dla wrażliwej skóry dziecka. Uroczy wzór w kotki dodaje mu wyjątkowego uroku, czyniąc go nie tylko praktycznym, ale i estetycznym dodatkiem do dziecięcej wyprawki.</p>\n<p>Dzięki antyalergicznemu wypełnieniu, rożek jest bezpieczny dla niemowląt z wrażliwą skórą, minimalizując ryzyko podrażnień. Jego miękkość i przyjemna w dotyku tkanina sprawiają, że maluszek czuje się w nim komfortowo i bezpiecznie. Dodatkowo, rożek jest łatwy w pielęgnacji, co ułatwia utrzymanie go w czystości.</p>\n<h2>Zalety rożka niemowlęcego Kieczmerski Miminu:</h2>\n<p><strong>Naturalna bawełna</strong>: Wykonany w 100% z bawełny, zapewnia miękkość i przewiewność, idealną dla delikatnej skóry dziecka.</p>\n<p><strong>Antyalergiczne wypełnienie:</strong><span> </span>Bezpieczne dla niemowląt, minimalizuje ryzyko alergii i podrażnień.</p>\n<p><strong>Uroczy design:</strong><span> </span>Wzór w kotki dodaje estetycznego uroku, czyniąc rożek atrakcyjnym wizualnie.</p>\n<p><strong>Łatwość pielęgnacji:</strong><span> </span>Prosty w utrzymaniu czystości, co jest istotne w codziennym użytkowaniu.</p>\n<p><strong>Uniwersalny rozmiar:</strong><span> </span>Wymiary 75x75 cm sprawiają, że rożek doskonale otula maluszka, zapewniając mu ciepło i komfort.</p>\n<p>Gwarantowane bezpieczeństwo i jakość produktu, zachowanie odpowiednich atestów i certyfikatów.</p>\n<p>Pielęgnacja - można prać w pralce w temperaturze 30°C, wirować na obrotach max 800.</p>\n<p>PRODUKT POLSKI, PRODUKT ANTYALERGICZNY</p>\n<p>WZÓR - KOTKI</p>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/10133099741517",
+      "legacyResourceId": "10133099741517",
+      "handle": "canpol-22-580-smoczek-uspokajajacy-silikonowy-symetryczny-okragly-0-6m-nawborn-niebieski",
+      "title": "CANPOL 22/562 - SMOCZEK  - silikon orthodontic- OKRĄGŁY -( 0m+)  -Niebieski",
+      "old_h1": {
+        "open": 1,
+        "close": 1
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h1>Smoczek uspokajający 0-6m (okragly) - niebieski</h1>\n<ul>\n<li>Zestaw smoczków uspokajających wykonane z najwyższej jakości, bezzapachowego i bezsmakowego silikonu.</li>\n<li>Wyposażone w gumkę o symetrycznym kształcie.</li>\n<li>Zapewniają swobodne oddychanie i połykanie śliny.</li>\n<li>Smoczki dobrze odpowietrzają się, dzięki specjalnym otworom wentylacyjnym na tarczce.</li>\n<li>Nie zawierają BPA.</li>\n</ul>\n<p>Opakowanie zawiera:</p>\n<ul>\n<li>1x smoczek uspokajający</li>\n<li>Kolor - niebieski</li>\n<li>Okragly</li>\n</ul>",
+      "new_descriptionHtml": "<h2>Smoczek uspokajający 0-6m (okragly) - niebieski</h2>\n<ul>\n<li>Zestaw smoczków uspokajających wykonane z najwyższej jakości, bezzapachowego i bezsmakowego silikonu.</li>\n<li>Wyposażone w gumkę o symetrycznym kształcie.</li>\n<li>Zapewniają swobodne oddychanie i połykanie śliny.</li>\n<li>Smoczki dobrze odpowietrzają się, dzięki specjalnym otworom wentylacyjnym na tarczce.</li>\n<li>Nie zawierają BPA.</li>\n</ul>\n<p>Opakowanie zawiera:</p>\n<ul>\n<li>1x smoczek uspokajający</li>\n<li>Kolor - niebieski</li>\n<li>Okragly</li>\n</ul>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/10288718348621",
+      "legacyResourceId": "10288718348621",
+      "handle": "akuku-a0458-zestaw-manicure-rozowy",
+      "title": "AKUKU A0458 -  Zestaw manicure - różowy",
+      "old_h1": {
+        "open": 1,
+        "close": 1
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h2>ZESTAW PIELĘGNACYJNY + ETUI</h2>\n<p>Producent : AKUKU</p>\n<p>Kolor : różowy</p>\n<h2>ZESTAW ZAWIERA :</h2>\n<ul></ul>\n<ul>\n<li>nożyczek,</li>\n<li>cążków,</li>\n<li>szczotki,</li>\n<li>grzebyczka i</li>\n<li>czterech małych pilników.</li>\n<li>Całość znajduje się w estetycznym futerale o formie piórnika - kosmetyczki.</li>\n</ul>\n<p><b>Specjalna konstrukcją przyrządów gwarantuje ich bezpieczne użycie. Zestaw pielęgnacyjny jest bardzo praktyczny.</b></p>\n<h2>ZESTAW PIELĘGNACYJNY + ETUI</h2>\n<p>Zestaw do pielęgnacji Twojego dziecka w<span> </span><b>wygodnej i praktycznej</b><span> </span>kosmetyczce. Nożyczki (o cienkich metalowych ostrzach i zaokrąglonych krawędziach) oraz cążki pomogą pewnie i<b><span> </span>bezpiecznie</b><span> </span>obciąć drobne paznokcie, a pilniczek z łatwością usunie nierówności paznokcia chroniąc dziecko przed zadrapaniem. Natomiast miękka szczotka oraz grzebyk z<span> </span><b>antypoślizgowym</b><span> </span>uchwytem pozwolą zatroszczyć się o główkę maleństwa. W celu zminimalizowania ryzyka niespodziewanego poruszenia się dziecka, zaleca się obcinanie paznokci podczas snu.</p>\n<p> </p>\n<h1><br></h1>",
+      "new_descriptionHtml": "<h2>ZESTAW PIELĘGNACYJNY + ETUI</h2>\n<p>Producent : AKUKU</p>\n<p>Kolor : różowy</p>\n<h2>ZESTAW ZAWIERA :</h2>\n<ul></ul>\n<ul>\n<li>nożyczek,</li>\n<li>cążków,</li>\n<li>szczotki,</li>\n<li>grzebyczka i</li>\n<li>czterech małych pilników.</li>\n<li>Całość znajduje się w estetycznym futerale o formie piórnika - kosmetyczki.</li>\n</ul>\n<p><b>Specjalna konstrukcją przyrządów gwarantuje ich bezpieczne użycie. Zestaw pielęgnacyjny jest bardzo praktyczny.</b></p>\n<h2>ZESTAW PIELĘGNACYJNY + ETUI</h2>\n<p>Zestaw do pielęgnacji Twojego dziecka w<span> </span><b>wygodnej i praktycznej</b><span> </span>kosmetyczce. Nożyczki (o cienkich metalowych ostrzach i zaokrąglonych krawędziach) oraz cążki pomogą pewnie i<b><span> </span>bezpiecznie</b><span> </span>obciąć drobne paznokcie, a pilniczek z łatwością usunie nierówności paznokcia chroniąc dziecko przed zadrapaniem. Natomiast miękka szczotka oraz grzebyk z<span> </span><b>antypoślizgowym</b><span> </span>uchwytem pozwolą zatroszczyć się o główkę maleństwa. W celu zminimalizowania ryzyka niespodziewanego poruszenia się dziecka, zaleca się obcinanie paznokci podczas snu.</p>\n<p> </p>\n<h2><br></h2>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/10288796369229",
+      "legacyResourceId": "10288796369229",
+      "handle": "szampon-z-keratyna-kozie-mleko-ziaja-400ml",
+      "title": "SZAMPON z keratyną  - Kozie Mleko - Ziaja - 400ml",
+      "old_h1": {
+        "open": 1,
+        "close": 1
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h1>Ziaja kozie mleko szampon z keratyną 400ml.</h1>\n<p>95% składników pochodzenia naturalnego</p>\n<p>włosy suche . szorstkie</p>\n<p>bez połysku</p>\n<p>wzmacnianie</p>\n<p>wygładzanie</p>\n<p>świeże . zdrowe . zadbane włosy</p>\n<p>Satynowy szampon do profesjonalnej higieny i pielęgnacji włosów zniszczonych, suchych, szorstkich i matowych. Zawiera keratynę - naturalny budulec włosów oraz proteiny koziego mleka - substancje czynne, które odbudowują włosy w miejscach uszkodzenia, poprawiają ich elastyczność, zapobiegają kruchości i łamliwości.</p>\n<p>DZIAŁANIE</p>\n<p>• Łagodnie myje i pielęgnuje włosy.</p>\n<p>• Delikatnie oczyszcza skórę głowy.</p>\n<p>• Zawiera substancje regenerujące i odżywcze.</p>\n<p>• Pozostawia włosy miękkie i gładkie w dotyku.</p>\n<p>• Dodaje objętości, ułatwia rozczesywanie i stylizację.</p>\n<p><b>SPOSÓB UŻYCIA</b></p>\n<p>Szampon nanieść na mokre włosy i masować do uzyskania piany. Dokładnie spłukać. W razie konieczności czynność powtórzyć. Polecamy stosowanie odżywki i maski z serii kozie mleko jako kompleksową pielęgnację wzmacniająco- wygładzającą.</p>\n<p><b>BEZPIECZEŃSTWO</b></p>\n<p>PRODUKT TESTOWANY DERMATOLOGICZNIE I ALERGOLOGICZNIE</p>\n<p><b>SUBSTANCJE AKTYWNE</b></p>\n<p>fitokeratyna, kompleks składników koziego mleka</p>",
+      "new_descriptionHtml": "<h2>Ziaja kozie mleko szampon z keratyną 400ml.</h2>\n<p>95% składników pochodzenia naturalnego</p>\n<p>włosy suche . szorstkie</p>\n<p>bez połysku</p>\n<p>wzmacnianie</p>\n<p>wygładzanie</p>\n<p>świeże . zdrowe . zadbane włosy</p>\n<p>Satynowy szampon do profesjonalnej higieny i pielęgnacji włosów zniszczonych, suchych, szorstkich i matowych. Zawiera keratynę - naturalny budulec włosów oraz proteiny koziego mleka - substancje czynne, które odbudowują włosy w miejscach uszkodzenia, poprawiają ich elastyczność, zapobiegają kruchości i łamliwości.</p>\n<p>DZIAŁANIE</p>\n<p>• Łagodnie myje i pielęgnuje włosy.</p>\n<p>• Delikatnie oczyszcza skórę głowy.</p>\n<p>• Zawiera substancje regenerujące i odżywcze.</p>\n<p>• Pozostawia włosy miękkie i gładkie w dotyku.</p>\n<p>• Dodaje objętości, ułatwia rozczesywanie i stylizację.</p>\n<p><b>SPOSÓB UŻYCIA</b></p>\n<p>Szampon nanieść na mokre włosy i masować do uzyskania piany. Dokładnie spłukać. W razie konieczności czynność powtórzyć. Polecamy stosowanie odżywki i maski z serii kozie mleko jako kompleksową pielęgnację wzmacniająco- wygładzającą.</p>\n<p><b>BEZPIECZEŃSTWO</b></p>\n<p>PRODUKT TESTOWANY DERMATOLOGICZNIE I ALERGOLOGICZNIE</p>\n<p><b>SUBSTANCJE AKTYWNE</b></p>\n<p>fitokeratyna, kompleks składników koziego mleka</p>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/10288931995981",
+      "legacyResourceId": "10288931995981",
+      "handle": "odzywka-z-keratyna-kondycjonujaca-kozie-mleko-ziaja-200-ml",
+      "title": "ODŻYWKA  z keratyną (kondycjonująca) - Kozie Mleko - Ziaja - (200 ml)",
+      "old_h1": {
+        "open": 2,
+        "close": 2
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h3 data-testid=\"productName\" class=\"mb0 mt0 product-name visible-lg-up\">Odżywka z keratyną kondycjonująca</h3>\n<p><span>pojemność: 200 ml</span></p>\n<section data-v-1841977c=\"\" data-v-7f54adca=\"\" id=\"product-submenu\" class=\"product-tabs px15\">\n<div data-v-1841977c=\"\" id=\"content\">\n<div data-v-1841977c=\"\" id=\"product-about\">\n<div data-v-1841977c=\"\" class=\"accordion-content\">\n<section data-v-53760152=\"\" data-v-1841977c=\"\" class=\"product-about external-content\">\n<div data-v-53760152=\"\" class=\"product-about__content\">\n<div data-v-53760152=\"\" class=\"product-about__desc\">\n<p>99% składników pochodzenia naturalnego<br><br>włosy suche . szorstkie<br>bez połysku<br>wzmacnianie<br>wygładzanie<br><br>świeże . zdrowe . zadbane włosy<br><br>Satynowa odżywka kondycjonująca do włosów zniszczonych, suchych, szorstkich i matowych. Zawiera keratynę - naturalny budulec włosów oraz proteiny koziego mleka - substancje czynne, które odbudowują włosy w miejscach uszkodzenia, poprawiają ich elastyczność, zapobiegają kruchości i łamliwości.<br><br><strong>DZIAŁANIE</strong><br>• Głęboko regeneruje strukturę włosów.<br>• Wygładza, nawilża i wzmacnia włosy.<br>• Działa multifunkcyjnie, szczególnie poprawia połysk.<br>• Pozostawia włosy miękkie i zdrowe w dotyku.<br>• Chroni końcówki włosów przed rozdwajaniem.</p>\n</div>\n<div data-v-53760152=\"\" class=\"product-about__img\">\n<div data-v-53760152=\"\" class=\"product-about__image\">\n<h1>Sposób użycia</h1>\n<span>Niewielką ilość odżywki nanieść równomiernie na świeżo umyte włosy. Po 3-5 minutach dokładnie spłukać. Polecamy stosowanie szamponu i maski z serii kozie mleko jako kompleksową pielęgnację wzmacniająco-wygładzającą.</span>\n</div>\n<div data-v-53760152=\"\" class=\"product-about__image\">\n<span></span><br>\n</div>\n<div data-v-53760152=\"\" class=\"product-about__image\">\n<h1>Skład</h1>\n</div>\n<div data-v-53760152=\"\" class=\"product-about__image\"><span>Aqua (Water), Cetearyl Alcohol, Cetrimonium Chloride, Isopropyl Myristate, Polyquaternium-70, Dipropylene Glycol, Panthenol, Hydrolyzed Keratin, Propylene Glycol, Goat Milk Extract, Sodium Benzoate, Parfum (Fragrance), Citric Acid.</span></div>\n</div>\n</div>\n</section>\n</div>\n</div>\n<div data-v-1841977c=\"\" id=\"product-ingredients\"></div>\n<div data-v-1841977c=\"\" id=\"product-method-of-use\"></div>\n<div data-v-1841977c=\"\" id=\"sklad\"></div>\n</div>\n</section>\n<div data-v-7f54adca=\"\" class=\"container px15 mt40 pb40\" id=\"is-product-list-igo_product_1\"></div>",
+      "new_descriptionHtml": "<h3 data-testid=\"productName\" class=\"mb0 mt0 product-name visible-lg-up\">Odżywka z keratyną kondycjonująca</h3>\n<p><span>pojemność: 200 ml</span></p>\n<section data-v-1841977c=\"\" data-v-7f54adca=\"\" id=\"product-submenu\" class=\"product-tabs px15\">\n<div data-v-1841977c=\"\" id=\"content\">\n<div data-v-1841977c=\"\" id=\"product-about\">\n<div data-v-1841977c=\"\" class=\"accordion-content\">\n<section data-v-53760152=\"\" data-v-1841977c=\"\" class=\"product-about external-content\">\n<div data-v-53760152=\"\" class=\"product-about__content\">\n<div data-v-53760152=\"\" class=\"product-about__desc\">\n<p>99% składników pochodzenia naturalnego<br><br>włosy suche . szorstkie<br>bez połysku<br>wzmacnianie<br>wygładzanie<br><br>świeże . zdrowe . zadbane włosy<br><br>Satynowa odżywka kondycjonująca do włosów zniszczonych, suchych, szorstkich i matowych. Zawiera keratynę - naturalny budulec włosów oraz proteiny koziego mleka - substancje czynne, które odbudowują włosy w miejscach uszkodzenia, poprawiają ich elastyczność, zapobiegają kruchości i łamliwości.<br><br><strong>DZIAŁANIE</strong><br>• Głęboko regeneruje strukturę włosów.<br>• Wygładza, nawilża i wzmacnia włosy.<br>• Działa multifunkcyjnie, szczególnie poprawia połysk.<br>• Pozostawia włosy miękkie i zdrowe w dotyku.<br>• Chroni końcówki włosów przed rozdwajaniem.</p>\n</div>\n<div data-v-53760152=\"\" class=\"product-about__img\">\n<div data-v-53760152=\"\" class=\"product-about__image\">\n<h2>Sposób użycia</h2>\n<span>Niewielką ilość odżywki nanieść równomiernie na świeżo umyte włosy. Po 3-5 minutach dokładnie spłukać. Polecamy stosowanie szamponu i maski z serii kozie mleko jako kompleksową pielęgnację wzmacniająco-wygładzającą.</span>\n</div>\n<div data-v-53760152=\"\" class=\"product-about__image\">\n<span></span><br>\n</div>\n<div data-v-53760152=\"\" class=\"product-about__image\">\n<h2>Skład</h2>\n</div>\n<div data-v-53760152=\"\" class=\"product-about__image\"><span>Aqua (Water), Cetearyl Alcohol, Cetrimonium Chloride, Isopropyl Myristate, Polyquaternium-70, Dipropylene Glycol, Panthenol, Hydrolyzed Keratin, Propylene Glycol, Goat Milk Extract, Sodium Benzoate, Parfum (Fragrance), Citric Acid.</span></div>\n</div>\n</div>\n</section>\n</div>\n</div>\n<div data-v-1841977c=\"\" id=\"product-ingredients\"></div>\n<div data-v-1841977c=\"\" id=\"product-method-of-use\"></div>\n<div data-v-1841977c=\"\" id=\"sklad\"></div>\n</div>\n</section>\n<div data-v-7f54adca=\"\" class=\"container px15 mt40 pb40\" id=\"is-product-list-igo_product_1\"></div>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/10309722571085",
+      "legacyResourceId": "10309722571085",
+      "handle": "akuku-a0306-laktator-reczny",
+      "title": "AKUKU A0306 - Laktator ręczny",
+      "old_h1": {
+        "open": 1,
+        "close": 1
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h1 class=\"elementor-heading-title elementor-size-default\">Laktator ręczny</h1>\n<p><span>Pojemność butelki 150 ml</span></p>\n<p><strong>Laktator ręczny</strong><span> </span><strong>Easy</strong><span> </span>to cichy i wygodny sposób na odciąganie pokarmu z piersi. Nasz Laktator jest prosty w montażu/demontażu oraz obsłudze.<span> </span><strong>Niewielka ilość elementów</strong><span> </span>ułatwia utrzymanie go w czystości.<span> </span><strong>Cichy tryb pracy</strong><span> </span>pozwala na dyskretne korzystanie z laktatora w dowolnym miejscu.</p>\n<h2>Laktator ręczny Easy – komfort i dyskrecja</h2>\n<p><strong>Ergonomiczny uchwyt<span> </span></strong>zapewnia wygodę trzymania laktatora i ułatwia<span> </span><strong>odciąganie mleka bez wysiłku,</strong><span> </span>a specjalnie<span> </span><strong>profilowany kształt lejka,</strong> gwarantuje szczelne przyleganie do piersi. Pokarm można odciągać bezpośrednio do<span> </span><strong>wszystkich butelek szerokootworowych</strong>. Wszystkie elementy laktatora wykonane są z bezpiecznego tworzywa przeznaczonego do kontaktu z żywnością, niezawierającego bisfenolu A (0% BPA).</p>\n<h2>Instrukcja obsługi laktatora ręcznego Akuku:</h2>\n<p>Przed pierwszym i każdym kolejnym użyciem laktatora oraz butelki umyj, a następnie dokładnie wypłucz i zdezynfekuj części laktatora poprzez polewanie wrzątkiem lub w sterylizatorze parowym. Po dezynfekcji poczekaj, aż poszczególne części laktatora wystygną. Nie rozpoczynaj montażu korpusu, gdy części są ciepłe lub wilgotne, bo laktator może źle pracować. Przed odciąganiem pokarmu umyj dokładnie ręce i sprawdź, czy laktator został umyty i zdezynfekowany oraz złożony zgodnie z instrukcją. Sprawdź, czy poszczególne części laktatora są prawidłowo zamontowane.</p>\n<p>Aby odciągnąć mleko, umieść brodawkę głęboko w lejku i przyciśnij nakładkę masującą do piersi, tak aby szczelnie przylegała do piersi i powietrze nie wydostawało się na zewnątrz. Inaczej odciąganie nie będzie efektywne i rączka nie będzie powracać do pierwotnej pozycji podczas odciągania. Nie zdejmuj nakładki masującej z lejka – stymuluje ona wypływ mleka. W czasie pompowania powinna wytworzyć się próżnia, która jest warunkiem prawidłowego działania laktatora. Poruszaj rączką laktatora równomiernie. Zauważysz, że mleko miarowo wypływa z piersi. Takie wolniejsze, głębsze odciąganie imituje ssanie piersi przez niemowlę.</p>\n<p>Pokarm będzie wypływał z piersi szybciej, jeśli podczas odciągania pochylisz się trochę do przodu (w takiej pozycji, gdy mama ma przepełnioną pierś, krople mleka wypływają z piersi często bez uciskania otoczki). Pamiętaj, aby butelka pozostawała w pozycji pionowej. Po odciągnięciu pokarmu odkręć korpus laktatora, rozmontuj na części i umyj w ciepłej wodzie z delikatnym środkiem myjącym, następnie dokładnie wypłucz. Wszystkie elementy dokładnie osusz na ściereczce lub suszarce do smoczków i butelek.</p>\n<p><strong>Ostrzeżenie!</strong><span> Produkt nie jest zabawką. Przechowuj go w miejscu niedostępnym dla dziecka.</span></p>",
+      "new_descriptionHtml": "<h2 class=\"elementor-heading-title elementor-size-default\">Laktator ręczny</h2>\n<p><span>Pojemność butelki 150 ml</span></p>\n<p><strong>Laktator ręczny</strong><span> </span><strong>Easy</strong><span> </span>to cichy i wygodny sposób na odciąganie pokarmu z piersi. Nasz Laktator jest prosty w montażu/demontażu oraz obsłudze.<span> </span><strong>Niewielka ilość elementów</strong><span> </span>ułatwia utrzymanie go w czystości.<span> </span><strong>Cichy tryb pracy</strong><span> </span>pozwala na dyskretne korzystanie z laktatora w dowolnym miejscu.</p>\n<h2>Laktator ręczny Easy – komfort i dyskrecja</h2>\n<p><strong>Ergonomiczny uchwyt<span> </span></strong>zapewnia wygodę trzymania laktatora i ułatwia<span> </span><strong>odciąganie mleka bez wysiłku,</strong><span> </span>a specjalnie<span> </span><strong>profilowany kształt lejka,</strong> gwarantuje szczelne przyleganie do piersi. Pokarm można odciągać bezpośrednio do<span> </span><strong>wszystkich butelek szerokootworowych</strong>. Wszystkie elementy laktatora wykonane są z bezpiecznego tworzywa przeznaczonego do kontaktu z żywnością, niezawierającego bisfenolu A (0% BPA).</p>\n<h2>Instrukcja obsługi laktatora ręcznego Akuku:</h2>\n<p>Przed pierwszym i każdym kolejnym użyciem laktatora oraz butelki umyj, a następnie dokładnie wypłucz i zdezynfekuj części laktatora poprzez polewanie wrzątkiem lub w sterylizatorze parowym. Po dezynfekcji poczekaj, aż poszczególne części laktatora wystygną. Nie rozpoczynaj montażu korpusu, gdy części są ciepłe lub wilgotne, bo laktator może źle pracować. Przed odciąganiem pokarmu umyj dokładnie ręce i sprawdź, czy laktator został umyty i zdezynfekowany oraz złożony zgodnie z instrukcją. Sprawdź, czy poszczególne części laktatora są prawidłowo zamontowane.</p>\n<p>Aby odciągnąć mleko, umieść brodawkę głęboko w lejku i przyciśnij nakładkę masującą do piersi, tak aby szczelnie przylegała do piersi i powietrze nie wydostawało się na zewnątrz. Inaczej odciąganie nie będzie efektywne i rączka nie będzie powracać do pierwotnej pozycji podczas odciągania. Nie zdejmuj nakładki masującej z lejka – stymuluje ona wypływ mleka. W czasie pompowania powinna wytworzyć się próżnia, która jest warunkiem prawidłowego działania laktatora. Poruszaj rączką laktatora równomiernie. Zauważysz, że mleko miarowo wypływa z piersi. Takie wolniejsze, głębsze odciąganie imituje ssanie piersi przez niemowlę.</p>\n<p>Pokarm będzie wypływał z piersi szybciej, jeśli podczas odciągania pochylisz się trochę do przodu (w takiej pozycji, gdy mama ma przepełnioną pierś, krople mleka wypływają z piersi często bez uciskania otoczki). Pamiętaj, aby butelka pozostawała w pozycji pionowej. Po odciągnięciu pokarmu odkręć korpus laktatora, rozmontuj na części i umyj w ciepłej wodzie z delikatnym środkiem myjącym, następnie dokładnie wypłucz. Wszystkie elementy dokładnie osusz na ściereczce lub suszarce do smoczków i butelek.</p>\n<p><strong>Ostrzeżenie!</strong><span> Produkt nie jest zabawką. Przechowuj go w miejscu niedostępnym dla dziecka.</span></p>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/10379231297869",
+      "legacyResourceId": "10379231297869",
+      "handle": "b-o-1576-edukacyjna-mata-piankowa-xpe-150x200cm",
+      "title": "B.O. 1576 - Edukacyjna mata piankowa XPE - (150x200cm)",
+      "old_h1": {
+        "open": 1,
+        "close": 1
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<div class=\"container\">\n<div class=\"main-productdetails\">\n<section class=\"product-desc\">\n<div class=\"prod-desc\">\n<div class=\"s-desc s-list\">\n<div class=\"list-div\">\n<h1>Edukacyjna mata piankowa XPE 150x200cm 0+</h1>\n<p><b>W zestawie:</b></p>\n<ul>\n<li>1 × edukacyjna mata piankowa XPE</li>\n</ul>\n<p><b>Właściwości techniczne:</b></p>\n<ul>\n<li>Wymiary: 150 × 200 cm</li>\n<li>Grubość: 1 cm</li>\n<li>Materiał: pianka XPE (polietylenowa)</li>\n<li>Funkcje: dwustronna, składana, wodoodporna, łatwa w czyszczeniu</li>\n</ul>\n<p>Edukacyjna mata piankowa wykonana z trwałej i lekkiej pianki XPE (polietylenowej) to doskonałe rozwiązanie dla dzieci, które potrzebują bezpiecznego miejsca do zabawy i nauki. Dzięki różnorodnym wzorom – zwierzątka, literki, cyfry i kształty – mata wspiera rozwój sensoryczny, motoryczny oraz umysłowy maluchów.</p>\n<p>Kolorowe i dwustronne wzory zachęcają do kreatywnej zabawy, stymulują zmysły wzroku i dotyku, a jednocześnie tworzą atrakcyjną przestrzeń w każdym pokoju dziecięcym.</p>\n<p><b>Najważniejsze cechy:</b></p>\n<ul>\n<li>Dwustronna i kolorowa – każda strona maty prezentuje inny, ciekawy wzór, co sprawia, że zabawa nigdy się nie nudzi.</li>\n<li>Grubość 1 cm – pianka XPE doskonale amortyzuje, chroniąc dziecko przed twardym podłożem.</li>\n<li>Antypoślizgowa powierzchnia – zapewnia bezpieczeństwo podczas raczkowania, nauki chodzenia czy odpoczynku.</li>\n<li>Składana i mobilna – łatwo ją złożyć, przechowywać i zabrać w podróż. Dodatkowo dołączona torba ułatwia przenoszenie.</li>\n<li>Wodoodporna i higieniczna – wystarczy przetrzeć wilgotną ściereczką, aby szybko usunąć zabrudzenia.</li>\n<li>Izoluje od zimnej podłogi – zapewnia dziecku komfort i ciepło podczas zabawy.</li>\n</ul>\n</div>\n</div>\n<span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>\n</div>\n</section>\n</div>\n</div>\n<div id=\"opinie\" class=\"opinion-box\">\n<div class=\"container\">\n<section class=\"opinions\" id=\"opinions\"></section>\n</div>\n</div>",
+      "new_descriptionHtml": "<div class=\"container\">\n<div class=\"main-productdetails\">\n<section class=\"product-desc\">\n<div class=\"prod-desc\">\n<div class=\"s-desc s-list\">\n<div class=\"list-div\">\n<h2>Edukacyjna mata piankowa XPE 150x200cm 0+</h2>\n<p><b>W zestawie:</b></p>\n<ul>\n<li>1 × edukacyjna mata piankowa XPE</li>\n</ul>\n<p><b>Właściwości techniczne:</b></p>\n<ul>\n<li>Wymiary: 150 × 200 cm</li>\n<li>Grubość: 1 cm</li>\n<li>Materiał: pianka XPE (polietylenowa)</li>\n<li>Funkcje: dwustronna, składana, wodoodporna, łatwa w czyszczeniu</li>\n</ul>\n<p>Edukacyjna mata piankowa wykonana z trwałej i lekkiej pianki XPE (polietylenowej) to doskonałe rozwiązanie dla dzieci, które potrzebują bezpiecznego miejsca do zabawy i nauki. Dzięki różnorodnym wzorom – zwierzątka, literki, cyfry i kształty – mata wspiera rozwój sensoryczny, motoryczny oraz umysłowy maluchów.</p>\n<p>Kolorowe i dwustronne wzory zachęcają do kreatywnej zabawy, stymulują zmysły wzroku i dotyku, a jednocześnie tworzą atrakcyjną przestrzeń w każdym pokoju dziecięcym.</p>\n<p><b>Najważniejsze cechy:</b></p>\n<ul>\n<li>Dwustronna i kolorowa – każda strona maty prezentuje inny, ciekawy wzór, co sprawia, że zabawa nigdy się nie nudzi.</li>\n<li>Grubość 1 cm – pianka XPE doskonale amortyzuje, chroniąc dziecko przed twardym podłożem.</li>\n<li>Antypoślizgowa powierzchnia – zapewnia bezpieczeństwo podczas raczkowania, nauki chodzenia czy odpoczynku.</li>\n<li>Składana i mobilna – łatwo ją złożyć, przechowywać i zabrać w podróż. Dodatkowo dołączona torba ułatwia przenoszenie.</li>\n<li>Wodoodporna i higieniczna – wystarczy przetrzeć wilgotną ściereczką, aby szybko usunąć zabrudzenia.</li>\n<li>Izoluje od zimnej podłogi – zapewnia dziecku komfort i ciepło podczas zabawy.</li>\n</ul>\n</div>\n</div>\n<span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>\n</div>\n</section>\n</div>\n</div>\n<div id=\"opinie\" class=\"opinion-box\">\n<div class=\"container\">\n<section class=\"opinions\" id=\"opinions\"></section>\n</div>\n</div>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/10486358081869",
+      "legacyResourceId": "10486358081869",
+      "handle": "akuku-a0473-zestaw-do-pielegnacji-apple-case-szary",
+      "title": "AKUKU A0473 - Zestaw do pielęgnacji -  (APPLE CASE) - SZARY",
+      "old_h1": {
+        "open": 1,
+        "close": 1
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h1>AKUKU Zestaw kosmetyczny</h1>\n<h2>W zestawie znajdują się:</h2>\n<ul>\n<li>bezpieczne nożyczki z zaokrąglonymi końcówkami</li>\n<li>cążki z ogranicznikiem</li>\n<li>szklany pilniczek</li>\n<li>pinceta 0 – 36 m+</li>\n<li>pinceta 9 – 36 m+</li>\n</ul>\n<p><span>Niezwykle przydatny i praktyczny zestaw pielęgnacyjny w odjazdowym etui w kształcie jabłka. W zestawie bezpieczne nożyczki i cążki z ogranicznikiem wykonane z stali nierdzewnej, szklany pilniczek oraz dwie pincety. Łatwy, prosty i estetyczny sposób przechowywania, wszystkie niezbędne produkty w jednym miejscu. Idealny w domu i w podróży.</span></p>",
+      "new_descriptionHtml": "<h2>AKUKU Zestaw kosmetyczny</h2>\n<h2>W zestawie znajdują się:</h2>\n<ul>\n<li>bezpieczne nożyczki z zaokrąglonymi końcówkami</li>\n<li>cążki z ogranicznikiem</li>\n<li>szklany pilniczek</li>\n<li>pinceta 0 – 36 m+</li>\n<li>pinceta 9 – 36 m+</li>\n</ul>\n<p><span>Niezwykle przydatny i praktyczny zestaw pielęgnacyjny w odjazdowym etui w kształcie jabłka. W zestawie bezpieczne nożyczki i cążki z ogranicznikiem wykonane z stali nierdzewnej, szklany pilniczek oraz dwie pincety. Łatwy, prosty i estetyczny sposób przechowywania, wszystkie niezbędne produkty w jednym miejscu. Idealny w domu i w podróży.</span></p>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/10497186496845",
+      "legacyResourceId": "10497186496845",
+      "handle": "tcb-9505-koszula-do-karmienia-l-graphite-doctor-nap",
+      "title": "TCB.9505 - Koszula do karmienia - L - (GRAPHITE) - Doctor Nap",
+      "old_h1": {
+        "open": 1,
+        "close": 1
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h1>Doctor Nap 9505 koszula do karmienia grafitowa L</h1>\n<p><b>Opis produktu:</b></p>\n<ul>\n<li>Producent:<span> </span><b>Doctor Nap</b>\n</li>\n<li>Model:<span> </span><b>TCB.9505 GRAPHITE koszula do karmienia</b>\n</li>\n<li>Kolor:<b><span> </span>grafitowy</b>\n</li>\n<li>Rozmiar:<span> </span><b>L</b>\n</li>\n<li>Skład materiału:<span> </span><b>100% bawełna</b>\n</li>\n<li><b>PRODUKT POLSKI</b></li>\n</ul>\n<ul>\n<li>Koszulka<span> </span><b>rozpinana na napy,</b><span> </span>dzięki czemu możliwe jest<span> </span><b>wygodne karmienie.</b>\n</li>\n<li>Na piersi haftowana srebrna korona.</li>\n<li>Na dole koszulki srebrne kokardki po bokach, dół wykończony na półokrągło.</li>\n<li>Uszyta tak, aby<span> </span><b>świetnie układała się również bez brzuszka.</b>\n</li>\n<li>Niezwykle miękki materiał, który posiada właściwości higroskopijne i hipoalergiczny.</li>\n<li>Dzianina posiada certyfikat<span> </span><b>OEKO-TEX Standard 100.</b>\n</li>\n<li>Idealna na prezent.</li>\n<li>Wyprodukowano w Polsce.</li>\n</ul>\n<p><b>Rozmiar L</b><span> </span>będzie najbardziej odpowiedni dla kobiet o wymiarach:</p>\n<ul>\n<li>Obwód klatki piersiowej:<span> </span><b>96-102cm</b>\n</li>\n<li>Obwód bioder:<span> </span><b>100-106cm</b>\n</li>\n</ul>\n<p><b>Wymiary mierzone na płasko:</b></p>\n<ul>\n<li>Długość koszulki:<span> </span><b>95 cm</b>\n</li>\n<li>Długość zewnętrzna rękawa:<span> </span><b>16 cm</b>\n</li>\n<li>Długość wewnętrzna rękawa:<span> </span><b>7 cm</b>\n</li>\n<li>Szerokość pod pachami:<span> </span><b>50 cm</b>\n</li>\n<li>Szerokość w ramionach:<span> </span><b>40 cm</b>\n</li>\n<li>Szerokość w pasie:<span> </span><b>46 cm</b>\n</li>\n</ul>\n<p>Tolerancja +/- 2 cm.</p>\n<p>Uwaga, przy wyborze rozmiaru proszę uwzględnić fakt, że naturalna kurczliwość dzianiny wynosi 5%.</p>",
+      "new_descriptionHtml": "<h2>Doctor Nap 9505 koszula do karmienia grafitowa L</h2>\n<p><b>Opis produktu:</b></p>\n<ul>\n<li>Producent:<span> </span><b>Doctor Nap</b>\n</li>\n<li>Model:<span> </span><b>TCB.9505 GRAPHITE koszula do karmienia</b>\n</li>\n<li>Kolor:<b><span> </span>grafitowy</b>\n</li>\n<li>Rozmiar:<span> </span><b>L</b>\n</li>\n<li>Skład materiału:<span> </span><b>100% bawełna</b>\n</li>\n<li><b>PRODUKT POLSKI</b></li>\n</ul>\n<ul>\n<li>Koszulka<span> </span><b>rozpinana na napy,</b><span> </span>dzięki czemu możliwe jest<span> </span><b>wygodne karmienie.</b>\n</li>\n<li>Na piersi haftowana srebrna korona.</li>\n<li>Na dole koszulki srebrne kokardki po bokach, dół wykończony na półokrągło.</li>\n<li>Uszyta tak, aby<span> </span><b>świetnie układała się również bez brzuszka.</b>\n</li>\n<li>Niezwykle miękki materiał, który posiada właściwości higroskopijne i hipoalergiczny.</li>\n<li>Dzianina posiada certyfikat<span> </span><b>OEKO-TEX Standard 100.</b>\n</li>\n<li>Idealna na prezent.</li>\n<li>Wyprodukowano w Polsce.</li>\n</ul>\n<p><b>Rozmiar L</b><span> </span>będzie najbardziej odpowiedni dla kobiet o wymiarach:</p>\n<ul>\n<li>Obwód klatki piersiowej:<span> </span><b>96-102cm</b>\n</li>\n<li>Obwód bioder:<span> </span><b>100-106cm</b>\n</li>\n</ul>\n<p><b>Wymiary mierzone na płasko:</b></p>\n<ul>\n<li>Długość koszulki:<span> </span><b>95 cm</b>\n</li>\n<li>Długość zewnętrzna rękawa:<span> </span><b>16 cm</b>\n</li>\n<li>Długość wewnętrzna rękawa:<span> </span><b>7 cm</b>\n</li>\n<li>Szerokość pod pachami:<span> </span><b>50 cm</b>\n</li>\n<li>Szerokość w ramionach:<span> </span><b>40 cm</b>\n</li>\n<li>Szerokość w pasie:<span> </span><b>46 cm</b>\n</li>\n</ul>\n<p>Tolerancja +/- 2 cm.</p>\n<p>Uwaga, przy wyborze rozmiaru proszę uwzględnić fakt, że naturalna kurczliwość dzianiny wynosi 5%.</p>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/10497188561229",
+      "legacyResourceId": "10497188561229",
+      "handle": "tcb-9505-koszula-do-karmienia-xxl-pink-doctor-nap",
+      "title": "TCB.9505 - Koszula do karmienia - XXL - (PINK) - Doctor Nap",
+      "old_h1": {
+        "open": 1,
+        "close": 1
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h1>Doctor Nap 9505 różowa koszula do karmienia</h1>\n<h2>Najważniejsze cechy przedmiotu:</h2>\n<ul>\n<li>Producent:<span> </span><b>Doctor Nap</b>\n</li>\n<li>Model:<span> </span><b>9505 SWEET PINK koszula do karmienia</b>\n</li>\n<li>Kolor:<b><span> </span>różowy</b>\n</li>\n<li>Rozmiar:<span> </span><b>XXL</b>\n</li>\n<li>Skład materiału:<span> </span><b>100% bawełna</b>\n</li>\n<li><b>PRODUKT POLSKI</b></li>\n</ul>\n<h2>Rozmiar XXL</h2>\n<p>będzie najbardziej odpowiedni dla kobiet o wymiarach:</p>\n<ul>\n<li>Obwód klatki piersiowej: <b>108-114cm</b>\n</li>\n<li>Obwód bioder: <b>112-120cm</b>\n</li>\n</ul>\n<h2>Zalety produktu:</h2>\n<ul>\n<li>Koszulka<span> </span><b>rozpinana na napy,</b><span> </span>dzięki czemu możliwe jest<span> </span><b>wygodne karmienie.</b>\n</li>\n<li>Na piersi haftowana srebrna korona.</li>\n<li>Na dole koszulki srebrne kokardki po bokach, dół wykończony na półokrągło.</li>\n<li>Uszyta tak, aby<span> </span><b>świetnie układała się również bez brzuszka.</b>\n</li>\n<li>Niezwykle miękki materiał, który posiada właściwości higroskopijne i hipoalergiczny.</li>\n<li>Dzianina posiada certyfikat<span> </span><b>OEKO-TEX Standard 100.</b>\n</li>\n<li>Idealna na prezent.</li>\n<li>Wyprodukowano w Polsce.</li>\n</ul>\n<p> </p>",
+      "new_descriptionHtml": "<h2>Doctor Nap 9505 różowa koszula do karmienia</h2>\n<h2>Najważniejsze cechy przedmiotu:</h2>\n<ul>\n<li>Producent:<span> </span><b>Doctor Nap</b>\n</li>\n<li>Model:<span> </span><b>9505 SWEET PINK koszula do karmienia</b>\n</li>\n<li>Kolor:<b><span> </span>różowy</b>\n</li>\n<li>Rozmiar:<span> </span><b>XXL</b>\n</li>\n<li>Skład materiału:<span> </span><b>100% bawełna</b>\n</li>\n<li><b>PRODUKT POLSKI</b></li>\n</ul>\n<h2>Rozmiar XXL</h2>\n<p>będzie najbardziej odpowiedni dla kobiet o wymiarach:</p>\n<ul>\n<li>Obwód klatki piersiowej: <b>108-114cm</b>\n</li>\n<li>Obwód bioder: <b>112-120cm</b>\n</li>\n</ul>\n<h2>Zalety produktu:</h2>\n<ul>\n<li>Koszulka<span> </span><b>rozpinana na napy,</b><span> </span>dzięki czemu możliwe jest<span> </span><b>wygodne karmienie.</b>\n</li>\n<li>Na piersi haftowana srebrna korona.</li>\n<li>Na dole koszulki srebrne kokardki po bokach, dół wykończony na półokrągło.</li>\n<li>Uszyta tak, aby<span> </span><b>świetnie układała się również bez brzuszka.</b>\n</li>\n<li>Niezwykle miękki materiał, który posiada właściwości higroskopijne i hipoalergiczny.</li>\n<li>Dzianina posiada certyfikat<span> </span><b>OEKO-TEX Standard 100.</b>\n</li>\n<li>Idealna na prezent.</li>\n<li>Wyprodukowano w Polsce.</li>\n</ul>\n<p> </p>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/10556134654285",
+      "legacyResourceId": "10556134654285",
+      "handle": "canpol-2-417-szczotka-grzebien-do-wlosow-miekka-goose",
+      "title": "CANPOL 2/417 - Szczotka + grzebień do włosów -(miękka) -  GOOSE",
+      "old_h1": {
+        "open": 1,
+        "close": 1
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h1>Canpol Babies Szczotka i grzebień dla niemowląt z miękkim włosiem GOOSE</h1>\n<p> </p>\n<p>Szczotka do włosów z grzebykiem do codziennej pielęgnacji włosów dziecka. Grzebień posiada zaokrąglone ząbki, które <b>nie podrażniają skóry</b>. Szczotka z miękkim, sztucznym włosiem <b>delikatnie masuje główkę malucha</b>, nie elektryzując włosów.</p>\n<p><b>0% BPA<span> </span></b>- produkt wolny od bisfenolu A</p>\n<h2>Zestaw z grzebykiem</h2>\n<ul>\n<li>do codziennej pielęgnacji włosów dziecka.</li>\n</ul>\n<h2>Bezpieczne ząbki grzebienia</h2>\n<ul>\n<li>grzebień posiada zaokrąglone ząbki, które nie podrażniają skóry.</li>\n</ul>\n<h2>Szczotka z miękkim włosiem</h2>\n<ul>\n<li>delikatnie masuje główkę malucha, nie elektryzując włosów.</li>\n</ul>\n<h2>Od pierwszych chwil życia</h2>\n<h2>Jak używać?</h2>\n<p>Zestaw utrzymuj w czystości, myj w ciepłej wodzie z delikatnym środkiem myjącym. Przed pierwszym użyciem włosie należy sparzyć wrzątkiem i wysuszyć suszarką do włosów. Zawsze używaj wyrobu pod nadzorem dorosłych.</p>\n<p>Uwaga! Produkt nie jest zabawką. Przechowuj go w miejscu niedostępnym dla dziecka.</p>",
+      "new_descriptionHtml": "<h2>Canpol Babies Szczotka i grzebień dla niemowląt z miękkim włosiem GOOSE</h2>\n<p> </p>\n<p>Szczotka do włosów z grzebykiem do codziennej pielęgnacji włosów dziecka. Grzebień posiada zaokrąglone ząbki, które <b>nie podrażniają skóry</b>. Szczotka z miękkim, sztucznym włosiem <b>delikatnie masuje główkę malucha</b>, nie elektryzując włosów.</p>\n<p><b>0% BPA<span> </span></b>- produkt wolny od bisfenolu A</p>\n<h2>Zestaw z grzebykiem</h2>\n<ul>\n<li>do codziennej pielęgnacji włosów dziecka.</li>\n</ul>\n<h2>Bezpieczne ząbki grzebienia</h2>\n<ul>\n<li>grzebień posiada zaokrąglone ząbki, które nie podrażniają skóry.</li>\n</ul>\n<h2>Szczotka z miękkim włosiem</h2>\n<ul>\n<li>delikatnie masuje główkę malucha, nie elektryzując włosów.</li>\n</ul>\n<h2>Od pierwszych chwil życia</h2>\n<h2>Jak używać?</h2>\n<p>Zestaw utrzymuj w czystości, myj w ciepłej wodzie z delikatnym środkiem myjącym. Przed pierwszym użyciem włosie należy sparzyć wrzątkiem i wysuszyć suszarką do włosów. Zawsze używaj wyrobu pod nadzorem dorosłych.</p>\n<p>Uwaga! Produkt nie jest zabawką. Przechowuj go w miejscu niedostępnym dla dziecka.</p>",
+      "changed": true
+    },
+    {
+      "id": "gid://shopify/Product/10586497909069",
+      "legacyResourceId": "10586497909069",
+      "handle": "canpol-zestaw-wyprawkowy-do-szpitala",
+      "title": "Canpol - ZESTAW WYPRAWKOWY do szpitala - 5 produktów",
+      "old_h1": {
+        "open": 1,
+        "close": 1
+      },
+      "new_h1_planned": {
+        "open": 0,
+        "close": 0
+      },
+      "new_h1_returned": {
+        "open": 0,
+        "close": 0
+      },
+      "old_descriptionHtml": "<h1>🌸 Zestaw Wyprawka do Szpitala Canpol Babies – Kompletna Higiena i Spokój</h1>\n<p>Przygotuj się na spotkanie z maleństwem z pełnym wyposażeniem. Ten zestaw to niezbędnik każdej mamy do torby do porodu, skomponowany tak, aby zapewnić Ci maksymalną dyskrecję, świeżość i wygodę w pierwszych dniach po narodzinach dziecka.</p>\n<h2>📦 W zestawie znajdziesz:</h2>\n<ul>\n<li>73/003 Podkłady poporodowe na DZIEŃ (10 szt.) – wysokochłonne i oddychające.</li>\n<li>78/001 Podkłady poporodowe na NOC (10 szt.) – wydłużone dla pełnej ochrony.</li>\n<li>78/007 Dyskretne podpaski ze skrzydełkami DAY (10 szt.) – idealne na kolejny etap.</li>\n<li>73/002 Wielorazowe majtki siateczkowe (2 szt.) – wybierz rozmiar: S/M lub L/XL.</li>\n<li>78/002new Podkłady na łóżko 90x60 cm z naklejkami (10 szt.) – stabilna ochrona materaca.</li>\n<li>1/653 Ultrachłonne wkładki laktacyjne 3D (30 szt.) – dyskrecja i suchość.</li>\n</ul>\n<h2><strong>✨ Dlaczego warto wybrać ten komplet?</strong></h2>\n<ol>\n<li>Pełna gotowość – Masz wszystkie niezbędne produkty higieniczne w jednym, profesjonalnie dobranym pakiecie.</li>\n<li>Swobodny przepływ powietrza – Oddychające materiały wspierają naturalną regenerację organizmu (także po CC).</li>\n<li>Stabilność i pewność – Dzięki paskom samoprzylepnym w podkładach na łóżko oraz skrzydełkom w podpaskach, produkty pozostają na swoim miejscu, zapewniając Ci pełną swobodę.</li>\n</ol>\n<h2>📖 Dowiedz się więcej o pielęgnacji po porodzie:</h2>\n<p>Pierwsze dni po narodzinach dziecka wymagają szczególnej dbałości o higienę. Specjalistyczne podkłady Canpol Babies zostały zaprojektowane tak, aby zapewniać znacznie wyższą chłonność niż zwykłe podpaski, co jest kluczowe w tym wyjątkowym czasie.</p>\n<ul>\n<li>Higiena i regeneracja: Regularna wymiana podkładów pomaga utrzymać czystość i wspiera procesy naprawcze Twojego ciała. W zestawie otrzymujesz optymalny zapas na start.</li>\n<li>Komfort po cesarskim cięciu: Bezszwowe majtki siateczkowe z wysokim stanem są niezwykle delikatne, nie uciskają okolic brzucha i pozwalają skórze oddychać.</li>\n<li>Czystość i wygoda: Podkłady na łóżko (90x60 cm) z 4 paskami samoprzylepnymi to idealne zabezpieczenie pościeli. Nie przesuwają się i nie rolują, co znacząco podnosi Twój komfort podczas odpoczynku.</li>\n<li>Dyskretna ochrona ubrań: Wkładki laktacyjne o anatomicznym kształcie są ultracienkie i niewidoczne pod bielizną. Podwójny pasek klejący sprawia, że wkładka nie przesuwa się wewnątrz biustonosza.</li>\n</ul>\n<p>Ważne informacje:<br>To jest wyrób medyczny. Dla bezpieczeństwa używaj go zgodnie z instrukcją lub etykietą. W przypadku wątpliwości skonsultuj się ze specjalistą.<br>Wielorazowe majtki siateczkowe mogą zostać dostarczone w nowym lub starym opakowaniu (nie wpływa to na jakość produktu).</p>\n<blockquote></blockquote>\n<p>Wybierz swój rozmiar majtek poniżej i zadbaj o swój komfort już teraz! </p>",
+      "new_descriptionHtml": "<h2>🌸 Zestaw Wyprawka do Szpitala Canpol Babies – Kompletna Higiena i Spokój</h2>\n<p>Przygotuj się na spotkanie z maleństwem z pełnym wyposażeniem. Ten zestaw to niezbędnik każdej mamy do torby do porodu, skomponowany tak, aby zapewnić Ci maksymalną dyskrecję, świeżość i wygodę w pierwszych dniach po narodzinach dziecka.</p>\n<h2>📦 W zestawie znajdziesz:</h2>\n<ul>\n<li>73/003 Podkłady poporodowe na DZIEŃ (10 szt.) – wysokochłonne i oddychające.</li>\n<li>78/001 Podkłady poporodowe na NOC (10 szt.) – wydłużone dla pełnej ochrony.</li>\n<li>78/007 Dyskretne podpaski ze skrzydełkami DAY (10 szt.) – idealne na kolejny etap.</li>\n<li>73/002 Wielorazowe majtki siateczkowe (2 szt.) – wybierz rozmiar: S/M lub L/XL.</li>\n<li>78/002new Podkłady na łóżko 90x60 cm z naklejkami (10 szt.) – stabilna ochrona materaca.</li>\n<li>1/653 Ultrachłonne wkładki laktacyjne 3D (30 szt.) – dyskrecja i suchość.</li>\n</ul>\n<h2><strong>✨ Dlaczego warto wybrać ten komplet?</strong></h2>\n<ol>\n<li>Pełna gotowość – Masz wszystkie niezbędne produkty higieniczne w jednym, profesjonalnie dobranym pakiecie.</li>\n<li>Swobodny przepływ powietrza – Oddychające materiały wspierają naturalną regenerację organizmu (także po CC).</li>\n<li>Stabilność i pewność – Dzięki paskom samoprzylepnym w podkładach na łóżko oraz skrzydełkom w podpaskach, produkty pozostają na swoim miejscu, zapewniając Ci pełną swobodę.</li>\n</ol>\n<h2>📖 Dowiedz się więcej o pielęgnacji po porodzie:</h2>\n<p>Pierwsze dni po narodzinach dziecka wymagają szczególnej dbałości o higienę. Specjalistyczne podkłady Canpol Babies zostały zaprojektowane tak, aby zapewniać znacznie wyższą chłonność niż zwykłe podpaski, co jest kluczowe w tym wyjątkowym czasie.</p>\n<ul>\n<li>Higiena i regeneracja: Regularna wymiana podkładów pomaga utrzymać czystość i wspiera procesy naprawcze Twojego ciała. W zestawie otrzymujesz optymalny zapas na start.</li>\n<li>Komfort po cesarskim cięciu: Bezszwowe majtki siateczkowe z wysokim stanem są niezwykle delikatne, nie uciskają okolic brzucha i pozwalają skórze oddychać.</li>\n<li>Czystość i wygoda: Podkłady na łóżko (90x60 cm) z 4 paskami samoprzylepnymi to idealne zabezpieczenie pościeli. Nie przesuwają się i nie rolują, co znacząco podnosi Twój komfort podczas odpoczynku.</li>\n<li>Dyskretna ochrona ubrań: Wkładki laktacyjne o anatomicznym kształcie są ultracienkie i niewidoczne pod bielizną. Podwójny pasek klejący sprawia, że wkładka nie przesuwa się wewnątrz biustonosza.</li>\n</ul>\n<p>Ważne informacje:<br>To jest wyrób medyczny. Dla bezpieczeństwa używaj go zgodnie z instrukcją lub etykietą. W przypadku wątpliwości skonsultuj się ze specjalistą.<br>Wielorazowe majtki siateczkowe mogą zostać dostarczone w nowym lub starym opakowaniu (nie wpływa to na jakość produktu).</p>\n<blockquote></blockquote>\n<p>Wybierz swój rozmiar majtek poniżej i zadbaj o swój komfort już teraz! </p>",
+      "changed": true
+    }
+  ]
+}

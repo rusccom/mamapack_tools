@@ -1,0 +1,156 @@
+{
+  "createdAt": "2026-05-09T19:38:40+0300",
+  "sourceUrl": "https://b2b.marini.pl/items/39953?parent=39947",
+  "sourcePage": "ZABAWA I EDUKACJA",
+  "chosenCollection": {
+    "title": "Gryzaki",
+    "handle": "gryzaki",
+    "reason": "Title contains gryzaczek"
+  },
+  "pricing": {
+    "purchaseNet": "3.75",
+    "salePriceMultiplier": "1.60",
+    "salePrice": "6.00"
+  },
+  "sourceProduct": {
+    "id": 43962,
+    "sku": "777893",
+    "title": "CANPOL 13/107 Grzechotka z gryzaczkiem",
+    "imageId": 80528,
+    "status": "Preview",
+    "barcode": "5903407131078",
+    "stock": "19",
+    "imagePath": "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\777893-1.jpg"
+  },
+  "shopify": {
+    "productId": "gid://shopify/Product/10655486345549",
+    "collection": {
+      "id": "gid://shopify/Collection/660911161677",
+      "title": "Gryzaki",
+      "handle": "gryzaki"
+    },
+    "seo": {
+      "id": "gid://shopify/Product/10655486345549",
+      "handle": "canpol-13-107-grzechotka-z-gryzaczkiem",
+      "seo": {
+        "title": "CANPOL 13/107 grzechotka z gryzaczkiem | Mama Pack",
+        "description": "Grzechotka z gryzaczkiem CANPOL 13/107 dla niemowląt. Lekka zabawka do rączki, pomocna przy ząbkowaniu. SKU 777893."
+      }
+    },
+    "product": {
+      "handle": "canpol-13-107-grzechotka-z-gryzaczkiem",
+      "title": "CANPOL 13/107 Grzechotka z gryzaczkiem",
+      "description_html": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\"><section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Gryzak i grzechotka dla niemowląt</p><h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">CANPOL 13/107 Grzechotka z gryzaczkiem</h2><p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Lekka grzechotka z gryzaczkiem Canpol do codziennej zabawy i wsparcia w okresie ząbkowania.</p><div><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Canpol</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">SKU 777893</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">EAN 5903407131078</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Do zabawy i ząbkowania</h3>Połączenie grzechotki i gryzaczka pomaga zająć maluszka w domu, w wózku albo podczas spaceru. Poręczny kształt ułatwia trzymanie w małych rączkach.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">grzechotka z elementem do gryzienia dla niemowląt</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">lekka forma wygodna do chwytania</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">sprawdza się jako mała zabawka do torby lub wózka</span></div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Gryzak</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Element do gryzienia pomaga dziecku podczas ząbkowania.</p></div><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Grzechotka</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Delikatny dźwięk zachęca do zabawy i poznawania nowych bodźców.</p></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3><div style=\"margin-top:12px;\"><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Canpol</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">13/107</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">777893</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kod EAN</strong><span style=\"color:#6a5260;text-align:right;\">5903407131078</span></div></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed użyciem</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed podaniem dziecku.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Utrzymuj zabawkę w czystości zgodnie z zaleceniami producenta.</span></div></section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p></div>",
+      "vendor": "Canpol",
+      "product_type": "Gryzaki",
+      "tags": [
+        "Canpol",
+        "Dla dziecka",
+        "Gryzaki",
+        "Marini"
+      ],
+      "option_name": "Title",
+      "option_values": [
+        "Default Title"
+      ],
+      "shopify_id": "gid://shopify/Product/10655486345549",
+      "legacy_resource_id": 10655486345549,
+      "status": "DRAFT",
+      "media_urls": [
+        "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/777893-1.jpg?v=1778344712"
+      ],
+      "variants": [
+        {
+          "option_value": "Default Title",
+          "sku": "777893",
+          "barcode": "5903407131078",
+          "price": "6.00",
+          "detail_url": "https://b2b.marini.pl/items/39953?parent=39947",
+          "source_code": "777893",
+          "source_title": "CANPOL 13/107 Grzechotka z gryzaczkiem",
+          "source_sku": "777893",
+          "shopify_id": "gid://shopify/ProductVariant/53868457525581",
+          "legacy_resource_id": 53868457525581,
+          "media_urls": [
+            "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/777893-1.jpg?v=1778344712"
+          ]
+        }
+      ]
+    }
+  },
+  "baselinker": {
+    "inventoryId": 43540,
+    "shopifyStorageId": "shop_5022274",
+    "priceGroupId": 22945,
+    "category": {
+      "category_id": 7988213,
+      "name": "Gryzaki",
+      "parent_id": 2920334,
+      "created": true
+    },
+    "createdOrUpdatedProductIds": [
+      "590496900"
+    ],
+    "details": {
+      "590496900": {
+        "is_bundle": false,
+        "ean": "5903407131078",
+        "asin": "",
+        "parent_id": 0,
+        "sku": "777893",
+        "tags": [],
+        "tax_rate": 0,
+        "weight": 0,
+        "height": 0,
+        "width": 0,
+        "length": 0,
+        "star": 0,
+        "category_id": 7988213,
+        "manufacturer_id": 0,
+        "text_fields": {
+          "name": "CANPOL 13/107 Grzechotka z gryzaczkiem",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\"><section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">Gryzak i grzechotka dla niemowląt</p><h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">CANPOL 13/107 Grzechotka z gryzaczkiem</h2><p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Lekka grzechotka z gryzaczkiem Canpol do codziennej zabawy i wsparcia w okresie ząbkowania.</p><div><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Canpol</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">SKU 777893</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">EAN 5903407131078</span></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Do zabawy i ząbkowania</h3>Połączenie grzechotki i gryzaczka pomaga zająć maluszka w domu, w wózku albo podczas spaceru. Poręczny kształt ułatwia trzymanie w małych rączkach.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">grzechotka z elementem do gryzienia dla niemowląt</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">lekka forma wygodna do chwytania</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"color:#c16580;font-weight:700;\">&#10003;</span><span style=\"color:#5f4954;\">sprawdza się jako mała zabawka do torby lub wózka</span></div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Gryzak</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Element do gryzienia pomaga dziecku podczas ząbkowania.</p></div><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\"><div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">&#10003;</div><h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Grzechotka</h3><p style=\"margin:0;font-size:14px;color:#604955;\">Delikatny dźwięk zachęca do zabawy i poznawania nowych bodźców.</p></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3><div style=\"margin-top:12px;\"><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">Canpol</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Model</strong><span style=\"color:#6a5260;text-align:right;\">13/107</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">SKU</strong><span style=\"color:#6a5260;text-align:right;\">777893</span></div><div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\"><strong style=\"color:#503743;\">Kod EAN</strong><span style=\"color:#6a5260;text-align:right;\">5903407131078</span></div></div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Przed użyciem</h3><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Sprawdź stan produktu przed podaniem dziecku.</span></div><div style=\"display:flex;gap:10px;margin:0 0 8px;\"><span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">&#8226;</span><span style=\"color:#5f4954;\">Utrzymuj zabawkę w czystości zgodnie z zaleceniami producenta.</span></div></section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p></div>"
+        },
+        "stock": {
+          "bl_67231": 0
+        },
+        "prices": {
+          "22945": 6
+        },
+        "locations": {
+          "bl_67231": ""
+        },
+        "links": {
+          "shop_5022274": {
+            "product_id": "10655486345549",
+            "variant_id": "53868457525581"
+          }
+        },
+        "average_cost": 0,
+        "average_landed_cost": 0,
+        "images": {
+          "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/777893-1.jpg?v=1778344712"
+        }
+      }
+    },
+    "verification": {
+      "allOk": true,
+      "checks": [
+        {
+          "sku": "777893",
+          "baselinkerProductId": "590496900",
+          "expectedProductId": "10655486345549",
+          "actualProductId": "10655486345549",
+          "expectedVariantId": "53868457525581",
+          "actualVariantId": "53868457525581",
+          "linkOk": true,
+          "categoryId": 7988213,
+          "categoryOk": true,
+          "price": {
+            "22945": 6
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1947 @@
+﻿{
+    "checkedAt":  "2026-05-10T17:08:08.6036782+03:00",
+    "sourceUrl":  "https://b2b.marini.pl/items/28?parent=22",
+    "extract":  {
+                    "url":  "https://b2b.marini.pl/items/28?parent=22",
+                    "selectedCategories":  [
+                                               {
+                                                   "text":  "AKUKU group 28",
+                                                   "route":  "/items/28?parent=22",
+                                                   "groupId":  28
+                                               }
+                                           ],
+                    "groups":  [
+                                   {
+                                       "category":  {
+                                                        "text":  "AKUKU group 28",
+                                                        "route":  "/items/28?parent=22",
+                                                        "groupId":  28
+                                                    },
+                                       "pages":  [
+                                                     {
+                                                         "url":  "/api/items/articleListXl/?groupId=28\u0026filterInGroup=false\u0026pageNumber=1\u0026sortMode=NameAsc\u0026onlyAvailable=false\u0026warehouseId=1\u0026stockLevelFilter=0",
+                                                         "ok":  true,
+                                                         "status":  200,
+                                                         "json":  {
+                                                                      "articleList":  [
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  54952,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  57639,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "AKUKU A0517 Śliniak z rękawkiem BORSUK",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "788472",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Preview",
+                                                                                              "rowNumber":  1,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  54953,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  57638,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "AKUKU A0518 Śliniak z rękawkiem MISIO",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "788473",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Preview",
+                                                                                              "rowNumber":  2,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  25026,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  12168,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "AKUKU A1300 Śliniak na rzep mały",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "761535",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  3,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  22509,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  4216,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "AKUKU A1320 Śliniak na rzep średni",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "25413",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  4,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  63728,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  72141,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "AKUKU A1512 Śliniak - Apaszka na rzep Serduszka",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "5907634",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  5,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  63729,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  72140,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "AKUKU A1513 Śliniak-Apaszka na rzep Jeżyki",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "5907635",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  6,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  1611,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  12203,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "AKUKU A1600 Śliniak wiązany mini",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "4432",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  7,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  26717,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  12510,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "AKUKU A1640 Śliniak wiązany mały",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "763127",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  8,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  69076,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  84568,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "AKUKU A1662 Śliniak wiązany SOWY",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "5912512",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  9,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  69078,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  84567,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "AKUKU A1663 Śliniak wiązany AUTKA",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "5912513",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  10,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  69079,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  84566,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "AKUKU A1664 Śliniak wiązany JEŻYKI",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "5912514",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  11,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  69080,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  84565,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "AKUKU A1665 Śliniak wiązany GWIAZDKI",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "5912515",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  12,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  69082,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  84564,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "AKUKU A1666 Śliniak wiązany KOTY",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "5912516",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  13,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  39848,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  29196,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "AKUKU A1744 Śliniak rękawek okulary",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "773899",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  14,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          }
+                                                                                      ],
+                                                                      "paging":  {
+                                                                                     "currentPage":  1,
+                                                                                     "totalPages":  1,
+                                                                                     "buildPager":  false
+                                                                                 }
+                                                                  }
+                                                     }
+                                                 ],
+                                       "articleList":  [
+                                                           {
+                                                               "article":  {
+                                                                               "id":  54952,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  57639,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "AKUKU A0517 Śliniak z rękawkiem BORSUK",
+                                                                               "code":  {
+                                                                                            "value":  "788472",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Preview",
+                                                               "rowNumber":  1,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  54953,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  57638,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "AKUKU A0518 Śliniak z rękawkiem MISIO",
+                                                                               "code":  {
+                                                                                            "value":  "788473",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Preview",
+                                                               "rowNumber":  2,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  25026,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  12168,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "AKUKU A1300 Śliniak na rzep mały",
+                                                                               "code":  {
+                                                                                            "value":  "761535",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  3,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  22509,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  4216,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "AKUKU A1320 Śliniak na rzep średni",
+                                                                               "code":  {
+                                                                                            "value":  "25413",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  4,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  63728,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  72141,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "AKUKU A1512 Śliniak - Apaszka na rzep Serduszka",
+                                                                               "code":  {
+                                                                                            "value":  "5907634",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  5,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  63729,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  72140,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "AKUKU A1513 Śliniak-Apaszka na rzep Jeżyki",
+                                                                               "code":  {
+                                                                                            "value":  "5907635",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  6,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  1611,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  12203,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "AKUKU A1600 Śliniak wiązany mini",
+                                                                               "code":  {
+                                                                                            "value":  "4432",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  7,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  26717,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  12510,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "AKUKU A1640 Śliniak wiązany mały",
+                                                                               "code":  {
+                                                                                            "value":  "763127",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  8,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  69076,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  84568,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "AKUKU A1662 Śliniak wiązany SOWY",
+                                                                               "code":  {
+                                                                                            "value":  "5912512",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  9,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  69078,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  84567,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "AKUKU A1663 Śliniak wiązany AUTKA",
+                                                                               "code":  {
+                                                                                            "value":  "5912513",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  10,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  69079,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  84566,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "AKUKU A1664 Śliniak wiązany JEŻYKI",
+                                                                               "code":  {
+                                                                                            "value":  "5912514",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  11,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  69080,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  84565,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "AKUKU A1665 Śliniak wiązany GWIAZDKI",
+                                                                               "code":  {
+                                                                                            "value":  "5912515",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  12,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  69082,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  84564,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "AKUKU A1666 Śliniak wiązany KOTY",
+                                                                               "code":  {
+                                                                                            "value":  "5912516",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  13,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  39848,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  29196,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "AKUKU A1744 Śliniak rękawek okulary",
+                                                                               "code":  {
+                                                                                            "value":  "773899",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  14,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           }
+                                                       ],
+                                       "details":  [
+                                                       {
+                                                           "id":  54952,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=54952\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  11.21,
+                                                                                      "grossPrice":  13.7883,
+                                                                                      "baseNetPrice":  12.18,
+                                                                                      "baseGrossPrice":  14.9814,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "12",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5907644005178",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  54953,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=54953\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  11.21,
+                                                                                      "grossPrice":  13.7883,
+                                                                                      "baseNetPrice":  12.18,
+                                                                                      "baseGrossPrice":  14.9814,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "0",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5907644005185",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  25026,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=25026\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  4.82,
+                                                                                      "grossPrice":  5.9286,
+                                                                                      "baseNetPrice":  5.24,
+                                                                                      "baseGrossPrice":  6.4452,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "8",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5907644013005",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  22509,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=22509\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  5.71,
+                                                                                      "grossPrice":  7.0233,
+                                                                                      "baseNetPrice":  6.21,
+                                                                                      "baseGrossPrice":  7.6383,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "0",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5907644013203",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  63728,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=63728\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  5.21,
+                                                                                      "grossPrice":  6.4083,
+                                                                                      "baseNetPrice":  5.66,
+                                                                                      "baseGrossPrice":  6.9618,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "18",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5907644015122",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  63729,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=63729\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  4.87,
+                                                                                      "grossPrice":  5.9901,
+                                                                                      "baseNetPrice":  5.29,
+                                                                                      "baseGrossPrice":  6.5067,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "6",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5907644015139",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  1611,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=1611\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  2.82,
+                                                                                      "grossPrice":  3.4686,
+                                                                                      "baseNetPrice":  3.07,
+                                                                                      "baseGrossPrice":  3.7761,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "30",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5907644016006",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  26717,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=26717\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  4.68,
+                                                                                      "grossPrice":  5.7564,
+                                                                                      "baseNetPrice":  5.09,
+                                                                                      "baseGrossPrice":  6.2607,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "8",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5907644016402",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  69076,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=69076\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  4.38,
+                                                                                      "grossPrice":  5.3874,
+                                                                                      "baseNetPrice":  4.76,
+                                                                                      "baseGrossPrice":  5.8548,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "16",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5907644016624",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  69078,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=69078\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  4.38,
+                                                                                      "grossPrice":  5.3874,
+                                                                                      "baseNetPrice":  4.76,
+                                                                                      "baseGrossPrice":  5.8548,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "13",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5907644016631",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  69079,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=69079\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  4.68,
+                                                                                      "grossPrice":  5.7564,
+                                                                                      "baseNetPrice":  5.09,
+                                                                                      "baseGrossPrice":  6.2607,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "3",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5907644016648",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  69080,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=69080\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  4.38,
+                                                                                      "grossPrice":  5.3874,
+                                                                                      "baseNetPrice":  4.76,
+                                                                                      "baseGrossPrice":  5.8548,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "4",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5907644016655",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  69082,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=69082\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  4.68,
+                                                                                      "grossPrice":  5.7564,
+                                                                                      "baseNetPrice":  5.09,
+                                                                                      "baseGrossPrice":  6.2607,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "4",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5907644016662",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  39848,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=39848\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  13.38,
+                                                                                      "grossPrice":  16.4574,
+                                                                                      "baseNetPrice":  14.54,
+                                                                                      "baseGrossPrice":  17.8842,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "7",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5907644017447",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       }
+                                                   ]
+                                   }
+                               ]
+                }
+}

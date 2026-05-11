@@ -1,0 +1,40 @@
+{
+  "created_parent": true,
+  "parent": {
+    "id": "gid://shopify/Collection/660933181773",
+    "title": "Higiena intymna",
+    "handle": "higiena-intymna",
+    "descriptionHtml": "<style data-mamapack-subcategory-nav>.collection-hero__description{max-width:100%!important;width:100%!important;}</style><section data-mamapack-subcategories=\"true\" style=\"display:block;box-sizing:border-box;width:100%;max-width:1200px;margin:0 auto 16px;padding:16px 18px;border:1px solid #f1d8de;border-radius:18px;background:#fffafb;font-family:Arial,Helvetica,sans-serif;color:#33252f;\"><h2 style=\"margin:0 0 8px;font-size:18px;line-height:1.3;color:#342630;\">W tej kategorii</h2>\n<p style=\"margin:0 0 12px;font-size:15px;color:#5f4954;\">Wybierz podkategorię, aby szybciej znaleźć potrzebne produkty.</p>\n<div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;\">\n<a href=\"/collections/higiena-intymna\" style=\"display:block;text-decoration:none;color:#33252f;border:1px solid #ead8de;border-radius:10px;padding:10px 12px;background:#fff;line-height:1.25;font-size:14px;\">Pokaż wszystko</a><a href=\"/collections/higiena-intymna-po-porodzie\" style=\"display:block;text-decoration:none;color:#33252f;border:1px solid #ead8de;border-radius:10px;padding:10px 12px;background:#fff;line-height:1.25;font-size:14px;\">Higiena intymna po porodzie</a><a href=\"/collections/produkty-papierowe\" style=\"display:block;text-decoration:none;color:#33252f;border:1px solid #ead8de;border-radius:10px;padding:10px 12px;background:#fff;line-height:1.25;font-size:14px;\">Produkty papierowe</a>\n</div></section><style data-mamapack-collection-description>.collection-hero__description{max-width:100%!important;width:100%!important;}</style><div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;width:100%;max-width:none;box-sizing:border-box;display:block;\"><section style=\"display:block;box-sizing:border-box;width:100%;max-width:1200px;background:#fffafb;border:1px solid #f1d8de;border-radius:18px;padding:16px 18px;margin:0 auto 16px;\"><h2 style=\"margin:0 0 8px;font-size:18px;line-height:1.3;color:#342630;\">Na co zwrócić uwagę?</h2>\n<p style=\"margin:0 0 10px;font-size:15px;color:#5f4954;\">W tej grupie są produkty do higieny intymnej po porodzie oraz produkty papierowe przydatne w domu, szpitalu i podróży.</p>\n<ul style=\"margin:0 0 0 18px;padding:0;color:#5f4954;font-size:15px;\">\n<li style=\"margin:0 0 7px;\">\n<strong>Higiena intymna po porodzie:</strong> płyny, chusteczki, butelki peri i kompresy.</li>\n<li style=\"margin:0;\">\n<strong>Produkty papierowe:</strong> nakładki, ręczniki, papier i suche chusteczki.</li>\n</ul></section></div>",
+    "productsCount": {
+      "count": 15
+    },
+    "publishedOnPublication": true
+  },
+  "postpartum": {
+    "id": "gid://shopify/Collection/621642776909",
+    "title": "Higiena intymna po porodzie",
+    "handle": "higiena-intymna-po-porodzie",
+    "descriptionHtml": "<style data-mamapack-collection-description>.collection-hero__description{max-width:100%!important;width:100%!important;}</style><div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;width:100%;max-width:none;box-sizing:border-box;display:block;\"><section style=\"display:block;box-sizing:border-box;width:100%;max-width:1200px;background:#fffafb;border:1px solid #f1d8de;border-radius:18px;padding:16px 18px;margin:0 auto 16px;\"><h2 style=\"margin:0 0 8px;font-size:18px;line-height:1.3;color:#342630;\">Na co zwrócić uwagę?</h2>\n<p style=\"margin:0 0 10px;font-size:15px;color:#5f4954;\">Kategoria obejmuje produkty do higieny intymnej po porodzie: płyny, chusteczki, butelki peri i kompresy.</p>\n<ul style=\"margin:0 0 0 18px;padding:0;color:#5f4954;font-size:15px;\">\n<li style=\"margin:0 0 7px;\">\n<strong>Delikatność:</strong> wybieraj łagodne formuły bez drażniących dodatków.</li>\n<li style=\"margin:0 0 7px;\">\n<strong>Połóg:</strong> produkty przydają się po toalecie i przy codziennej pielęgnacji.</li>\n<li style=\"margin:0;\">\n<strong>Komfort:</strong> butelka peri lub chłodzący kompres mogą ułatwić regenerację.</li>\n</ul></section></div><!-- mamapack-nav-refresh:20260508202035 --><!-- mamapack-nav-refresh:20260508202118 -->",
+    "productsCount": {
+      "count": 8
+    },
+    "publishedOnPublication": true
+  },
+  "paper": {
+    "id": "gid://shopify/Collection/621643268429",
+    "title": "Produkty papierowe",
+    "handle": "produkty-papierowe",
+    "descriptionHtml": "<style data-mamapack-collection-description>.collection-hero__description{max-width:100%!important;width:100%!important;}</style><div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;width:100%;max-width:none;box-sizing:border-box;display:block;\"><section style=\"display:block;box-sizing:border-box;width:100%;max-width:1200px;background:#fffafb;border:1px solid #f1d8de;border-radius:18px;padding:16px 18px;margin:0 auto 16px;\"><h2 style=\"margin:0 0 8px;font-size:18px;line-height:1.3;color:#342630;\">Na co zwrócić uwagę?</h2>\n<p style=\"margin:0 0 10px;font-size:15px;color:#5f4954;\">Produkty papierowe i jednorazowe pomagają zadbać o higienę w szpitalu, w podróży oraz w domu.</p>\n<ul style=\"margin:0 0 0 18px;padding:0;color:#5f4954;font-size:15px;\">\n<li style=\"margin:0 0 7px;\">\n<strong>Podstawy:</strong> przygotuj chusteczki, ręczniki papierowe i nakładki.</li>\n<li style=\"margin:0 0 7px;\">\n<strong>Delikatność:</strong> wybieraj produkty łagodne dla skóry i bez mocnych zapachów.</li>\n<li style=\"margin:0;\">\n<strong>Użycie:</strong> pamiętaj, że nie wszystkie chusteczki i nakładki można spłukiwać.</li>\n</ul></section></div>",
+    "productsCount": {
+      "count": 7
+    },
+    "publishedOnPublication": true
+  },
+  "parent_products_added_or_present": 15,
+  "paper_products_removed_from_postpartum": 7,
+  "remove_job": {
+    "id": "gid://shopify/Job/eecabeb7-8eb7-442f-af2f-e25fe7b354a5",
+    "done": false
+  },
+  "menu": "Dla mamy > Higiena intymna > Higiena intymna po porodzie / Produkty papierowe"
+}

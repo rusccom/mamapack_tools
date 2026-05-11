@@ -1,0 +1,199 @@
+{
+  "created_at": "2026-05-08T15:51:07",
+  "collections": [
+    {
+      "id": "gid://shopify/Collection/660908671309",
+      "title": "Bezpieczeństwo dziecka",
+      "handle": "bezpieczenstwo-dziecka",
+      "products": {
+        "nodes": [
+          {
+            "id": "gid://shopify/Product/10379288805709",
+            "title": "AKUKU A0710 - Bezpieczne PATYCZKI do uszu dla niemowląt - (60 szt.)",
+            "handle": "akuku-a0710-bezpieczne-patyczki-do-uszu-dla-niemowlat-60-szt",
+            "status": "ACTIVE"
+          },
+          {
+            "id": "gid://shopify/Product/9790714151245",
+            "title": "CANPOL 3/115 - Bezpieczne patyczki dla niemowląt - (55 szt.)",
+            "handle": "canpol-3-115-bezpieczne-patyczki-dla-niemowlat-55-szt",
+            "status": "ACTIVE"
+          },
+          {
+            "id": "gid://shopify/Product/10645601157453",
+            "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Sowa",
+            "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-sowa",
+            "status": "DRAFT"
+          },
+          {
+            "id": "gid://shopify/Product/10645601091917",
+            "title": "Tega Baby Nakładka sedesowa miękka Miś",
+            "handle": "tega-baby-nakladka-sedesowa-miekka-mis",
+            "status": "DRAFT"
+          },
+          {
+            "id": "gid://shopify/Product/10645601059149",
+            "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Miś",
+            "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-mis",
+            "status": "DRAFT"
+          },
+          {
+            "id": "gid://shopify/Product/10645600993613",
+            "title": "Tega Baby Podnóżek antypoślizgowy Monsters",
+            "handle": "tega-baby-podnozek-antyposlizgowy-monsters",
+            "status": "DRAFT"
+          },
+          {
+            "id": "gid://shopify/Product/10645600960845",
+            "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Monsters",
+            "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-monsters",
+            "status": "DRAFT"
+          },
+          {
+            "id": "gid://shopify/Product/10645600862541",
+            "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Meteo",
+            "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-meteo",
+            "status": "DRAFT"
+          },
+          {
+            "id": "gid://shopify/Product/10645600797005",
+            "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Króliczki",
+            "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-kroliczki",
+            "status": "DRAFT"
+          },
+          {
+            "id": "gid://shopify/Product/10645600764237",
+            "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Leśna Opowieść",
+            "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-lesna-opowiesc",
+            "status": "DRAFT"
+          },
+          {
+            "id": "gid://shopify/Product/10486365815117",
+            "title": "B.O.066 - Bezpieczne nożyczki - TAKE CARE",
+            "handle": "b-o-066-bezpieczne-nozyczki-take-care",
+            "status": "ACTIVE"
+          }
+        ]
+      },
+      "published_on": {
+        "Online Store": false,
+        "Shop": false,
+        "Google & YouTube": false
+      }
+    },
+    {
+      "id": "gid://shopify/Collection/660908704077",
+      "title": "Zabezpieczenia domu",
+      "handle": "zabezpieczenia-domu",
+      "products": {
+        "nodes": [
+          {
+            "id": "gid://shopify/Product/10645601157453",
+            "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Sowa",
+            "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-sowa",
+            "status": "DRAFT"
+          },
+          {
+            "id": "gid://shopify/Product/10645601091917",
+            "title": "Tega Baby Nakładka sedesowa miękka Miś",
+            "handle": "tega-baby-nakladka-sedesowa-miekka-mis",
+            "status": "DRAFT"
+          },
+          {
+            "id": "gid://shopify/Product/10645601059149",
+            "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Miś",
+            "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-mis",
+            "status": "DRAFT"
+          },
+          {
+            "id": "gid://shopify/Product/10645600993613",
+            "title": "Tega Baby Podnóżek antypoślizgowy Monsters",
+            "handle": "tega-baby-podnozek-antyposlizgowy-monsters",
+            "status": "DRAFT"
+          },
+          {
+            "id": "gid://shopify/Product/10645600960845",
+            "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Monsters",
+            "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-monsters",
+            "status": "DRAFT"
+          },
+          {
+            "id": "gid://shopify/Product/10645600862541",
+            "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Meteo",
+            "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-meteo",
+            "status": "DRAFT"
+          },
+          {
+            "id": "gid://shopify/Product/10645600797005",
+            "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Króliczki",
+            "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-kroliczki",
+            "status": "DRAFT"
+          },
+          {
+            "id": "gid://shopify/Product/10645600764237",
+            "title": "Tega Baby Fotelik do kąpieli antypoślizgowy Leśna Opowieść",
+            "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-lesna-opowiesc",
+            "status": "DRAFT"
+          }
+        ]
+      },
+      "published_on": {
+        "Online Store": false,
+        "Shop": false,
+        "Google & YouTube": false
+      }
+    },
+    {
+      "id": "gid://shopify/Collection/660908736845",
+      "title": "Bramki ochronne",
+      "handle": "bramki-ochronne",
+      "products": {
+        "nodes": []
+      },
+      "published_on": {
+        "Online Store": false,
+        "Shop": false,
+        "Google & YouTube": false
+      }
+    },
+    {
+      "id": "gid://shopify/Collection/660908769613",
+      "title": "Barierki do łóżka",
+      "handle": "barierki-do-lozka",
+      "products": {
+        "nodes": []
+      },
+      "published_on": {
+        "Online Store": false,
+        "Shop": false,
+        "Google & YouTube": false
+      }
+    },
+    {
+      "id": "gid://shopify/Collection/660908802381",
+      "title": "Szelki do nauki chodzenia",
+      "handle": "szelki-do-nauki-chodzenia",
+      "products": {
+        "nodes": []
+      },
+      "published_on": {
+        "Online Store": false,
+        "Shop": false,
+        "Google & YouTube": false
+      }
+    },
+    {
+      "id": "gid://shopify/Collection/660908835149",
+      "title": "Bezpieczeństwo w podróży",
+      "handle": "bezpieczenstwo-w-podrozy",
+      "products": {
+        "nodes": []
+      },
+      "published_on": {
+        "Online Store": false,
+        "Shop": false,
+        "Google & YouTube": false
+      }
+    }
+  ]
+}

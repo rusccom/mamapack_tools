@@ -1,0 +1,315 @@
+﻿{
+    "checkedAt":  "2026-05-10T16:47:58.4249938+03:00",
+    "sourceUrl":  "https://b2b.marini.pl/items/41009?parent=22",
+    "extract":  {
+                    "url":  "https://b2b.marini.pl/items/41009?parent=22",
+                    "selectedCategories":  [
+                                               {
+                                                   "text":  "RoЕјki i kocyki dla niemowlД…t",
+                                                   "route":  "/items/41009?parent=22",
+                                                   "groupId":  41009
+                                               }
+                                           ],
+                    "groups":  [
+                                   {
+                                       "category":  {
+                                                        "text":  "RoЕјki i kocyki dla niemowlД…t",
+                                                        "route":  "/items/41009?parent=22",
+                                                        "groupId":  41009
+                                                    },
+                                       "pages":  [
+                                                     {
+                                                         "url":  "/api/items/articleListXl/?groupId=41009\u0026filterInGroup=false\u0026pageNumber=1\u0026sortMode=NameAsc\u0026onlyAvailable=false\u0026warehouseId=1\u0026stockLevelFilter=0",
+                                                         "ok":  true,
+                                                         "status":  200,
+                                                         "json":  {
+                                                                      "articleList":  [
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  70342,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  84540,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "AKUKU A0685 Kocyk / otulacz / ręcznik muślinowy 110x105 cm Dinozaury",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "5912746",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  1,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  70343,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  84537,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "AKUKU A0686 Kocyk / otulacz / ręcznik muślinowy 110x105 cm Flamingi",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "5912747",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  2,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          }
+                                                                                      ],
+                                                                      "paging":  {
+                                                                                     "currentPage":  1,
+                                                                                     "totalPages":  1,
+                                                                                     "buildPager":  false
+                                                                                 }
+                                                                  }
+                                                     }
+                                                 ],
+                                       "articleList":  [
+                                                           {
+                                                               "article":  {
+                                                                               "id":  70342,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  84540,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "AKUKU A0685 Kocyk / otulacz / ręcznik muślinowy 110x105 cm Dinozaury",
+                                                                               "code":  {
+                                                                                            "value":  "5912746",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  1,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  70343,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  84537,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "AKUKU A0686 Kocyk / otulacz / ręcznik muślinowy 110x105 cm Flamingi",
+                                                                               "code":  {
+                                                                                            "value":  "5912747",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  2,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           }
+                                                       ],
+                                       "details":  [
+                                                       {
+                                                           "id":  70342,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=70342\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  24.62,
+                                                                                      "grossPrice":  30.2826,
+                                                                                      "baseNetPrice":  26.76,
+                                                                                      "baseGrossPrice":  32.9148,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "16",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5907644006854",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  70343,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=70343\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  24.62,
+                                                                                      "grossPrice":  30.2826,
+                                                                                      "baseNetPrice":  26.76,
+                                                                                      "baseGrossPrice":  32.9148,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "42",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5907644006861",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       }
+                                                   ]
+                                   }
+                               ]
+                }
+}

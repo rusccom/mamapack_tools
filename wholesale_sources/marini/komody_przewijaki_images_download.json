@@ -1,0 +1,29 @@
+﻿[
+    {
+        "sku":  "5912428",
+        "imageId":  "83753",
+        "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\komody_przewijaki\\5912428-1.jpg",
+        "width":  226,
+        "height":  320,
+        "length":  18831,
+        "src":  "https://b2b.marini.pl/imagehandler.ashx?id=83753\u0026width=320\u0026height=320"
+    },
+    {
+        "sku":  "5912429",
+        "imageId":  "83754",
+        "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\komody_przewijaki\\5912429-1.jpg",
+        "width":  226,
+        "height":  320,
+        "length":  17796,
+        "src":  "https://b2b.marini.pl/imagehandler.ashx?id=83754\u0026width=320\u0026height=320"
+    },
+    {
+        "sku":  "5912430",
+        "imageId":  "83755",
+        "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\komody_przewijaki\\5912430-1.jpg",
+        "width":  226,
+        "height":  320,
+        "length":  18500,
+        "src":  "https://b2b.marini.pl/imagehandler.ashx?id=83755\u0026width=320\u0026height=320"
+    }
+]

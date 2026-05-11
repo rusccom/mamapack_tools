@@ -1,0 +1,1829 @@
+[
+  {
+    "order_id": 34932745,
+    "packages": [
+      {
+        "package_id": 27784309,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_locker_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 34935459,
+    "packages": [
+      {
+        "package_id": 27784584,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_letter_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 34973288,
+    "packages": [
+      {
+        "package_id": 27800632,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.38,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 35029449,
+    "packages": [
+      {
+        "package_id": 27871557,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35048861,
+    "packages": [
+      {
+        "package_id": 27871863,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35095343,
+    "packages": [
+      {
+        "package_id": 27872104,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35112260,
+    "packages": [
+      {
+        "package_id": 27894662,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35132486,
+    "packages": [
+      {
+        "package_id": 27924439,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 35190616,
+    "packages": [
+      {
+        "package_id": 27933051,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_letter_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35205342,
+    "packages": [
+      {
+        "package_id": 27933801,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35206845,
+    "packages": [
+      {
+        "package_id": 27933931,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 15.89,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 35240934,
+    "packages": [
+      {
+        "package_id": 28133962,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_locker_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      },
+      {
+        "package_id": 28134211,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_locker_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35244842,
+    "packages": [
+      {
+        "package_id": 28137114,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "order_id": 35275092,
+    "packages": [
+      {
+        "package_id": 28138944,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_letter_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35318302,
+    "packages": [
+      {
+        "package_id": 28141371,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35350580,
+    "packages": [
+      {
+        "package_id": 28143885,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35368418,
+    "packages": [
+      {
+        "package_id": 28145050,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 15.89,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 35373126,
+    "packages": [
+      {
+        "package_id": 28148823,
+        "courier_code": "furgonetka",
+        "courier_other_name": "dpd",
+        "cost_value": 10.8,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35406644,
+    "packages": [
+      {
+        "package_id": 28150840,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35422739,
+    "packages": [
+      {
+        "package_id": 28152004,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35481658,
+    "packages": [
+      {
+        "package_id": 28212766,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35492896,
+    "packages": [
+      {
+        "package_id": 28317693,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35530958,
+    "packages": [
+      {
+        "package_id": 28320886,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_locker_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      },
+      {
+        "package_id": 28321338,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_locker_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35564927,
+    "packages": [
+      {
+        "package_id": 28320743,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "DHL_PL_EXPORT",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35599335,
+    "packages": [
+      {
+        "package_id": 28323689,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_DHL",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35602326,
+    "packages": [
+      {
+        "package_id": 28325323,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_AD_DPD",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35605599,
+    "packages": [
+      {
+        "package_id": 28326490,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "DHL_PL_EXPORT",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35614576,
+    "packages": [
+      {
+        "package_id": 28328170,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35619787,
+    "packages": [
+      {
+        "package_id": 28328688,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35623106,
+    "packages": [
+      {
+        "package_id": 28379308,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35624004,
+    "packages": [
+      {
+        "package_id": 28379648,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_locker_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35639372,
+    "packages": [
+      {
+        "package_id": 28330311,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35646685,
+    "packages": [
+      {
+        "package_id": 28380119,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "DPD_PL_EXPORT",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35654017,
+    "packages": [
+      {
+        "package_id": 28380421,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35667936,
+    "packages": [
+      {
+        "package_id": 28380733,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_locker_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35677955,
+    "packages": [
+      {
+        "package_id": 28381070,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_letter_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35682873,
+    "packages": [
+      {
+        "package_id": 28381848,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_INTERNATIONAL_INPOST",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35683382,
+    "packages": [
+      {
+        "package_id": 28382538,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35693120,
+    "packages": [
+      {
+        "package_id": 28436192,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_DPD",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35717400,
+    "packages": [
+      {
+        "package_id": 28381531,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35724941,
+    "packages": [
+      {
+        "package_id": 28436282,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_AD_DPD",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35725199,
+    "packages": [
+      {
+        "package_id": 28436454,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_ORLEN",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35744611,
+    "packages": [
+      {
+        "package_id": 28436873,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35770640,
+    "packages": [
+      {
+        "package_id": 28437217,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_ORLEN",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35772207,
+    "packages": [
+      {
+        "package_id": 28437258,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_ORLEN",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35778595,
+    "packages": [
+      {
+        "package_id": 28437300,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35790543,
+    "packages": [
+      {
+        "package_id": 28437333,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_letter_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35798944,
+    "packages": [
+      {
+        "package_id": 28437351,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_locker_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35837656,
+    "packages": [
+      {
+        "package_id": 28437382,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_AD_DPD",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35905350,
+    "packages": [
+      {
+        "package_id": 28686561,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_locker_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35907373,
+    "packages": [
+      {
+        "package_id": 28690777,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_AD_DPD",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35909944,
+    "packages": [
+      {
+        "package_id": 28692449,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_locker_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 35925809,
+    "packages": [
+      {
+        "package_id": 28693569,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_DHL",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 35953871,
+    "packages": [
+      {
+        "package_id": 28695261,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 36025126,
+    "packages": [
+      {
+        "package_id": 28697601,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_DHL",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36036702,
+    "packages": [
+      {
+        "package_id": 28699251,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_letter_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 36038370,
+    "packages": [
+      {
+        "package_id": 28700434,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "PACKETA_ORLEN",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36047286,
+    "packages": [
+      {
+        "package_id": 28797726,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_DPD",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36078066,
+    "packages": [
+      {
+        "package_id": 28800380,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "pop_inpost_locker_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 36080791,
+    "packages": [
+      {
+        "package_id": 28805543,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 19.49,
+        "cost_currency": "PLN",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "order_id": 36108794,
+    "packages": [
+      {
+        "package_id": 28841699,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.38,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 36120710,
+    "packages": [
+      {
+        "package_id": 28841799,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 36133367,
+    "packages": [
+      {
+        "package_id": 28842516,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_DPD",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36147596,
+    "packages": [
+      {
+        "package_id": 28842114,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 15.89,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 36147844,
+    "packages": [
+      {
+        "package_id": 28842621,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_ORLEN",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36150346,
+    "packages": [
+      {
+        "package_id": 28903520,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_DHL",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36170208,
+    "packages": [
+      {
+        "package_id": 28904129,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36173283,
+    "packages": [
+      {
+        "package_id": 28842117,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 15.89,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 36181557,
+    "packages": [
+      {
+        "package_id": 28906361,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 4
+      }
+    ]
+  },
+  {
+    "order_id": 36196784,
+    "packages": [
+      {
+        "package_id": 28906426,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_AD_DPD",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36205435,
+    "packages": [
+      {
+        "package_id": 28907022,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36210290,
+    "packages": [
+      {
+        "package_id": 28907172,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_INTERNATIONAL_INPOST",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36218355,
+    "packages": [
+      {
+        "package_id": 28909150,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 36219482,
+    "packages": [
+      {
+        "package_id": 28934587,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36322555,
+    "packages": [
+      {
+        "package_id": 28934870,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 36330691,
+    "packages": [
+      {
+        "package_id": 28935119,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36344422,
+    "packages": [
+      {
+        "package_id": 29034060,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 36353770,
+    "packages": [
+      {
+        "package_id": 28935269,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_INTERNATIONAL_INPOST",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36358158,
+    "packages": [
+      {
+        "package_id": 28934993,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 36366977,
+    "packages": [
+      {
+        "package_id": 28936465,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36433138,
+    "packages": [
+      {
+        "package_id": 29181977,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_DPD",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36433879,
+    "packages": [
+      {
+        "package_id": 29183276,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36435165,
+    "packages": [
+      {
+        "package_id": 28968735,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.38,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 36435852,
+    "packages": [
+      {
+        "package_id": 28969047,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 36450957,
+    "packages": [
+      {
+        "package_id": 28969409,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "DPD_PL_EXPORT",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36478518,
+    "packages": [
+      {
+        "package_id": 29059445,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_letter_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 36491555,
+    "packages": [
+      {
+        "package_id": 29063211,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36527757,
+    "packages": [
+      {
+        "package_id": 29065552,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_locker_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 36530861,
+    "packages": [
+      {
+        "package_id": 29070671,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36534658,
+    "packages": [
+      {
+        "package_id": 29067444,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_locker_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 36575666,
+    "packages": [
+      {
+        "package_id": 29108276,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 36576737,
+    "packages": [
+      {
+        "package_id": 29108504,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_DPD",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36600784,
+    "packages": [
+      {
+        "package_id": 29306919,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36618269,
+    "packages": [
+      {
+        "package_id": 29183143,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_AD_DPD",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36627160,
+    "packages": [
+      {
+        "package_id": 29184779,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.38,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 36640917,
+    "packages": [
+      {
+        "package_id": 29183811,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36650343,
+    "packages": [
+      {
+        "package_id": 29184265,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_locker_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 36673043,
+    "packages": [
+      {
+        "package_id": 29273997,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36729760,
+    "packages": [
+      {
+        "package_id": 29274290,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_DHL",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36750408,
+    "packages": [
+      {
+        "package_id": 29274682,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 36756964,
+    "packages": [
+      {
+        "package_id": 29387978,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36777578,
+    "packages": [
+      {
+        "package_id": 29274917,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36805702,
+    "packages": [
+      {
+        "package_id": 29331575,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36816893,
+    "packages": [
+      {
+        "package_id": 29346808,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36855562,
+    "packages": [
+      {
+        "package_id": 29355782,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_DHL",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36874956,
+    "packages": [
+      {
+        "package_id": 29392648,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 36891513,
+    "packages": [
+      {
+        "package_id": 29391030,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36900498,
+    "packages": [
+      {
+        "package_id": 29391856,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36914976,
+    "packages": [
+      {
+        "package_id": 29565793,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36917660,
+    "packages": [
+      {
+        "package_id": 29564538,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 36924917,
+    "packages": [
+      {
+        "package_id": 29480603,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 36941564,
+    "packages": [
+      {
+        "package_id": 29481314,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 36953498,
+    "packages": [
+      {
+        "package_id": 29567946,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 36978773,
+    "packages": [
+      {
+        "package_id": 29569939,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_locker_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 37035245,
+    "packages": [
+      {
+        "package_id": 29591091,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "DHL_PL_EXPORT",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 37079465,
+    "packages": [
+      {
+        "package_id": 29666695,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 37141801,
+    "packages": [
+      {
+        "package_id": 29591291,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_DHL",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 37151530,
+    "packages": []
+  },
+  {
+    "order_id": 37231694,
+    "packages": [
+      {
+        "package_id": 29667875,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 37236735,
+    "packages": [
+      {
+        "package_id": 29668703,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 37245573,
+    "packages": [
+      {
+        "package_id": 29670702,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_letter_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 37321737,
+    "packages": [
+      {
+        "package_id": 29741880,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_AD_DPD",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 37334107,
+    "packages": [
+      {
+        "package_id": 29747157,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_letter_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 37335099,
+    "packages": [
+      {
+        "package_id": 29744235,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_INTERNATIONAL_ONE",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 37345700,
+    "packages": [
+      {
+        "package_id": 29784812,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_DHL",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 37356782,
+    "packages": [
+      {
+        "package_id": 29784845,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 37361807,
+    "packages": [
+      {
+        "package_id": 29785492,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_ONE",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 37370854,
+    "packages": [
+      {
+        "package_id": 29786106,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 37382521,
+    "packages": [
+      {
+        "package_id": 29824619,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 37383606,
+    "packages": [
+      {
+        "package_id": 29824000,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 37404906,
+    "packages": [
+      {
+        "package_id": 29822063,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 37405483,
+    "packages": [
+      {
+        "package_id": 29824056,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 37405607,
+    "packages": [
+      {
+        "package_id": 29857220,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 16.19,
+        "cost_currency": "PLN",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "order_id": 37428419,
+    "packages": [
+      {
+        "package_id": 29857396,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_AD_DPD",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 37433737,
+    "packages": [
+      {
+        "package_id": 29857625,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_smart",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 37452342,
+    "packages": [
+      {
+        "package_id": 29857783,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_DHL",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 37453919,
+    "packages": [
+      {
+        "package_id": 29857959,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_AD_DPD",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 37455226,
+    "packages": [
+      {
+        "package_id": 29858039,
+        "courier_code": "paczkomaty",
+        "courier_other_name": "inpost_letter_allegro",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "order_id": 37456354,
+    "packages": [
+      {
+        "package_id": 29858150,
+        "courier_code": "furgonetka",
+        "courier_other_name": "inpost",
+        "cost_value": 18.68,
+        "cost_currency": "PLN",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "order_id": 37459067,
+    "packages": [
+      {
+        "package_id": 29858312,
+        "courier_code": "allegrokurier",
+        "courier_other_name": "ALLEGRO_ORLEN",
+        "cost_value": 0.0,
+        "cost_currency": "",
+        "weight": 3
+      }
+    ]
+  }
+]

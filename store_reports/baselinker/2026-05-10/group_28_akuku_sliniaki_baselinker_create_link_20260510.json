@@ -1,0 +1,1385 @@
+{
+  "createdAt": "2026-05-10T18:25:21.432578+03:00",
+  "inventoryId": 43540,
+  "shopifyStorageId": "shop_5022274",
+  "priceGroupId": 22945,
+  "category": {
+    "category_id": 7990085,
+    "name": "Śliniaki",
+    "parent_id": 2920334,
+    "created": false
+  },
+  "productCount": 6,
+  "variantSkuCount": 14,
+  "createdOrUpdatedParentIds": [
+    "590852437",
+    "590852445",
+    "590852453",
+    "590852462",
+    "590852468",
+    "590852474"
+  ],
+  "parentPriceFixes": [
+    {
+      "parentProductId": "590852437",
+      "price": 19.49,
+      "response": {
+        "status": "SUCCESS",
+        "product_id": 590852437,
+        "warnings": {}
+      }
+    },
+    {
+      "parentProductId": "590852445",
+      "price": 7.71,
+      "response": {
+        "status": "SUCCESS",
+        "product_id": 590852445,
+        "warnings": {}
+      }
+    },
+    {
+      "parentProductId": "590852453",
+      "price": 8.34,
+      "response": {
+        "status": "SUCCESS",
+        "product_id": 590852453,
+        "warnings": {}
+      }
+    },
+    {
+      "parentProductId": "590852462",
+      "price": 4.51,
+      "response": {
+        "status": "SUCCESS",
+        "product_id": 590852462,
+        "warnings": {}
+      }
+    },
+    {
+      "parentProductId": "590852468",
+      "price": 7.01,
+      "response": {
+        "status": "SUCCESS",
+        "product_id": 590852468,
+        "warnings": {}
+      }
+    }
+  ],
+  "shopifyProducts": [
+    {
+      "title": "AKUKU A0517(18) - Śliniak z rękawkiem",
+      "handle": "akuku-sliniak-z-rekawkiem",
+      "shopifyProductId": "gid://shopify/Product/10655952535885",
+      "shopifyLegacyResourceId": 10655952535885,
+      "optionName": "Wzór",
+      "variants": [
+        {
+          "sku": "A0517",
+          "barcode": "5907644005178",
+          "optionValue": "Borsuk",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873248665933",
+          "shopifyVariantLegacyResourceId": 53873248665933
+        },
+        {
+          "sku": "A0518",
+          "barcode": "5907644005185",
+          "optionValue": "Misio",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873248698701",
+          "shopifyVariantLegacyResourceId": 53873248698701
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A1300(20) - Śliniak na rzep",
+      "handle": "akuku-sliniak-na-rzep",
+      "shopifyProductId": "gid://shopify/Product/10655954174285",
+      "shopifyLegacyResourceId": 10655954174285,
+      "optionName": "Rozmiar",
+      "variants": [
+        {
+          "sku": "A1300",
+          "barcode": "5907644013005",
+          "optionValue": "mały",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873262395725",
+          "shopifyVariantLegacyResourceId": 53873262395725
+        },
+        {
+          "sku": "A1320",
+          "barcode": "5907644013203",
+          "optionValue": "średni",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873262428493",
+          "shopifyVariantLegacyResourceId": 53873262428493
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A1512(13) - Śliniak apaszka na rzep",
+      "handle": "akuku-sliniak-apaszka-na-rzep",
+      "shopifyProductId": "gid://shopify/Product/10655954239821",
+      "shopifyLegacyResourceId": 10655954239821,
+      "optionName": "Wzór",
+      "variants": [
+        {
+          "sku": "A1512",
+          "barcode": "5907644015122",
+          "optionValue": "Serduszka",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873262494029",
+          "shopifyVariantLegacyResourceId": 53873262494029
+        },
+        {
+          "sku": "A1513",
+          "barcode": "5907644015139",
+          "optionValue": "Jeżyki",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873262526797",
+          "shopifyVariantLegacyResourceId": 53873262526797
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A1600(40) - Śliniak wiązany",
+      "handle": "akuku-sliniak-wiazany",
+      "shopifyProductId": "gid://shopify/Product/10655954305357",
+      "shopifyLegacyResourceId": 10655954305357,
+      "optionName": "Rozmiar",
+      "variants": [
+        {
+          "sku": "A1600",
+          "barcode": "5907644016006",
+          "optionValue": "mini",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873262854477",
+          "shopifyVariantLegacyResourceId": 53873262854477
+        },
+        {
+          "sku": "A1640",
+          "barcode": "5907644016402",
+          "optionValue": "mały",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873262887245",
+          "shopifyVariantLegacyResourceId": 53873262887245
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A1662(63, 64, 65, 66) - Śliniak wiązany z nadrukiem",
+      "handle": "akuku-sliniak-wiazany-z-nadrukiem",
+      "shopifyProductId": "gid://shopify/Product/10655954338125",
+      "shopifyLegacyResourceId": 10655954338125,
+      "optionName": "Wzór",
+      "variants": [
+        {
+          "sku": "A1662",
+          "barcode": "5907644016624",
+          "optionValue": "Sowy",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873262920013",
+          "shopifyVariantLegacyResourceId": 53873262920013
+        },
+        {
+          "sku": "A1663",
+          "barcode": "5907644016631",
+          "optionValue": "Autka",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873262952781",
+          "shopifyVariantLegacyResourceId": 53873262952781
+        },
+        {
+          "sku": "A1664",
+          "barcode": "5907644016648",
+          "optionValue": "Jeżyki",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873262985549",
+          "shopifyVariantLegacyResourceId": 53873262985549
+        },
+        {
+          "sku": "A1665",
+          "barcode": "5907644016655",
+          "optionValue": "Gwiazdki",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873263018317",
+          "shopifyVariantLegacyResourceId": 53873263018317
+        },
+        {
+          "sku": "A1666",
+          "barcode": "5907644016662",
+          "optionValue": "Koty",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873263051085",
+          "shopifyVariantLegacyResourceId": 53873263051085
+        }
+      ]
+    },
+    {
+      "title": "AKUKU A1744 - Śliniak rękawek okulary",
+      "handle": "akuku-sliniak-rekawek-okulary",
+      "shopifyProductId": "gid://shopify/Product/10655954370893",
+      "shopifyLegacyResourceId": 10655954370893,
+      "optionName": "Title",
+      "variants": [
+        {
+          "sku": "A1744",
+          "barcode": "5907644017447",
+          "optionValue": "Default Title",
+          "shopifyVariantId": "gid://shopify/ProductVariant/53873263083853",
+          "shopifyVariantLegacyResourceId": 53873263083853
+        }
+      ]
+    }
+  ],
+  "baselinkerDetails": {
+    "590852437": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A0517(18) - Śliniak z rękawkiem",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak z rękawkiem</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Lekki śliniak z rękawkami, który chroni ubranko dziecka podczas jedzenia i zabawy.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">100% EVA</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">33 x 35 cm</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Wzory: Borsuk, Misio</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ochrona ubranka przy posiłkach</h3>Fartuszek z rękawkami pomaga ograniczyć zabrudzenia podczas karmienia, malowania i codziennych zabaw. Duża kieszeń zatrzymuje resztki jedzenia, a zapięcie na rzep ułatwia zakładanie.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki, miękki i łatwo zmywalny materiał EVA</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">długie rękawki chroniące ubranko</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">praktyczna kieszeń na resztki pokarmu</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">wygodne zapięcie na rzep</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do jedzenia</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga utrzymać ubranko w czystości podczas posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do zabawy</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Sprawdza się także przy kreatywnych aktywnościach dziecka.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Materiał</strong><span style=\"color:#6a5260;text-align:right;\">100% EVA</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Rozmiar</strong><span style=\"color:#6a5260;text-align:right;\">33 x 35 cm</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzory</strong><span style=\"color:#6a5260;text-align:right;\">Borsuk, Misio</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A0517, A0518</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644005178, 5907644005185</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po jedzeniu umyj śliniak w ciepłej wodzie z mydłem dla dzieci.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu i zapięcia.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 19.49
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655952535885",
+          "variant_id": "0"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "variants": {
+        "590852439": {
+          "name": "Borsuk",
+          "ean": "5907644005178",
+          "asin": "",
+          "sku": "A0517",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": 19.49
+          }
+        },
+        "590852442": {
+          "name": "Misio",
+          "ean": "5907644005185",
+          "asin": "",
+          "sku": "A0518",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": 19.49
+          }
+        }
+      },
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A0517-1.jpg?v=1778421839",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A0518-1.jpg?v=1778421838"
+      }
+    },
+    "590852439": {
+      "is_bundle": false,
+      "ean": "5907644005178",
+      "asin": "",
+      "parent_id": 590852437,
+      "sku": "A0517",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Borsuk",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak z rękawkiem</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Lekki śliniak z rękawkami, który chroni ubranko dziecka podczas jedzenia i zabawy.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">100% EVA</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">33 x 35 cm</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Wzory: Borsuk, Misio</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ochrona ubranka przy posiłkach</h3>Fartuszek z rękawkami pomaga ograniczyć zabrudzenia podczas karmienia, malowania i codziennych zabaw. Duża kieszeń zatrzymuje resztki jedzenia, a zapięcie na rzep ułatwia zakładanie.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki, miękki i łatwo zmywalny materiał EVA</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">długie rękawki chroniące ubranko</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">praktyczna kieszeń na resztki pokarmu</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">wygodne zapięcie na rzep</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do jedzenia</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga utrzymać ubranko w czystości podczas posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do zabawy</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Sprawdza się także przy kreatywnych aktywnościach dziecka.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Materiał</strong><span style=\"color:#6a5260;text-align:right;\">100% EVA</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Rozmiar</strong><span style=\"color:#6a5260;text-align:right;\">33 x 35 cm</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzory</strong><span style=\"color:#6a5260;text-align:right;\">Borsuk, Misio</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A0517, A0518</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644005178, 5907644005185</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po jedzeniu umyj śliniak w ciepłej wodzie z mydłem dla dzieci.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu i zapięcia.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 19.49
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655952535885",
+          "variant_id": "53873248665933"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A0517-1.jpg?v=1778421839",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A0518-1.jpg?v=1778421838"
+      }
+    },
+    "590852442": {
+      "is_bundle": false,
+      "ean": "5907644005185",
+      "asin": "",
+      "parent_id": 590852437,
+      "sku": "A0518",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Misio",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak z rękawkiem</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Lekki śliniak z rękawkami, który chroni ubranko dziecka podczas jedzenia i zabawy.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">100% EVA</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">33 x 35 cm</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Wzory: Borsuk, Misio</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ochrona ubranka przy posiłkach</h3>Fartuszek z rękawkami pomaga ograniczyć zabrudzenia podczas karmienia, malowania i codziennych zabaw. Duża kieszeń zatrzymuje resztki jedzenia, a zapięcie na rzep ułatwia zakładanie.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki, miękki i łatwo zmywalny materiał EVA</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">długie rękawki chroniące ubranko</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">praktyczna kieszeń na resztki pokarmu</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">wygodne zapięcie na rzep</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do jedzenia</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga utrzymać ubranko w czystości podczas posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do zabawy</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Sprawdza się także przy kreatywnych aktywnościach dziecka.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Materiał</strong><span style=\"color:#6a5260;text-align:right;\">100% EVA</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Rozmiar</strong><span style=\"color:#6a5260;text-align:right;\">33 x 35 cm</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzory</strong><span style=\"color:#6a5260;text-align:right;\">Borsuk, Misio</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A0517, A0518</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644005178, 5907644005185</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Po jedzeniu umyj śliniak w ciepłej wodzie z mydłem dla dzieci.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu i zapięcia.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Opis przygotowany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 19.49
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655952535885",
+          "variant_id": "53873248698701"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A0517-1.jpg?v=1778421839",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A0518-1.jpg?v=1778421838"
+      }
+    },
+    "590852445": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A1300(20) - Śliniak na rzep",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak na rzep</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny śliniak dla dziecka, który pomaga chronić ubranko podczas jedzenia i codziennych aktywności.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Rozmiar</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">mały, średni</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygoda przy posiłkach</h3>Śliniak sprawdza się w domu i poza nim, kiedy chcesz szybko zabezpieczyć ubranko dziecka przed zabrudzeniem.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do spakowania do torby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">różne warianty do wyboru</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Na co dzień</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga ograniczyć przebieranie po posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały produkt, który często przydaje się od pierwszych miesięcy.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Rozmiar</strong><span style=\"color:#6a5260;text-align:right;\">mały, średni</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A1300, A1320</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644013005, 5907644013203</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i używaj zgodnie z zaleceniami producenta.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 7.71
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655954174285",
+          "variant_id": "0"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "variants": {
+        "590852448": {
+          "name": "mały",
+          "ean": "5907644013005",
+          "asin": "",
+          "sku": "A1300",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": 7.71
+          }
+        },
+        "590852450": {
+          "name": "średni",
+          "ean": "5907644013203",
+          "asin": "",
+          "sku": "A1320",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "9.14"
+          }
+        }
+      },
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1300-1.png?v=1778422583",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1320-1.png?v=1778422583"
+      }
+    },
+    "590852448": {
+      "is_bundle": false,
+      "ean": "5907644013005",
+      "asin": "",
+      "parent_id": 590852445,
+      "sku": "A1300",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "mały",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak na rzep</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny śliniak dla dziecka, który pomaga chronić ubranko podczas jedzenia i codziennych aktywności.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Rozmiar</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">mały, średni</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygoda przy posiłkach</h3>Śliniak sprawdza się w domu i poza nim, kiedy chcesz szybko zabezpieczyć ubranko dziecka przed zabrudzeniem.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do spakowania do torby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">różne warianty do wyboru</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Na co dzień</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga ograniczyć przebieranie po posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały produkt, który często przydaje się od pierwszych miesięcy.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Rozmiar</strong><span style=\"color:#6a5260;text-align:right;\">mały, średni</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A1300, A1320</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644013005, 5907644013203</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i używaj zgodnie z zaleceniami producenta.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 7.71
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655954174285",
+          "variant_id": "53873262395725"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1300-1.png?v=1778422583",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1320-1.png?v=1778422583"
+      }
+    },
+    "590852450": {
+      "is_bundle": false,
+      "ean": "5907644013203",
+      "asin": "",
+      "parent_id": 590852445,
+      "sku": "A1320",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "średni",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak na rzep</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny śliniak dla dziecka, który pomaga chronić ubranko podczas jedzenia i codziennych aktywności.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Rozmiar</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">mały, średni</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygoda przy posiłkach</h3>Śliniak sprawdza się w domu i poza nim, kiedy chcesz szybko zabezpieczyć ubranko dziecka przed zabrudzeniem.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do spakowania do torby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">różne warianty do wyboru</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Na co dzień</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga ograniczyć przebieranie po posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały produkt, który często przydaje się od pierwszych miesięcy.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Rozmiar</strong><span style=\"color:#6a5260;text-align:right;\">mały, średni</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A1300, A1320</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644013005, 5907644013203</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i używaj zgodnie z zaleceniami producenta.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 9.14
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655954174285",
+          "variant_id": "53873262428493"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1300-1.png?v=1778422583",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1320-1.png?v=1778422583"
+      }
+    },
+    "590852453": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A1512(13) - Śliniak apaszka na rzep",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak apaszka na rzep</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny śliniak dla dziecka, który pomaga chronić ubranko podczas jedzenia i codziennych aktywności.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Wzór</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Serduszka, Jeżyki</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygoda przy posiłkach</h3>Śliniak sprawdza się w domu i poza nim, kiedy chcesz szybko zabezpieczyć ubranko dziecka przed zabrudzeniem.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do spakowania do torby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">różne warianty do wyboru</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Na co dzień</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga ograniczyć przebieranie po posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały produkt, który często przydaje się od pierwszych miesięcy.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzór</strong><span style=\"color:#6a5260;text-align:right;\">Serduszka, Jeżyki</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A1512, A1513</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644015122, 5907644015139</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i używaj zgodnie z zaleceniami producenta.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 8.34
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655954239821",
+          "variant_id": "0"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "variants": {
+        "590852457": {
+          "name": "Serduszka",
+          "ean": "5907644015122",
+          "asin": "",
+          "sku": "A1512",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": 8.34
+          }
+        },
+        "590852459": {
+          "name": "Jeżyki",
+          "ean": "5907644015139",
+          "asin": "",
+          "sku": "A1513",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "7.79"
+          }
+        }
+      },
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1512-1.jpg?v=1778422593",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1513-1.jpg?v=1778422593"
+      }
+    },
+    "590852457": {
+      "is_bundle": false,
+      "ean": "5907644015122",
+      "asin": "",
+      "parent_id": 590852453,
+      "sku": "A1512",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Serduszka",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak apaszka na rzep</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny śliniak dla dziecka, który pomaga chronić ubranko podczas jedzenia i codziennych aktywności.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Wzór</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Serduszka, Jeżyki</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygoda przy posiłkach</h3>Śliniak sprawdza się w domu i poza nim, kiedy chcesz szybko zabezpieczyć ubranko dziecka przed zabrudzeniem.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do spakowania do torby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">różne warianty do wyboru</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Na co dzień</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga ograniczyć przebieranie po posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały produkt, który często przydaje się od pierwszych miesięcy.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzór</strong><span style=\"color:#6a5260;text-align:right;\">Serduszka, Jeżyki</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A1512, A1513</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644015122, 5907644015139</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i używaj zgodnie z zaleceniami producenta.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 8.34
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655954239821",
+          "variant_id": "53873262494029"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1512-1.jpg?v=1778422593",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1513-1.jpg?v=1778422593"
+      }
+    },
+    "590852459": {
+      "is_bundle": false,
+      "ean": "5907644015139",
+      "asin": "",
+      "parent_id": 590852453,
+      "sku": "A1513",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Jeżyki",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak apaszka na rzep</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny śliniak dla dziecka, który pomaga chronić ubranko podczas jedzenia i codziennych aktywności.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Wzór</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Serduszka, Jeżyki</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygoda przy posiłkach</h3>Śliniak sprawdza się w domu i poza nim, kiedy chcesz szybko zabezpieczyć ubranko dziecka przed zabrudzeniem.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do spakowania do torby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">różne warianty do wyboru</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Na co dzień</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga ograniczyć przebieranie po posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały produkt, który często przydaje się od pierwszych miesięcy.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzór</strong><span style=\"color:#6a5260;text-align:right;\">Serduszka, Jeżyki</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A1512, A1513</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644015122, 5907644015139</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i używaj zgodnie z zaleceniami producenta.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 7.79
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655954239821",
+          "variant_id": "53873262526797"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1512-1.jpg?v=1778422593",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1513-1.jpg?v=1778422593"
+      }
+    },
+    "590852462": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A1600(40) - Śliniak wiązany",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak wiązany</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny śliniak dla dziecka, który pomaga chronić ubranko podczas jedzenia i codziennych aktywności.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Rozmiar</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">mini, mały</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygoda przy posiłkach</h3>Śliniak sprawdza się w domu i poza nim, kiedy chcesz szybko zabezpieczyć ubranko dziecka przed zabrudzeniem.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do spakowania do torby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">różne warianty do wyboru</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Na co dzień</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga ograniczyć przebieranie po posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały produkt, który często przydaje się od pierwszych miesięcy.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Rozmiar</strong><span style=\"color:#6a5260;text-align:right;\">mini, mały</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A1600, A1640</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644016006, 5907644016402</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i używaj zgodnie z zaleceniami producenta.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 4.51
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655954305357",
+          "variant_id": "0"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "variants": {
+        "590852465": {
+          "name": "mini",
+          "ean": "5907644016006",
+          "asin": "",
+          "sku": "A1600",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": 4.51
+          }
+        },
+        "590852467": {
+          "name": "mały",
+          "ean": "5907644016402",
+          "asin": "",
+          "sku": "A1640",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "7.49"
+          }
+        }
+      },
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1600-1.png?v=1778422601",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1640-1.png?v=1778422601"
+      }
+    },
+    "590852465": {
+      "is_bundle": false,
+      "ean": "5907644016006",
+      "asin": "",
+      "parent_id": 590852462,
+      "sku": "A1600",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "mini",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak wiązany</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny śliniak dla dziecka, który pomaga chronić ubranko podczas jedzenia i codziennych aktywności.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Rozmiar</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">mini, mały</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygoda przy posiłkach</h3>Śliniak sprawdza się w domu i poza nim, kiedy chcesz szybko zabezpieczyć ubranko dziecka przed zabrudzeniem.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do spakowania do torby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">różne warianty do wyboru</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Na co dzień</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga ograniczyć przebieranie po posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały produkt, który często przydaje się od pierwszych miesięcy.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Rozmiar</strong><span style=\"color:#6a5260;text-align:right;\">mini, mały</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A1600, A1640</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644016006, 5907644016402</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i używaj zgodnie z zaleceniami producenta.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 4.51
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655954305357",
+          "variant_id": "53873262854477"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1600-1.png?v=1778422601",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1640-1.png?v=1778422601"
+      }
+    },
+    "590852467": {
+      "is_bundle": false,
+      "ean": "5907644016402",
+      "asin": "",
+      "parent_id": 590852462,
+      "sku": "A1640",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "mały",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak wiązany</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny śliniak dla dziecka, który pomaga chronić ubranko podczas jedzenia i codziennych aktywności.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Rozmiar</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">mini, mały</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygoda przy posiłkach</h3>Śliniak sprawdza się w domu i poza nim, kiedy chcesz szybko zabezpieczyć ubranko dziecka przed zabrudzeniem.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do spakowania do torby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">różne warianty do wyboru</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Na co dzień</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga ograniczyć przebieranie po posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały produkt, który często przydaje się od pierwszych miesięcy.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Rozmiar</strong><span style=\"color:#6a5260;text-align:right;\">mini, mały</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A1600, A1640</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644016006, 5907644016402</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i używaj zgodnie z zaleceniami producenta.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 7.49
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655954305357",
+          "variant_id": "53873262887245"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1600-1.png?v=1778422601",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1640-1.png?v=1778422601"
+      }
+    },
+    "590852468": {
+      "is_bundle": false,
+      "ean": "",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A1662(63, 64, 65, 66) - Śliniak wiązany z nadrukiem",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak wiązany z nadrukiem</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny śliniak dla dziecka, który pomaga chronić ubranko podczas jedzenia i codziennych aktywności.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Wzór</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Sowy, Autka, Jeżyki, Gwiazdki, Koty</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygoda przy posiłkach</h3>Śliniak sprawdza się w domu i poza nim, kiedy chcesz szybko zabezpieczyć ubranko dziecka przed zabrudzeniem.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do spakowania do torby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">różne warianty do wyboru</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Na co dzień</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga ograniczyć przebieranie po posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały produkt, który często przydaje się od pierwszych miesięcy.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzór</strong><span style=\"color:#6a5260;text-align:right;\">Sowy, Autka, Jeżyki, Gwiazdki, Koty</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A1662, A1663, A1664, A1665, A1666</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644016624, 5907644016631, 5907644016648, 5907644016655, 5907644016662</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i używaj zgodnie z zaleceniami producenta.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 7.01
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655954338125",
+          "variant_id": "0"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "variants": {
+        "590852469": {
+          "name": "Sowy",
+          "ean": "5907644016624",
+          "asin": "",
+          "sku": "A1662",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": 7.01
+          }
+        },
+        "590852470": {
+          "name": "Autka",
+          "ean": "5907644016631",
+          "asin": "",
+          "sku": "A1663",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": 7.01
+          }
+        },
+        "590852471": {
+          "name": "Jeżyki",
+          "ean": "5907644016648",
+          "asin": "",
+          "sku": "A1664",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "7.49"
+          }
+        },
+        "590852472": {
+          "name": "Gwiazdki",
+          "ean": "5907644016655",
+          "asin": "",
+          "sku": "A1665",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": 7.01
+          }
+        },
+        "590852473": {
+          "name": "Koty",
+          "ean": "5907644016662",
+          "asin": "",
+          "sku": "A1666",
+          "stock": {
+            "bl_67231": 0
+          },
+          "locations": {
+            "bl_67231": ""
+          },
+          "prices": {
+            "22945": "7.49"
+          }
+        }
+      },
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1662-1.jpg?v=1778422614",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1663-1.jpg?v=1778422614",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1664-1.jpg?v=1778422614",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1665-2.jpg?v=1778422613",
+        "5": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1666-1.jpg?v=1778422614"
+      }
+    },
+    "590852469": {
+      "is_bundle": false,
+      "ean": "5907644016624",
+      "asin": "",
+      "parent_id": 590852468,
+      "sku": "A1662",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Sowy",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak wiązany z nadrukiem</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny śliniak dla dziecka, który pomaga chronić ubranko podczas jedzenia i codziennych aktywności.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Wzór</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Sowy, Autka, Jeżyki, Gwiazdki, Koty</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygoda przy posiłkach</h3>Śliniak sprawdza się w domu i poza nim, kiedy chcesz szybko zabezpieczyć ubranko dziecka przed zabrudzeniem.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do spakowania do torby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">różne warianty do wyboru</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Na co dzień</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga ograniczyć przebieranie po posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały produkt, który często przydaje się od pierwszych miesięcy.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzór</strong><span style=\"color:#6a5260;text-align:right;\">Sowy, Autka, Jeżyki, Gwiazdki, Koty</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A1662, A1663, A1664, A1665, A1666</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644016624, 5907644016631, 5907644016648, 5907644016655, 5907644016662</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i używaj zgodnie z zaleceniami producenta.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 7.01
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655954338125",
+          "variant_id": "53873262920013"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1662-1.jpg?v=1778422614",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1663-1.jpg?v=1778422614",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1664-1.jpg?v=1778422614",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1665-2.jpg?v=1778422613",
+        "5": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1666-1.jpg?v=1778422614"
+      }
+    },
+    "590852470": {
+      "is_bundle": false,
+      "ean": "5907644016631",
+      "asin": "",
+      "parent_id": 590852468,
+      "sku": "A1663",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Autka",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak wiązany z nadrukiem</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny śliniak dla dziecka, który pomaga chronić ubranko podczas jedzenia i codziennych aktywności.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Wzór</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Sowy, Autka, Jeżyki, Gwiazdki, Koty</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygoda przy posiłkach</h3>Śliniak sprawdza się w domu i poza nim, kiedy chcesz szybko zabezpieczyć ubranko dziecka przed zabrudzeniem.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do spakowania do torby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">różne warianty do wyboru</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Na co dzień</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga ograniczyć przebieranie po posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały produkt, który często przydaje się od pierwszych miesięcy.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzór</strong><span style=\"color:#6a5260;text-align:right;\">Sowy, Autka, Jeżyki, Gwiazdki, Koty</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A1662, A1663, A1664, A1665, A1666</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644016624, 5907644016631, 5907644016648, 5907644016655, 5907644016662</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i używaj zgodnie z zaleceniami producenta.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 7.01
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655954338125",
+          "variant_id": "53873262952781"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1662-1.jpg?v=1778422614",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1663-1.jpg?v=1778422614",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1664-1.jpg?v=1778422614",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1665-2.jpg?v=1778422613",
+        "5": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1666-1.jpg?v=1778422614"
+      }
+    },
+    "590852471": {
+      "is_bundle": false,
+      "ean": "5907644016648",
+      "asin": "",
+      "parent_id": 590852468,
+      "sku": "A1664",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Jeżyki",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak wiązany z nadrukiem</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny śliniak dla dziecka, który pomaga chronić ubranko podczas jedzenia i codziennych aktywności.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Wzór</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Sowy, Autka, Jeżyki, Gwiazdki, Koty</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygoda przy posiłkach</h3>Śliniak sprawdza się w domu i poza nim, kiedy chcesz szybko zabezpieczyć ubranko dziecka przed zabrudzeniem.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do spakowania do torby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">różne warianty do wyboru</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Na co dzień</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga ograniczyć przebieranie po posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały produkt, który często przydaje się od pierwszych miesięcy.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzór</strong><span style=\"color:#6a5260;text-align:right;\">Sowy, Autka, Jeżyki, Gwiazdki, Koty</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A1662, A1663, A1664, A1665, A1666</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644016624, 5907644016631, 5907644016648, 5907644016655, 5907644016662</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i używaj zgodnie z zaleceniami producenta.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 7.49
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655954338125",
+          "variant_id": "53873262985549"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1662-1.jpg?v=1778422614",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1663-1.jpg?v=1778422614",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1664-1.jpg?v=1778422614",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1665-2.jpg?v=1778422613",
+        "5": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1666-1.jpg?v=1778422614"
+      }
+    },
+    "590852472": {
+      "is_bundle": false,
+      "ean": "5907644016655",
+      "asin": "",
+      "parent_id": 590852468,
+      "sku": "A1665",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Gwiazdki",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak wiązany z nadrukiem</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny śliniak dla dziecka, który pomaga chronić ubranko podczas jedzenia i codziennych aktywności.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Wzór</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Sowy, Autka, Jeżyki, Gwiazdki, Koty</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygoda przy posiłkach</h3>Śliniak sprawdza się w domu i poza nim, kiedy chcesz szybko zabezpieczyć ubranko dziecka przed zabrudzeniem.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do spakowania do torby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">różne warianty do wyboru</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Na co dzień</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga ograniczyć przebieranie po posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały produkt, który często przydaje się od pierwszych miesięcy.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzór</strong><span style=\"color:#6a5260;text-align:right;\">Sowy, Autka, Jeżyki, Gwiazdki, Koty</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A1662, A1663, A1664, A1665, A1666</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644016624, 5907644016631, 5907644016648, 5907644016655, 5907644016662</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i używaj zgodnie z zaleceniami producenta.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 7.01
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655954338125",
+          "variant_id": "53873263018317"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1662-1.jpg?v=1778422614",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1663-1.jpg?v=1778422614",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1664-1.jpg?v=1778422614",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1665-2.jpg?v=1778422613",
+        "5": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1666-1.jpg?v=1778422614"
+      }
+    },
+    "590852473": {
+      "is_bundle": false,
+      "ean": "5907644016662",
+      "asin": "",
+      "parent_id": 590852468,
+      "sku": "A1666",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "Koty",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak wiązany z nadrukiem</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny śliniak dla dziecka, który pomaga chronić ubranko podczas jedzenia i codziennych aktywności.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Wzór</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Sowy, Autka, Jeżyki, Gwiazdki, Koty</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygoda przy posiłkach</h3>Śliniak sprawdza się w domu i poza nim, kiedy chcesz szybko zabezpieczyć ubranko dziecka przed zabrudzeniem.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do spakowania do torby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">różne warianty do wyboru</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Na co dzień</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga ograniczyć przebieranie po posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały produkt, który często przydaje się od pierwszych miesięcy.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Wzór</strong><span style=\"color:#6a5260;text-align:right;\">Sowy, Autka, Jeżyki, Gwiazdki, Koty</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A1662, A1663, A1664, A1665, A1666</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644016624, 5907644016631, 5907644016648, 5907644016655, 5907644016662</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i używaj zgodnie z zaleceniami producenta.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 7.49
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655954338125",
+          "variant_id": "53873263051085"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1662-1.jpg?v=1778422614",
+        "2": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1663-1.jpg?v=1778422614",
+        "3": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1664-1.jpg?v=1778422614",
+        "4": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1665-2.jpg?v=1778422613",
+        "5": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1666-1.jpg?v=1778422614"
+      }
+    },
+    "590852474": {
+      "is_bundle": false,
+      "ean": "5907644017447",
+      "asin": "",
+      "parent_id": 0,
+      "sku": "A1744",
+      "tags": [],
+      "tax_rate": 0,
+      "weight": 0,
+      "height": 0,
+      "width": 0,
+      "length": 0,
+      "star": 0,
+      "category_id": 7990085,
+      "manufacturer_id": 0,
+      "text_fields": {
+        "name": "AKUKU A1744 - Śliniak rękawek okulary",
+        "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;color:#33252f;line-height:1.65;\">\n<section style=\"background:linear-gradient(135deg,#fde8ee 0%,#fff7f3 100%);border:1px solid #f4cbd6;border-radius:24px;padding:28px;margin:0 0 18px;\"><p style=\"margin:0 0 10px;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;color:#b3657c;font-weight:700;\">AKUKU</p>\n<h2 style=\"margin:0 0 10px;font-size:28px;line-height:1.2;color:#2f1f29;\">AKUKU Śliniak rękawek okulary</h2>\n<p style=\"margin:0 0 16px;font-size:16px;color:#5f4954;\">Praktyczny śliniak dla dziecka, który pomaga chronić ubranko podczas jedzenia i codziennych aktywności.</p>\n<div>\n<span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">AKUKU</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Title</span><span style=\"display:inline-block;margin:0 8px 8px 0;padding:8px 12px;border-radius:999px;background:#ffffff;border:1px solid #efc7d1;font-size:13px;color:#7a4b5c;font-weight:700;\">Default Title</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Wygoda przy posiłkach</h3>Śliniak sprawdza się w domu i poza nim, kiedy chcesz szybko zabezpieczyć ubranko dziecka przed zabrudzeniem.</section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Najważniejsze cechy</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">lekki i praktyczny format</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">łatwy do spakowania do torby</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">dobry dodatek do wyprawki</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"color:#c16580;font-weight:700;\">✓</span><span style=\"color:#5f4954;\">różne warianty do wyboru</span>\n</div></section><section style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:0 0 18px;\"><div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Na co dzień</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Pomaga ograniczyć przebieranie po posiłku.</p>\n</div>\n<div style=\"display:block;box-sizing:border-box;margin:0;padding:18px;border-radius:20px;background:#fffafb;border:1px solid #f1d8de;\">\n<div style=\"font-size:20px;color:#c16580;margin:0 0 10px;\">✓</div>\n<h3 style=\"margin:0 0 8px;font-size:17px;color:#342630;\">Do wyprawki</h3>\n<p style=\"margin:0;font-size:14px;color:#604955;\">Mały produkt, który często przydaje się od pierwszych miesięcy.</p>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Dane produktu</h3>\n<div style=\"margin-top:12px;\">\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Marka</strong><span style=\"color:#6a5260;text-align:right;\">AKUKU</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">Title</strong><span style=\"color:#6a5260;text-align:right;\">Default Title</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">SKU wariantów</strong><span style=\"color:#6a5260;text-align:right;\">A1744</span>\n</div>\n<div style=\"display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #f1d8de;\">\n<strong style=\"color:#503743;\">EAN</strong><span style=\"color:#6a5260;text-align:right;\">5907644017447</span>\n</div>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Pielęgnacja</h3>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Czyść i używaj zgodnie z zaleceniami producenta.</span>\n</div>\n<div style=\"display:flex;gap:10px;margin:0 0 8px;\">\n<span style=\"display:inline-block;width:24px;height:24px;border-radius:50%;background:#f7d7df;color:#8f5368;font-weight:700;text-align:center;line-height:24px;\">•</span><span style=\"color:#5f4954;\">Przed użyciem sprawdź stan produktu.</span>\n</div></section><section style=\"background:#ffffff;border:1px solid #f1d8de;border-radius:22px;padding:22px;margin:0 0 18px;\"><h3 style=\"margin:0 0 10px;font-size:20px;color:#342630;\">Ważne</h3>Produkt należy stosować pod opieką osoby dorosłej i zgodnie z przeznaczeniem.</section><p style=\"margin:18px 0 0;font-size:12px;color:#826775;\">Produkt dodany na podstawie danych Marini B2B.</p>\n</div>"
+      },
+      "stock": {
+        "bl_67231": 0
+      },
+      "prices": {
+        "22945": 21.41
+      },
+      "locations": {
+        "bl_67231": ""
+      },
+      "links": {
+        "shop_5022274": {
+          "product_id": "10655954370893",
+          "variant_id": "53873263083853"
+        }
+      },
+      "average_cost": 0,
+      "average_landed_cost": 0,
+      "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/A1744-1.jpg?v=1778422621"
+      }
+    }
+  },
+  "verification": {
+    "allOk": true,
+    "checks": [
+      {
+        "sku": "A0517",
+        "baselinkerProductId": "590852439",
+        "parentId": "590852437",
+        "expectedProductId": "10655952535885",
+        "actualProductId": "10655952535885",
+        "expectedVariantId": "53873248665933",
+        "actualVariantId": "53873248665933",
+        "linkOk": true,
+        "priceOk": true
+      },
+      {
+        "sku": "A0518",
+        "baselinkerProductId": "590852442",
+        "parentId": "590852437",
+        "expectedProductId": "10655952535885",
+        "actualProductId": "10655952535885",
+        "expectedVariantId": "53873248698701",
+        "actualVariantId": "53873248698701",
+        "linkOk": true,
+        "priceOk": true
+      },
+      {
+        "sku": "A1300",
+        "baselinkerProductId": "590852448",
+        "parentId": "590852445",
+        "expectedProductId": "10655954174285",
+        "actualProductId": "10655954174285",
+        "expectedVariantId": "53873262395725",
+        "actualVariantId": "53873262395725",
+        "linkOk": true,
+        "priceOk": true
+      },
+      {
+        "sku": "A1320",
+        "baselinkerProductId": "590852450",
+        "parentId": "590852445",
+        "expectedProductId": "10655954174285",
+        "actualProductId": "10655954174285",
+        "expectedVariantId": "53873262428493",
+        "actualVariantId": "53873262428493",
+        "linkOk": true,
+        "priceOk": true
+      },
+      {
+        "sku": "A1512",
+        "baselinkerProductId": "590852457",
+        "parentId": "590852453",
+        "expectedProductId": "10655954239821",
+        "actualProductId": "10655954239821",
+        "expectedVariantId": "53873262494029",
+        "actualVariantId": "53873262494029",
+        "linkOk": true,
+        "priceOk": true
+      },
+      {
+        "sku": "A1513",
+        "baselinkerProductId": "590852459",
+        "parentId": "590852453",
+        "expectedProductId": "10655954239821",
+        "actualProductId": "10655954239821",
+        "expectedVariantId": "53873262526797",
+        "actualVariantId": "53873262526797",
+        "linkOk": true,
+        "priceOk": true
+      },
+      {
+        "sku": "A1600",
+        "baselinkerProductId": "590852465",
+        "parentId": "590852462",
+        "expectedProductId": "10655954305357",
+        "actualProductId": "10655954305357",
+        "expectedVariantId": "53873262854477",
+        "actualVariantId": "53873262854477",
+        "linkOk": true,
+        "priceOk": true
+      },
+      {
+        "sku": "A1640",
+        "baselinkerProductId": "590852467",
+        "parentId": "590852462",
+        "expectedProductId": "10655954305357",
+        "actualProductId": "10655954305357",
+        "expectedVariantId": "53873262887245",
+        "actualVariantId": "53873262887245",
+        "linkOk": true,
+        "priceOk": true
+      },
+      {
+        "sku": "A1662",
+        "baselinkerProductId": "590852469",
+        "parentId": "590852468",
+        "expectedProductId": "10655954338125",
+        "actualProductId": "10655954338125",
+        "expectedVariantId": "53873262920013",
+        "actualVariantId": "53873262920013",
+        "linkOk": true,
+        "priceOk": true
+      },
+      {
+        "sku": "A1663",
+        "baselinkerProductId": "590852470",
+        "parentId": "590852468",
+        "expectedProductId": "10655954338125",
+        "actualProductId": "10655954338125",
+        "expectedVariantId": "53873262952781",
+        "actualVariantId": "53873262952781",
+        "linkOk": true,
+        "priceOk": true
+      },
+      {
+        "sku": "A1664",
+        "baselinkerProductId": "590852471",
+        "parentId": "590852468",
+        "expectedProductId": "10655954338125",
+        "actualProductId": "10655954338125",
+        "expectedVariantId": "53873262985549",
+        "actualVariantId": "53873262985549",
+        "linkOk": true,
+        "priceOk": true
+      },
+      {
+        "sku": "A1665",
+        "baselinkerProductId": "590852472",
+        "parentId": "590852468",
+        "expectedProductId": "10655954338125",
+        "actualProductId": "10655954338125",
+        "expectedVariantId": "53873263018317",
+        "actualVariantId": "53873263018317",
+        "linkOk": true,
+        "priceOk": true
+      },
+      {
+        "sku": "A1666",
+        "baselinkerProductId": "590852473",
+        "parentId": "590852468",
+        "expectedProductId": "10655954338125",
+        "actualProductId": "10655954338125",
+        "expectedVariantId": "53873263051085",
+        "actualVariantId": "53873263051085",
+        "linkOk": true,
+        "priceOk": true
+      },
+      {
+        "sku": "A1744",
+        "baselinkerProductId": "590852474",
+        "parentId": "0",
+        "expectedProductId": "10655954370893",
+        "actualProductId": "10655954370893",
+        "expectedVariantId": "53873263083853",
+        "actualVariantId": "53873263083853",
+        "linkOk": true,
+        "priceOk": true
+      }
+    ]
+  }
+}

@@ -14,7 +14,7 @@ def build_shopify_product(group_key, group):
     ordered = ordered_variants(group)
     handle, title, tags, option_name, option_values, draft_variants, links, file_map = build_product_stub(group_key, ordered)
     sample = ordered[0][1]
-    description = build_description(title, sample.vendor, option_name, option_values, draft_variants, links)
+    description = build_description(title, sample.vendor, (option_name, option_values), draft_variants)
     return ShopifyProductDraft(
         handle=handle,
         title=title,

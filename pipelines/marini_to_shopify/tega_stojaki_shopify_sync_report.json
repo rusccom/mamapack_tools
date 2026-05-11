@@ -1,0 +1,167 @@
+{
+  "syncedAt": "2026-05-08T21:11:35.608572+03:00",
+  "sourceCategoryUrl": "https://b2b.marini.pl/items/356?parent=0",
+  "pricing": {
+    "purchaseSource": "Marini baseNetPrice",
+    "salePriceMultiplier": "1.60"
+  },
+  "sourceItemCount": 8,
+  "createdProductCount": 5,
+  "createdVariantCount": 6,
+  "collection": {
+    "id": "gid://shopify/Collection/660910375245",
+    "title": "Stojaki do wanienek",
+    "handle": "stojaki-do-wanienek"
+  },
+  "parentCollection": null,
+  "skipped": [
+    {
+      "sku": "3151",
+      "title": "TEGA DM-008 Stojak uniwersalny 86/102 LUX biały",
+      "stock": 0,
+      "reasons": [
+        "stock_zero"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/20938?group=356"
+    },
+    {
+      "sku": "784510",
+      "title": "TEGA DM-018 Podstawa uniwersalna 102/102LUX grafitowy",
+      "stock": 10,
+      "reasons": [
+        "missing_image"
+      ],
+      "sourceUrl": "https://b2b.marini.pl/itemdetails/50820?group=356"
+    }
+  ],
+  "products": [
+    {
+      "productId": "gid://shopify/Product/10654682120525",
+      "title": "Tega Baby DM-008 Stojak uniwersalny 86/102 LUX grafitowy",
+      "handle": "tega-baby-dm-008-stojak-uniwersalny-86-102-lux-grafitowy",
+      "status": "DRAFT",
+      "variants": [
+        {
+          "sku": "784480",
+          "barcode": "5902963002150",
+          "price": "105.26",
+          "options": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ]
+        }
+      ],
+      "mediaStatuses": [
+        "READY"
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10654682448205",
+      "title": "Tega Baby Podstawa uniwersalna 102/102 LUX",
+      "handle": "tega-baby-podstawa-uniwersalna-102-102-lux",
+      "status": "DRAFT",
+      "variants": [
+        {
+          "sku": "771230",
+          "barcode": "5902963071385",
+          "price": "105.26",
+          "options": [
+            {
+              "name": "Kolor",
+              "value": "czarny"
+            }
+          ]
+        },
+        {
+          "sku": "768291",
+          "barcode": "5901549198812",
+          "price": "106.67",
+          "options": [
+            {
+              "name": "Kolor",
+              "value": "biały"
+            }
+          ]
+        }
+      ],
+      "mediaStatuses": [
+        "READY",
+        "READY"
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10654682808653",
+      "title": "Tega Baby DM-035-103 Stojak pod wanienkę TEGGI biały",
+      "handle": "tega-baby-dm-035-103-stojak-pod-wanienke-teggi-bialy",
+      "status": "DRAFT",
+      "variants": [
+        {
+          "sku": "5909167",
+          "barcode": "5905489408529",
+          "price": "104.00",
+          "options": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ]
+        }
+      ],
+      "mediaStatuses": [
+        "READY"
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10654683038029",
+      "title": "Tega Baby DM-037-103 Stojak pod wanienkę składaną biały",
+      "handle": "tega-baby-dm-037-103-stojak-pod-wanienke-skladana-bialy",
+      "status": "DRAFT",
+      "variants": [
+        {
+          "sku": "5914537",
+          "barcode": "5902963002969",
+          "price": "98.94",
+          "options": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ]
+        }
+      ],
+      "mediaStatuses": [
+        "READY"
+      ]
+    },
+    {
+      "productId": "gid://shopify/Product/10654683234637",
+      "title": "Tega Baby DM-038-103 Stojak pod wanienkę składaną do montażu biały",
+      "handle": "tega-baby-dm-038-103-stojak-pod-wanienke-skladana-do-montazu-bialy",
+      "status": "DRAFT",
+      "variants": [
+        {
+          "sku": "5914536",
+          "barcode": "5902963002976",
+          "price": "120.00",
+          "options": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ]
+        }
+      ],
+      "mediaStatuses": [
+        "READY"
+      ]
+    }
+  ],
+  "extraCollectionDeleted": {
+    "id": "gid://shopify/Collection/660934918477",
+    "title": "Wanienki",
+    "handle": "wanienki",
+    "reason": "Removed because the requested target collection was Stojaki do wanienek only."
+  }
+}

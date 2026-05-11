@@ -1,0 +1,155 @@
+{
+  "summary": {
+    "merchant_id": "5548494754",
+    "created_at": "2026-05-02T18:24:48",
+    "all_offer_count": 402,
+    "show_in_ads_offer_count": 24,
+    "show_in_ads_group_count": 17,
+    "paused_offer_count": 378,
+    "pause_values": {
+      "ads": 378,
+      "<empty>": 24
+    },
+    "bundle_like_group_count": 12,
+    "not_bundle_group_count": 5,
+    "unknown_group_count": 0
+  },
+  "groups": [
+    {
+      "group_key": "Avent-Zestaw: Butelka dla niemowląt 125 ml + Smoczek – mamapack",
+      "ads_offer_count": 1,
+      "bundle_check": "bundle_like",
+      "titles": "Avent-Zestaw: Butelka dla niemowląt 125 ml + Smoczek – mamapack",
+      "offer_ids": "shopify_PL_9816077205837_50445874233677",
+      "item_group_ids": ""
+    },
+    {
+      "group_key": "BIBS - Smoczek - kauczuk - SZAŁWIA",
+      "ads_offer_count": 1,
+      "bundle_check": "not_bundle",
+      "titles": "BIBS - Smoczek - kauczuk - SZAŁWIA",
+      "offer_ids": "13606874948860542676",
+      "item_group_ids": ""
+    },
+    {
+      "group_key": "BIBS Studio - Smoczek uspokajający – mamapack",
+      "ads_offer_count": 2,
+      "bundle_check": "not_bundle",
+      "titles": "BIBS Studio - Smoczek uspokajający – mamapack",
+      "offer_ids": "shopify_PL_10630605209933_53748969636173 | shopify_PL_10630618480973_53749032124749",
+      "item_group_ids": ""
+    },
+    {
+      "group_key": "Rożek niemowlęcy - standard 75x75 cm - - bawełna 100% – mamapack",
+      "ads_offer_count": 2,
+      "bundle_check": "not_bundle",
+      "titles": "Rożek niemowlęcy - standard 75x75 cm - - bawełna 100% – mamapack",
+      "offer_ids": "shopify_PL_9984490242381_51163459060045 | shopify_PL_9984493814093_51163500806477",
+      "item_group_ids": ""
+    },
+    {
+      "group_key": "shopify_PL_10489715360077",
+      "ads_offer_count": 2,
+      "bundle_check": "not_bundle",
+      "titles": "BIBS Supreme (160336) - Smoczek uspokajający – mamapack 1 (0+) | BIBS Supreme (160336) - Smoczek uspokajający – mamapack 2 (6+)",
+      "offer_ids": "shopify_PL_10489715360077_53749050212685 | shopify_PL_10489715360077_53749050245453",
+      "item_group_ids": "shopify_PL_10489715360077"
+    },
+    {
+      "group_key": "shopify_PL_10606522073421",
+      "ads_offer_count": 3,
+      "bundle_check": "not_bundle",
+      "titles": "BIBS Studio - Smoczek uspokajający – mamapack 1 (0m+) | BIBS Studio - Smoczek uspokajający – mamapack 2 (6m+) | BIBS Studio - Smoczek uspokajający – mamapack 3 (18m+)",
+      "offer_ids": "shopify_PL_10606522073421_53653080539469 | shopify_PL_10606522073421_53653080572237 | shopify_PL_10606522073421_53653080605005",
+      "item_group_ids": "shopify_PL_10606522073421"
+    },
+    {
+      "group_key": "Torba do szpitala dla DLA MAMY I NOWORODKA – gotowa wyprawka KOMPLETNA",
+      "ads_offer_count": 1,
+      "bundle_check": "bundle_like",
+      "titles": "Torba do szpitala dla DLA MAMY I NOWORODKA – gotowa wyprawka KOMPLETNA",
+      "offer_ids": "8641583731927345873",
+      "item_group_ids": ""
+    },
+    {
+      "group_key": "Torba do szpitala dla Mamy I Noworodka – gotowa – mamapack",
+      "ads_offer_count": 2,
+      "bundle_check": "bundle_like",
+      "titles": "Torba do szpitala dla Mamy I Noworodka – gotowa – mamapack",
+      "offer_ids": "shopify_PL_10523326054733_53311333007693 | shopify_PL_10558848336205_53441254457677",
+      "item_group_ids": ""
+    },
+    {
+      "group_key": "Torba do szpitala dla Mamy i Noworodka – gotowa – mamapack",
+      "ads_offer_count": 2,
+      "bundle_check": "bundle_like",
+      "titles": "Torba do szpitala dla Mamy i Noworodka – gotowa – mamapack",
+      "offer_ids": "shopify_PL_10519344120141_53296171483469 | shopify_PL_10523329921357_53311374360909",
+      "item_group_ids": ""
+    },
+    {
+      "group_key": "Torba do szpitala dla Mamy – gotowa wyprawka Kompletna – mamapack",
+      "ads_offer_count": 1,
+      "bundle_check": "bundle_like",
+      "titles": "Torba do szpitala dla Mamy – gotowa wyprawka Kompletna – mamapack",
+      "offer_ids": "shopify_PL_10517867528525_53291462525261",
+      "item_group_ids": ""
+    },
+    {
+      "group_key": "Torba do szpitala dla Mamy – gotowa wyprawka Premium – mamapack",
+      "ads_offer_count": 1,
+      "bundle_check": "bundle_like",
+      "titles": "Torba do szpitala dla Mamy – gotowa wyprawka Premium – mamapack",
+      "offer_ids": "shopify_PL_10517869068621_53291474682189",
+      "item_group_ids": ""
+    },
+    {
+      "group_key": "Torba do szpitala dla Mamy – wyprawka Podstawowa – mamapack",
+      "ads_offer_count": 1,
+      "bundle_check": "bundle_like",
+      "titles": "Torba do szpitala dla Mamy – wyprawka Podstawowa – mamapack",
+      "offer_ids": "shopify_PL_10526795039053_53327971582285",
+      "item_group_ids": ""
+    },
+    {
+      "group_key": "Torba do szpitala dla Mamy – wyprawka Rozszerzona – mamapack",
+      "ads_offer_count": 1,
+      "bundle_check": "bundle_like",
+      "titles": "Torba do szpitala dla Mamy – wyprawka Rozszerzona – mamapack",
+      "offer_ids": "shopify_PL_10517866021197_53291451744589",
+      "item_group_ids": ""
+    },
+    {
+      "group_key": "Torba do szpitala dla noworodka - gotowa wyprawka KOMPLETNA",
+      "ads_offer_count": 1,
+      "bundle_check": "bundle_like",
+      "titles": "Torba do szpitala dla noworodka - gotowa wyprawka KOMPLETNA",
+      "offer_ids": "16511090014209914440",
+      "item_group_ids": ""
+    },
+    {
+      "group_key": "Torba do szpitala dla noworodka - gotowa wyprawka PODSTAWOWA",
+      "ads_offer_count": 1,
+      "bundle_check": "bundle_like",
+      "titles": "Torba do szpitala dla noworodka - gotowa wyprawka PODSTAWOWA",
+      "offer_ids": "11555450801705149523",
+      "item_group_ids": ""
+    },
+    {
+      "group_key": "Torba do szpitala dla noworodka - gotowa wyprawka PREMIUM",
+      "ads_offer_count": 1,
+      "bundle_check": "bundle_like",
+      "titles": "Torba do szpitala dla noworodka - gotowa wyprawka PREMIUM",
+      "offer_ids": "9931257749113620660",
+      "item_group_ids": ""
+    },
+    {
+      "group_key": "Torba do szpitala dla noworodka - gotowa wyprawka ROZSZERZONA",
+      "ads_offer_count": 1,
+      "bundle_check": "bundle_like",
+      "titles": "Torba do szpitala dla noworodka - gotowa wyprawka ROZSZERZONA",
+      "offer_ids": "10684112702236703032",
+      "item_group_ids": ""
+    }
+  ]
+}

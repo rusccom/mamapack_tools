@@ -1,0 +1,653 @@
+{
+  "checked_at": "2026-05-06T18:24:20.716547",
+  "url": "https://mamapack.pl/",
+  "status_code": 200,
+  "seo": {
+    "title": "MamaPack - wyprawka do szpitala i produkty dla mamy i dziecka – mamapack",
+    "description": "Skompletuj z MamaPack wyprawkę do szpitala: produkty dla mamy i dziecka, higiena, pielęgnacja, karmienie, kąpiel oraz praktyczne akcesoria.",
+    "og:title": "MamaPack - wyprawka do szpitala i produkty dla mamy i dziecka",
+    "og:description": "Skompletuj z MamaPack wyprawkę do szpitala: produkty dla mamy i dziecka, higiena, pielęgnacja, karmienie, kąpiel oraz praktyczne akcesoria."
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "MamaPack - wyprawka do szpitala i pierwsze dni z dzieckiem"
+    },
+    {
+      "tag": "h3",
+      "text": "Poniżej znajdziesz nasze główne kategorie produktów. Wybierz interesującą Cię kategorię i przejdź bezpośrednio do potrzebnych artykułów."
+    },
+    {
+      "tag": "h2",
+      "text": "Wyprawka do szpitala"
+    },
+    {
+      "tag": "h2",
+      "text": "PORÓD I POŁÓG"
+    },
+    {
+      "tag": "h2",
+      "text": "ODZIEŻ I AKCESORIA DLA MAMY"
+    },
+    {
+      "tag": "h2",
+      "text": "KARMIENIE PIERSIĄ I LAKTATORY"
+    },
+    {
+      "tag": "h2",
+      "text": "HIGIENA DZIECKA"
+    },
+    {
+      "tag": "h2",
+      "text": "ZDROWIE I PIELĘGNACJA"
+    },
+    {
+      "tag": "h2",
+      "text": "KAPIEL"
+    },
+    {
+      "tag": "h2",
+      "text": "BUTELKI I SMOCZKI"
+    },
+    {
+      "tag": "h2",
+      "text": "ŁÓŻECZKA I SEN"
+    },
+    {
+      "tag": "h2",
+      "text": "POKÓJ DZIECKA"
+    },
+    {
+      "tag": "h2",
+      "text": "ELEKTRONIKA"
+    },
+    {
+      "tag": "h2",
+      "text": "WÓZKI I PODRÓŻ"
+    },
+    {
+      "tag": "h2",
+      "text": "ZABAWKI I ROZWÓJ"
+    },
+    {
+      "tag": "h2",
+      "text": "Spakuj własną torbę"
+    },
+    {
+      "tag": "h4",
+      "text": "Skorzystaj z wygodnego projektanta, aby wybrać to, czego potrzebujesz."
+    },
+    {
+      "tag": "h2",
+      "text": "Gotowe torby"
+    },
+    {
+      "tag": "h4",
+      "text": "Wybierz gotową torbę, która pomieści wszystko, czego potrzebujesz."
+    },
+    {
+      "tag": "h3",
+      "text": "Skonfiguruj swoją torbę"
+    },
+    {
+      "tag": "h3",
+      "text": "Gotowe torby"
+    },
+    {
+      "tag": "h3",
+      "text": "Prezent"
+    },
+    {
+      "tag": "h3",
+      "text": "Ekspresowa dostawa"
+    },
+    {
+      "tag": "h2",
+      "text": "Porady i artykuły"
+    },
+    {
+      "tag": "h3",
+      "text": "BLIŹNIĘTA- Jak Spakować Torbę do Szpitala?"
+    },
+    {
+      "tag": "h3",
+      "text": "BLIŹNIĘTA- Jak Spakować Torbę do Szpitala?"
+    },
+    {
+      "tag": "h3",
+      "text": "LANOLINA"
+    },
+    {
+      "tag": "h3",
+      "text": "LANOLINA"
+    },
+    {
+      "tag": "h3",
+      "text": "Pakujemy torbę do szpitala: co zabrać ze sobą d..."
+    },
+    {
+      "tag": "h3",
+      "text": "Pakujemy torbę do szpitala: co zabrać ze sobą d..."
+    },
+    {
+      "tag": "h2",
+      "text": "Kontakt"
+    }
+  ],
+  "links_sample": [
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/pages/zlozsam",
+      "text": "Złóż to sama"
+    },
+    {
+      "href": "/pages/gotowe-torby",
+      "text": "Gotowe torby"
+    },
+    {
+      "href": "/collections/razem-taniej",
+      "text": "Razem taniej"
+    },
+    {
+      "href": "/collections/puste-torby-i-organizery",
+      "text": "Puste torby"
+    },
+    {
+      "href": "/collections/dla-mamy",
+      "text": "Pokaż wszystko"
+    },
+    {
+      "href": "/collections/all",
+      "text": "Koszule i Szlafroki do szpitala"
+    },
+    {
+      "href": "/collections/all",
+      "text": "Na porod"
+    },
+    {
+      "href": "/collections/all",
+      "text": "Higiena intymna"
+    },
+    {
+      "href": "/collections/all",
+      "text": "Laktacja"
+    },
+    {
+      "href": "/collections/akcesoria-dla-mam",
+      "text": "Akcesoria dla mam"
+    },
+    {
+      "href": "/collections/all",
+      "text": "Klapki i Skarpetki do szpitala"
+    },
+    {
+      "href": "/collections/biustonosze-do-karmienia",
+      "text": "Top do karmienia"
+    },
+    {
+      "href": "/collections/dla-dziecka",
+      "text": "Pokaż wszystko"
+    },
+    {
+      "href": "/collections/all",
+      "text": "Smoczki i Butelki ze smoczkiem"
+    },
+    {
+      "href": "/collections/all",
+      "text": "Kosmetyki dla noworodków"
+    },
+    {
+      "href": "/collections/chusteczki-nawilzane-dla-niemowlat",
+      "text": "Chusteczki nawilżane"
+    },
+    {
+      "href": "/collections/pieluszki-tkaninowe",
+      "text": "Pieluszki tkaninowe"
+    },
+    {
+      "href": "/collections/platki-i-patyczki-kosmetyczne",
+      "text": "Płatki, patyczki kosmetyczne (produkty z waty)"
+    },
+    {
+      "href": "/collections/reczniki-do-kapieli",
+      "text": "Ręczniki do kąpieli"
+    },
+    {
+      "href": "/collections/rozki-i-kocyki-dla-niemowlat",
+      "text": "Kocyki"
+    },
+    {
+      "href": "/collections/akcesoria-do-paznokci-dla-niemowlat",
+      "text": "Pielęgnacja w domu"
+    },
+    {
+      "href": "/collections/wanienki-dla-dzieci",
+      "text": "Wanienki i akcesoria do kąpieli"
+    },
+    {
+      "href": "/pages/contact",
+      "text": "Kontakt"
+    },
+    {
+      "href": "https://mamapack.pl/customer_authentication/redirect?locale=pl&region_country=PL",
+      "text": "Zaloguj się"
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/pages/zlozsam",
+      "text": "Złóż to sama"
+    },
+    {
+      "href": "/pages/gotowe-torby",
+      "text": "Gotowe torby"
+    },
+    {
+      "href": "/collections/razem-taniej",
+      "text": "Razem taniej"
+    },
+    {
+      "href": "/collections/puste-torby-i-organizery",
+      "text": "Puste torby"
+    },
+    {
+      "href": "/collections/dla-mamy",
+      "text": "Pokaż wszystko"
+    },
+    {
+      "href": "/collections/all",
+      "text": "Koszule i Szlafroki do szpitala"
+    },
+    {
+      "href": "/collections/all",
+      "text": "Na porod"
+    },
+    {
+      "href": "/collections/all",
+      "text": "Higiena intymna"
+    },
+    {
+      "href": "/collections/all",
+      "text": "Laktacja"
+    },
+    {
+      "href": "/collections/akcesoria-dla-mam",
+      "text": "Akcesoria dla mam"
+    },
+    {
+      "href": "/collections/all",
+      "text": "Klapki i Skarpetki do szpitala"
+    },
+    {
+      "href": "/collections/biustonosze-do-karmienia",
+      "text": "Top do karmienia"
+    },
+    {
+      "href": "/collections/dla-dziecka",
+      "text": "Pokaż wszystko"
+    },
+    {
+      "href": "/collections/all",
+      "text": "Smoczki i Butelki ze smoczkiem"
+    },
+    {
+      "href": "/collections/all",
+      "text": "Kosmetyki dla noworodków"
+    },
+    {
+      "href": "/collections/chusteczki-nawilzane-dla-niemowlat",
+      "text": "Chusteczki nawilżane"
+    },
+    {
+      "href": "/collections/pieluszki-tkaninowe",
+      "text": "Pieluszki tkaninowe"
+    },
+    {
+      "href": "/collections/platki-i-patyczki-kosmetyczne",
+      "text": "Płatki, patyczki kosmetyczne (produkty z waty)"
+    },
+    {
+      "href": "/collections/reczniki-do-kapieli",
+      "text": "Ręczniki do kąpieli"
+    },
+    {
+      "href": "/collections/rozki-i-kocyki-dla-niemowlat",
+      "text": "Kocyki"
+    },
+    {
+      "href": "/collections/akcesoria-do-paznokci-dla-niemowlat",
+      "text": "Pielęgnacja w domu"
+    },
+    {
+      "href": "/collections/wanienki-dla-dzieci",
+      "text": "Wanienki i akcesoria do kąpieli"
+    },
+    {
+      "href": "/pages/contact",
+      "text": "Kontakt"
+    },
+    {
+      "href": "https://mamapack.pl/customer_authentication/redirect?locale=pl&region_country=PL",
+      "text": "Zaloguj się"
+    },
+    {
+      "href": "/cart",
+      "text": "Koszyk"
+    },
+    {
+      "href": "/collections/dla-mamy",
+      "text": "Dla mamy"
+    },
+    {
+      "href": "/collections/dla-dziecka",
+      "text": "Dla dziecka"
+    },
+    {
+      "href": "/collections/podklady-higieniczne",
+      "text": "Podkłady higieniczne"
+    },
+    {
+      "href": "/collections/higiena-intymna-po-porodzie",
+      "text": "Higiena intymna"
+    },
+    {
+      "href": "/collections/podpaski-poporodowe",
+      "text": "Podpaski poporodowe"
+    },
+    {
+      "href": "/collections/produkty-papierowe",
+      "text": "Produkty papierowe"
+    },
+    {
+      "href": "/collections/majtki-poporodowe",
+      "text": "Majtki poporodowe"
+    },
+    {
+      "href": "/collections/kosmetyki-dla-mamy",
+      "text": "Kosmetyki dla mamy"
+    },
+    {
+      "href": "/collections/biustonosze-do-karmienia",
+      "text": "Biustonosze do karmienia"
+    },
+    {
+      "href": "/collections/klapki-i-skarpetki-dla-mamy",
+      "text": "Klapki i skarpetki"
+    },
+    {
+      "href": "/collections/koszule-do-karmienia",
+      "text": "Piżamy i koszule"
+    },
+    {
+      "href": "/collections/akcesoria-dla-mam",
+      "text": "Akcesoria dla mamy"
+    },
+    {
+      "href": "/collections/szlafroki-dla-mamy",
+      "text": "Szlafroki"
+    },
+    {
+      "href": "/collections/wkladki-laktacyjne",
+      "text": "Wkładki laktacyjne"
+    },
+    {
+      "href": "/collections/laktatory",
+      "text": "Laktatory"
+    },
+    {
+      "href": "/collections/oslonki-laktacyjne",
+      "text": "Osłonki laktacyjne"
+    },
+    {
+      "href": "/collections/pielegnacja-piersi-lanolina",
+      "text": "Pielęgnacja piersi i lanolina"
+    },
+    {
+      "href": "/collections/pieluszki-tkaninowe",
+      "text": "Pieluszki tkaninowe"
+    },
+    {
+      "href": "/collections/kremy-i-pudry-pod-pieluche",
+      "text": "Kremy i pudry pod pieluchę"
+    },
+    {
+      "href": "/collections/pieluszki-jednorazowe",
+      "text": "Pieluszki jednorazowe"
+    },
+    {
+      "href": "/collections/zele-mydla-szampony",
+      "text": "Żele, mydła i szampony"
+    },
+    {
+      "href": "/collections/platki-i-patyczki-kosmetyczne",
+      "text": "Płatki i patyczki kosmetyczne"
+    },
+    {
+      "href": "/collections/kremy-mleczka-olejki-dla-dzieci",
+      "text": "Kremy, mleczka i olejki"
+    },
+    {
+      "href": "/collections/chusteczki-nawilzane-dla-niemowlat",
+      "text": "Chusteczki nawilżane"
+    },
+    {
+      "href": "/collections/szczotki-i-grzebienie-dla-niemowlat",
+      "text": "Szczotki i grzebyki"
+    },
+    {
+      "href": "/collections/termometry-dla-dzieci",
+      "text": "Termometry"
+    },
+    {
+      "href": "/collections/akcesoria-do-paznokci-dla-niemowlat",
+      "text": "Akcesoria do paznokci"
+    },
+    {
+      "href": "/collections/sol-fizjologiczna-aspiratory-do-nosa",
+      "text": "Aspiratory i sól fizjologiczna"
+    },
+    {
+      "href": "/collections/wanienki-dla-dzieci",
+      "text": "Wanienki"
+    }
+  ],
+  "visible_text": [
+    "MamaPack - wyprawka do szpitala i produkty dla mamy i dziecka – mamapack",
+    "Przejdź do treści",
+    "Home",
+    "Złóż to sama",
+    "Gotowe torby",
+    "Razem taniej",
+    "Puste torby",
+    "Dla mamy",
+    "Pokaż wszystko",
+    "Koszule i Szlafroki do szpitala",
+    "Na porod",
+    "Higiena intymna",
+    "Laktacja",
+    "Akcesoria dla mam",
+    "Klapki i Skarpetki do szpitala",
+    "Top do karmienia",
+    "Dla dziecka",
+    "Smoczki i Butelki ze smoczkiem",
+    "Kosmetyki dla noworodków",
+    "Chusteczki nawilżane",
+    "Pieluszki tkaninowe",
+    "Płatki, patyczki kosmetyczne (produkty z waty)",
+    "Ręczniki do kąpieli",
+    "Kocyki",
+    "Pielęgnacja w domu",
+    "Wanienki i akcesoria do kąpieli",
+    "Kontakt",
+    "Zaloguj się",
+    "Szukaj",
+    "Koszyk",
+    "0,00 zł",
+    "MamaPack - wyprawka do szpitala i pierwsze dni z dzieckiem",
+    "Poniżej znajdziesz nasze główne kategorie produktów. Wybierz interesującą Cię kategorię i przejdź bezpośrednio do potrzebnych artykułów.",
+    "Wyprawka do szpitala",
+    "Spakuj własną torbę",
+    "Puste torby i organizery",
+    "PORÓD I POŁÓG",
+    "Podkłady higieniczne",
+    "Podpaski poporodowe",
+    "Produkty papierowe",
+    "Majtki poporodowe",
+    "Kosmetyki dla mamy",
+    "ODZIEŻ I AKCESORIA DLA MAMY",
+    "Biustonosze do karmienia",
+    "Klapki i skarpetki",
+    "Piżamy i koszule",
+    "Akcesoria dla mamy",
+    "Szlafroki",
+    "KARMIENIE PIERSIĄ I LAKTATORY",
+    "Wkładki laktacyjne",
+    "Laktatory",
+    "Osłonki laktacyjne",
+    "Pojemniki i woreczki na mleko",
+    "Pielęgnacja piersi i lanolina",
+    "HIGIENA DZIECKA",
+    "Kremy i pudry pod pieluchę",
+    "Pieluszki jednorazowe",
+    "Żele, mydła i szampony",
+    "Płatki i patyczki kosmetyczne",
+    "Kremy, mleczka i olejki",
+    "ZDROWIE I PIELĘGNACJA",
+    "Szczotki i grzebyki",
+    "Termometry",
+    "Akcesoria do paznokci",
+    "Aspiratory i sól fizjologiczna",
+    "KAPIEL",
+    "Wanienki",
+    "Ręczniki",
+    "Wkładki i leżaczki",
+    "Zabawki do kapieli",
+    "Stojaki do wanienek",
+    "BUTELKI I SMOCZKI",
+    "Butelki",
+    "Suszarki do butelek",
+    "Smoczki do butelek",
+    "Podgrzewacze do butelek",
+    "Smoczki uspokajające",
+    "Krzesełka do karmienia",
+    "Śliniaki",
+    "Mycie butelek i smoczków",
+    "ŁÓŻECZKA I SEN",
+    "Kocyki, rożki i otulacze",
+    "Łóżeczka niemowlęce",
+    "Ochraniacze do łóżeczka",
+    "Łóżeczka dostawne",
+    "Pościel niemowlęca",
+    "Materace",
+    "10",
+    "POKÓJ DZIECKA",
+    "Komody i przewijaki",
+    "Karuzele do łóżeczka",
+    "Tekstylia do pokoju",
+    "Lampki i projektory",
+    "11",
+    "ELEKTRONIKA",
+    "Nianie wideo",
+    "Termometry elektroniczne",
+    "Wagi dla niemowląt",
+    "Inhalatory",
+    "12",
+    "WÓZKI I PODRÓŻ",
+    "Wózki dziecięce",
+    "Spacerówki",
+    "Foteliki samochodowe",
+    "Akcesoria do wózków",
+    "ZABAWKI I ROZWÓJ",
+    "Gryzaki",
+    "Zabawki",
+    "Maty edukacyjne",
+    "Pluszaki",
+    "Skorzystaj z wygodnego projektanta, aby wybrać to, czego potrzebujesz.",
+    "Chcę zobaczyć",
+    "Wybierz gotową torbę, która pomieści wszystko, czego potrzebujesz.",
+    "Skonfiguruj swoją torbę",
+    "Zaprojektuj swoją idealną torbę",
+    "Znajdź torbę idealną dla siebie",
+    "Prezent",
+    "Złóż zamówienie za 100 zł, a",
+    "TORBA",
+    "DOSTAWA",
+    "gratis!",
+    "Ekspresowa dostawa",
+    "Realizujemy wysyłkę w ciągu 24 godzin",
+    "Porady i artykuły",
+    "Wyświetl wszystkie",
+    "BLIŹNIĘTA- Jak Spakować Torbę do Szpitala?",
+    "﻿Torba do szpitala dla jednego dziecka i dla bliźniąt: główne różnice? Przygotowania do porodu są ważnym etapem, a jeśli oczekujesz bliźniąt, wymagają one jeszcze większej uwagi. Torba do szpitala dla...",
+    "LANOLINA",
+    "Maść z Lanoliną – Niezastąpiona Pomoc dla Mam Karmiących Piersią Kiedy młoda mama rozpoczyna swoją przygodę z karmieniem piersią, może napotkać różne trudności, w tym bolesne i popękane sutki. To...",
+    "Pakujemy torbę do szpitala: co zabrać ze sobą d...",
+    "Przygotowania do porodu to ważny etap, który wymaga uwagi do szczegółów. Jednym z istotnych aspektów jest odpowiednio spakowana torba do szpitala. Wszystkie niezbędne rzeczy najlepiej zebrać z wyprzedzeniem (3-4...",
+    "Nazwa",
+    "E-mail",
+    "Numer telefonu",
+    "Komentarz",
+    "Wyślij",
+    "SMART TRADE Ruslan Yurchenko",
+    "Krakowskie Przedmiescie 28",
+    "20-002",
+    "Lublin",
+    "NIP: 7123475744",
+    "REGON: 528700786",
+    "smarttradeorg@gmail.com",
+    "+48517288538",
+    "Metody płatności",
+    "© 2026,",
+    "mamapack",
+    "Technologia Shopify",
+    "Polityka zwrotu kosztów",
+    "Dane kontaktowe",
+    "Polityka prywatności",
+    "Warunki świadczenia usług",
+    "Polityka wysyłki",
+    "Nota prawna",
+    "Preferencje dotyczące plików cookie",
+    "Zaznaczenie wyboru powoduje całkowite odświeżenie strony.",
+    "Otwiera się w nowym oknie."
+  ],
+  "suspicious_symbols": [
+    {
+      "text": "BLIŹNIĘTA- Jak Spakować Torbę do Szpitala?",
+      "patterns": [
+        "[??????]",
+        "[?]",
+        "[??]"
+      ]
+    },
+    {
+      "text": "﻿Torba do szpitala dla jednego dziecka i dla bliźniąt: główne różnice? Przygotowania do porodu są ważnym etapem, a jeśli oczekujesz bliźniąt, wymagają one jeszcze większej uwagi. Torba do szpitala dla...",
+      "patterns": [
+        "[??????]",
+        "[?]",
+        "[??]"
+      ]
+    },
+    {
+      "text": "BLIŹNIĘTA- Jak Spakować Torbę do Szpitala?",
+      "patterns": [
+        "[??????]",
+        "[?]",
+        "[??]"
+      ]
+    },
+    {
+      "text": "BLIŹNIĘTA- Jak Spakować Torbę do Szpitala?",
+      "patterns": [
+        "[??????]",
+        "[?]",
+        "[??]"
+      ]
+    }
+  ],
+  "likely_polish_issues": []
+}

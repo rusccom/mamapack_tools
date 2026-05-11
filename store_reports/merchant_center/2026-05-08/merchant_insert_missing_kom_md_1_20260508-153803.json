@@ -1,0 +1,90 @@
+{
+  "summary": {
+    "generated_at": "2026-05-08T15:38:03",
+    "sku": "KOM-MD-1",
+    "offer_id": "shopify_PL_10523326054733_53311333007693",
+    "before_status": 404,
+    "insert_status": 200,
+    "after_status": 404,
+    "status_status": 404
+  },
+  "payload": {
+    "offerId": "shopify_PL_10523326054733_53311333007693",
+    "title": "Torba do szpitala mama i noworodek - Kompletna",
+    "description": "Zestaw Kompletny (mama + dziecko) – 29 produktów (w tym torba GRATIS) MamaPack to wygodny sposób na skompletowanie wyprawki w jednym miejscu. Przygotowaliśmy gotowe zestawy, w których znajdziesz wyłącznie praktyczne, sprawdzone produkty od renomowanych marek – dobrane tak, aby ułatwić przygotowania oraz pierwsze dni z maluszkiem. Dlaczego warto wybrać zestaw Kompletny? Zestaw Kompletny M+D to starannie skomponowany komplet dla mamy i dziecka. W jednym zestawie otrzymujesz 29 produktów higienicznych i pielęgnacyjnych, przydatnych zarówno w pakowaniu wyprawki, jak i w codziennej opiece. Dodatkowo w zestawie znajduje się: rożek (becik), ręcznik niemowlęcy z kapturkiem. Torba GRATIS W zestawie otrzymujesz praktyczną torbę GRATIS, którą można wykorzystać również na co dzień – na spacery, zakupy czy wyjazdy. Jakość i bezpieczeństwo Każdy element zestawu został dobrany z myślą o wygodzie użytkowania oraz odpowiednim standardzie jakości dla mamy i dziecka. Uzupełnij zestaw pod siebie Jeśli chcesz, na naszej stronie możesz łatwo dobrać i domówić dodatkowe produkty – tak, aby zestaw był w 100% dopasowany do Twoich potrzeb.",
+    "link": "https://mamapack.pl/products/torba-do-szpitala-mamy-noworodka-gotowa-wyprawka-kompletna?variant=53311333007693&country=PL&currency=PLN&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/b7eb80bf-1202-42e0-ade6-06de99542bdd.jpg?v=1770388388",
+    "contentLanguage": "pl",
+    "targetCountry": "PL",
+    "feedLabel": "PL",
+    "channel": "online",
+    "availability": "in stock",
+    "brand": "Fast Bundle",
+    "price": {
+      "value": "355.93",
+      "currency": "PLN"
+    },
+    "salePrice": {
+      "value": "335.94",
+      "currency": "PLN"
+    },
+    "customAttributes": [
+      {
+        "name": "merchant item id",
+        "value": "gid://shopify/ProductVariant/53311333007693"
+      },
+      {
+        "name": "sku",
+        "value": "KOM-MD-1"
+      },
+      {
+        "name": "modification info",
+        "groupValues": [
+          {
+            "name": "modifier",
+            "value": "codex merchant repair"
+          },
+          {
+            "name": "modification source",
+            "value": "shopify admin api"
+          }
+        ]
+      }
+    ]
+  },
+  "insert_response": {
+    "kind": "content#product",
+    "id": "online:pl:PL:shopify_PL_10523326054733_53311333007693",
+    "offerId": "shopify_PL_10523326054733_53311333007693",
+    "contentLanguage": "pl",
+    "targetCountry": "PL",
+    "feedLabel": "PL",
+    "channel": "online"
+  },
+  "after_product": {
+    "error": {
+      "code": 404,
+      "message": "The resource with name `shopify_PL_10523326054733_53311333007693` was not found.",
+      "errors": [
+        {
+          "message": "The resource with name `shopify_PL_10523326054733_53311333007693` was not found.",
+          "domain": "global",
+          "reason": "notFound"
+        }
+      ]
+    }
+  },
+  "product_status": {
+    "error": {
+      "code": 404,
+      "message": "The resource with name `shopify_PL_10523326054733_53311333007693` was not found.",
+      "errors": [
+        {
+          "message": "The resource with name `shopify_PL_10523326054733_53311333007693` was not found.",
+          "domain": "global",
+          "reason": "notFound"
+        }
+      ]
+    }
+  }
+}

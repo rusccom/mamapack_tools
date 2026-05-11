@@ -1,0 +1,78 @@
+{
+  "checked_at": "2026-05-06T18:25:07.934810",
+  "url": "https://mamapack.pl/",
+  "seo_ok": true,
+  "h1_ok": true,
+  "findings": [
+    {
+      "area": "menu Dla mamy",
+      "current": "Na porod",
+      "recommended": "Na por?d",
+      "severity": "error",
+      "note": "Brakuje polskiej litery ?."
+    },
+    {
+      "area": "category heading",
+      "current": "KAPIEL",
+      "recommended": "K?PIEL",
+      "severity": "error",
+      "note": "Brakuje polskiej litery ?."
+    },
+    {
+      "area": "category item",
+      "current": "Zabawki do kapieli",
+      "recommended": "Zabawki do k?pieli",
+      "severity": "error",
+      "note": "B??dna forma bez ?: powinno by? k?pieli."
+    },
+    {
+      "area": "footer address",
+      "current": "Krakowskie Przedmiescie 28",
+      "recommended": "Krakowskie Przedmie?cie 28",
+      "severity": "error",
+      "note": "Brakuje ? w nazwie ulicy."
+    },
+    {
+      "area": "blog card title",
+      "current": "BLI?NI?TA- Jak Spakowa? Torb? do Szpitala?",
+      "recommended": "Bli?ni?ta - jak spakowa? torb? do szpitala?",
+      "severity": "style",
+      "note": "Brakuje spacji przy my?lniku; wielkie litery w tytule wygl?daj? nienaturalnie po polsku."
+    },
+    {
+      "area": "blog excerpt",
+      "current": "Ma?? z Lanolin? ? Niezast?piona Pomoc dla Mam Karmi?cych Piersi?",
+      "recommended": "Ma?? z lanolin? - niezast?piona pomoc dla mam karmi?cych piersi?",
+      "severity": "style",
+      "note": "Nazwy pospolite w ?rodku zdania lepiej pisa? ma?? liter?."
+    },
+    {
+      "area": "menu capitalization",
+      "current": "Koszule i Szlafroki do szpitala",
+      "recommended": "Koszule i szlafroki do szpitala",
+      "severity": "style",
+      "note": "W menu lepiej nie kapitalizowa? rzeczownika w ?rodku frazy."
+    },
+    {
+      "area": "menu capitalization",
+      "current": "Klapki i Skarpetki do szpitala",
+      "recommended": "Klapki i skarpetki do szpitala",
+      "severity": "style",
+      "note": "W menu lepiej nie kapitalizowa? rzeczownika w ?rodku frazy."
+    },
+    {
+      "area": "menu capitalization",
+      "current": "Smoczki i Butelki ze smoczkiem",
+      "recommended": "Smoczki i butelki ze smoczkiem",
+      "severity": "style",
+      "note": "W menu lepiej nie kapitalizowa? rzeczownika w ?rodku frazy."
+    },
+    {
+      "area": "navigation localization",
+      "current": "Home",
+      "recommended": "Strona g??wna",
+      "severity": "style",
+      "note": "To nie b??d ortograficzny, ale angielskie s?owo na polskiej stronie."
+    }
+  ]
+}

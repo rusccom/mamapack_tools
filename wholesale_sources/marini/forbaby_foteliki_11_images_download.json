@@ -1,0 +1,181 @@
+﻿{
+    "checkedAt":  "2026-05-09T20:52:47.6084552+03:00",
+    "count":  19,
+    "okCount":  19,
+    "failed":  [
+
+               ],
+    "items":  [
+                  {
+                      "sku":  "5911362",
+                      "title":  "4 BABY Fotelik BOOST 125-150cm DARK GREEN I-SIZE",
+                      "imageId":  81161,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5911362-1.jpg",
+                      "bytes":  63478,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5908244",
+                      "title":  "4 BABY Fotelik BOOST 125-150cm GRAPHITE I-SIZE",
+                      "imageId":  73556,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5908244-1.jpg",
+                      "bytes":  114970,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5908245",
+                      "title":  "4 BABY Fotelik BOOST 125-150cm GREY I-SIZE",
+                      "imageId":  73558,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5908245-1.jpg",
+                      "bytes":  92898,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5907247",
+                      "title":  "4 BABY Fotelik ENZO-FIX 40-150cm black I-SIZE",
+                      "imageId":  70950,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5907247-1.jpg",
+                      "bytes":  197264,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5907248",
+                      "title":  "4 BABY Fotelik ENZO-FIX 40-150cm dark green I-SIZE",
+                      "imageId":  70957,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5907248-1.jpg",
+                      "bytes":  233485,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5911414",
+                      "title":  "4 BABY Fotelik HI-FIX 125-150cm DARK GREEN I-SIZE",
+                      "imageId":  82570,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5911414-1.jpg",
+                      "bytes":  45317,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5911423",
+                      "title":  "4 BABY Fotelik MATT-FIX 40-150cm DARK GREEN I-SIZE",
+                      "imageId":  81250,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5911423-1.jpg",
+                      "bytes":  84262,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5911424",
+                      "title":  "4 BABY Fotelik MATT-FIX 40-150cm GRAPHITE I-SIZE",
+                      "imageId":  81251,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5911424-1.jpg",
+                      "bytes":  97272,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5911425",
+                      "title":  "4 BABY Fotelik MATT-FIX 40-150cm GREY I-SIZE",
+                      "imageId":  81252,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5911425-1.jpg",
+                      "bytes":  100619,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "780113",
+                      "title":  "4 BABY Fotelik NANO-FIX 0-18 RED",
+                      "imageId":  38922,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\780113-1.jpg",
+                      "bytes":  53655,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5913099",
+                      "title":  "4 BABY Fotelik NEO 40-87cm BLACK I-SIZE",
+                      "imageId":  85644,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5913099-1.jpg",
+                      "bytes":  147631,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5913098",
+                      "title":  "4 BABY Fotelik NEO 40-87cm DARK GREEN I-SIZE",
+                      "imageId":  85645,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5913098-1.jpg",
+                      "bytes":  175807,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5913100",
+                      "title":  "4 BABY Fotelik NEO 40-87cm GRAPHITE I-SIZE",
+                      "imageId":  85646,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5913100-1.jpg",
+                      "bytes":  142490,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5912550",
+                      "title":  "4 BABY Fotelik NERO 100-150 cm BLACK I-SIZE",
+                      "imageId":  85421,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5912550-1.jpg",
+                      "bytes":  107230,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5912551",
+                      "title":  "4 BABY Fotelik NERO 100-150 cm DARK GREEN I-SIZE",
+                      "imageId":  84066,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5912551-1.jpg",
+                      "bytes":  227124,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5912553",
+                      "title":  "4 BABY Fotelik NERO 100-150 cm GRAPHITE I-SIZE",
+                      "imageId":  84067,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5912553-1.jpg",
+                      "bytes":  132097,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5912554",
+                      "title":  "4 BABY Fotelik NERO 100-150 cm MOKKA I-SIZE",
+                      "imageId":  84068,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5912554-1.jpg",
+                      "bytes":  130414,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5907840",
+                      "title":  "4 BABY Fotelik ROTO-FIX 40-150cm Black I-Size",
+                      "imageId":  72447,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5907840-1.jpg",
+                      "bytes":  224966,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5908249",
+                      "title":  "4 BABY Fotelik VEL-FIX 40-150cm BLACK I-SIZE",
+                      "imageId":  73553,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_foteliki_11\\5908249-1.jpg",
+                      "bytes":  199088,
+                      "contentType":  "image/jpeg"
+                  }
+              ]
+}

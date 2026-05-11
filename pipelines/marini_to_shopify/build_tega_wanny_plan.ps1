@@ -1,8 +1,6 @@
 ﻿$ErrorActionPreference = "Stop"
 Set-StrictMode -Version Latest
 
-. (Join-Path $PSScriptRoot "tega_description_style.ps1")
-
 $ProjectRoot = Split-Path (Split-Path $PSScriptRoot -Parent) -Parent
 $SourceRoot = Join-Path $ProjectRoot "wholesale_sources\marini"
 $XmlUrl = "https://marini.pl/b2b/marini-b2b.xml"
@@ -168,9 +166,7 @@ function New-PlanProduct {
   param($Row, $XmlItem)
   $spec = Get-ProductSpec $Row
   $model = New-ProductModel $Row $XmlItem $spec
-  $model.descriptionHtml = New-TegaDescriptionHtml $model
   Assert-PolishText $model.title
-  Assert-PolishText $model.descriptionHtml
   return $model
 }
 
@@ -183,33 +179,58 @@ function Assert-PolishText {
 
 function New-ProductModel {
   param($Row, $XmlItem, $Spec)
-  [pscustomobject][ordered]@{
-    source = "marini"
-    sourceUrl = $Row.href
-    officialSourceUrl = $Spec.officialUrl
-    sku = [string]$XmlItem.kod
-    producerCode = $Spec.producerCode
-    title = $Spec.title
-    supplierTitle = [string]$XmlItem.nazwa
-    subtitle = $Spec.subtitle
-    handle = Convert-ToSlug $Spec.title
-    vendor = "Tega Baby"
-    productType = "Wanienki"
-    status = "DRAFT"
-    price = [string]$XmlItem.cena
-    ean = [string]$XmlItem.EAN
-    stock = [int]$Row.stock
-    sourceStockLabel = Get-XmlValue $XmlItem "stan"
-    sourceCategory = Get-XmlValue $XmlItem "grupa"
-    sourceDescription = Get-XmlValue $XmlItem "opis"
-    collectionName = $Spec.collectionName
-    color = $Spec.color
-    size = $Spec.size
-    badges = @($Spec.badges)
-    imageUrls = @(Split-Images (Get-XmlValue $XmlItem "zdjecia"))
-    tags = @("Tega Baby", "Wanienki", "Dla dziecka", "Marini B2B", (Get-XmlValue $XmlItem "grupa"))
-    descriptionHtml = ""
-  }
+  $data = [ordered]@{}
+  Add-SourceFields $data $Row $XmlItem
+  Add-IdentityFields $data $XmlItem $Spec
+  Add-ShopifyFields $data $Row $XmlItem
+  Add-DescriptionFields $data $XmlItem $Spec
+  return [pscustomobject]$data
+}
+
+function Add-SourceFields {
+  param($Data, $Row, $XmlItem)
+  $Data.source = "marini"
+  $Data.sourceUrl = $Row.href
+  $Data.sku = [string]$XmlItem.kod
+  $Data.supplierTitle = [string]$XmlItem.nazwa
+}
+
+function Add-IdentityFields {
+  param($Data, $XmlItem, $Spec)
+  $Data.officialSourceUrl = $Spec.officialUrl
+  $Data.producerCode = $Spec.producerCode
+  $Data.title = $Spec.title
+  $Data.subtitle = $Spec.subtitle
+  $Data.handle = Convert-ToSlug $Spec.title
+}
+
+function Add-ShopifyFields {
+  param($Data, $Row, $XmlItem)
+  $Data.vendor = "Tega Baby"
+  $Data.productType = "Wanienki"
+  $Data.status = "DRAFT"
+  $Data.price = [string]$XmlItem.cena
+  $Data.ean = [string]$XmlItem.EAN
+  $Data.stock = [int]$Row.stock
+  $Data.sourceStockLabel = Get-XmlValue $XmlItem "stan"
+  $Data.sourceCategory = Get-XmlValue $XmlItem "grupa"
+  $Data.sourceDescription = Get-XmlValue $XmlItem "opis"
+}
+
+function Add-DescriptionFields {
+  param($Data, $XmlItem, $Spec)
+  $Data.collectionName = $Spec.collectionName
+  $Data.color = $Spec.color
+  $Data.size = $Spec.size
+  $Data.badges = @($Spec.badges)
+  $Data.imageUrls = @(Split-Images (Get-XmlValue $XmlItem "zdjecia"))
+  $Data.tags = New-ProductTags $XmlItem
+  $Data.descriptionHtml = ""
+}
+
+function New-ProductTags {
+  param($XmlItem)
+  return @("Tega Baby", "Wanienki", "Dla dziecka", "Marini B2B", (Get-XmlValue $XmlItem "grupa"))
 }
 
 function New-Plan {

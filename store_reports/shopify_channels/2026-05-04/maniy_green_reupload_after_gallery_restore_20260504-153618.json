@@ -1,0 +1,546 @@
+{
+  "generated_at": "2026-05-04T15:36:24",
+  "before": {
+    "id": "gid://shopify/Product/10648590713165",
+    "title": "Torba do szpitala dla mamy M.A.N.I.Y z dolną komorą",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://mamapack.pl/products/torba-do-szpitala-maniy-z-dolna-komora",
+    "variants": {
+      "nodes": [
+        {
+          "id": "gid://shopify/ProductVariant/53830610813261",
+          "sku": "TORBA-MANIY-NIEBIESKA",
+          "title": "Niebieski",
+          "selectedOptions": [
+            {
+              "name": "Kolor",
+              "value": "Niebieski"
+            }
+          ],
+          "media": {
+            "nodes": [
+              {
+                "id": "gid://shopify/MediaImage/62103280386381",
+                "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, przód",
+                "preview": {
+                  "status": "READY",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6984.jpg?v=1777898092"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53830610846029",
+          "sku": "TORBA-MANIY-ROZOWA",
+          "title": "Różowy",
+          "selectedOptions": [
+            {
+              "name": "Kolor",
+              "value": "Różowy"
+            }
+          ],
+          "media": {
+            "nodes": [
+              {
+                "id": "gid://shopify/MediaImage/62103280582989",
+                "alt": "Torba M.A.N.I.Y z dolną komorą - kolor różowy, przód",
+                "preview": {
+                  "status": "READY",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6985.jpg?v=1777898092"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53830610878797",
+          "sku": "TORBA-MANIY-SZARA",
+          "title": "Szary",
+          "selectedOptions": [
+            {
+              "name": "Kolor",
+              "value": "Szary"
+            }
+          ],
+          "media": {
+            "nodes": [
+              {
+                "id": "gid://shopify/MediaImage/62103280648525",
+                "alt": "Torba M.A.N.I.Y z dolną komorą - kolor szary, przód",
+                "preview": {
+                  "status": "READY",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6993.jpg?v=1777898093"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53830610911565",
+          "sku": "TORBA-MANIY-ZIELONA",
+          "title": "Zielony",
+          "selectedOptions": [
+            {
+              "name": "Kolor",
+              "value": "Zielony"
+            }
+          ],
+          "media": {
+            "nodes": []
+          }
+        }
+      ]
+    },
+    "media": {
+      "nodes": [
+        {
+          "id": "gid://shopify/MediaImage/62103280386381",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, przód",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6984.jpg?v=1777898092"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280419149",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, widok z góry",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6988.jpg?v=1777898093"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280451917",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, szczegóły",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6995.jpg?v=1777898093"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280484685",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, bok",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6996.jpg?v=1777898093"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280517453",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - wnętrze dolnej komory",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6997.jpg?v=1777898092"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280550221",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - mocowanie na walizce",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6998.jpg?v=1777898092"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280582989",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor różowy, przód",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6985.jpg?v=1777898092"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280615757",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor różowy, w użyciu",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6999.jpg?v=1777898093"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280648525",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor szary, przód",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6993.jpg?v=1777898093"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "upload": {
+    "id": "gid://shopify/Product/10648590713165",
+    "media": {
+      "nodes": [
+        {
+          "id": "gid://shopify/MediaImage/62103280386381",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, przód",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6984.jpg?v=1777898092"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280419149",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, widok z góry",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6988.jpg?v=1777898093"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280451917",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, szczegóły",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6995.jpg?v=1777898093"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280484685",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, bok",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6996.jpg?v=1777898093"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280517453",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - wnętrze dolnej komory",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6997.jpg?v=1777898092"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280550221",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - mocowanie na walizce",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6998.jpg?v=1777898092"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280582989",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor różowy, przód",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6985.jpg?v=1777898092"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280615757",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor różowy, w użyciu",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6999.jpg?v=1777898093"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280648525",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor szary, przód",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6993.jpg?v=1777898093"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103286612301",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor zielony, przód",
+          "preview": {
+            "status": "PROCESSING",
+            "image": null
+          }
+        }
+      ]
+    }
+  },
+  "green_media": {
+    "id": "gid://shopify/MediaImage/62103286612301",
+    "alt": "Torba M.A.N.I.Y z dolną komorą - kolor zielony, przód",
+    "preview": {
+      "status": "READY",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/maniy-green-bag-generated-from-blue-v2.jpg?v=1777898184"
+      }
+    }
+  },
+  "attach": {
+    "productVariants": [
+      {
+        "id": "gid://shopify/ProductVariant/53830610911565",
+        "sku": "TORBA-MANIY-ZIELONA",
+        "title": "Zielony",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/62103286612301",
+              "alt": "Torba M.A.N.I.Y z dolną komorą - kolor zielony, przód",
+              "preview": {
+                "status": "READY"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "userErrors": []
+  },
+  "final": {
+    "id": "gid://shopify/Product/10648590713165",
+    "title": "Torba do szpitala dla mamy M.A.N.I.Y z dolną komorą",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://mamapack.pl/products/torba-do-szpitala-maniy-z-dolna-komora",
+    "variants": {
+      "nodes": [
+        {
+          "id": "gid://shopify/ProductVariant/53830610813261",
+          "sku": "TORBA-MANIY-NIEBIESKA",
+          "title": "Niebieski",
+          "selectedOptions": [
+            {
+              "name": "Kolor",
+              "value": "Niebieski"
+            }
+          ],
+          "media": {
+            "nodes": [
+              {
+                "id": "gid://shopify/MediaImage/62103280386381",
+                "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, przód",
+                "preview": {
+                  "status": "READY",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6984.jpg?v=1777898092"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53830610846029",
+          "sku": "TORBA-MANIY-ROZOWA",
+          "title": "Różowy",
+          "selectedOptions": [
+            {
+              "name": "Kolor",
+              "value": "Różowy"
+            }
+          ],
+          "media": {
+            "nodes": [
+              {
+                "id": "gid://shopify/MediaImage/62103280582989",
+                "alt": "Torba M.A.N.I.Y z dolną komorą - kolor różowy, przód",
+                "preview": {
+                  "status": "READY",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6985.jpg?v=1777898092"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53830610878797",
+          "sku": "TORBA-MANIY-SZARA",
+          "title": "Szary",
+          "selectedOptions": [
+            {
+              "name": "Kolor",
+              "value": "Szary"
+            }
+          ],
+          "media": {
+            "nodes": [
+              {
+                "id": "gid://shopify/MediaImage/62103280648525",
+                "alt": "Torba M.A.N.I.Y z dolną komorą - kolor szary, przód",
+                "preview": {
+                  "status": "READY",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6993.jpg?v=1777898093"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/53830610911565",
+          "sku": "TORBA-MANIY-ZIELONA",
+          "title": "Zielony",
+          "selectedOptions": [
+            {
+              "name": "Kolor",
+              "value": "Zielony"
+            }
+          ],
+          "media": {
+            "nodes": [
+              {
+                "id": "gid://shopify/MediaImage/62103286612301",
+                "alt": "Torba M.A.N.I.Y z dolną komorą - kolor zielony, przód",
+                "preview": {
+                  "status": "READY",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/maniy-green-bag-generated-from-blue-v2.jpg?v=1777898185"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "media": {
+      "nodes": [
+        {
+          "id": "gid://shopify/MediaImage/62103280386381",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, przód",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6984.jpg?v=1777898092"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280419149",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, widok z góry",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6988.jpg?v=1777898093"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280451917",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, szczegóły",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6995.jpg?v=1777898093"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280484685",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor niebieski, bok",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6996.jpg?v=1777898093"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280517453",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - wnętrze dolnej komory",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6997.jpg?v=1777898092"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280550221",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - mocowanie na walizce",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6998.jpg?v=1777898092"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280582989",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor różowy, przód",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6985.jpg?v=1777898092"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280615757",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor różowy, w użyciu",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6999.jpg?v=1777898093"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103280648525",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor szary, przód",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/IMG_6993.jpg?v=1777898093"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/MediaImage/62103286612301",
+          "alt": "Torba M.A.N.I.Y z dolną komorą - kolor zielony, przód",
+          "preview": {
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0807/3940/2061/files/maniy-green-bag-generated-from-blue-v2.jpg?v=1777898185"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

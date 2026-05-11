@@ -1,0 +1,295 @@
+{
+  "created_at": "2026-05-07T19:04:19",
+  "collection": {
+    "id": "gid://shopify/Collection/660840153421",
+    "legacyResourceId": "660840153421",
+    "title": "Poród i połóg",
+    "handle": "porod-i-polog",
+    "seo": {
+      "title": "Poród i połóg | MamaPack",
+      "description": "Majtki poporodowe, podpaski poporodowe i podkłady higieniczne dla mamy na pierwsze dni po porodzie."
+    },
+    "productsCount": {
+      "count": 25
+    },
+    "resourcePublications": {
+      "nodes": []
+    }
+  },
+  "created_now": true,
+  "source_handles": [
+    "majtki-poporodowe",
+    "podpaski-poporodowe",
+    "podklady-higieniczne"
+  ],
+  "source_candidate_count": 25,
+  "added_count": 25,
+  "unpublished_publication_ids": [],
+  "products": [
+    {
+      "id": "gid://shopify/Product/9790721786189",
+      "legacyResourceId": "9790721786189",
+      "title": "BELLA - Podkład higieniczny MAMMA - 34x11 cm z folią - (10 szt.)",
+      "handle": "bella-podklad-higieniczny-mamma-34x11-cm-z-folia-10-szt",
+      "status": "ACTIVE",
+      "skus": [
+        "1687"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790715986253",
+      "legacyResourceId": "9790715986253",
+      "title": "AKUKU A0549(50, 51, 52) - Majtki jednorazowe poporodowe - (5 szt.)",
+      "handle": "akuku-a0549-majtki-jednorazowe-poporodowe-s",
+      "status": "ACTIVE",
+      "skus": [
+        "783215",
+        "783216",
+        "783217",
+        "783218"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9756449407309",
+      "legacyResourceId": "9756449407309",
+      "title": "SENI SOFT SUPER - Podkłady higieniczne 40x60cm - (5 sztuk)",
+      "handle": "bella-podkl-a-5szt-hig-40x60-seni-soft-super",
+      "status": "ACTIVE",
+      "skus": [
+        "BE0031"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790718083405",
+      "legacyResourceId": "9790718083405",
+      "title": "AKUKU A0069 - Podkład poporodowy - SLIM",
+      "handle": "akuku-a0069-podklad-poporodowy-slim",
+      "status": "ACTIVE",
+      "skus": [
+        "786073"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790716182861",
+      "legacyResourceId": "9790716182861",
+      "title": "AKUKU A0501 - Podkład jednorazowy 60x90 cm SENSITIVE  - (10 szt.)",
+      "handle": "akuku-a0501-podklad-jednorazowy-60x90-cm-sensitive-10-szt",
+      "status": "ACTIVE",
+      "skus": [
+        "785537"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9756449472845",
+      "legacyResourceId": "9756449472845",
+      "title": "HORIZON-MAJTKI POPORODOWE SIATKA (2 szt.)",
+      "handle": "horizon-majtki-poporodowe-siatka-38-40-a-2szt",
+      "status": "ACTIVE",
+      "skus": [
+        "000644",
+        "000646",
+        "000673"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790719820109",
+      "legacyResourceId": "9790719820109",
+      "title": "CANPOL 73/001(2)  - Wielorazowe majtki poporodowe - SIATECZKOWE - (2szt.)",
+      "handle": "canpol-73-002-wielorazowe-majtki-poporodowe-siateczkowe-2szt-l-xl",
+      "status": "ACTIVE",
+      "skus": [
+        "774006",
+        "774004"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790719492429",
+      "legacyResourceId": "9790719492429",
+      "title": "CANPOL 78/008 - Dyskretne podpaski poporodowe - ze Skrzydełkami Night- (8 szt. )",
+      "handle": "canpol-78-008-dyskretne-podpaski-poporodowe-ze-skrzydelkami-night",
+      "status": "ACTIVE",
+      "skus": [
+        "5905013"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790719426893",
+      "legacyResourceId": "9790719426893",
+      "title": "CANPOL 73/003 - Wysokochłonne podkłady poporodowe - (10szt.)",
+      "handle": "canpol-73-003-wysokochlonne-podklady-poporodowe-10szt",
+      "status": "ACTIVE",
+      "skus": [
+        "774005"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790721655117",
+      "legacyResourceId": "9790721655117",
+      "title": "..CANPOL 78/001 - Oddychające podkłady poporodowe NA NOC -  (10szt.)",
+      "handle": "canpol-78-001-oddychajace-podklady-poporodowe-na-noc-10szt",
+      "status": "ACTIVE",
+      "skus": [
+        "774008"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790719394125",
+      "legacyResourceId": "9790719394125",
+      "title": "CANPOL 78/007 - Dyskretne podpaski poporodowe - ze Skrzydełkami Day - (10 szt.)",
+      "handle": "canpol-78-007-dyskretne-podpaski-poporodowe-ze-skrzydelkami-day",
+      "status": "ACTIVE",
+      "skus": [
+        "5905012"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790712283469",
+      "legacyResourceId": "9790712283469",
+      "title": "..CANPOL 78/002 - Wielofunkcyjne  PODKŁADY HIGIENICZNE jednorazowe - 60x90 -  (10szt.) - z naklejką",
+      "handle": "canpol-78-002-wielofunkcyjne-jednorazowe-podklady-higieniczne-10szt-z-naklejka",
+      "status": "ACTIVE",
+      "skus": [
+        "774007"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790716117325",
+      "legacyResourceId": "9790716117325",
+      "title": "AKUKU A0234(5) - Majtki siateczkowe wielorazowe - (2 szt)",
+      "handle": "akuku-a0234-majtki-siateczkowe-wielorazowe-l",
+      "status": "ACTIVE",
+      "skus": [
+        "17138",
+        "17099",
+        "0233",
+        "0236"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790719689037",
+      "legacyResourceId": "9790719689037",
+      "title": "CANPOL 16/000(1) - Majtki dla kobiet w ciąży i po porodzie - (2 szt.)",
+      "handle": "canpol-16-000-majtki-dla-kobiet-w-ciazy-i-po-porodzie-2-szt-s-m",
+      "status": "ACTIVE",
+      "skus": [
+        "5908536",
+        "5908535"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790719951181",
+      "legacyResourceId": "9790719951181",
+      "title": "B.O.503  - Wielorazowe majtki - SIATECZKOWE -  2 szt.",
+      "handle": "b-o-503-xxl-wielorazowe-majtki-siateczkowe-xxl-2sz",
+      "status": "ACTIVE",
+      "skus": [
+        "1739",
+        "614",
+        "615",
+        "887"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790717952333",
+      "legacyResourceId": "9790717952333",
+      "title": "B.O.500 - Jednorazowe Majtki poporodowe - 5 szt.",
+      "handle": "b-o-500-xl-jednorazowe-majtki-poporodowe-xl",
+      "status": "ACTIVE",
+      "skus": [
+        "12840",
+        "1740",
+        "616"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790713823565",
+      "legacyResourceId": "9790713823565",
+      "title": "CANPOL 78/006 - Wielofunkcyjne podklady higieniczne - (60x60 cm)",
+      "handle": "canpol-78-006-wielofunkcyjne-podklady-higieniczne-60x60-cm",
+      "status": "ACTIVE",
+      "skus": [
+        "5905014"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790716346701",
+      "legacyResourceId": "9790716346701",
+      "title": "AKUKU A0144 - Podkład higieniczny jednorazowy 60x90 cm -  proMED - (20 szt.)",
+      "handle": "akuku-a0144-podklad-higieniczny-jednorazowy-60x90-cm-promed-20-szt",
+      "status": "ACTIVE",
+      "skus": [
+        "5907675"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9756449374541",
+      "legacyResourceId": "9756449374541",
+      "title": "Bocioland - PODKŁAD JENORAZOWY - 60X90cm - (10szt)",
+      "handle": "bocioland-bl151-podklad-jenorazowy-60x90-cm-op-10-szt",
+      "status": "ACTIVE",
+      "skus": [
+        "BOC000123"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790718804301",
+      "legacyResourceId": "9790718804301",
+      "title": "AKUKU A0369 - Podkłady poporodowe - (10szt.)",
+      "handle": "akuku-a0369-podklady-poporodowe",
+      "status": "ACTIVE",
+      "skus": [
+        "768071"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790721524045",
+      "legacyResourceId": "9790721524045",
+      "title": "..B.O.513 - Podkład do przewijania 40x60cm - (10szt.)",
+      "handle": "b-o-513-podklad-do-przewijania-40x60-10szt",
+      "status": "ACTIVE",
+      "skus": [
+        "770669"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790720377165",
+      "legacyResourceId": "9790720377165",
+      "title": "B.O.599 - Podkłady poporodowe NIGHT & DAY - (10szt.)",
+      "handle": "b-o-599-podklady-poporodowe-night-day",
+      "status": "ACTIVE",
+      "skus": [
+        "783184"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790720213325",
+      "legacyResourceId": "9790720213325",
+      "title": "B.O.597 - Podkłady poporodowe  COMFORT - (10 szt.)",
+      "handle": "b-o-597-podklady-poporodowe-comfort",
+      "status": "ACTIVE",
+      "skus": [
+        "783183"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9756449702221",
+      "legacyResourceId": "9756449702221",
+      "title": "Majtki ciążowe Medela - Rozmiar L",
+      "handle": "me-figi-l-bialy",
+      "status": "ACTIVE",
+      "skus": [
+        "ME002"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9790718738765",
+      "legacyResourceId": "9790718738765",
+      "title": "..B.O.509 - Podkład do przewijania  60x90cm - (10 szt.)",
+      "handle": "b-o-509-podklad-do-przewijania-60x90-10-szt",
+      "status": "ACTIVE",
+      "skus": [
+        "25129"
+      ]
+    }
+  ]
+}

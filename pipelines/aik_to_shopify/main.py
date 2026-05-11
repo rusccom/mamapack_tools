@@ -9,9 +9,10 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from features.baselinker_import.client import BaselinkerClient
-from features.baselinker_import.product_sync import get_inventory_context, sync_products as sync_baselinker_products
-from features.baselinker_import.settings import load_baselinker_credentials
+from baselinker_store.core.client import BaselinkerClient
+from baselinker_store.core.credentials import load_baselinker_credentials
+from baselinker_store.inventory.context_resolver import get_inventory_context
+from baselinker_store.inventory.sync import sync_products as sync_baselinker_products
 from features.product_data.build_products import build_shopify_products
 from features.shopify_verification.verification import verify_product
 from shopify_store.core.credentials import load_shopify_access
@@ -82,7 +83,7 @@ def shopify_access():
 
 
 def baselinker_client():
-    credentials = load_baselinker_credentials()
+    credentials = load_baselinker_credentials(PROJECT_ROOT)
     if not credentials:
         raise SystemExit("Нужны BASELINKER_TOKEN и BASELINKER_INVENTORY_ID.")
     return credentials, BaselinkerClient(credentials.token)
@@ -98,10 +99,14 @@ def sync_to_shopify(products):
     return client, tuple(guarded), tuple(verified)
 
 
-def sync_to_baselinker(verified_products):
+def baselinker_context():
     shopify = shopify_access()
     settings, client = baselinker_client()
     context = get_inventory_context(client, settings, shopify.store_domain)
+    return client, context
+
+
+def sync_to_baselinker(client, context, verified_products):
     return sync_baselinker_products(client, context, verified_products)
 
 
@@ -134,8 +139,9 @@ def run_dry(search_text, variants, products):
 
 
 def run_sync(search_text, variants, products):
+    baselinker, context = baselinker_context()
     _, guarded, verified = sync_to_shopify(products)
-    baselinker_ids = sync_to_baselinker(verified)
+    baselinker_ids = sync_to_baselinker(baselinker, context, verified)
     print(f"Search: {search_text}")
     print(f"Variants: {len(variants)}")
     print(f"Products: {len(guarded)}")

@@ -1,0 +1,1353 @@
+﻿{
+    "checkedAt":  "2026-05-08T18:48:26.382Z",
+    "pageUrl":  "https://b2b.marini.pl/items/68981?parent=0",
+    "groupId":  68981,
+    "pages":  [
+                  {
+                      "url":  "/api/items/articleListXl/?groupId=68981\u0026filterInGroup=false\u0026pageNumber=1\u0026sortMode=NameAsc\u0026onlyAvailable=false\u0026warehouseId=1\u0026stockLevelFilter=0",
+                      "ok":  true,
+                      "status":  200,
+                      "json":  {
+                                   "articleList":  [
+                                                       {
+                                                           "article":  {
+                                                                           "id":  68981,
+                                                                           "image":  {
+                                                                                         "imageType":  1,
+                                                                                         "imageId":  83753,
+                                                                                         "imageUrl":  null
+                                                                                     },
+                                                                           "name":  "TEGA DZ-009-103-JEDNOROŻEC Przewijak Dziki Zachód biały jednorożec",
+                                                                           "code":  {
+                                                                                        "value":  "5912428",
+                                                                                        "representsExistingValue":  true
+                                                                                    },
+                                                                           "symbol":  null,
+                                                                           "type":  1,
+                                                                           "discountPermission":  true
+                                                                       },
+                                                           "flag":  0,
+                                                           "status":  "Available",
+                                                           "rowNumber":  1,
+                                                           "objectExtension":  {
+                                                                                   "extendedItemsList":  [
+
+                                                                                                         ]
+                                                                               },
+                                                           "extensions":  {
+                                                                              "extendedItemsList":  {
+
+                                                                                                    }
+                                                                          }
+                                                       },
+                                                       {
+                                                           "article":  {
+                                                                           "id":  68982,
+                                                                           "image":  {
+                                                                                         "imageType":  1,
+                                                                                         "imageId":  83754,
+                                                                                         "imageUrl":  null
+                                                                                     },
+                                                                           "name":  "TEGA DZ-009-103-JELONEK Przewijak Dziki Zachód biały jelonek",
+                                                                           "code":  {
+                                                                                        "value":  "5912429",
+                                                                                        "representsExistingValue":  true
+                                                                                    },
+                                                                           "symbol":  null,
+                                                                           "type":  1,
+                                                                           "discountPermission":  true
+                                                                       },
+                                                           "flag":  0,
+                                                           "status":  "Available",
+                                                           "rowNumber":  2,
+                                                           "objectExtension":  {
+                                                                                   "extendedItemsList":  [
+
+                                                                                                         ]
+                                                                               },
+                                                           "extensions":  {
+                                                                              "extendedItemsList":  {
+
+                                                                                                    }
+                                                                          }
+                                                       },
+                                                       {
+                                                           "article":  {
+                                                                           "id":  68983,
+                                                                           "image":  {
+                                                                                         "imageType":  1,
+                                                                                         "imageId":  83755,
+                                                                                         "imageUrl":  null
+                                                                                     },
+                                                                           "name":  "TEGA DZ-009-103-LISEK Przewijak Dziki Zachód biały lisek",
+                                                                           "code":  {
+                                                                                        "value":  "5912430",
+                                                                                        "representsExistingValue":  true
+                                                                                    },
+                                                                           "symbol":  null,
+                                                                           "type":  1,
+                                                                           "discountPermission":  true
+                                                                       },
+                                                           "flag":  0,
+                                                           "status":  "Available",
+                                                           "rowNumber":  3,
+                                                           "objectExtension":  {
+                                                                                   "extendedItemsList":  [
+
+                                                                                                         ]
+                                                                               },
+                                                           "extensions":  {
+                                                                              "extendedItemsList":  {
+
+                                                                                                    }
+                                                                          }
+                                                       },
+                                                       {
+                                                           "article":  {
+                                                                           "id":  68812,
+                                                                           "image":  {
+                                                                                         "imageType":  0,
+                                                                                         "imageId":  null,
+                                                                                         "imageUrl":  null
+                                                                                     },
+                                                                           "name":  "TEGA DZ-009-103-SŁONIK Przewijak Dziki Zachód biały słonik",
+                                                                           "code":  {
+                                                                                        "value":  "5912267",
+                                                                                        "representsExistingValue":  true
+                                                                                    },
+                                                                           "symbol":  null,
+                                                                           "type":  1,
+                                                                           "discountPermission":  true
+                                                                       },
+                                                           "flag":  0,
+                                                           "status":  "Available",
+                                                           "rowNumber":  4,
+                                                           "objectExtension":  {
+                                                                                   "extendedItemsList":  [
+
+                                                                                                         ]
+                                                                               },
+                                                           "extensions":  {
+                                                                              "extendedItemsList":  {
+
+                                                                                                    }
+                                                                          }
+                                                       },
+                                                       {
+                                                           "article":  {
+                                                                           "id":  68984,
+                                                                           "image":  {
+                                                                                         "imageType":  0,
+                                                                                         "imageId":  null,
+                                                                                         "imageUrl":  null
+                                                                                     },
+                                                                           "name":  "TEGA FF-009-103 Przewijak Leśna Opowieść biały",
+                                                                           "code":  {
+                                                                                        "value":  "5912431",
+                                                                                        "representsExistingValue":  true
+                                                                                    },
+                                                                           "symbol":  null,
+                                                                           "type":  1,
+                                                                           "discountPermission":  true
+                                                                       },
+                                                           "flag":  0,
+                                                           "status":  "Available",
+                                                           "rowNumber":  5,
+                                                           "objectExtension":  {
+                                                                                   "extendedItemsList":  [
+
+                                                                                                         ]
+                                                                               },
+                                                           "extensions":  {
+                                                                              "extendedItemsList":  {
+
+                                                                                                    }
+                                                                          }
+                                                       },
+                                                       {
+                                                           "article":  {
+                                                                           "id":  68985,
+                                                                           "image":  {
+                                                                                         "imageType":  1,
+                                                                                         "imageId":  83756,
+                                                                                         "imageUrl":  null
+                                                                                     },
+                                                                           "name":  "TEGA ME-009-103-SŁONKO Przewijak METEO biały słonko",
+                                                                           "code":  {
+                                                                                        "value":  "5912432",
+                                                                                        "representsExistingValue":  true
+                                                                                    },
+                                                                           "symbol":  null,
+                                                                           "type":  1,
+                                                                           "discountPermission":  true
+                                                                       },
+                                                           "flag":  0,
+                                                           "status":  "Available",
+                                                           "rowNumber":  6,
+                                                           "objectExtension":  {
+                                                                                   "extendedItemsList":  [
+
+                                                                                                         ]
+                                                                               },
+                                                           "extensions":  {
+                                                                              "extendedItemsList":  {
+
+                                                                                                    }
+                                                                          }
+                                                       },
+                                                       {
+                                                           "article":  {
+                                                                           "id":  68986,
+                                                                           "image":  {
+                                                                                         "imageType":  1,
+                                                                                         "imageId":  83757,
+                                                                                         "imageUrl":  null
+                                                                                     },
+                                                                           "name":  "TEGA ME-009-103-TĘCZA Przewijak METEO biały tęcza",
+                                                                           "code":  {
+                                                                                        "value":  "5912433",
+                                                                                        "representsExistingValue":  true
+                                                                                    },
+                                                                           "symbol":  null,
+                                                                           "type":  1,
+                                                                           "discountPermission":  true
+                                                                       },
+                                                           "flag":  0,
+                                                           "status":  "Available",
+                                                           "rowNumber":  7,
+                                                           "objectExtension":  {
+                                                                                   "extendedItemsList":  [
+
+                                                                                                         ]
+                                                                               },
+                                                           "extensions":  {
+                                                                              "extendedItemsList":  {
+
+                                                                                                    }
+                                                                          }
+                                                       },
+                                                       {
+                                                           "article":  {
+                                                                           "id":  69033,
+                                                                           "image":  {
+                                                                                         "imageType":  0,
+                                                                                         "imageId":  null,
+                                                                                         "imageUrl":  null
+                                                                                     },
+                                                                           "name":  "TEGA MS-009-118 Przewjak twardy MIŚ biała perła",
+                                                                           "code":  {
+                                                                                        "value":  "5912474",
+                                                                                        "representsExistingValue":  true
+                                                                                    },
+                                                                           "symbol":  null,
+                                                                           "type":  1,
+                                                                           "discountPermission":  true
+                                                                       },
+                                                           "flag":  0,
+                                                           "status":  "Available",
+                                                           "rowNumber":  8,
+                                                           "objectExtension":  {
+                                                                                   "extendedItemsList":  [
+
+                                                                                                         ]
+                                                                               },
+                                                           "extensions":  {
+                                                                              "extendedItemsList":  {
+
+                                                                                                    }
+                                                                          }
+                                                       },
+                                                       {
+                                                           "article":  {
+                                                                           "id":  69032,
+                                                                           "image":  {
+                                                                                         "imageType":  0,
+                                                                                         "imageId":  null,
+                                                                                         "imageUrl":  null
+                                                                                     },
+                                                                           "name":  "TEGA MS-009-119 Przewjak twardy MIŚ beżowy",
+                                                                           "code":  {
+                                                                                        "value":  "5912473",
+                                                                                        "representsExistingValue":  true
+                                                                                    },
+                                                                           "symbol":  null,
+                                                                           "type":  1,
+                                                                           "discountPermission":  true
+                                                                       },
+                                                           "flag":  0,
+                                                           "status":  "Available",
+                                                           "rowNumber":  9,
+                                                           "objectExtension":  {
+                                                                                   "extendedItemsList":  [
+
+                                                                                                         ]
+                                                                               },
+                                                           "extensions":  {
+                                                                              "extendedItemsList":  {
+
+                                                                                                    }
+                                                                          }
+                                                       }
+                                                   ],
+                                   "paging":  {
+                                                  "currentPage":  1,
+                                                  "totalPages":  1,
+                                                  "buildPager":  false
+                                              }
+                               }
+                  }
+              ],
+    "list":  {
+                 "url":  "/api/items/articleListXl/?groupId=68981\u0026filterInGroup=false\u0026pageNumber=1\u0026sortMode=NameAsc\u0026onlyAvailable=false\u0026warehouseId=1\u0026stockLevelFilter=0",
+                 "ok":  true,
+                 "status":  200,
+                 "json":  {
+                              "articleList":  [
+                                                  {
+                                                      "article":  {
+                                                                      "id":  68981,
+                                                                      "image":  {
+                                                                                    "imageType":  1,
+                                                                                    "imageId":  83753,
+                                                                                    "imageUrl":  null
+                                                                                },
+                                                                      "name":  "TEGA DZ-009-103-JEDNOROŻEC Przewijak Dziki Zachód biały jednorożec",
+                                                                      "code":  {
+                                                                                   "value":  "5912428",
+                                                                                   "representsExistingValue":  true
+                                                                               },
+                                                                      "symbol":  null,
+                                                                      "type":  1,
+                                                                      "discountPermission":  true
+                                                                  },
+                                                      "flag":  0,
+                                                      "status":  "Available",
+                                                      "rowNumber":  1,
+                                                      "objectExtension":  {
+                                                                              "extendedItemsList":  [
+
+                                                                                                    ]
+                                                                          },
+                                                      "extensions":  {
+                                                                         "extendedItemsList":  {
+
+                                                                                               }
+                                                                     }
+                                                  },
+                                                  {
+                                                      "article":  {
+                                                                      "id":  68982,
+                                                                      "image":  {
+                                                                                    "imageType":  1,
+                                                                                    "imageId":  83754,
+                                                                                    "imageUrl":  null
+                                                                                },
+                                                                      "name":  "TEGA DZ-009-103-JELONEK Przewijak Dziki Zachód biały jelonek",
+                                                                      "code":  {
+                                                                                   "value":  "5912429",
+                                                                                   "representsExistingValue":  true
+                                                                               },
+                                                                      "symbol":  null,
+                                                                      "type":  1,
+                                                                      "discountPermission":  true
+                                                                  },
+                                                      "flag":  0,
+                                                      "status":  "Available",
+                                                      "rowNumber":  2,
+                                                      "objectExtension":  {
+                                                                              "extendedItemsList":  [
+
+                                                                                                    ]
+                                                                          },
+                                                      "extensions":  {
+                                                                         "extendedItemsList":  {
+
+                                                                                               }
+                                                                     }
+                                                  },
+                                                  {
+                                                      "article":  {
+                                                                      "id":  68983,
+                                                                      "image":  {
+                                                                                    "imageType":  1,
+                                                                                    "imageId":  83755,
+                                                                                    "imageUrl":  null
+                                                                                },
+                                                                      "name":  "TEGA DZ-009-103-LISEK Przewijak Dziki Zachód biały lisek",
+                                                                      "code":  {
+                                                                                   "value":  "5912430",
+                                                                                   "representsExistingValue":  true
+                                                                               },
+                                                                      "symbol":  null,
+                                                                      "type":  1,
+                                                                      "discountPermission":  true
+                                                                  },
+                                                      "flag":  0,
+                                                      "status":  "Available",
+                                                      "rowNumber":  3,
+                                                      "objectExtension":  {
+                                                                              "extendedItemsList":  [
+
+                                                                                                    ]
+                                                                          },
+                                                      "extensions":  {
+                                                                         "extendedItemsList":  {
+
+                                                                                               }
+                                                                     }
+                                                  },
+                                                  {
+                                                      "article":  {
+                                                                      "id":  68812,
+                                                                      "image":  {
+                                                                                    "imageType":  0,
+                                                                                    "imageId":  null,
+                                                                                    "imageUrl":  null
+                                                                                },
+                                                                      "name":  "TEGA DZ-009-103-SŁONIK Przewijak Dziki Zachód biały słonik",
+                                                                      "code":  {
+                                                                                   "value":  "5912267",
+                                                                                   "representsExistingValue":  true
+                                                                               },
+                                                                      "symbol":  null,
+                                                                      "type":  1,
+                                                                      "discountPermission":  true
+                                                                  },
+                                                      "flag":  0,
+                                                      "status":  "Available",
+                                                      "rowNumber":  4,
+                                                      "objectExtension":  {
+                                                                              "extendedItemsList":  [
+
+                                                                                                    ]
+                                                                          },
+                                                      "extensions":  {
+                                                                         "extendedItemsList":  {
+
+                                                                                               }
+                                                                     }
+                                                  },
+                                                  {
+                                                      "article":  {
+                                                                      "id":  68984,
+                                                                      "image":  {
+                                                                                    "imageType":  0,
+                                                                                    "imageId":  null,
+                                                                                    "imageUrl":  null
+                                                                                },
+                                                                      "name":  "TEGA FF-009-103 Przewijak Leśna Opowieść biały",
+                                                                      "code":  {
+                                                                                   "value":  "5912431",
+                                                                                   "representsExistingValue":  true
+                                                                               },
+                                                                      "symbol":  null,
+                                                                      "type":  1,
+                                                                      "discountPermission":  true
+                                                                  },
+                                                      "flag":  0,
+                                                      "status":  "Available",
+                                                      "rowNumber":  5,
+                                                      "objectExtension":  {
+                                                                              "extendedItemsList":  [
+
+                                                                                                    ]
+                                                                          },
+                                                      "extensions":  {
+                                                                         "extendedItemsList":  {
+
+                                                                                               }
+                                                                     }
+                                                  },
+                                                  {
+                                                      "article":  {
+                                                                      "id":  68985,
+                                                                      "image":  {
+                                                                                    "imageType":  1,
+                                                                                    "imageId":  83756,
+                                                                                    "imageUrl":  null
+                                                                                },
+                                                                      "name":  "TEGA ME-009-103-SŁONKO Przewijak METEO biały słonko",
+                                                                      "code":  {
+                                                                                   "value":  "5912432",
+                                                                                   "representsExistingValue":  true
+                                                                               },
+                                                                      "symbol":  null,
+                                                                      "type":  1,
+                                                                      "discountPermission":  true
+                                                                  },
+                                                      "flag":  0,
+                                                      "status":  "Available",
+                                                      "rowNumber":  6,
+                                                      "objectExtension":  {
+                                                                              "extendedItemsList":  [
+
+                                                                                                    ]
+                                                                          },
+                                                      "extensions":  {
+                                                                         "extendedItemsList":  {
+
+                                                                                               }
+                                                                     }
+                                                  },
+                                                  {
+                                                      "article":  {
+                                                                      "id":  68986,
+                                                                      "image":  {
+                                                                                    "imageType":  1,
+                                                                                    "imageId":  83757,
+                                                                                    "imageUrl":  null
+                                                                                },
+                                                                      "name":  "TEGA ME-009-103-TĘCZA Przewijak METEO biały tęcza",
+                                                                      "code":  {
+                                                                                   "value":  "5912433",
+                                                                                   "representsExistingValue":  true
+                                                                               },
+                                                                      "symbol":  null,
+                                                                      "type":  1,
+                                                                      "discountPermission":  true
+                                                                  },
+                                                      "flag":  0,
+                                                      "status":  "Available",
+                                                      "rowNumber":  7,
+                                                      "objectExtension":  {
+                                                                              "extendedItemsList":  [
+
+                                                                                                    ]
+                                                                          },
+                                                      "extensions":  {
+                                                                         "extendedItemsList":  {
+
+                                                                                               }
+                                                                     }
+                                                  },
+                                                  {
+                                                      "article":  {
+                                                                      "id":  69033,
+                                                                      "image":  {
+                                                                                    "imageType":  0,
+                                                                                    "imageId":  null,
+                                                                                    "imageUrl":  null
+                                                                                },
+                                                                      "name":  "TEGA MS-009-118 Przewjak twardy MIŚ biała perła",
+                                                                      "code":  {
+                                                                                   "value":  "5912474",
+                                                                                   "representsExistingValue":  true
+                                                                               },
+                                                                      "symbol":  null,
+                                                                      "type":  1,
+                                                                      "discountPermission":  true
+                                                                  },
+                                                      "flag":  0,
+                                                      "status":  "Available",
+                                                      "rowNumber":  8,
+                                                      "objectExtension":  {
+                                                                              "extendedItemsList":  [
+
+                                                                                                    ]
+                                                                          },
+                                                      "extensions":  {
+                                                                         "extendedItemsList":  {
+
+                                                                                               }
+                                                                     }
+                                                  },
+                                                  {
+                                                      "article":  {
+                                                                      "id":  69032,
+                                                                      "image":  {
+                                                                                    "imageType":  0,
+                                                                                    "imageId":  null,
+                                                                                    "imageUrl":  null
+                                                                                },
+                                                                      "name":  "TEGA MS-009-119 Przewjak twardy MIŚ beżowy",
+                                                                      "code":  {
+                                                                                   "value":  "5912473",
+                                                                                   "representsExistingValue":  true
+                                                                               },
+                                                                      "symbol":  null,
+                                                                      "type":  1,
+                                                                      "discountPermission":  true
+                                                                  },
+                                                      "flag":  0,
+                                                      "status":  "Available",
+                                                      "rowNumber":  9,
+                                                      "objectExtension":  {
+                                                                              "extendedItemsList":  [
+
+                                                                                                    ]
+                                                                          },
+                                                      "extensions":  {
+                                                                         "extendedItemsList":  {
+
+                                                                                               }
+                                                                     }
+                                                  }
+                                              ],
+                              "paging":  {
+                                             "currentPage":  1,
+                                             "totalPages":  1,
+                                             "buildPager":  false
+                                         }
+                          }
+             },
+    "ids":  [
+                68981,
+                68982,
+                68983,
+                68812,
+                68984,
+                68985,
+                68986,
+                69033,
+                69032
+            ],
+    "units":  {
+                  "url":  "/api/items/unitsXl?ids=68981-68982-68983-68812-68984-68985-68986-69033-69032",
+                  "ok":  true,
+                  "status":  200,
+                  "json":  {
+                               "articleUnitList":  [
+                                                       {
+                                                           "articleId":  68812,
+                                                           "units":  [
+                                                                         {
+                                                                             "unitId":  0,
+                                                                             "unitName":  "szt."
+                                                                         }
+                                                                     ]
+                                                       },
+                                                       {
+                                                           "articleId":  68981,
+                                                           "units":  [
+                                                                         {
+                                                                             "unitId":  0,
+                                                                             "unitName":  "szt."
+                                                                         }
+                                                                     ]
+                                                       },
+                                                       {
+                                                           "articleId":  68982,
+                                                           "units":  [
+                                                                         {
+                                                                             "unitId":  0,
+                                                                             "unitName":  "szt."
+                                                                         }
+                                                                     ]
+                                                       },
+                                                       {
+                                                           "articleId":  68983,
+                                                           "units":  [
+                                                                         {
+                                                                             "unitId":  0,
+                                                                             "unitName":  "szt."
+                                                                         }
+                                                                     ]
+                                                       },
+                                                       {
+                                                           "articleId":  68984,
+                                                           "units":  [
+                                                                         {
+                                                                             "unitId":  0,
+                                                                             "unitName":  "szt."
+                                                                         }
+                                                                     ]
+                                                       },
+                                                       {
+                                                           "articleId":  68985,
+                                                           "units":  [
+                                                                         {
+                                                                             "unitId":  0,
+                                                                             "unitName":  "szt."
+                                                                         }
+                                                                     ]
+                                                       },
+                                                       {
+                                                           "articleId":  68986,
+                                                           "units":  [
+                                                                         {
+                                                                             "unitId":  0,
+                                                                             "unitName":  "szt."
+                                                                         }
+                                                                     ]
+                                                       },
+                                                       {
+                                                           "articleId":  69032,
+                                                           "units":  [
+                                                                         {
+                                                                             "unitId":  0,
+                                                                             "unitName":  "szt."
+                                                                         }
+                                                                     ]
+                                                       },
+                                                       {
+                                                           "articleId":  69033,
+                                                           "units":  [
+                                                                         {
+                                                                             "unitId":  0,
+                                                                             "unitName":  "szt."
+                                                                         }
+                                                                     ]
+                                                       }
+                                                   ]
+                           }
+              },
+    "details":  [
+                    {
+                        "url":  "/api/items/articleFromListXl/?articleId=68981\u0026warehouseId=1",
+                        "ok":  true,
+                        "status":  200,
+                        "json":  {
+                                     "unit":  {
+                                                  "unitLockChange":  false,
+                                                  "auxiliaryUnit":  {
+                                                                        "unit":  null,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                  "numerator":  {
+                                                                    "value":  1,
+                                                                    "representsExistingValue":  true
+                                                                },
+                                                  "denominator":  {
+                                                                      "value":  1,
+                                                                      "representsExistingValue":  true
+                                                                  },
+                                                  "basicUnit":  "szt.",
+                                                  "defaultUnitNo":  0,
+                                                  "isUnitTotal":  true
+                                              },
+                                     "price":  {
+                                                   "currency":  "PLN",
+                                                   "netPrice":  40.06,
+                                                   "grossPrice":  49.2738,
+                                                   "baseNetPrice":  46.05,
+                                                   "baseGrossPrice":  56.6415,
+                                                   "unitNetPrice":  {
+                                                                        "value":  0,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                   "unitGrossPrice":  {
+                                                                          "value":  0,
+                                                                          "representsExistingValue":  false
+                                                                      },
+                                                   "vatValue":  23
+                                               },
+                                     "stockLevel":  {
+                                                        "value":  "5",
+                                                        "representsExistingValue":  true
+                                                    },
+                                     "itemExistsInCurrentPriceList":  true,
+                                     "thresholdPriceLists":  {
+                                                                 "constPriceThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "valuableThresholdPriceList":  [
+
+                                                                                                ],
+                                                                 "percentageThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "hasAnyThresholdPriceList":  false
+                                                             },
+                                     "articleDetailsType":  "NotContainVariants",
+                                     "ean":  "5902963001566",
+                                     "objectExtension":  {
+                                                             "extendedItemsList":  [
+
+                                                                                   ]
+                                                         },
+                                     "extensions":  {
+                                                        "extendedItemsList":  {
+
+                                                                              }
+                                                    },
+                                     "articleInCart":  {
+                                                           "quantity":  null
+                                                       }
+                                 }
+                    },
+                    {
+                        "url":  "/api/items/articleFromListXl/?articleId=68982\u0026warehouseId=1",
+                        "ok":  true,
+                        "status":  200,
+                        "json":  {
+                                     "unit":  {
+                                                  "unitLockChange":  false,
+                                                  "auxiliaryUnit":  {
+                                                                        "unit":  null,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                  "numerator":  {
+                                                                    "value":  1,
+                                                                    "representsExistingValue":  true
+                                                                },
+                                                  "denominator":  {
+                                                                      "value":  1,
+                                                                      "representsExistingValue":  true
+                                                                  },
+                                                  "basicUnit":  "szt.",
+                                                  "defaultUnitNo":  0,
+                                                  "isUnitTotal":  true
+                                              },
+                                     "price":  {
+                                                   "currency":  "PLN",
+                                                   "netPrice":  40.06,
+                                                   "grossPrice":  49.2738,
+                                                   "baseNetPrice":  46.05,
+                                                   "baseGrossPrice":  56.6415,
+                                                   "unitNetPrice":  {
+                                                                        "value":  0,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                   "unitGrossPrice":  {
+                                                                          "value":  0,
+                                                                          "representsExistingValue":  false
+                                                                      },
+                                                   "vatValue":  23
+                                               },
+                                     "stockLevel":  {
+                                                        "value":  "9",
+                                                        "representsExistingValue":  true
+                                                    },
+                                     "itemExistsInCurrentPriceList":  true,
+                                     "thresholdPriceLists":  {
+                                                                 "constPriceThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "valuableThresholdPriceList":  [
+
+                                                                                                ],
+                                                                 "percentageThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "hasAnyThresholdPriceList":  false
+                                                             },
+                                     "articleDetailsType":  "NotContainVariants",
+                                     "ean":  "5902963001573",
+                                     "objectExtension":  {
+                                                             "extendedItemsList":  [
+
+                                                                                   ]
+                                                         },
+                                     "extensions":  {
+                                                        "extendedItemsList":  {
+
+                                                                              }
+                                                    },
+                                     "articleInCart":  {
+                                                           "quantity":  null
+                                                       }
+                                 }
+                    },
+                    {
+                        "url":  "/api/items/articleFromListXl/?articleId=68983\u0026warehouseId=1",
+                        "ok":  true,
+                        "status":  200,
+                        "json":  {
+                                     "unit":  {
+                                                  "unitLockChange":  false,
+                                                  "auxiliaryUnit":  {
+                                                                        "unit":  null,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                  "numerator":  {
+                                                                    "value":  1,
+                                                                    "representsExistingValue":  true
+                                                                },
+                                                  "denominator":  {
+                                                                      "value":  1,
+                                                                      "representsExistingValue":  true
+                                                                  },
+                                                  "basicUnit":  "szt.",
+                                                  "defaultUnitNo":  0,
+                                                  "isUnitTotal":  true
+                                              },
+                                     "price":  {
+                                                   "currency":  "PLN",
+                                                   "netPrice":  40.06,
+                                                   "grossPrice":  49.2738,
+                                                   "baseNetPrice":  46.05,
+                                                   "baseGrossPrice":  56.6415,
+                                                   "unitNetPrice":  {
+                                                                        "value":  0,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                   "unitGrossPrice":  {
+                                                                          "value":  0,
+                                                                          "representsExistingValue":  false
+                                                                      },
+                                                   "vatValue":  23
+                                               },
+                                     "stockLevel":  {
+                                                        "value":  "4",
+                                                        "representsExistingValue":  true
+                                                    },
+                                     "itemExistsInCurrentPriceList":  true,
+                                     "thresholdPriceLists":  {
+                                                                 "constPriceThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "valuableThresholdPriceList":  [
+
+                                                                                                ],
+                                                                 "percentageThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "hasAnyThresholdPriceList":  false
+                                                             },
+                                     "articleDetailsType":  "NotContainVariants",
+                                     "ean":  "5902963001580",
+                                     "objectExtension":  {
+                                                             "extendedItemsList":  [
+
+                                                                                   ]
+                                                         },
+                                     "extensions":  {
+                                                        "extendedItemsList":  {
+
+                                                                              }
+                                                    },
+                                     "articleInCart":  {
+                                                           "quantity":  null
+                                                       }
+                                 }
+                    },
+                    {
+                        "url":  "/api/items/articleFromListXl/?articleId=68812\u0026warehouseId=1",
+                        "ok":  true,
+                        "status":  200,
+                        "json":  {
+                                     "unit":  {
+                                                  "unitLockChange":  false,
+                                                  "auxiliaryUnit":  {
+                                                                        "unit":  null,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                  "numerator":  {
+                                                                    "value":  1,
+                                                                    "representsExistingValue":  true
+                                                                },
+                                                  "denominator":  {
+                                                                      "value":  1,
+                                                                      "representsExistingValue":  true
+                                                                  },
+                                                  "basicUnit":  "szt.",
+                                                  "defaultUnitNo":  0,
+                                                  "isUnitTotal":  true
+                                              },
+                                     "price":  {
+                                                   "currency":  "PLN",
+                                                   "netPrice":  40.06,
+                                                   "grossPrice":  49.2738,
+                                                   "baseNetPrice":  46.05,
+                                                   "baseGrossPrice":  56.6415,
+                                                   "unitNetPrice":  {
+                                                                        "value":  0,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                   "unitGrossPrice":  {
+                                                                          "value":  0,
+                                                                          "representsExistingValue":  false
+                                                                      },
+                                                   "vatValue":  23
+                                               },
+                                     "stockLevel":  {
+                                                        "value":  "8",
+                                                        "representsExistingValue":  true
+                                                    },
+                                     "itemExistsInCurrentPriceList":  true,
+                                     "thresholdPriceLists":  {
+                                                                 "constPriceThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "valuableThresholdPriceList":  [
+
+                                                                                                ],
+                                                                 "percentageThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "hasAnyThresholdPriceList":  false
+                                                             },
+                                     "articleDetailsType":  "NotContainVariants",
+                                     "ean":  "5902963001597",
+                                     "objectExtension":  {
+                                                             "extendedItemsList":  [
+
+                                                                                   ]
+                                                         },
+                                     "extensions":  {
+                                                        "extendedItemsList":  {
+
+                                                                              }
+                                                    },
+                                     "articleInCart":  {
+                                                           "quantity":  null
+                                                       }
+                                 }
+                    },
+                    {
+                        "url":  "/api/items/articleFromListXl/?articleId=68984\u0026warehouseId=1",
+                        "ok":  true,
+                        "status":  200,
+                        "json":  {
+                                     "unit":  {
+                                                  "unitLockChange":  false,
+                                                  "auxiliaryUnit":  {
+                                                                        "unit":  null,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                  "numerator":  {
+                                                                    "value":  1,
+                                                                    "representsExistingValue":  true
+                                                                },
+                                                  "denominator":  {
+                                                                      "value":  1,
+                                                                      "representsExistingValue":  true
+                                                                  },
+                                                  "basicUnit":  "szt.",
+                                                  "defaultUnitNo":  0,
+                                                  "isUnitTotal":  true
+                                              },
+                                     "price":  {
+                                                   "currency":  "PLN",
+                                                   "netPrice":  40.06,
+                                                   "grossPrice":  49.2738,
+                                                   "baseNetPrice":  46.05,
+                                                   "baseGrossPrice":  56.6415,
+                                                   "unitNetPrice":  {
+                                                                        "value":  0,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                   "unitGrossPrice":  {
+                                                                          "value":  0,
+                                                                          "representsExistingValue":  false
+                                                                      },
+                                                   "vatValue":  23
+                                               },
+                                     "stockLevel":  {
+                                                        "value":  "3",
+                                                        "representsExistingValue":  true
+                                                    },
+                                     "itemExistsInCurrentPriceList":  true,
+                                     "thresholdPriceLists":  {
+                                                                 "constPriceThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "valuableThresholdPriceList":  [
+
+                                                                                                ],
+                                                                 "percentageThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "hasAnyThresholdPriceList":  false
+                                                             },
+                                     "articleDetailsType":  "NotContainVariants",
+                                     "ean":  "5902963004345",
+                                     "objectExtension":  {
+                                                             "extendedItemsList":  [
+
+                                                                                   ]
+                                                         },
+                                     "extensions":  {
+                                                        "extendedItemsList":  {
+
+                                                                              }
+                                                    },
+                                     "articleInCart":  {
+                                                           "quantity":  null
+                                                       }
+                                 }
+                    },
+                    {
+                        "url":  "/api/items/articleFromListXl/?articleId=68985\u0026warehouseId=1",
+                        "ok":  true,
+                        "status":  200,
+                        "json":  {
+                                     "unit":  {
+                                                  "unitLockChange":  false,
+                                                  "auxiliaryUnit":  {
+                                                                        "unit":  null,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                  "numerator":  {
+                                                                    "value":  1,
+                                                                    "representsExistingValue":  true
+                                                                },
+                                                  "denominator":  {
+                                                                      "value":  1,
+                                                                      "representsExistingValue":  true
+                                                                  },
+                                                  "basicUnit":  "szt.",
+                                                  "defaultUnitNo":  0,
+                                                  "isUnitTotal":  true
+                                              },
+                                     "price":  {
+                                                   "currency":  "PLN",
+                                                   "netPrice":  40.06,
+                                                   "grossPrice":  49.2738,
+                                                   "baseNetPrice":  46.05,
+                                                   "baseGrossPrice":  56.6415,
+                                                   "unitNetPrice":  {
+                                                                        "value":  0,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                   "unitGrossPrice":  {
+                                                                          "value":  0,
+                                                                          "representsExistingValue":  false
+                                                                      },
+                                                   "vatValue":  23
+                                               },
+                                     "stockLevel":  {
+                                                        "value":  "2",
+                                                        "representsExistingValue":  true
+                                                    },
+                                     "itemExistsInCurrentPriceList":  true,
+                                     "thresholdPriceLists":  {
+                                                                 "constPriceThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "valuableThresholdPriceList":  [
+
+                                                                                                ],
+                                                                 "percentageThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "hasAnyThresholdPriceList":  false
+                                                             },
+                                     "articleDetailsType":  "NotContainVariants",
+                                     "ean":  "5902963002693",
+                                     "objectExtension":  {
+                                                             "extendedItemsList":  [
+
+                                                                                   ]
+                                                         },
+                                     "extensions":  {
+                                                        "extendedItemsList":  {
+
+                                                                              }
+                                                    },
+                                     "articleInCart":  {
+                                                           "quantity":  null
+                                                       }
+                                 }
+                    },
+                    {
+                        "url":  "/api/items/articleFromListXl/?articleId=68986\u0026warehouseId=1",
+                        "ok":  true,
+                        "status":  200,
+                        "json":  {
+                                     "unit":  {
+                                                  "unitLockChange":  false,
+                                                  "auxiliaryUnit":  {
+                                                                        "unit":  null,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                  "numerator":  {
+                                                                    "value":  1,
+                                                                    "representsExistingValue":  true
+                                                                },
+                                                  "denominator":  {
+                                                                      "value":  1,
+                                                                      "representsExistingValue":  true
+                                                                  },
+                                                  "basicUnit":  "szt.",
+                                                  "defaultUnitNo":  0,
+                                                  "isUnitTotal":  true
+                                              },
+                                     "price":  {
+                                                   "currency":  "PLN",
+                                                   "netPrice":  40.06,
+                                                   "grossPrice":  49.2738,
+                                                   "baseNetPrice":  46.05,
+                                                   "baseGrossPrice":  56.6415,
+                                                   "unitNetPrice":  {
+                                                                        "value":  0,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                   "unitGrossPrice":  {
+                                                                          "value":  0,
+                                                                          "representsExistingValue":  false
+                                                                      },
+                                                   "vatValue":  23
+                                               },
+                                     "stockLevel":  {
+                                                        "value":  "0",
+                                                        "representsExistingValue":  true
+                                                    },
+                                     "itemExistsInCurrentPriceList":  true,
+                                     "thresholdPriceLists":  {
+                                                                 "constPriceThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "valuableThresholdPriceList":  [
+
+                                                                                                ],
+                                                                 "percentageThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "hasAnyThresholdPriceList":  false
+                                                             },
+                                     "articleDetailsType":  "NotContainVariants",
+                                     "ean":  "5902963002709",
+                                     "objectExtension":  {
+                                                             "extendedItemsList":  [
+
+                                                                                   ]
+                                                         },
+                                     "extensions":  {
+                                                        "extendedItemsList":  {
+
+                                                                              }
+                                                    },
+                                     "articleInCart":  {
+                                                           "quantity":  null
+                                                       }
+                                 }
+                    },
+                    {
+                        "url":  "/api/items/articleFromListXl/?articleId=69033\u0026warehouseId=1",
+                        "ok":  true,
+                        "status":  200,
+                        "json":  {
+                                     "unit":  {
+                                                  "unitLockChange":  false,
+                                                  "auxiliaryUnit":  {
+                                                                        "unit":  null,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                  "numerator":  {
+                                                                    "value":  1,
+                                                                    "representsExistingValue":  true
+                                                                },
+                                                  "denominator":  {
+                                                                      "value":  1,
+                                                                      "representsExistingValue":  true
+                                                                  },
+                                                  "basicUnit":  "szt.",
+                                                  "defaultUnitNo":  0,
+                                                  "isUnitTotal":  true
+                                              },
+                                     "price":  {
+                                                   "currency":  "PLN",
+                                                   "netPrice":  40.06,
+                                                   "grossPrice":  49.2738,
+                                                   "baseNetPrice":  46.05,
+                                                   "baseGrossPrice":  56.6415,
+                                                   "unitNetPrice":  {
+                                                                        "value":  0,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                   "unitGrossPrice":  {
+                                                                          "value":  0,
+                                                                          "representsExistingValue":  false
+                                                                      },
+                                                   "vatValue":  23
+                                               },
+                                     "stockLevel":  {
+                                                        "value":  "8",
+                                                        "representsExistingValue":  true
+                                                    },
+                                     "itemExistsInCurrentPriceList":  true,
+                                     "thresholdPriceLists":  {
+                                                                 "constPriceThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "valuableThresholdPriceList":  [
+
+                                                                                                ],
+                                                                 "percentageThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "hasAnyThresholdPriceList":  false
+                                                             },
+                                     "articleDetailsType":  "NotContainVariants",
+                                     "ean":  "5902963008848",
+                                     "objectExtension":  {
+                                                             "extendedItemsList":  [
+
+                                                                                   ]
+                                                         },
+                                     "extensions":  {
+                                                        "extendedItemsList":  {
+
+                                                                              }
+                                                    },
+                                     "articleInCart":  {
+                                                           "quantity":  null
+                                                       }
+                                 }
+                    },
+                    {
+                        "url":  "/api/items/articleFromListXl/?articleId=69032\u0026warehouseId=1",
+                        "ok":  true,
+                        "status":  200,
+                        "json":  {
+                                     "unit":  {
+                                                  "unitLockChange":  false,
+                                                  "auxiliaryUnit":  {
+                                                                        "unit":  null,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                  "numerator":  {
+                                                                    "value":  1,
+                                                                    "representsExistingValue":  true
+                                                                },
+                                                  "denominator":  {
+                                                                      "value":  1,
+                                                                      "representsExistingValue":  true
+                                                                  },
+                                                  "basicUnit":  "szt.",
+                                                  "defaultUnitNo":  0,
+                                                  "isUnitTotal":  true
+                                              },
+                                     "price":  {
+                                                   "currency":  "PLN",
+                                                   "netPrice":  40.06,
+                                                   "grossPrice":  49.2738,
+                                                   "baseNetPrice":  46.05,
+                                                   "baseGrossPrice":  56.6415,
+                                                   "unitNetPrice":  {
+                                                                        "value":  0,
+                                                                        "representsExistingValue":  false
+                                                                    },
+                                                   "unitGrossPrice":  {
+                                                                          "value":  0,
+                                                                          "representsExistingValue":  false
+                                                                      },
+                                                   "vatValue":  23
+                                               },
+                                     "stockLevel":  {
+                                                        "value":  "8",
+                                                        "representsExistingValue":  true
+                                                    },
+                                     "itemExistsInCurrentPriceList":  true,
+                                     "thresholdPriceLists":  {
+                                                                 "constPriceThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "valuableThresholdPriceList":  [
+
+                                                                                                ],
+                                                                 "percentageThresholdPriceList":  [
+
+                                                                                                  ],
+                                                                 "hasAnyThresholdPriceList":  false
+                                                             },
+                                     "articleDetailsType":  "NotContainVariants",
+                                     "ean":  "5902963008855",
+                                     "objectExtension":  {
+                                                             "extendedItemsList":  [
+
+                                                                                   ]
+                                                         },
+                                     "extensions":  {
+                                                        "extendedItemsList":  {
+
+                                                                              }
+                                                    },
+                                     "articleInCart":  {
+                                                           "quantity":  null
+                                                       }
+                                 }
+                    }
+                ]
+}

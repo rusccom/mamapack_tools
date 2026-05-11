@@ -1,0 +1,568 @@
+﻿{
+    "checkedAt":  "2026-05-09T20:10:09.9488238+03:00",
+    "count":  62,
+    "okCount":  62,
+    "failed":  [
+
+               ],
+    "items":  [
+                  {
+                      "sku":  "777893",
+                      "title":  "CANPOL 13/107 Grzechotka z gryzaczkiem",
+                      "imageId":  80528,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\777893-1.jpg",
+                      "bytes":  10227,
+                      "skippedExisting":  true
+                  },
+                  {
+                      "sku":  "5909898",
+                      "title":  "CANPOL 2/083 Miękka książeczka kąpielowa z piszczkiem Farma",
+                      "imageId":  78340,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5909898-1.jpg",
+                      "bytes":  34172,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5909899",
+                      "title":  "CANPOL 2/083 Miękka książeczka kąpielowa z piszczkiem Wild Animals",
+                      "imageId":  78339,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5909899-1.jpg",
+                      "bytes":  32405,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "774263",
+                      "title":  "CANPOL 2/187 Grzechotka Sowa zielony",
+                      "imageId":  29695,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\774263-1.jpg",
+                      "bytes":  78458,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "774265",
+                      "title":  "CANPOL 2/450 Grzechotka kolorowe kulki",
+                      "imageId":  29697,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\774265-1.jpg",
+                      "bytes":  109024,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5911122",
+                      "title":  "CANPOL 2/457 Grzechotka z tykającą kulką kulki czerwone",
+                      "imageId":  80674,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5911122-1.jpg",
+                      "bytes":  17251,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "776063",
+                      "title":  "CANPOL 2/606 Grzechotka NOVA Sztanga zielona",
+                      "imageId":  32241,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\776063-1.jpg",
+                      "bytes":  63965,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "774433",
+                      "title":  "CANPOL 2/606 Grzechotka Nowa Sztanga niebieska",
+                      "imageId":  29928,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\774433-1.jpg",
+                      "bytes":  64769,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "774434",
+                      "title":  "CANPOL 2/606 Grzechotka Nowa Sztanga różowa",
+                      "imageId":  29929,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\774434-1.jpg",
+                      "bytes":  67467,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "774298",
+                      "title":  "CANPOL 2/817 Kostka edukacyjna miękka 6szt",
+                      "imageId":  29739,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\774298-1.jpg",
+                      "bytes":  106481,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "774277",
+                      "title":  "CANPOL 2/890 Miękka zabawka z grzechotką Piłka",
+                      "imageId":  29714,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\774277-1.jpg",
+                      "bytes":  92661,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "774278",
+                      "title":  "CANPOL 2/891 Miękka zabawka z grzechotką Młotek",
+                      "imageId":  82406,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\774278-1.jpg",
+                      "bytes":  18373,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5909901",
+                      "title":  "CANPOL 2/992 Zabawki piszczące kaczuszki - Hokeista red",
+                      "imageId":  78336,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5909901-1.jpg",
+                      "bytes":  13659,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5909900",
+                      "title":  "CANPOL 2/992 Zabawki piszczące kaczuszki - Magik black",
+                      "imageId":  78338,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5909900-1.jpg",
+                      "bytes":  15280,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5909902",
+                      "title":  "CANPOL 2/992 Zabawki piszczące kaczuszki - Malarz blue",
+                      "imageId":  78335,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5909902-1.jpg",
+                      "bytes":  14517,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "780511",
+                      "title":  "CANPOL 56/127 Grzechotka z gryzakiem wodnym Lizak",
+                      "imageId":  39878,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\780511-1.jpg",
+                      "bytes":  55868,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "776013",
+                      "title":  "CANPOL 56/145 Grzechotka z kolorowymi koralikami",
+                      "imageId":  32023,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\776013-1.jpg",
+                      "bytes":  93582,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "775151",
+                      "title":  "CANPOL 56/146 Grzechotka z gryzakiem wodnym Zwierzątka",
+                      "imageId":  30830,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\775151-1.jpg",
+                      "bytes":  54516,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "779906",
+                      "title":  "CANPOL 56/153 Grzechotka z obrotowym elementem Sztanga róż",
+                      "imageId":  38399,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\779906-1.jpg",
+                      "bytes":  34031,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "779907",
+                      "title":  "CANPOL 56/153 Grzechotka z obrotowym elementem Sztanga turkus",
+                      "imageId":  38396,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\779907-1.jpg",
+                      "bytes":  36912,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "780503",
+                      "title":  "CANPOL 56/498 Zabawki do kąpieli 3 szt Kaczki",
+                      "imageId":  39908,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\780503-1.jpg",
+                      "bytes":  51359,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "788671",
+                      "title":  "CANPOL 56/610 Sensoryczna grzechotka z gryzakiem czerwona",
+                      "imageId":  57286,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\788671-1.jpg",
+                      "bytes":  47951,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "788672",
+                      "title":  "CANPOL 56/610 Sensoryczna grzechotka z gryzakiem różowa",
+                      "imageId":  57283,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\788672-1.jpg",
+                      "bytes":  47626,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "788673",
+                      "title":  "CANPOL 56/610 Sensoryczna grzechotka z gryzakiem zielona",
+                      "imageId":  57280,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\788673-1.jpg",
+                      "bytes":  48272,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "774279",
+                      "title":  "CANPOL 68/053 Pluszowa zabawka z pozytywką 0+ Bears szara",
+                      "imageId":  29718,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\774279-1.jpg",
+                      "bytes":  59723,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5912939",
+                      "title":  "CANPOL 68/061_blu Pluszowa zabawka z grzechotką i lusterkiem DŁUGIE USZY",
+                      "imageId":  85759,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5912939-1.jpg",
+                      "bytes":  19638,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5912940",
+                      "title":  "CANPOL 68/061_pin Pluszowa zabawka z grzechotką i lusterkiem DŁUGIE USZY",
+                      "imageId":  85760,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5912940-1.jpg",
+                      "bytes":  18794,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "776188",
+                      "title":  "CANPOL 68/063 Interaktywna spirala do łóżeczka/wózka ZIGZAG czerwona",
+                      "imageId":  32542,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\776188-1.jpg",
+                      "bytes":  126285,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "776187",
+                      "title":  "CANPOL 68/063 Interaktywna spirala do łóżeczka/wózka ZIGZAG niebieska",
+                      "imageId":  32543,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\776187-1.jpg",
+                      "bytes":  131172,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "778017",
+                      "title":  "CANPOL 68/077 Pluszowa sensoryczna mata do zabawy Sensory Toys",
+                      "imageId":  35566,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\778017-1.jpg",
+                      "bytes":  412682,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "778840",
+                      "title":  "CANPOL 68/080 Zabawka kontrastowa z piszczkiem i lusterkiem SENSORY TOYS",
+                      "imageId":  37201,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\778840-1.jpg",
+                      "bytes":  88780,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "778838",
+                      "title":  "CANPOL 68/081 Pluszowa kontrastowa książeczka edukacyjna SENSORY TOYS",
+                      "imageId":  37203,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\778838-1.jpg",
+                      "bytes":  141716,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "778839",
+                      "title":  "CANPOL 68/082 Pluszowa piłka kontrastowa SENSORY TOYS",
+                      "imageId":  37202,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\778839-1.jpg",
+                      "bytes":  101824,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "778837",
+                      "title":  "CANPOL 68/083 Kontrastowa karuzelka podróżna do wózka/fotelika SENSORY",
+                      "imageId":  37204,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\778837-1.jpg",
+                      "bytes":  88131,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "778836",
+                      "title":  "CANPOL 68/084 Kontrastowa karuzela z pozytywką SENSORY TOYS",
+                      "imageId":  36675,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\778836-1.jpg",
+                      "bytes":  41614,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "791344",
+                      "title":  "CANPOL 68/085 Sensoryczna zawieszka do wózka BabiesBoo",
+                      "imageId":  62254,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\791344-1.jpg",
+                      "bytes":  25680,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "791345",
+                      "title":  "CANPOL 68/086 Sensoryczna zabawka z gryzakiem i grzechotką BabiesBoo",
+                      "imageId":  62252,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\791345-1.jpg",
+                      "bytes":  27033,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "791347",
+                      "title":  "CANPOL 68/088 Sensoryczna książeczka manipulacyjna BabiesBoo Panda",
+                      "imageId":  62242,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\791347-1.jpg",
+                      "bytes":  42567,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "791346",
+                      "title":  "CANPOL 68/089 Sensoryczna piłka z grzechotką i piszczkiem BabiesBoo",
+                      "imageId":  62248,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\791346-1.jpg",
+                      "bytes":  35112,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "791342",
+                      "title":  "CANPOL 68/090 Interaktywna sensoryczna zabawka BabiesBoo Leniwiec",
+                      "imageId":  62257,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\791342-1.jpg",
+                      "bytes":  23803,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "791341",
+                      "title":  "CANPOL 68/091 Sensoryczna karuzela podróżna BabiesBoo",
+                      "imageId":  62259,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\791341-1.jpg",
+                      "bytes":  20077,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "791339",
+                      "title":  "CANPOL 68/092 Sensoryczna mata edukacyjna z lusterkiem BabiesBoo",
+                      "imageId":  62263,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\791339-1.jpg",
+                      "bytes":  43495,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "791340",
+                      "title":  "CANPOL 68/093 Sensoryczna karuzela z pozytywką/Bluetooth BabiesBoo",
+                      "imageId":  62261,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\791340-1.jpg",
+                      "bytes":  18737,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5910715",
+                      "title":  "CANPOL 68/095 Zabawka sensoryczna z piszczkiem BabiesBoo leniwiec",
+                      "imageId":  80010,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5910715-1.jpg",
+                      "bytes":  21845,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5910716",
+                      "title":  "CANPOL 68/095 Zabawka sensoryczna z piszczkiem BabiesBoo panda",
+                      "imageId":  80009,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5910716-1.jpg",
+                      "bytes":  25556,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5910717",
+                      "title":  "CANPOL 68/096 Miękkie kontrastowe karty sensoryczne z gryzak BabiesBoo",
+                      "imageId":  80007,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5910717-1.jpg",
+                      "bytes":  45865,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5910718",
+                      "title":  "CANPOL 68/097 Sensoryczna miękka książeczka edukacyjna BabiesBoo",
+                      "imageId":  80005,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5910718-1.jpg",
+                      "bytes":  33550,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5910719",
+                      "title":  "CANPOL 68/098 Miękka konstastowa kostka sensoryczna BabiesBoo",
+                      "imageId":  80004,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5910719-1.jpg",
+                      "bytes":  37617,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5910720",
+                      "title":  "CANPOL 68/099 Lusterko sensoryczne z elem.interaktywnymi BabiesBoo",
+                      "imageId":  80003,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5910720-1.jpg",
+                      "bytes":  27779,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5911947",
+                      "title":  "CANPOL 68/100 Leniwiec z pozytywką i projektorem 3w1 BabiesBoo",
+                      "imageId":  83238,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5911947-1.jpg",
+                      "bytes":  58827,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5911949",
+                      "title":  "CANPOL 68/101 Pluszowa Panda z zawieszką pozytywką i lampką BabiesBoo",
+                      "imageId":  83241,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5911949-1.jpg",
+                      "bytes":  62019,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5908157",
+                      "title":  "CANPOL 75/200 Mata edukacyjna FOX",
+                      "imageId":  73345,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5908157-1.jpg",
+                      "bytes":  38293,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5908156",
+                      "title":  "CANPOL 75/201 Karuzela z pozytywką nad łóżeczko FOX",
+                      "imageId":  73347,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5908156-1.jpg",
+                      "bytes":  23227,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5908158",
+                      "title":  "CANPOL 75/202 Pluszowa książeczka edukacyjna FOX",
+                      "imageId":  73343,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5908158-1.jpg",
+                      "bytes":  376217,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "774971",
+                      "title":  "CANPOL 79/101 Interaktywna zabawka z grzechotką MIŚ czerwony",
+                      "imageId":  30785,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\774971-1.jpg",
+                      "bytes":  100322,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5912648",
+                      "title":  "CANPOL 79/101 Interaktywna zabawka z grzechotką miś zielony",
+                      "imageId":  84673,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5912648-1.png",
+                      "bytes":  202083,
+                      "contentType":  "image/png"
+                  },
+                  {
+                      "sku":  "776414",
+                      "title":  "CANPOL 79/102 Miękkie klocki sensoryczne 12szt",
+                      "imageId":  32805,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\776414-1.jpg",
+                      "bytes":  78731,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "791204",
+                      "title":  "CANPOL 79/103 Sensoryczna układanka piramidka",
+                      "imageId":  61975,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\791204-1.jpg",
+                      "bytes":  16896,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "780746",
+                      "title":  "CANPOL 79/104 Zabawka kreatywna do zabawy w wodzie",
+                      "imageId":  40503,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\780746-1.jpg",
+                      "bytes":  85505,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "786396",
+                      "title":  "CANPOL 79/402 Miękkie piłeczki sensoryczne 6szt.",
+                      "imageId":  53925,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\786396-1.jpg",
+                      "bytes":  81458,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "780510",
+                      "title":  "CANPOL 80/201 Miękka grzechotka Króliczek różowy",
+                      "imageId":  39884,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\780510-1.jpg",
+                      "bytes":  108236,
+                      "contentType":  "image/jpeg"
+                  },
+                  {
+                      "sku":  "5903867",
+                      "title":  "CANPOL 80/308 Zestaw odkręcanych zabawek silikonowych do kąpieli",
+                      "imageId":  65027,
+                      "ok":  true,
+                      "path":  "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\gryzaki_zabawki_39953\\5903867-1.jpg",
+                      "bytes":  67094,
+                      "contentType":  "image/jpeg"
+                  }
+              ]
+}

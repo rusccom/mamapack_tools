@@ -1,0 +1,767 @@
+{
+  "summary": {
+    "created_at": "2026-05-02T19:23:03",
+    "menu_id": "gid://shopify/Menu/239476080973",
+    "menu_handle": "main-menu",
+    "changed_item_title": "Gotowe torby",
+    "old_url": "/pages/gotowe-torby",
+    "new_url": "/collections/gotowe-torby-do-szpitala",
+    "new_resource_id": "gid://shopify/Collection/660530626893"
+  },
+  "before": {
+    "id": "gid://shopify/Menu/239476080973",
+    "title": "Main menu",
+    "handle": "main-menu",
+    "items": [
+      {
+        "id": "gid://shopify/MenuItem/564337934669",
+        "title": "Home",
+        "type": "FRONTPAGE",
+        "url": "/",
+        "resourceId": null,
+        "tags": [],
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/564336689485",
+        "title": "Złóż to sama",
+        "type": "PAGE",
+        "url": "/pages/zlozsam",
+        "resourceId": "gid://shopify/Page/126559256909",
+        "tags": [],
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/564337574221",
+        "title": "Gotowe torby",
+        "type": "PAGE",
+        "url": "/pages/gotowe-torby",
+        "resourceId": "gid://shopify/Page/143115256141",
+        "tags": [],
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/564337967437",
+        "title": "Puste torby",
+        "type": "COLLECTION",
+        "url": "/collections/torebki",
+        "resourceId": "gid://shopify/Collection/621642481997",
+        "tags": [],
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/564337606989",
+        "title": "Dla mamy",
+        "type": "COLLECTION",
+        "url": "/collections/formam",
+        "resourceId": "gid://shopify/Collection/616586772813",
+        "tags": [],
+        "items": [
+          {
+            "id": "gid://shopify/MenuItem/659598934349",
+            "title": "Pokaż wszystko",
+            "type": "COLLECTION",
+            "url": "/collections/formam",
+            "resourceId": "gid://shopify/Collection/616586772813",
+            "tags": [],
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/667817148749",
+            "title": "Koszule i Szlafroki do szpitala",
+            "type": "CATALOG",
+            "url": "/collections/all",
+            "resourceId": null,
+            "tags": [],
+            "items": [
+              {
+                "id": "gid://shopify/MenuItem/667641184589",
+                "title": "Koszule nocne",
+                "type": "COLLECTION",
+                "url": "/collections/szlafroki-i-koszule-nocne",
+                "resourceId": "gid://shopify/Collection/621642547533",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667817181517",
+                "title": "Szlafroki",
+                "type": "COLLECTION",
+                "url": "/collections/szlafroki",
+                "resourceId": "gid://shopify/Collection/628621017421",
+                "tags": []
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/MenuItem/667817214285",
+            "title": "Na porod",
+            "type": "CATALOG",
+            "url": "/collections/all",
+            "resourceId": null,
+            "tags": [],
+            "items": [
+              {
+                "id": "gid://shopify/MenuItem/667817247053",
+                "title": "Podkłady higieniczne",
+                "type": "COLLECTION",
+                "url": "/collections/podklady-higieniczne",
+                "resourceId": "gid://shopify/Collection/627594527053",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667817279821",
+                "title": "Podpaski poporodowe",
+                "type": "COLLECTION",
+                "url": "/collections/higieniczne-wkladki",
+                "resourceId": "gid://shopify/Collection/621642285389",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667817312589",
+                "title": "Majtki poporodowe",
+                "type": "COLLECTION",
+                "url": "/collections/jednorazowe-majtki",
+                "resourceId": "gid://shopify/Collection/621642383693",
+                "tags": []
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/MenuItem/667817345357",
+            "title": "Higiena intymna",
+            "type": "CATALOG",
+            "url": "/collections/all",
+            "resourceId": null,
+            "tags": [],
+            "items": [
+              {
+                "id": "gid://shopify/MenuItem/667817378125",
+                "title": "Higiena intymna",
+                "type": "COLLECTION",
+                "url": "/collections/higiena-intymna",
+                "resourceId": "gid://shopify/Collection/621642776909",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667817443661",
+                "title": " Produkty papierowe",
+                "type": "COLLECTION",
+                "url": "/collections/produkty-papierowe",
+                "resourceId": "gid://shopify/Collection/621643268429",
+                "tags": []
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/MenuItem/667818066253",
+            "title": "Laktacja",
+            "type": "CATALOG",
+            "url": "/collections/all",
+            "resourceId": null,
+            "tags": [],
+            "items": [
+              {
+                "id": "gid://shopify/MenuItem/667818099021",
+                "title": "Pielęgnacja piersi (Lanolina)",
+                "type": "COLLECTION",
+                "url": "/collections/pielegnacja-piersi",
+                "resourceId": "gid://shopify/Collection/621642711373",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667818131789",
+                "title": "Wkładki laktacyjne",
+                "type": "COLLECTION",
+                "url": "/collections/wkladki-laktacyjne",
+                "resourceId": "gid://shopify/Collection/621642678605",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667818164557",
+                "title": "Osłonki laktacyjne",
+                "type": "COLLECTION",
+                "url": "/collections/oslonki-laktacyjne",
+                "resourceId": "gid://shopify/Collection/621644185933",
+                "tags": []
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/MenuItem/667818197325",
+            "title": "Akcesoria dla mam",
+            "type": "COLLECTION",
+            "url": "/collections/akcesoria-dla-mam",
+            "resourceId": "gid://shopify/Collection/631440703821",
+            "tags": [],
+            "items": [
+              {
+                "id": "gid://shopify/MenuItem/667818230093",
+                "title": "Akcesoria dla mam",
+                "type": "COLLECTION",
+                "url": "/collections/akcesoria-dla-mam",
+                "resourceId": "gid://shopify/Collection/631440703821",
+                "tags": []
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/MenuItem/667818787149",
+            "title": "Klapki i Skarpetki do szpitala",
+            "type": "CATALOG",
+            "url": "/collections/all",
+            "resourceId": null,
+            "tags": [],
+            "items": [
+              {
+                "id": "gid://shopify/MenuItem/667818852685",
+                "title": "Gumowe klapki",
+                "type": "COLLECTION",
+                "url": "/collections/gumowe-klapki",
+                "resourceId": "gid://shopify/Collection/632003035469",
+                "tags": []
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/MenuItem/667818885453",
+            "title": "Top do karmienia",
+            "type": "COLLECTION",
+            "url": "/collections/top-do-karmienia-majtki",
+            "resourceId": "gid://shopify/Collection/621642645837",
+            "tags": [],
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/MenuItem/564337639757",
+        "title": "Dla dziecka",
+        "type": "COLLECTION",
+        "url": "/collections/forbaby",
+        "resourceId": "gid://shopify/Collection/616586740045",
+        "tags": [],
+        "items": [
+          {
+            "id": "gid://shopify/MenuItem/667613135181",
+            "title": "Pokaż wszystko",
+            "type": "COLLECTION",
+            "url": "/collections/forbaby",
+            "resourceId": "gid://shopify/Collection/616586740045",
+            "tags": [],
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/667819540813",
+            "title": "Smoczki i Butelki ze smoczkiem",
+            "type": "CATALOG",
+            "url": "/collections/all",
+            "resourceId": null,
+            "tags": [],
+            "items": [
+              {
+                "id": "gid://shopify/MenuItem/667819573581",
+                "title": "Smoczki",
+                "type": "COLLECTION",
+                "url": "/collections/smoczki",
+                "resourceId": "gid://shopify/Collection/621644939597",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667819606349",
+                "title": "Butelki ze smoczkiem",
+                "type": "COLLECTION",
+                "url": "/collections/smoczki-do-butelek-butelki",
+                "resourceId": "gid://shopify/Collection/621645005133",
+                "tags": []
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/MenuItem/667819639117",
+            "title": "Kosmetyki dla noworodków",
+            "type": "CATALOG",
+            "url": "/collections/all",
+            "resourceId": null,
+            "tags": [],
+            "items": [
+              {
+                "id": "gid://shopify/MenuItem/667819671885",
+                "title": "Żele, mydła, szampony",
+                "type": "COLLECTION",
+                "url": "/collections/zele-mydla-szampony",
+                "resourceId": "gid://shopify/Collection/621644415309",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667819704653",
+                "title": "Krem/mleczko/olejek dla dzieci",
+                "type": "COLLECTION",
+                "url": "/collections/krem-mleczko-olejek-dla-dzieci",
+                "resourceId": "gid://shopify/Collection/621644579149",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667819737421",
+                "title": "Krem/prysypka pod pieluchę",
+                "type": "COLLECTION",
+                "url": "/collections/krem-prysypka-pod-pieluche",
+                "resourceId": "gid://shopify/Collection/621644513613",
+                "tags": []
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/MenuItem/667819770189",
+            "title": "Chusteczki nawilżane",
+            "type": "COLLECTION",
+            "url": "/collections/wlokniaste-chusteczki",
+            "resourceId": "gid://shopify/Collection/621644349773",
+            "tags": [],
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/667819802957",
+            "title": "Pieluszki tkaninowe",
+            "type": "COLLECTION",
+            "url": "/collections/pieluchy-reczniki-koce",
+            "resourceId": "gid://shopify/Collection/621644841293",
+            "tags": [],
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/667819835725",
+            "title": "Płatki, patyczki kosmetyczne (produkty z waty)",
+            "type": "COLLECTION",
+            "url": "/collections/produkty-z-waty",
+            "resourceId": "gid://shopify/Collection/621644874061",
+            "tags": [],
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/667819868493",
+            "title": "Ręczniki do kąpieli",
+            "type": "COLLECTION",
+            "url": "/collections/reczniki-do-kapieli",
+            "resourceId": "gid://shopify/Collection/627599245645",
+            "tags": [],
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/667819901261",
+            "title": "Kocyki",
+            "type": "COLLECTION",
+            "url": "/collections/kocyki",
+            "resourceId": "gid://shopify/Collection/627599278413",
+            "tags": [],
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/667819934029",
+            "title": "Pielęgnacja w domu",
+            "type": "COLLECTION",
+            "url": "/collections/pielegnacja-w-domu",
+            "resourceId": "gid://shopify/Collection/621645070669",
+            "tags": [],
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/754622431565",
+            "title": "Wanienki i akcesoria do kąpieli",
+            "type": "COLLECTION",
+            "url": "/collections/wanienki-dla-dzieci",
+            "resourceId": "gid://shopify/Collection/660457816397",
+            "tags": [],
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/MenuItem/562715394381",
+        "title": "Kontakt",
+        "type": "PAGE",
+        "url": "/pages/contact",
+        "resourceId": "gid://shopify/Page/126082220365",
+        "tags": [],
+        "items": []
+      }
+    ]
+  },
+  "after": {
+    "id": "gid://shopify/Menu/239476080973",
+    "title": "Main menu",
+    "handle": "main-menu",
+    "items": [
+      {
+        "id": "gid://shopify/MenuItem/564337934669",
+        "title": "Home",
+        "type": "FRONTPAGE",
+        "url": "/",
+        "resourceId": null,
+        "tags": [],
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/564336689485",
+        "title": "Złóż to sama",
+        "type": "PAGE",
+        "url": "/pages/zlozsam",
+        "resourceId": "gid://shopify/Page/126559256909",
+        "tags": [],
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/564337574221",
+        "title": "Gotowe torby",
+        "type": "COLLECTION",
+        "url": "/collections/gotowe-torby-do-szpitala",
+        "resourceId": "gid://shopify/Collection/660530626893",
+        "tags": [],
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/564337967437",
+        "title": "Puste torby",
+        "type": "COLLECTION",
+        "url": "/collections/torebki",
+        "resourceId": "gid://shopify/Collection/621642481997",
+        "tags": [],
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/564337606989",
+        "title": "Dla mamy",
+        "type": "COLLECTION",
+        "url": "/collections/formam",
+        "resourceId": "gid://shopify/Collection/616586772813",
+        "tags": [],
+        "items": [
+          {
+            "id": "gid://shopify/MenuItem/659598934349",
+            "title": "Pokaż wszystko",
+            "type": "COLLECTION",
+            "url": "/collections/formam",
+            "resourceId": "gid://shopify/Collection/616586772813",
+            "tags": [],
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/667817148749",
+            "title": "Koszule i Szlafroki do szpitala",
+            "type": "CATALOG",
+            "url": "/collections/all",
+            "resourceId": null,
+            "tags": [],
+            "items": [
+              {
+                "id": "gid://shopify/MenuItem/667641184589",
+                "title": "Koszule nocne",
+                "type": "COLLECTION",
+                "url": "/collections/szlafroki-i-koszule-nocne",
+                "resourceId": "gid://shopify/Collection/621642547533",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667817181517",
+                "title": "Szlafroki",
+                "type": "COLLECTION",
+                "url": "/collections/szlafroki",
+                "resourceId": "gid://shopify/Collection/628621017421",
+                "tags": []
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/MenuItem/667817214285",
+            "title": "Na porod",
+            "type": "CATALOG",
+            "url": "/collections/all",
+            "resourceId": null,
+            "tags": [],
+            "items": [
+              {
+                "id": "gid://shopify/MenuItem/667817247053",
+                "title": "Podkłady higieniczne",
+                "type": "COLLECTION",
+                "url": "/collections/podklady-higieniczne",
+                "resourceId": "gid://shopify/Collection/627594527053",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667817279821",
+                "title": "Podpaski poporodowe",
+                "type": "COLLECTION",
+                "url": "/collections/higieniczne-wkladki",
+                "resourceId": "gid://shopify/Collection/621642285389",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667817312589",
+                "title": "Majtki poporodowe",
+                "type": "COLLECTION",
+                "url": "/collections/jednorazowe-majtki",
+                "resourceId": "gid://shopify/Collection/621642383693",
+                "tags": []
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/MenuItem/667817345357",
+            "title": "Higiena intymna",
+            "type": "CATALOG",
+            "url": "/collections/all",
+            "resourceId": null,
+            "tags": [],
+            "items": [
+              {
+                "id": "gid://shopify/MenuItem/667817378125",
+                "title": "Higiena intymna",
+                "type": "COLLECTION",
+                "url": "/collections/higiena-intymna",
+                "resourceId": "gid://shopify/Collection/621642776909",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667817443661",
+                "title": " Produkty papierowe",
+                "type": "COLLECTION",
+                "url": "/collections/produkty-papierowe",
+                "resourceId": "gid://shopify/Collection/621643268429",
+                "tags": []
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/MenuItem/667818066253",
+            "title": "Laktacja",
+            "type": "CATALOG",
+            "url": "/collections/all",
+            "resourceId": null,
+            "tags": [],
+            "items": [
+              {
+                "id": "gid://shopify/MenuItem/667818099021",
+                "title": "Pielęgnacja piersi (Lanolina)",
+                "type": "COLLECTION",
+                "url": "/collections/pielegnacja-piersi",
+                "resourceId": "gid://shopify/Collection/621642711373",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667818131789",
+                "title": "Wkładki laktacyjne",
+                "type": "COLLECTION",
+                "url": "/collections/wkladki-laktacyjne",
+                "resourceId": "gid://shopify/Collection/621642678605",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667818164557",
+                "title": "Osłonki laktacyjne",
+                "type": "COLLECTION",
+                "url": "/collections/oslonki-laktacyjne",
+                "resourceId": "gid://shopify/Collection/621644185933",
+                "tags": []
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/MenuItem/667818197325",
+            "title": "Akcesoria dla mam",
+            "type": "COLLECTION",
+            "url": "/collections/akcesoria-dla-mam",
+            "resourceId": "gid://shopify/Collection/631440703821",
+            "tags": [],
+            "items": [
+              {
+                "id": "gid://shopify/MenuItem/667818230093",
+                "title": "Akcesoria dla mam",
+                "type": "COLLECTION",
+                "url": "/collections/akcesoria-dla-mam",
+                "resourceId": "gid://shopify/Collection/631440703821",
+                "tags": []
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/MenuItem/667818787149",
+            "title": "Klapki i Skarpetki do szpitala",
+            "type": "CATALOG",
+            "url": "/collections/all",
+            "resourceId": null,
+            "tags": [],
+            "items": [
+              {
+                "id": "gid://shopify/MenuItem/667818852685",
+                "title": "Gumowe klapki",
+                "type": "COLLECTION",
+                "url": "/collections/gumowe-klapki",
+                "resourceId": "gid://shopify/Collection/632003035469",
+                "tags": []
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/MenuItem/667818885453",
+            "title": "Top do karmienia",
+            "type": "COLLECTION",
+            "url": "/collections/top-do-karmienia-majtki",
+            "resourceId": "gid://shopify/Collection/621642645837",
+            "tags": [],
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/MenuItem/564337639757",
+        "title": "Dla dziecka",
+        "type": "COLLECTION",
+        "url": "/collections/forbaby",
+        "resourceId": "gid://shopify/Collection/616586740045",
+        "tags": [],
+        "items": [
+          {
+            "id": "gid://shopify/MenuItem/667613135181",
+            "title": "Pokaż wszystko",
+            "type": "COLLECTION",
+            "url": "/collections/forbaby",
+            "resourceId": "gid://shopify/Collection/616586740045",
+            "tags": [],
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/667819540813",
+            "title": "Smoczki i Butelki ze smoczkiem",
+            "type": "CATALOG",
+            "url": "/collections/all",
+            "resourceId": null,
+            "tags": [],
+            "items": [
+              {
+                "id": "gid://shopify/MenuItem/667819573581",
+                "title": "Smoczki",
+                "type": "COLLECTION",
+                "url": "/collections/smoczki",
+                "resourceId": "gid://shopify/Collection/621644939597",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667819606349",
+                "title": "Butelki ze smoczkiem",
+                "type": "COLLECTION",
+                "url": "/collections/smoczki-do-butelek-butelki",
+                "resourceId": "gid://shopify/Collection/621645005133",
+                "tags": []
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/MenuItem/667819639117",
+            "title": "Kosmetyki dla noworodków",
+            "type": "CATALOG",
+            "url": "/collections/all",
+            "resourceId": null,
+            "tags": [],
+            "items": [
+              {
+                "id": "gid://shopify/MenuItem/667819671885",
+                "title": "Żele, mydła, szampony",
+                "type": "COLLECTION",
+                "url": "/collections/zele-mydla-szampony",
+                "resourceId": "gid://shopify/Collection/621644415309",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667819704653",
+                "title": "Krem/mleczko/olejek dla dzieci",
+                "type": "COLLECTION",
+                "url": "/collections/krem-mleczko-olejek-dla-dzieci",
+                "resourceId": "gid://shopify/Collection/621644579149",
+                "tags": []
+              },
+              {
+                "id": "gid://shopify/MenuItem/667819737421",
+                "title": "Krem/prysypka pod pieluchę",
+                "type": "COLLECTION",
+                "url": "/collections/krem-prysypka-pod-pieluche",
+                "resourceId": "gid://shopify/Collection/621644513613",
+                "tags": []
+              }
+            ]
+          },
+          {
+            "id": "gid://shopify/MenuItem/667819770189",
+            "title": "Chusteczki nawilżane",
+            "type": "COLLECTION",
+            "url": "/collections/wlokniaste-chusteczki",
+            "resourceId": "gid://shopify/Collection/621644349773",
+            "tags": [],
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/667819802957",
+            "title": "Pieluszki tkaninowe",
+            "type": "COLLECTION",
+            "url": "/collections/pieluchy-reczniki-koce",
+            "resourceId": "gid://shopify/Collection/621644841293",
+            "tags": [],
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/667819835725",
+            "title": "Płatki, patyczki kosmetyczne (produkty z waty)",
+            "type": "COLLECTION",
+            "url": "/collections/produkty-z-waty",
+            "resourceId": "gid://shopify/Collection/621644874061",
+            "tags": [],
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/667819868493",
+            "title": "Ręczniki do kąpieli",
+            "type": "COLLECTION",
+            "url": "/collections/reczniki-do-kapieli",
+            "resourceId": "gid://shopify/Collection/627599245645",
+            "tags": [],
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/667819901261",
+            "title": "Kocyki",
+            "type": "COLLECTION",
+            "url": "/collections/kocyki",
+            "resourceId": "gid://shopify/Collection/627599278413",
+            "tags": [],
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/667819934029",
+            "title": "Pielęgnacja w domu",
+            "type": "COLLECTION",
+            "url": "/collections/pielegnacja-w-domu",
+            "resourceId": "gid://shopify/Collection/621645070669",
+            "tags": [],
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/754622431565",
+            "title": "Wanienki i akcesoria do kąpieli",
+            "type": "COLLECTION",
+            "url": "/collections/wanienki-dla-dzieci",
+            "resourceId": "gid://shopify/Collection/660457816397",
+            "tags": [],
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/MenuItem/562715394381",
+        "title": "Kontakt",
+        "type": "PAGE",
+        "url": "/pages/contact",
+        "resourceId": "gid://shopify/Page/126082220365",
+        "tags": [],
+        "items": []
+      }
+    ]
+  }
+}

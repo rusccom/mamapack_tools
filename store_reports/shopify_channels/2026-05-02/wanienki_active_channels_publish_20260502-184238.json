@@ -1,0 +1,646 @@
+{
+  "summary": {
+    "created_at": "2026-05-02T18:42:38",
+    "collection": {
+      "id": "gid://shopify/Collection/660457816397",
+      "title": "Wanienki",
+      "handle": "wanienki",
+      "productsCount": {
+        "count": 30
+      }
+    },
+    "active_product_count": 16,
+    "published_products_count": 16,
+    "published_publication_links_count": 48,
+    "after_all_three_count": 16,
+    "after_missing": []
+  },
+  "publish_results": [
+    {
+      "product_id": "gid://shopify/Product/10644511359309",
+      "title": "Tega Baby Wanna dziecięca Miś 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-mis-102-cm",
+      "missing_before": [
+        "online",
+        "google",
+        "shop"
+      ],
+      "published_count": 3
+    },
+    {
+      "product_id": "gid://shopify/Product/10644511293773",
+      "title": "Tega Baby Wanna dziecięca Miś 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-mis-86-cm",
+      "missing_before": [
+        "online",
+        "google",
+        "shop"
+      ],
+      "published_count": 3
+    },
+    {
+      "product_id": "gid://shopify/Product/10644511228237",
+      "title": "Tega Baby Wanienka Monsters z odpływem 102 cm",
+      "handle": "tega-baby-wanienka-monsters-z-odplywem-102-cm",
+      "missing_before": [
+        "online",
+        "google",
+        "shop"
+      ],
+      "published_count": 3
+    },
+    {
+      "product_id": "gid://shopify/Product/10644511195469",
+      "title": "Tega Baby Wanienka Monsters z odpływem 86 cm",
+      "handle": "tega-baby-wanienka-monsters-z-odplywem-86-cm",
+      "missing_before": [
+        "online",
+        "google",
+        "shop"
+      ],
+      "published_count": 3
+    },
+    {
+      "product_id": "gid://shopify/Product/10644511064397",
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-meteo-z-odplywem-102-cm",
+      "missing_before": [
+        "online",
+        "google",
+        "shop"
+      ],
+      "published_count": 3
+    },
+    {
+      "product_id": "gid://shopify/Product/10644510900557",
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-meteo-z-odplywem-86-cm",
+      "missing_before": [
+        "online",
+        "google",
+        "shop"
+      ],
+      "published_count": 3
+    },
+    {
+      "product_id": "gid://shopify/Product/10644510671181",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-kroliczki-z-odplywem-102-cm",
+      "missing_before": [
+        "online",
+        "google",
+        "shop"
+      ],
+      "published_count": 3
+    },
+    {
+      "product_id": "gid://shopify/Product/10644510540109",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-kroliczki-z-odplywem-86-cm",
+      "missing_before": [
+        "online",
+        "google",
+        "shop"
+      ],
+      "published_count": 3
+    },
+    {
+      "product_id": "gid://shopify/Product/10644510441805",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-lesna-opowiesc-102-cm",
+      "missing_before": [
+        "online",
+        "google",
+        "shop"
+      ],
+      "published_count": 3
+    },
+    {
+      "product_id": "gid://shopify/Product/10644510146893",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-lesna-opowiesc-86-cm",
+      "missing_before": [
+        "online",
+        "google",
+        "shop"
+      ],
+      "published_count": 3
+    },
+    {
+      "product_id": "gid://shopify/Product/10644509720909",
+      "title": "Tega Baby Wanienka składana z odpływem standard",
+      "handle": "tega-baby-wanienka-skladana-z-odplywem-standard",
+      "missing_before": [
+        "online",
+        "google",
+        "shop"
+      ],
+      "published_count": 3
+    },
+    {
+      "product_id": "gid://shopify/Product/10644509622605",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-102-cm",
+      "missing_before": [
+        "online",
+        "google",
+        "shop"
+      ],
+      "published_count": 3
+    },
+    {
+      "product_id": "gid://shopify/Product/10644509524301",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód z odpływem 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-z-odplywem-86-cm",
+      "missing_before": [
+        "online",
+        "google",
+        "shop"
+      ],
+      "published_count": 3
+    },
+    {
+      "product_id": "gid://shopify/Product/10644509393229",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-86-cm",
+      "missing_before": [
+        "online",
+        "google",
+        "shop"
+      ],
+      "published_count": 3
+    },
+    {
+      "product_id": "gid://shopify/Product/10644509065549",
+      "title": "Tega Baby Wanna dziecięca Kaczka 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-kaczka-102-cm",
+      "missing_before": [
+        "online",
+        "google",
+        "shop"
+      ],
+      "published_count": 3
+    },
+    {
+      "product_id": "gid://shopify/Product/10644508737869",
+      "title": "Tega Baby Wanna dziecięca Kaczka 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-kaczka-86-cm",
+      "missing_before": [
+        "online",
+        "google",
+        "shop"
+      ],
+      "published_count": 3
+    }
+  ],
+  "rows": [
+    {
+      "phase": "before",
+      "product_id": "gid://shopify/Product/10644511359309",
+      "legacy_product_id": "10644511359309",
+      "title": "Tega Baby Wanna dziecięca Miś 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-mis-102-cm",
+      "status": "ACTIVE",
+      "online": false,
+      "google": false,
+      "shop": false,
+      "variant_count": 1,
+      "variant_offer_ids": "shopify_PL_10644511359309_53812106363213",
+      "variant_skus": "771546"
+    },
+    {
+      "phase": "before",
+      "product_id": "gid://shopify/Product/10644511293773",
+      "legacy_product_id": "10644511293773",
+      "title": "Tega Baby Wanna dziecięca Miś 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-mis-86-cm",
+      "status": "ACTIVE",
+      "online": false,
+      "google": false,
+      "shop": false,
+      "variant_count": 1,
+      "variant_offer_ids": "shopify_PL_10644511293773_53812106297677",
+      "variant_skus": "10953"
+    },
+    {
+      "phase": "before",
+      "product_id": "gid://shopify/Product/10644511228237",
+      "legacy_product_id": "10644511228237",
+      "title": "Tega Baby Wanienka Monsters z odpływem 102 cm",
+      "handle": "tega-baby-wanienka-monsters-z-odplywem-102-cm",
+      "status": "ACTIVE",
+      "online": false,
+      "google": false,
+      "shop": false,
+      "variant_count": 1,
+      "variant_offer_ids": "shopify_PL_10644511228237_53812106232141",
+      "variant_skus": "5906224"
+    },
+    {
+      "phase": "before",
+      "product_id": "gid://shopify/Product/10644511195469",
+      "legacy_product_id": "10644511195469",
+      "title": "Tega Baby Wanienka Monsters z odpływem 86 cm",
+      "handle": "tega-baby-wanienka-monsters-z-odplywem-86-cm",
+      "status": "ACTIVE",
+      "online": false,
+      "google": false,
+      "shop": false,
+      "variant_count": 1,
+      "variant_offer_ids": "shopify_PL_10644511195469_53812106199373",
+      "variant_skus": "5906227"
+    },
+    {
+      "phase": "before",
+      "product_id": "gid://shopify/Product/10644511064397",
+      "legacy_product_id": "10644511064397",
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-meteo-z-odplywem-102-cm",
+      "status": "ACTIVE",
+      "online": false,
+      "google": false,
+      "shop": false,
+      "variant_count": 3,
+      "variant_offer_ids": "shopify_PL_10644511064397_53812106068301 | shopify_PL_10644511064397_53816003101005 | shopify_PL_10644511064397_53816003133773",
+      "variant_skus": "786676 | 786678 | 786679"
+    },
+    {
+      "phase": "before",
+      "product_id": "gid://shopify/Product/10644510900557",
+      "legacy_product_id": "10644510900557",
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-meteo-z-odplywem-86-cm",
+      "status": "ACTIVE",
+      "online": false,
+      "google": false,
+      "shop": false,
+      "variant_count": 3,
+      "variant_offer_ids": "shopify_PL_10644510900557_53812105904461 | shopify_PL_10644510900557_53816003002701 | shopify_PL_10644510900557_53816003035469",
+      "variant_skus": "786680 | 786683 | 786682"
+    },
+    {
+      "phase": "before",
+      "product_id": "gid://shopify/Product/10644510671181",
+      "legacy_product_id": "10644510671181",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-kroliczki-z-odplywem-102-cm",
+      "status": "ACTIVE",
+      "online": false,
+      "google": false,
+      "shop": false,
+      "variant_count": 3,
+      "variant_offer_ids": "shopify_PL_10644510671181_53812105675085 | shopify_PL_10644510671181_53816002937165 | shopify_PL_10644510671181_53816002969933",
+      "variant_skus": "762788 | 791380 | 791381"
+    },
+    {
+      "phase": "before",
+      "product_id": "gid://shopify/Product/10644510540109",
+      "legacy_product_id": "10644510540109",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-kroliczki-z-odplywem-86-cm",
+      "status": "ACTIVE",
+      "online": false,
+      "google": false,
+      "shop": false,
+      "variant_count": 2,
+      "variant_offer_ids": "shopify_PL_10644510540109_53812105544013 | shopify_PL_10644510540109_53816002871629",
+      "variant_skus": "762787 | 788737"
+    },
+    {
+      "phase": "before",
+      "product_id": "gid://shopify/Product/10644510441805",
+      "legacy_product_id": "10644510441805",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-lesna-opowiesc-102-cm",
+      "status": "ACTIVE",
+      "online": false,
+      "google": false,
+      "shop": false,
+      "variant_count": 5,
+      "variant_offer_ids": "shopify_PL_10644510441805_53812105445709 | shopify_PL_10644510441805_53816002707789 | shopify_PL_10644510441805_53816002740557 | shopify_PL_10644510441805_53816002773325 | shopify_PL_10644510441805_53816002806093",
+      "variant_skus": "772413 | 772414 | 772415 | 772416 | 772417"
+    },
+    {
+      "phase": "before",
+      "product_id": "gid://shopify/Product/10644510146893",
+      "legacy_product_id": "10644510146893",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-lesna-opowiesc-86-cm",
+      "status": "ACTIVE",
+      "online": false,
+      "google": false,
+      "shop": false,
+      "variant_count": 5,
+      "variant_offer_ids": "shopify_PL_10644510146893_53812105150797 | shopify_PL_10644510146893_53816002543949 | shopify_PL_10644510146893_53816002576717 | shopify_PL_10644510146893_53816002609485 | shopify_PL_10644510146893_53816002642253",
+      "variant_skus": "772418 | 772419 | 772420 | 772421 | 772422"
+    },
+    {
+      "phase": "before",
+      "product_id": "gid://shopify/Product/10644509720909",
+      "legacy_product_id": "10644509720909",
+      "title": "Tega Baby Wanienka składana z odpływem standard",
+      "handle": "tega-baby-wanienka-skladana-z-odplywem-standard",
+      "status": "ACTIVE",
+      "online": false,
+      "google": false,
+      "shop": false,
+      "variant_count": 3,
+      "variant_offer_ids": "shopify_PL_10644509720909_53812104593741 | shopify_PL_10644509720909_53816003395917 | shopify_PL_10644509720909_53816003428685",
+      "variant_skus": "5914538 | 5914539 | 5914540"
+    },
+    {
+      "phase": "before",
+      "product_id": "gid://shopify/Product/10644509622605",
+      "legacy_product_id": "10644509622605",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-102-cm",
+      "status": "ACTIVE",
+      "online": false,
+      "google": false,
+      "shop": false,
+      "variant_count": 2,
+      "variant_offer_ids": "shopify_PL_10644509622605_53812104462669 | shopify_PL_10644509622605_53816003297613",
+      "variant_skus": "779256 | 779244"
+    },
+    {
+      "phase": "before",
+      "product_id": "gid://shopify/Product/10644509524301",
+      "legacy_product_id": "10644509524301",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód z odpływem 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-z-odplywem-86-cm",
+      "status": "ACTIVE",
+      "online": false,
+      "google": false,
+      "shop": false,
+      "variant_count": 2,
+      "variant_offer_ids": "shopify_PL_10644509524301_53812104331597 | shopify_PL_10644509524301_53816003330381",
+      "variant_skus": "779258 | 779246"
+    },
+    {
+      "phase": "before",
+      "product_id": "gid://shopify/Product/10644509393229",
+      "legacy_product_id": "10644509393229",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-86-cm",
+      "status": "ACTIVE",
+      "online": false,
+      "google": false,
+      "shop": false,
+      "variant_count": 2,
+      "variant_offer_ids": "shopify_PL_10644509393229_53812104233293 | shopify_PL_10644509393229_53816003232077",
+      "variant_skus": "779257 | 779245"
+    },
+    {
+      "phase": "before",
+      "product_id": "gid://shopify/Product/10644509065549",
+      "legacy_product_id": "10644509065549",
+      "title": "Tega Baby Wanna dziecięca Kaczka 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-kaczka-102-cm",
+      "status": "ACTIVE",
+      "online": false,
+      "google": false,
+      "shop": false,
+      "variant_count": 5,
+      "variant_offer_ids": "shopify_PL_10644509065549_53812103905613 | shopify_PL_10644509065549_53816002380109 | shopify_PL_10644509065549_53816002412877 | shopify_PL_10644509065549_53816002445645 | shopify_PL_10644509065549_53816002478413",
+      "variant_skus": "772187 | 771957 | 772044 | 772045 | 772046"
+    },
+    {
+      "phase": "before",
+      "product_id": "gid://shopify/Product/10644508737869",
+      "legacy_product_id": "10644508737869",
+      "title": "Tega Baby Wanna dziecięca Kaczka 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-kaczka-86-cm",
+      "status": "ACTIVE",
+      "online": false,
+      "google": false,
+      "shop": false,
+      "variant_count": 5,
+      "variant_offer_ids": "shopify_PL_10644508737869_53812103577933 | shopify_PL_10644508737869_53816002249037 | shopify_PL_10644508737869_53816002281805 | shopify_PL_10644508737869_53816002314573 | shopify_PL_10644508737869_53816002347341",
+      "variant_skus": "772185 | 771956 | 772049 | 772050 | 772051"
+    },
+    {
+      "phase": "after",
+      "product_id": "gid://shopify/Product/10644511359309",
+      "legacy_product_id": "10644511359309",
+      "title": "Tega Baby Wanna dziecięca Miś 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-mis-102-cm",
+      "status": "ACTIVE",
+      "online": true,
+      "google": true,
+      "shop": true,
+      "variant_count": 1,
+      "variant_offer_ids": "shopify_PL_10644511359309_53812106363213",
+      "variant_skus": "771546"
+    },
+    {
+      "phase": "after",
+      "product_id": "gid://shopify/Product/10644511293773",
+      "legacy_product_id": "10644511293773",
+      "title": "Tega Baby Wanna dziecięca Miś 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-mis-86-cm",
+      "status": "ACTIVE",
+      "online": true,
+      "google": true,
+      "shop": true,
+      "variant_count": 1,
+      "variant_offer_ids": "shopify_PL_10644511293773_53812106297677",
+      "variant_skus": "10953"
+    },
+    {
+      "phase": "after",
+      "product_id": "gid://shopify/Product/10644511228237",
+      "legacy_product_id": "10644511228237",
+      "title": "Tega Baby Wanienka Monsters z odpływem 102 cm",
+      "handle": "tega-baby-wanienka-monsters-z-odplywem-102-cm",
+      "status": "ACTIVE",
+      "online": true,
+      "google": true,
+      "shop": true,
+      "variant_count": 1,
+      "variant_offer_ids": "shopify_PL_10644511228237_53812106232141",
+      "variant_skus": "5906224"
+    },
+    {
+      "phase": "after",
+      "product_id": "gid://shopify/Product/10644511195469",
+      "legacy_product_id": "10644511195469",
+      "title": "Tega Baby Wanienka Monsters z odpływem 86 cm",
+      "handle": "tega-baby-wanienka-monsters-z-odplywem-86-cm",
+      "status": "ACTIVE",
+      "online": true,
+      "google": true,
+      "shop": true,
+      "variant_count": 1,
+      "variant_offer_ids": "shopify_PL_10644511195469_53812106199373",
+      "variant_skus": "5906227"
+    },
+    {
+      "phase": "after",
+      "product_id": "gid://shopify/Product/10644511064397",
+      "legacy_product_id": "10644511064397",
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-meteo-z-odplywem-102-cm",
+      "status": "ACTIVE",
+      "online": true,
+      "google": true,
+      "shop": true,
+      "variant_count": 3,
+      "variant_offer_ids": "shopify_PL_10644511064397_53812106068301 | shopify_PL_10644511064397_53816003101005 | shopify_PL_10644511064397_53816003133773",
+      "variant_skus": "786676 | 786678 | 786679"
+    },
+    {
+      "phase": "after",
+      "product_id": "gid://shopify/Product/10644510900557",
+      "legacy_product_id": "10644510900557",
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-meteo-z-odplywem-86-cm",
+      "status": "ACTIVE",
+      "online": true,
+      "google": true,
+      "shop": true,
+      "variant_count": 3,
+      "variant_offer_ids": "shopify_PL_10644510900557_53812105904461 | shopify_PL_10644510900557_53816003002701 | shopify_PL_10644510900557_53816003035469",
+      "variant_skus": "786680 | 786683 | 786682"
+    },
+    {
+      "phase": "after",
+      "product_id": "gid://shopify/Product/10644510671181",
+      "legacy_product_id": "10644510671181",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-kroliczki-z-odplywem-102-cm",
+      "status": "ACTIVE",
+      "online": true,
+      "google": true,
+      "shop": true,
+      "variant_count": 3,
+      "variant_offer_ids": "shopify_PL_10644510671181_53812105675085 | shopify_PL_10644510671181_53816002937165 | shopify_PL_10644510671181_53816002969933",
+      "variant_skus": "762788 | 791380 | 791381"
+    },
+    {
+      "phase": "after",
+      "product_id": "gid://shopify/Product/10644510540109",
+      "legacy_product_id": "10644510540109",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-kroliczki-z-odplywem-86-cm",
+      "status": "ACTIVE",
+      "online": true,
+      "google": true,
+      "shop": true,
+      "variant_count": 2,
+      "variant_offer_ids": "shopify_PL_10644510540109_53812105544013 | shopify_PL_10644510540109_53816002871629",
+      "variant_skus": "762787 | 788737"
+    },
+    {
+      "phase": "after",
+      "product_id": "gid://shopify/Product/10644510441805",
+      "legacy_product_id": "10644510441805",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-lesna-opowiesc-102-cm",
+      "status": "ACTIVE",
+      "online": true,
+      "google": true,
+      "shop": true,
+      "variant_count": 5,
+      "variant_offer_ids": "shopify_PL_10644510441805_53812105445709 | shopify_PL_10644510441805_53816002707789 | shopify_PL_10644510441805_53816002740557 | shopify_PL_10644510441805_53816002773325 | shopify_PL_10644510441805_53816002806093",
+      "variant_skus": "772413 | 772414 | 772415 | 772416 | 772417"
+    },
+    {
+      "phase": "after",
+      "product_id": "gid://shopify/Product/10644510146893",
+      "legacy_product_id": "10644510146893",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-lesna-opowiesc-86-cm",
+      "status": "ACTIVE",
+      "online": true,
+      "google": true,
+      "shop": true,
+      "variant_count": 5,
+      "variant_offer_ids": "shopify_PL_10644510146893_53812105150797 | shopify_PL_10644510146893_53816002543949 | shopify_PL_10644510146893_53816002576717 | shopify_PL_10644510146893_53816002609485 | shopify_PL_10644510146893_53816002642253",
+      "variant_skus": "772418 | 772419 | 772420 | 772421 | 772422"
+    },
+    {
+      "phase": "after",
+      "product_id": "gid://shopify/Product/10644509720909",
+      "legacy_product_id": "10644509720909",
+      "title": "Tega Baby Wanienka składana z odpływem standard",
+      "handle": "tega-baby-wanienka-skladana-z-odplywem-standard",
+      "status": "ACTIVE",
+      "online": true,
+      "google": true,
+      "shop": true,
+      "variant_count": 3,
+      "variant_offer_ids": "shopify_PL_10644509720909_53812104593741 | shopify_PL_10644509720909_53816003395917 | shopify_PL_10644509720909_53816003428685",
+      "variant_skus": "5914538 | 5914539 | 5914540"
+    },
+    {
+      "phase": "after",
+      "product_id": "gid://shopify/Product/10644509622605",
+      "legacy_product_id": "10644509622605",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-102-cm",
+      "status": "ACTIVE",
+      "online": true,
+      "google": true,
+      "shop": true,
+      "variant_count": 2,
+      "variant_offer_ids": "shopify_PL_10644509622605_53812104462669 | shopify_PL_10644509622605_53816003297613",
+      "variant_skus": "779256 | 779244"
+    },
+    {
+      "phase": "after",
+      "product_id": "gid://shopify/Product/10644509524301",
+      "legacy_product_id": "10644509524301",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód z odpływem 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-z-odplywem-86-cm",
+      "status": "ACTIVE",
+      "online": true,
+      "google": true,
+      "shop": true,
+      "variant_count": 2,
+      "variant_offer_ids": "shopify_PL_10644509524301_53812104331597 | shopify_PL_10644509524301_53816003330381",
+      "variant_skus": "779258 | 779246"
+    },
+    {
+      "phase": "after",
+      "product_id": "gid://shopify/Product/10644509393229",
+      "legacy_product_id": "10644509393229",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-86-cm",
+      "status": "ACTIVE",
+      "online": true,
+      "google": true,
+      "shop": true,
+      "variant_count": 2,
+      "variant_offer_ids": "shopify_PL_10644509393229_53812104233293 | shopify_PL_10644509393229_53816003232077",
+      "variant_skus": "779257 | 779245"
+    },
+    {
+      "phase": "after",
+      "product_id": "gid://shopify/Product/10644509065549",
+      "legacy_product_id": "10644509065549",
+      "title": "Tega Baby Wanna dziecięca Kaczka 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-kaczka-102-cm",
+      "status": "ACTIVE",
+      "online": true,
+      "google": true,
+      "shop": true,
+      "variant_count": 5,
+      "variant_offer_ids": "shopify_PL_10644509065549_53812103905613 | shopify_PL_10644509065549_53816002380109 | shopify_PL_10644509065549_53816002412877 | shopify_PL_10644509065549_53816002445645 | shopify_PL_10644509065549_53816002478413",
+      "variant_skus": "772187 | 771957 | 772044 | 772045 | 772046"
+    },
+    {
+      "phase": "after",
+      "product_id": "gid://shopify/Product/10644508737869",
+      "legacy_product_id": "10644508737869",
+      "title": "Tega Baby Wanna dziecięca Kaczka 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-kaczka-86-cm",
+      "status": "ACTIVE",
+      "online": true,
+      "google": true,
+      "shop": true,
+      "variant_count": 5,
+      "variant_offer_ids": "shopify_PL_10644508737869_53812103577933 | shopify_PL_10644508737869_53816002249037 | shopify_PL_10644508737869_53816002281805 | shopify_PL_10644508737869_53816002314573 | shopify_PL_10644508737869_53816002347341",
+      "variant_skus": "772185 | 771956 | 772049 | 772050 | 772051"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+﻿severity,area,current,recommended,note
+error,menu Dla mamy,Na porod,Na por?d,Brakuje polskiej litery ?.
+error,category heading,KAPIEL,K?PIEL,Brakuje polskiej litery ?.
+error,category item,Zabawki do kapieli,Zabawki do k?pieli,B??dna forma bez ?: powinno by? k?pieli.
+error,footer address,Krakowskie Przedmiescie 28,Krakowskie Przedmie?cie 28,Brakuje ? w nazwie ulicy.
+style,blog card title,BLI?NI?TA- Jak Spakowa? Torb? do Szpitala?,Bli?ni?ta - jak spakowa? torb? do szpitala?,Brakuje spacji przy my?lniku; wielkie litery w tytule wygl?daj? nienaturalnie po polsku.
+style,blog excerpt,Ma?? z Lanolin? ? Niezast?piona Pomoc dla Mam Karmi?cych Piersi?,Ma?? z lanolin? - niezast?piona pomoc dla mam karmi?cych piersi?,Nazwy pospolite w ?rodku zdania lepiej pisa? ma?? liter?.
+style,menu capitalization,Koszule i Szlafroki do szpitala,Koszule i szlafroki do szpitala,W menu lepiej nie kapitalizowa? rzeczownika w ?rodku frazy.
+style,menu capitalization,Klapki i Skarpetki do szpitala,Klapki i skarpetki do szpitala,W menu lepiej nie kapitalizowa? rzeczownika w ?rodku frazy.
+style,menu capitalization,Smoczki i Butelki ze smoczkiem,Smoczki i butelki ze smoczkiem,W menu lepiej nie kapitalizowa? rzeczownika w ?rodku frazy.
+style,navigation localization,Home,Strona g??wna,"To nie b??d ortograficzny, ale angielskie s?owo na polskiej stronie."

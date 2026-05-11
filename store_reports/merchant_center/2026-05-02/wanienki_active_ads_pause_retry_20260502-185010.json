@@ -1,0 +1,411 @@
+{
+  "summary": {
+    "merchant_id": "5548494754",
+    "created_at": "2026-05-02T18:50:10",
+    "merchant_products_count": 402,
+    "shopify_active_product_count": 16,
+    "expected_offer_count": 44,
+    "merchant_found_count": 0,
+    "merchant_missing_count": 44,
+    "patched_now_count": 0,
+    "paused_ads_verified_count": 0
+  },
+  "results": [
+    {
+      "offer_id": "shopify_PL_10644508737869_53812103577933",
+      "title": "Tega Baby Wanna dziecięca Kaczka 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644508737869_53816002249037",
+      "title": "Tega Baby Wanna dziecięca Kaczka 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644508737869_53816002281805",
+      "title": "Tega Baby Wanna dziecięca Kaczka 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644508737869_53816002314573",
+      "title": "Tega Baby Wanna dziecięca Kaczka 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644508737869_53816002347341",
+      "title": "Tega Baby Wanna dziecięca Kaczka 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644509065549_53812103905613",
+      "title": "Tega Baby Wanna dziecięca Kaczka 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644509065549_53816002380109",
+      "title": "Tega Baby Wanna dziecięca Kaczka 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644509065549_53816002412877",
+      "title": "Tega Baby Wanna dziecięca Kaczka 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644509065549_53816002445645",
+      "title": "Tega Baby Wanna dziecięca Kaczka 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644509065549_53816002478413",
+      "title": "Tega Baby Wanna dziecięca Kaczka 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644509393229_53812104233293",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644509393229_53816003232077",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644509524301_53812104331597",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód z odpływem 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644509524301_53816003330381",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód z odpływem 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644509622605_53812104462669",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644509622605_53816003297613",
+      "title": "Tega Baby Wanna dziecięca Dziki Zachód 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644509720909_53812104593741",
+      "title": "Tega Baby Wanienka składana z odpływem standard",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644509720909_53816003395917",
+      "title": "Tega Baby Wanienka składana z odpływem standard",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644509720909_53816003428685",
+      "title": "Tega Baby Wanienka składana z odpływem standard",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510146893_53812105150797",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510146893_53816002543949",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510146893_53816002576717",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510146893_53816002609485",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510146893_53816002642253",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510441805_53812105445709",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510441805_53816002707789",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510441805_53816002740557",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510441805_53816002773325",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510441805_53816002806093",
+      "title": "Tega Baby Wanna dziecięca Leśna Opowieść 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510540109_53812105544013",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510540109_53816002871629",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510671181_53812105675085",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510671181_53816002937165",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510671181_53816002969933",
+      "title": "Tega Baby Wanna dziecięca Króliczki z odpływem 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510900557_53812105904461",
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510900557_53816003002701",
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644510900557_53816003035469",
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644511064397_53812106068301",
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644511064397_53816003101005",
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644511064397_53816003133773",
+      "title": "Tega Baby Wanna dziecięca Meteo z odpływem 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644511195469_53812106199373",
+      "title": "Tega Baby Wanienka Monsters z odpływem 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644511228237_53812106232141",
+      "title": "Tega Baby Wanienka Monsters z odpływem 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644511293773_53812106297677",
+      "title": "Tega Baby Wanna dziecięca Miś 86 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    },
+    {
+      "offer_id": "shopify_PL_10644511359309_53812106363213",
+      "title": "Tega Baby Wanna dziecięca Miś 102 cm",
+      "merchant_found": false,
+      "before_pause": "",
+      "patch_status": "",
+      "after_pause": "",
+      "verified_ok": false
+    }
+  ]
+}

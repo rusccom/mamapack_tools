@@ -1,0 +1,458 @@
+{
+  "createdAt": "2026-05-09T22:01:07.858663+03:00",
+  "sourceUrl": "https://b2b.marini.pl/items/15?parent=10",
+  "collection": {
+    "id": "gid://shopify/Collection/660910473549",
+    "title": "Krzesełka do karmienia",
+    "handle": "krzeselka-do-karmienia"
+  },
+  "availableSkuCount": 5,
+  "skippedCount": 4,
+  "skipped": [
+    {
+      "id": 61773,
+      "sku": "5905803",
+      "title": "4 BABY Krzesełko dziecięce DECCO GREY",
+      "imageId": 68422,
+      "stock": 0,
+      "purchaseNet": 199.8,
+      "barcode": "5901691958784",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 68456,
+      "sku": "5911948",
+      "title": "4 BABY Krzesełko dziecięce MASTER XXIII CAMEL",
+      "imageId": 82571,
+      "stock": 0,
+      "purchaseNet": 233.1,
+      "barcode": "5901691958685",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 66486,
+      "sku": "5910133",
+      "title": "4 BABY Krzesełko dziecięce MASTER XXIII GREEN",
+      "imageId": 79011,
+      "stock": 0,
+      "purchaseNet": 233.1,
+      "barcode": "5901691958692",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 64403,
+      "sku": "5908248",
+      "title": "4 BABY Krzesełko dziecięce MASTER XXIII GREY",
+      "imageId": 75557,
+      "stock": 0,
+      "purchaseNet": 259.0,
+      "barcode": "5901691958708",
+      "priceList": true,
+      "reason": "stock is zero"
+    }
+  ],
+  "productCountAfterGrouping": 3,
+  "products": [
+    {
+      "title": "4 Baby Decco krzesełko do karmienia",
+      "handle": "4-baby-decco-krzeseko-do-karmienia",
+      "optionName": "Kolor",
+      "variantCount": 3,
+      "skus": [
+        "5905811",
+        "5905810",
+        "764724"
+      ],
+      "variantValues": [
+        "camel",
+        "czarny",
+        "zielony"
+      ]
+    },
+    {
+      "title": "4 Baby Icon krzesełko do karmienia",
+      "handle": "4-baby-icon-krzeseko-do-karmienia",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5907348"
+      ],
+      "variantValues": [
+        "beżowy"
+      ]
+    },
+    {
+      "title": "4 Baby Master 6w1 krzesełko do karmienia",
+      "handle": "4-baby-master-6w1-krzeseko-do-karmienia",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "786186"
+      ],
+      "variantValues": [
+        "czarny"
+      ]
+    }
+  ],
+  "created": [
+    {
+      "product": {
+        "id": "gid://shopify/Product/10655547457869",
+        "title": "4 Baby Decco krzesełko do karmienia",
+        "handle": "4-baby-decco-krzeselko-do-karmienia",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "5905811",
+              "barcode": "5901691958760",
+              "price": "319.68",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "camel"
+                }
+              ]
+            },
+            {
+              "sku": "5905810",
+              "barcode": "5901691958753",
+              "price": "319.68",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "czarny"
+                }
+              ]
+            },
+            {
+              "sku": "764724",
+              "barcode": "5901691958777",
+              "price": "319.68",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "zielony"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "4 Baby Decco krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Decco krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Decco krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Decco krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Decco krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Decco krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Decco krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Decco krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Decco krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Krzesełka do karmienia",
+              "handle": "krzeselka-do-karmienia"
+            }
+          ]
+        },
+        "seo": {
+          "title": "4 Baby Decco krzesełko do karmienia | MamaPack",
+          "description": "4 Baby Decco krzesełko do karmienia: krzesełko do karmienia 4 Baby z praktycznymi regulacjami. Kolory: camel, czarny, zielony."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 61783,
+          "sku": "5905811",
+          "title": "4 BABY Krzesełko dziecięce DECCO CAMEL",
+          "imageId": 68428,
+          "stock": 4,
+          "purchaseNet": 199.8,
+          "barcode": "5901691958760",
+          "priceList": true,
+          "sourceTitle": "4 BABY Krzesełko dziecięce DECCO CAMEL",
+          "model": "DECCO",
+          "color": "CAMEL",
+          "colorName": "camel",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\5905811-1.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\5905811-2.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\5905811-3.jpg"
+          ],
+          "salePrice": "319.68"
+        },
+        {
+          "id": 61781,
+          "sku": "5905810",
+          "title": "4 BABY Krzesełko dziecięce DECCO BLACK",
+          "imageId": 68419,
+          "stock": 2,
+          "purchaseNet": 199.8,
+          "barcode": "5901691958753",
+          "priceList": true,
+          "sourceTitle": "4 BABY Krzesełko dziecięce DECCO BLACK",
+          "model": "DECCO",
+          "color": "BLACK",
+          "colorName": "czarny",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\5905810-1.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\5905810-2.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\5905810-3.jpg"
+          ],
+          "salePrice": "319.68"
+        },
+        {
+          "id": 28393,
+          "sku": "764724",
+          "title": "4 BABY Krzesełko dziecięce DECCO GREEN",
+          "imageId": 68425,
+          "stock": 9,
+          "purchaseNet": 199.8,
+          "barcode": "5901691958777",
+          "priceList": true,
+          "sourceTitle": "4 BABY Krzesełko dziecięce DECCO GREEN",
+          "model": "DECCO",
+          "color": "GREEN",
+          "colorName": "zielony",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\764724-1.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\764724-2.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\764724-3.jpg"
+          ],
+          "salePrice": "319.68"
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": "gid://shopify/Product/10655547490637",
+        "title": "4 Baby Icon krzesełko do karmienia",
+        "handle": "4-baby-icon-krzeselko-do-karmienia",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "5907348",
+              "barcode": "5901691958845",
+              "price": "488.16",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "4 Baby Icon krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Icon krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Icon krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Icon krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Krzesełka do karmienia",
+              "handle": "krzeselka-do-karmienia"
+            }
+          ]
+        },
+        "seo": {
+          "title": "4 Baby Icon krzesełko do karmienia | MamaPack",
+          "description": "4 Baby Icon krzesełko do karmienia: krzesełko do karmienia 4 Baby z praktycznymi regulacjami. Kolory: beżowy."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 63416,
+          "sku": "5907348",
+          "title": "4 BABY Krzesełko dziecięce ICON beige",
+          "imageId": 72132,
+          "stock": 5,
+          "purchaseNet": 305.1,
+          "barcode": "5901691958845",
+          "priceList": true,
+          "sourceTitle": "4 BABY Krzesełko dziecięce ICON beige",
+          "model": "ICON",
+          "color": "BEIGE",
+          "colorName": "beżowy",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\5907348-1.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\5907348-2.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\5907348-3.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\5907348-4.jpg"
+          ],
+          "salePrice": "488.16"
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": "gid://shopify/Product/10655547523405",
+        "title": "4 Baby Master 6w1 krzesełko do karmienia",
+        "handle": "4-baby-master-6w1-krzeselko-do-karmienia",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "786186",
+              "barcode": "5901691957527",
+              "price": "414.40",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "4 Baby Master 6w1 krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Master 6w1 krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Master 6w1 krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Master 6w1 krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Master 6w1 krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Master 6w1 krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Master 6w1 krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "4 Baby Master 6w1 krzesełko do karmienia",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Krzesełka do karmienia",
+              "handle": "krzeselka-do-karmienia"
+            }
+          ]
+        },
+        "seo": {
+          "title": "4 Baby Master 6w1 krzesełko do karmienia | MamaPack",
+          "description": "4 Baby Master 6w1 krzesełko do karmienia: krzesełko do karmienia 4 Baby z praktycznymi regulacjami. Kolory: czarny."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 52543,
+          "sku": "786186",
+          "title": "4 BABY Krzesełko dziecięce MASTER black",
+          "imageId": 52052,
+          "stock": 7,
+          "purchaseNet": 259.0,
+          "barcode": "5901691957527",
+          "priceList": true,
+          "sourceTitle": "4 BABY Krzesełko dziecięce MASTER black",
+          "model": "MASTER",
+          "color": "BLACK",
+          "colorName": "czarny",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\786186-1.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\786186-2.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\786186-3.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\786186-4.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\786186-5.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\786186-6.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\786186-7.jpg",
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\forbaby_krzeselka_15\\786186-8.jpg"
+          ],
+          "salePrice": "414.40"
+        }
+      ]
+    }
+  ]
+}

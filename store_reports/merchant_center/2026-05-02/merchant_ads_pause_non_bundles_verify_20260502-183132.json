@@ -1,0 +1,229 @@
+{
+  "summary": {
+    "merchant_id": "5548494754",
+    "created_at": "2026-05-02T18:31:32",
+    "previous_show_in_ads_offer_count": 24,
+    "targeted_non_bundle_offer_count": 10,
+    "targeted_non_bundle_paused_ads_count": 10,
+    "remaining_show_in_ads_offer_count": 14,
+    "remaining_show_in_ads_group_count": 12
+  },
+  "checked_previous_ads_candidates": [
+    {
+      "product_id": "online:pl:PL:shopify_PL_10606522073421_53653080539469",
+      "offer_id": "shopify_PL_10606522073421_53653080539469",
+      "title": "BIBS Studio - Smoczek uspokajający – mamapack 1 (0m+)",
+      "group_key": "shopify_PL_10606522073421",
+      "pause": "ads",
+      "still_show_in_ads": false,
+      "was_targeted_non_bundle": true
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10558848336205_53441254457677",
+      "offer_id": "shopify_PL_10558848336205_53441254457677",
+      "title": "Torba do szpitala dla Mamy I Noworodka – gotowa – mamapack",
+      "group_key": "Torba do szpitala dla Mamy I Noworodka – gotowa – mamapack",
+      "pause": "",
+      "still_show_in_ads": true,
+      "was_targeted_non_bundle": false
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10526795039053_53327971582285",
+      "offer_id": "shopify_PL_10526795039053_53327971582285",
+      "title": "Torba do szpitala dla Mamy – wyprawka Podstawowa – mamapack",
+      "group_key": "Torba do szpitala dla Mamy – wyprawka Podstawowa – mamapack",
+      "pause": "",
+      "still_show_in_ads": true,
+      "was_targeted_non_bundle": false
+    },
+    {
+      "product_id": "online:pl:PL:16511090014209914440",
+      "offer_id": "16511090014209914440",
+      "title": "Torba do szpitala dla noworodka - gotowa wyprawka KOMPLETNA",
+      "group_key": "Torba do szpitala dla noworodka - gotowa wyprawka KOMPLETNA",
+      "pause": "",
+      "still_show_in_ads": true,
+      "was_targeted_non_bundle": false
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10489715360077_53749050212685",
+      "offer_id": "shopify_PL_10489715360077_53749050212685",
+      "title": "BIBS Supreme (160336) - Smoczek uspokajający – mamapack 1 (0+)",
+      "group_key": "shopify_PL_10489715360077",
+      "pause": "ads",
+      "still_show_in_ads": false,
+      "was_targeted_non_bundle": true
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10517866021197_53291451744589",
+      "offer_id": "shopify_PL_10517866021197_53291451744589",
+      "title": "Torba do szpitala dla Mamy – wyprawka Rozszerzona – mamapack",
+      "group_key": "Torba do szpitala dla Mamy – wyprawka Rozszerzona – mamapack",
+      "pause": "",
+      "still_show_in_ads": true,
+      "was_targeted_non_bundle": false
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10517867528525_53291462525261",
+      "offer_id": "shopify_PL_10517867528525_53291462525261",
+      "title": "Torba do szpitala dla Mamy – gotowa wyprawka Kompletna – mamapack",
+      "group_key": "Torba do szpitala dla Mamy – gotowa wyprawka Kompletna – mamapack",
+      "pause": "",
+      "still_show_in_ads": true,
+      "was_targeted_non_bundle": false
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10630618480973_53749032124749",
+      "offer_id": "shopify_PL_10630618480973_53749032124749",
+      "title": "BIBS Studio - Smoczek uspokajający – mamapack",
+      "group_key": "BIBS Studio - Smoczek uspokajający – mamapack",
+      "pause": "ads",
+      "still_show_in_ads": false,
+      "was_targeted_non_bundle": true
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10489715360077_53749050245453",
+      "offer_id": "shopify_PL_10489715360077_53749050245453",
+      "title": "BIBS Supreme (160336) - Smoczek uspokajający – mamapack 2 (6+)",
+      "group_key": "shopify_PL_10489715360077",
+      "pause": "ads",
+      "still_show_in_ads": false,
+      "was_targeted_non_bundle": true
+    },
+    {
+      "product_id": "online:pl:PL:10684112702236703032",
+      "offer_id": "10684112702236703032",
+      "title": "Torba do szpitala dla noworodka - gotowa wyprawka ROZSZERZONA",
+      "group_key": "Torba do szpitala dla noworodka - gotowa wyprawka ROZSZERZONA",
+      "pause": "",
+      "still_show_in_ads": true,
+      "was_targeted_non_bundle": false
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10523326054733_53311333007693",
+      "offer_id": "shopify_PL_10523326054733_53311333007693",
+      "title": "Torba do szpitala dla Mamy I Noworodka – gotowa – mamapack",
+      "group_key": "Torba do szpitala dla Mamy I Noworodka – gotowa – mamapack",
+      "pause": "",
+      "still_show_in_ads": true,
+      "was_targeted_non_bundle": false
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_9984490242381_51163459060045",
+      "offer_id": "shopify_PL_9984490242381_51163459060045",
+      "title": "Rożek niemowlęcy - standard 75x75 cm - - bawełna 100% – mamapack",
+      "group_key": "Rożek niemowlęcy - standard 75x75 cm - - bawełna 100% – mamapack",
+      "pause": "ads",
+      "still_show_in_ads": false,
+      "was_targeted_non_bundle": true
+    },
+    {
+      "product_id": "online:pl:PL:13606874948860542676",
+      "offer_id": "13606874948860542676",
+      "title": "BIBS - Smoczek - kauczuk - SZAŁWIA",
+      "group_key": "BIBS - Smoczek - kauczuk - SZAŁWIA",
+      "pause": "ads",
+      "still_show_in_ads": false,
+      "was_targeted_non_bundle": true
+    },
+    {
+      "product_id": "online:pl:PL:8641583731927345873",
+      "offer_id": "8641583731927345873",
+      "title": "Torba do szpitala dla DLA MAMY I NOWORODKA – gotowa wyprawka KOMPLETNA",
+      "group_key": "Torba do szpitala dla DLA MAMY I NOWORODKA – gotowa wyprawka KOMPLETNA",
+      "pause": "",
+      "still_show_in_ads": true,
+      "was_targeted_non_bundle": false
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_9984493814093_51163500806477",
+      "offer_id": "shopify_PL_9984493814093_51163500806477",
+      "title": "Rożek niemowlęcy - standard 75x75 cm - - bawełna 100% – mamapack",
+      "group_key": "Rożek niemowlęcy - standard 75x75 cm - - bawełna 100% – mamapack",
+      "pause": "ads",
+      "still_show_in_ads": false,
+      "was_targeted_non_bundle": true
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10523329921357_53311374360909",
+      "offer_id": "shopify_PL_10523329921357_53311374360909",
+      "title": "Torba do szpitala dla Mamy i Noworodka – gotowa – mamapack",
+      "group_key": "Torba do szpitala dla Mamy i Noworodka – gotowa – mamapack",
+      "pause": "",
+      "still_show_in_ads": true,
+      "was_targeted_non_bundle": false
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10517869068621_53291474682189",
+      "offer_id": "shopify_PL_10517869068621_53291474682189",
+      "title": "Torba do szpitala dla Mamy – gotowa wyprawka Premium – mamapack",
+      "group_key": "Torba do szpitala dla Mamy – gotowa wyprawka Premium – mamapack",
+      "pause": "",
+      "still_show_in_ads": true,
+      "was_targeted_non_bundle": false
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10630605209933_53748969636173",
+      "offer_id": "shopify_PL_10630605209933_53748969636173",
+      "title": "BIBS Studio - Smoczek uspokajający – mamapack",
+      "group_key": "BIBS Studio - Smoczek uspokajający – mamapack",
+      "pause": "ads",
+      "still_show_in_ads": false,
+      "was_targeted_non_bundle": true
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10606522073421_53653080605005",
+      "offer_id": "shopify_PL_10606522073421_53653080605005",
+      "title": "BIBS Studio - Smoczek uspokajający – mamapack 3 (18m+)",
+      "group_key": "shopify_PL_10606522073421",
+      "pause": "ads",
+      "still_show_in_ads": false,
+      "was_targeted_non_bundle": true
+    },
+    {
+      "product_id": "online:pl:PL:9931257749113620660",
+      "offer_id": "9931257749113620660",
+      "title": "Torba do szpitala dla noworodka - gotowa wyprawka PREMIUM",
+      "group_key": "Torba do szpitala dla noworodka - gotowa wyprawka PREMIUM",
+      "pause": "",
+      "still_show_in_ads": true,
+      "was_targeted_non_bundle": false
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10606522073421_53653080572237",
+      "offer_id": "shopify_PL_10606522073421_53653080572237",
+      "title": "BIBS Studio - Smoczek uspokajający – mamapack 2 (6m+)",
+      "group_key": "shopify_PL_10606522073421",
+      "pause": "ads",
+      "still_show_in_ads": false,
+      "was_targeted_non_bundle": true
+    },
+    {
+      "product_id": "online:pl:PL:11555450801705149523",
+      "offer_id": "11555450801705149523",
+      "title": "Torba do szpitala dla noworodka - gotowa wyprawka PODSTAWOWA",
+      "group_key": "Torba do szpitala dla noworodka - gotowa wyprawka PODSTAWOWA",
+      "pause": "",
+      "still_show_in_ads": true,
+      "was_targeted_non_bundle": false
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_10519344120141_53296171483469",
+      "offer_id": "shopify_PL_10519344120141_53296171483469",
+      "title": "Torba do szpitala dla Mamy i Noworodka – gotowa – mamapack",
+      "group_key": "Torba do szpitala dla Mamy i Noworodka – gotowa – mamapack",
+      "pause": "",
+      "still_show_in_ads": true,
+      "was_targeted_non_bundle": false
+    },
+    {
+      "product_id": "online:pl:PL:shopify_PL_9816077205837_50445874233677",
+      "offer_id": "shopify_PL_9816077205837_50445874233677",
+      "title": "Avent-Zestaw: Butelka dla niemowląt 125 ml + Smoczek – mamapack",
+      "group_key": "Avent-Zestaw: Butelka dla niemowląt 125 ml + Smoczek – mamapack",
+      "pause": "",
+      "still_show_in_ads": true,
+      "was_targeted_non_bundle": false
+    }
+  ]
+}

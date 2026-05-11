@@ -1,0 +1,1530 @@
+{
+  "createdAt": "2026-05-10T16:31:42.955658+03:00",
+  "sourceUrl": "https://b2b.marini.pl/items/25?parent=0",
+  "collections": {
+    "Gryzaki": {
+      "id": "gid://shopify/Collection/660911161677",
+      "title": "Gryzaki",
+      "handle": "gryzaki"
+    },
+    "Zabawki": {
+      "id": "gid://shopify/Collection/660911194445",
+      "title": "Zabawki",
+      "handle": "zabawki"
+    },
+    "Zabawki do kąpieli": {
+      "id": "gid://shopify/Collection/660910342477",
+      "title": "Zabawki do kąpieli",
+      "handle": "zabawki-do-kapieli"
+    }
+  },
+  "availableSkuCount": 20,
+  "skippedCount": 2,
+  "skipped": [
+    {
+      "id": 45848,
+      "sku": "779713",
+      "title": "AKUKU A0451 Grzechotko-gryzak Kosmo",
+      "imageId": 38132,
+      "stock": 0,
+      "purchaseNet": 6.16,
+      "barcode": "5907644004515",
+      "priceList": true,
+      "reason": "stock is zero"
+    },
+    {
+      "id": 50058,
+      "sku": "783770",
+      "title": "AKUKU A0468 Grzechotka do wózka czarno-białe Misie",
+      "imageId": 48772,
+      "stock": 0,
+      "purchaseNet": 8.16,
+      "barcode": "5907644004683",
+      "priceList": true,
+      "reason": "stock is zero"
+    }
+  ],
+  "productCountAfterGrouping": 18,
+  "products": [
+    {
+      "title": "AKUKU A0055 Gryzak silikonowy Panda",
+      "collection": "Gryzaki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "778303"
+      ],
+      "variantValues": [
+        "Default Title"
+      ]
+    },
+    {
+      "title": "AKUKU A0355 Gryzak wodny Serce",
+      "collection": "Gryzaki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "765856"
+      ],
+      "variantValues": [
+        "Default Title"
+      ]
+    },
+    {
+      "title": "AKUKU A0356 Gryzak wodny Ster",
+      "collection": "Gryzaki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "773847"
+      ],
+      "variantValues": [
+        "Default Title"
+      ]
+    },
+    {
+      "title": "AKUKU A0357 Gryzak wodny Słonik",
+      "collection": "Gryzaki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "765858"
+      ],
+      "variantValues": [
+        "Default Title"
+      ]
+    },
+    {
+      "title": "AKUKU A0358 Gryzak wodny Żyrafa",
+      "collection": "Gryzaki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "773848"
+      ],
+      "variantValues": [
+        "Default Title"
+      ]
+    },
+    {
+      "title": "AKUKU A0362 Zabawki kąpielowe 4szt.",
+      "collection": "Zabawki do kąpieli",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "767731"
+      ],
+      "variantValues": [
+        "Default Title"
+      ]
+    },
+    {
+      "title": "AKUKU A0363 Zabawki kąpielowe 5szt.",
+      "collection": "Zabawki do kąpieli",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "767732"
+      ],
+      "variantValues": [
+        "Default Title"
+      ]
+    },
+    {
+      "title": "AKUKU A0413 Grzechotko gryzak",
+      "collection": "Gryzaki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "774732"
+      ],
+      "variantValues": [
+        "Default Title"
+      ]
+    },
+    {
+      "title": "AKUKU A0449 Grzechotka Lew",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "780926"
+      ],
+      "variantValues": [
+        "Default Title"
+      ]
+    },
+    {
+      "title": "AKUKU A0450 Grzechotka Słoń",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "780927"
+      ],
+      "variantValues": [
+        "Default Title"
+      ]
+    },
+    {
+      "title": "AKUKU A0460 Gryzak silikonowy Miś",
+      "collection": "Gryzaki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "787885"
+      ],
+      "variantValues": [
+        "Default Title"
+      ]
+    },
+    {
+      "title": "AKUKU A0467 Grzechotka czarno-biały Miś",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "783769"
+      ],
+      "variantValues": [
+        "Default Title"
+      ]
+    },
+    {
+      "title": "AKUKU A0470 Pluszowa zawieszka Miś czarno-biały",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "783771"
+      ],
+      "variantValues": [
+        "Default Title"
+      ]
+    },
+    {
+      "title": "AKUKU A0482 Grzechotka pluszowa HANTEL",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5902728"
+      ],
+      "variantValues": [
+        "Default Title"
+      ]
+    },
+    {
+      "title": "AKUKU A0483 Grzechotka pluszowa Maracas",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5902729"
+      ],
+      "variantValues": [
+        "Default Title"
+      ]
+    },
+    {
+      "title": "AKUKU A0679 Grzechotka Krówka",
+      "collection": "Zabawki",
+      "optionName": "Title",
+      "variantCount": 1,
+      "skus": [
+        "5911655"
+      ],
+      "variantValues": [
+        "Default Title"
+      ]
+    },
+    {
+      "title": "AKUKU Gryzak silikonowy Ślimak",
+      "collection": "Gryzaki",
+      "optionName": "Kolor",
+      "variantCount": 2,
+      "skus": [
+        "782872",
+        "782873"
+      ],
+      "variantValues": [
+        "niebieski",
+        "różowy"
+      ]
+    },
+    {
+      "title": "AKUKU Grzechotka Klucze",
+      "collection": "Zabawki",
+      "optionName": "Kolor",
+      "variantCount": 2,
+      "skus": [
+        "5911656",
+        "5911657"
+      ],
+      "variantValues": [
+        "jasne",
+        "ciemne"
+      ]
+    }
+  ],
+  "created": [
+    {
+      "collectionTitle": "Gryzaki",
+      "product": {
+        "id": "gid://shopify/Product/10655945457997",
+        "title": "AKUKU A0055 Gryzak silikonowy Panda",
+        "handle": "akuku-a0055-gryzak-silikonowy-panda",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "778303",
+              "barcode": "5907644000555",
+              "price": "12.58",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU A0055 Gryzak silikonowy Panda",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Gryzaki",
+              "handle": "gryzaki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU A0055 Gryzak silikonowy Panda | MamaPack",
+          "description": "AKUKU A0055 Gryzak silikonowy Panda marki AKUKU. gryzaki dla niemowląt i małych dzieci. SKU: 778303."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 44382,
+          "sku": "778303",
+          "title": "AKUKU A0055 Gryzak silikonowy Panda",
+          "imageId": 35972,
+          "stock": 31,
+          "purchaseNet": 7.86,
+          "barcode": "5907644000555",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0055 Gryzak silikonowy Panda",
+          "brand": "Akuku",
+          "collection": "Gryzaki",
+          "baseTitle": "AKUKU A0055 Gryzak silikonowy Panda",
+          "variantValue": "",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\778303-1.jpg"
+          ],
+          "salePrice": "12.58"
+        }
+      ]
+    },
+    {
+      "collectionTitle": "Gryzaki",
+      "product": {
+        "id": "gid://shopify/Product/10655945490765",
+        "title": "AKUKU A0355 Gryzak wodny Serce",
+        "handle": "akuku-a0355-gryzak-wodny-serce",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "765856",
+              "barcode": "5907644003556",
+              "price": "6.53",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU A0355 Gryzak wodny Serce",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Gryzaki",
+              "handle": "gryzaki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU A0355 Gryzak wodny Serce | MamaPack",
+          "description": "AKUKU A0355 Gryzak wodny Serce marki AKUKU. gryzaki dla niemowląt i małych dzieci. SKU: 765856."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 29563,
+          "sku": "765856",
+          "title": "AKUKU A0355 Gryzak wodny Serce",
+          "imageId": 17068,
+          "stock": 41,
+          "purchaseNet": 4.08,
+          "barcode": "5907644003556",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0355 Gryzak wodny Serce",
+          "brand": "Akuku",
+          "collection": "Gryzaki",
+          "baseTitle": "AKUKU A0355 Gryzak wodny Serce",
+          "variantValue": "",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\765856-1.jpg"
+          ],
+          "salePrice": "6.53"
+        }
+      ]
+    },
+    {
+      "collectionTitle": "Gryzaki",
+      "product": {
+        "id": "gid://shopify/Product/10655945556301",
+        "title": "AKUKU A0356 Gryzak wodny Ster",
+        "handle": "akuku-a0356-gryzak-wodny-ster",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "773847",
+              "barcode": "5907644003563",
+              "price": "6.53",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU A0356 Gryzak wodny Ster",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Gryzaki",
+              "handle": "gryzaki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU A0356 Gryzak wodny Ster | MamaPack",
+          "description": "AKUKU A0356 Gryzak wodny Ster marki AKUKU. gryzaki dla niemowląt i małych dzieci. SKU: 773847."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 39795,
+          "sku": "773847",
+          "title": "AKUKU A0356 Gryzak wodny Ster",
+          "imageId": 29192,
+          "stock": 96,
+          "purchaseNet": 4.08,
+          "barcode": "5907644003563",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0356 Gryzak wodny Ster",
+          "brand": "Akuku",
+          "collection": "Gryzaki",
+          "baseTitle": "AKUKU A0356 Gryzak wodny Ster",
+          "variantValue": "",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\773847-1.jpg"
+          ],
+          "salePrice": "6.53"
+        }
+      ]
+    },
+    {
+      "collectionTitle": "Gryzaki",
+      "product": {
+        "id": "gid://shopify/Product/10655945654605",
+        "title": "AKUKU A0357 Gryzak wodny Słonik",
+        "handle": "akuku-a0357-gryzak-wodny-slonik",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "765858",
+              "barcode": "5907644003570",
+              "price": "6.08",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU A0357 Gryzak wodny Słonik",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Gryzaki",
+              "handle": "gryzaki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU A0357 Gryzak wodny Słonik | MamaPack",
+          "description": "AKUKU A0357 Gryzak wodny Słonik marki AKUKU. gryzaki dla niemowląt i małych dzieci. SKU: 765858."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 29565,
+          "sku": "765858",
+          "title": "AKUKU A0357 Gryzak wodny Słonik",
+          "imageId": 17070,
+          "stock": 83,
+          "purchaseNet": 3.8,
+          "barcode": "5907644003570",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0357 Gryzak wodny Słonik",
+          "brand": "Akuku",
+          "collection": "Gryzaki",
+          "baseTitle": "AKUKU A0357 Gryzak wodny Słonik",
+          "variantValue": "",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\765858-1.jpg"
+          ],
+          "salePrice": "6.08"
+        }
+      ]
+    },
+    {
+      "collectionTitle": "Gryzaki",
+      "product": {
+        "id": "gid://shopify/Product/10655945687373",
+        "title": "AKUKU A0358 Gryzak wodny Żyrafa",
+        "handle": "akuku-a0358-gryzak-wodny-zyrafa",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "773848",
+              "barcode": "5907644003587",
+              "price": "6.53",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU A0358 Gryzak wodny Żyrafa",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Gryzaki",
+              "handle": "gryzaki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU A0358 Gryzak wodny Żyrafa | MamaPack",
+          "description": "AKUKU A0358 Gryzak wodny Żyrafa marki AKUKU. gryzaki dla niemowląt i małych dzieci. SKU: 773848."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 39796,
+          "sku": "773848",
+          "title": "AKUKU A0358 Gryzak wodny Żyrafa",
+          "imageId": 29193,
+          "stock": 43,
+          "purchaseNet": 4.08,
+          "barcode": "5907644003587",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0358 Gryzak wodny Żyrafa",
+          "brand": "Akuku",
+          "collection": "Gryzaki",
+          "baseTitle": "AKUKU A0358 Gryzak wodny Żyrafa",
+          "variantValue": "",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\773848-1.jpg"
+          ],
+          "salePrice": "6.53"
+        }
+      ]
+    },
+    {
+      "collectionTitle": "Zabawki do kąpieli",
+      "product": {
+        "id": "gid://shopify/Product/10655945720141",
+        "title": "AKUKU A0362 Zabawki kąpielowe 4szt.",
+        "handle": "akuku-a0362-zabawki-kapielowe-4szt",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "767731",
+              "barcode": "5907644003624",
+              "price": "12.08",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU A0362 Zabawki kąpielowe 4szt.",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Zabawki do kąpieli",
+              "handle": "zabawki-do-kapieli"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU A0362 Zabawki kąpielowe 4szt. | MamaPack",
+          "description": "AKUKU A0362 Zabawki kąpielowe 4szt. marki AKUKU. zabawki do kąpieli dla niemowląt i małych dzieci. SKU: 767731."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 33484,
+          "sku": "767731",
+          "title": "AKUKU A0362 Zabawki kąpielowe 4szt.",
+          "imageId": 20753,
+          "stock": 33,
+          "purchaseNet": 7.55,
+          "barcode": "5907644003624",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0362 Zabawki kąpielowe 4szt.",
+          "brand": "Akuku",
+          "collection": "Zabawki do kąpieli",
+          "baseTitle": "AKUKU A0362 Zabawki kąpielowe 4szt.",
+          "variantValue": "",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\767731-1.jpg"
+          ],
+          "salePrice": "12.08"
+        }
+      ]
+    },
+    {
+      "collectionTitle": "Zabawki do kąpieli",
+      "product": {
+        "id": "gid://shopify/Product/10655945752909",
+        "title": "AKUKU A0363 Zabawki kąpielowe 5szt.",
+        "handle": "akuku-a0363-zabawki-kapielowe-5szt",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "767732",
+              "barcode": "5907644003631",
+              "price": "15.84",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU A0363 Zabawki kąpielowe 5szt.",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Zabawki do kąpieli",
+              "handle": "zabawki-do-kapieli"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU A0363 Zabawki kąpielowe 5szt. | MamaPack",
+          "description": "AKUKU A0363 Zabawki kąpielowe 5szt. marki AKUKU. zabawki do kąpieli dla niemowląt i małych dzieci. SKU: 767732."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 33485,
+          "sku": "767732",
+          "title": "AKUKU A0363 Zabawki kąpielowe 5szt.",
+          "imageId": 20755,
+          "stock": 26,
+          "purchaseNet": 9.9,
+          "barcode": "5907644003631",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0363 Zabawki kąpielowe 5szt.",
+          "brand": "Akuku",
+          "collection": "Zabawki do kąpieli",
+          "baseTitle": "AKUKU A0363 Zabawki kąpielowe 5szt.",
+          "variantValue": "",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\767732-1.jpg"
+          ],
+          "salePrice": "15.84"
+        }
+      ]
+    },
+    {
+      "collectionTitle": "Gryzaki",
+      "product": {
+        "id": "gid://shopify/Product/10655945818445",
+        "title": "AKUKU A0413 Grzechotko gryzak",
+        "handle": "akuku-a0413-grzechotko-gryzak",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "774732",
+              "barcode": "5907644004133",
+              "price": "7.68",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU A0413 Grzechotko gryzak",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Gryzaki",
+              "handle": "gryzaki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU A0413 Grzechotko gryzak | MamaPack",
+          "description": "AKUKU A0413 Grzechotko gryzak marki AKUKU. gryzaki dla niemowląt i małych dzieci. SKU: 774732."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 40699,
+          "sku": "774732",
+          "title": "AKUKU A0413 Grzechotko gryzak",
+          "imageId": 30189,
+          "stock": 36,
+          "purchaseNet": 4.8,
+          "barcode": "5907644004133",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0413 Grzechotko gryzak",
+          "brand": "Akuku",
+          "collection": "Gryzaki",
+          "baseTitle": "AKUKU A0413 Grzechotko gryzak",
+          "variantValue": "",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\774732-1.jpg"
+          ],
+          "salePrice": "7.68"
+        }
+      ]
+    },
+    {
+      "collectionTitle": "Zabawki",
+      "product": {
+        "id": "gid://shopify/Product/10655945851213",
+        "title": "AKUKU A0449 Grzechotka Lew",
+        "handle": "akuku-a0449-grzechotka-lew",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "780926",
+              "barcode": "5907644004492",
+              "price": "11.14",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU A0449 Grzechotka Lew",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Zabawki",
+              "handle": "zabawki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU A0449 Grzechotka Lew | MamaPack",
+          "description": "AKUKU A0449 Grzechotka Lew marki AKUKU. zabawki dla niemowląt i małych dzieci. SKU: 780926."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 47091,
+          "sku": "780926",
+          "title": "AKUKU A0449 Grzechotka Lew",
+          "imageId": 40658,
+          "stock": 15,
+          "purchaseNet": 6.96,
+          "barcode": "5907644004492",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0449 Grzechotka Lew",
+          "brand": "Akuku",
+          "collection": "Zabawki",
+          "baseTitle": "AKUKU A0449 Grzechotka Lew",
+          "variantValue": "",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\780926-1.jpg"
+          ],
+          "salePrice": "11.14"
+        }
+      ]
+    },
+    {
+      "collectionTitle": "Zabawki",
+      "product": {
+        "id": "gid://shopify/Product/10655945883981",
+        "title": "AKUKU A0450 Grzechotka Słoń",
+        "handle": "akuku-a0450-grzechotka-slon",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "780927",
+              "barcode": "5907644004508",
+              "price": "11.14",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU A0450 Grzechotka Słoń",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Zabawki",
+              "handle": "zabawki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU A0450 Grzechotka Słoń | MamaPack",
+          "description": "AKUKU A0450 Grzechotka Słoń marki AKUKU. zabawki dla niemowląt i małych dzieci. SKU: 780927."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 47092,
+          "sku": "780927",
+          "title": "AKUKU A0450 Grzechotka Słoń",
+          "imageId": 40660,
+          "stock": 13,
+          "purchaseNet": 6.96,
+          "barcode": "5907644004508",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0450 Grzechotka Słoń",
+          "brand": "Akuku",
+          "collection": "Zabawki",
+          "baseTitle": "AKUKU A0450 Grzechotka Słoń",
+          "variantValue": "",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\780927-1.jpg"
+          ],
+          "salePrice": "11.14"
+        }
+      ]
+    },
+    {
+      "collectionTitle": "Gryzaki",
+      "product": {
+        "id": "gid://shopify/Product/10655945916749",
+        "title": "AKUKU A0460 Gryzak silikonowy Miś",
+        "handle": "akuku-a0460-gryzak-silikonowy-mis",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "787885",
+              "barcode": "5907644004607",
+              "price": "8.10",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU A0460 Gryzak silikonowy Miś",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Gryzaki",
+              "handle": "gryzaki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU A0460 Gryzak silikonowy Miś | MamaPack",
+          "description": "AKUKU A0460 Gryzak silikonowy Miś marki AKUKU. gryzaki dla niemowląt i małych dzieci. SKU: 787885."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 54329,
+          "sku": "787885",
+          "title": "AKUKU A0460 Gryzak silikonowy Miś",
+          "imageId": 54885,
+          "stock": 13,
+          "purchaseNet": 5.06,
+          "barcode": "5907644004607",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0460 Gryzak silikonowy Miś",
+          "brand": "Akuku",
+          "collection": "Gryzaki",
+          "baseTitle": "AKUKU A0460 Gryzak silikonowy Miś",
+          "variantValue": "",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\787885-1.jpg"
+          ],
+          "salePrice": "8.10"
+        }
+      ]
+    },
+    {
+      "collectionTitle": "Zabawki",
+      "product": {
+        "id": "gid://shopify/Product/10655946015053",
+        "title": "AKUKU A0467 Grzechotka czarno-biały Miś",
+        "handle": "akuku-a0467-grzechotka-czarno-bialy-mis",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "783769",
+              "barcode": "5907644004676",
+              "price": "9.50",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU A0467 Grzechotka czarno-biały Miś",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Zabawki",
+              "handle": "zabawki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU A0467 Grzechotka czarno-biały Miś | MamaPack",
+          "description": "AKUKU A0467 Grzechotka czarno-biały Miś marki AKUKU. zabawki dla niemowląt i małych dzieci. SKU: 783769."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 50057,
+          "sku": "783769",
+          "title": "AKUKU A0467 Grzechotka czarno-biały Miś",
+          "imageId": 48770,
+          "stock": 4,
+          "purchaseNet": 5.94,
+          "barcode": "5907644004676",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0467 Grzechotka czarno-biały Miś",
+          "brand": "Akuku",
+          "collection": "Zabawki",
+          "baseTitle": "AKUKU A0467 Grzechotka czarno-biały Miś",
+          "variantValue": "",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\783769-1.jpg"
+          ],
+          "salePrice": "9.50"
+        }
+      ]
+    },
+    {
+      "collectionTitle": "Zabawki",
+      "product": {
+        "id": "gid://shopify/Product/10655946080589",
+        "title": "AKUKU A0470 Pluszowa zawieszka Miś czarno-biały",
+        "handle": "akuku-a0470-pluszowa-zawieszka-mis-czarno-bialy",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "783771",
+              "barcode": "5907644004706",
+              "price": "19.01",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU A0470 Pluszowa zawieszka Miś czarno-biały",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Zabawki",
+              "handle": "zabawki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU A0470 Pluszowa zawieszka Miś czarno-biały | MamaPack",
+          "description": "AKUKU A0470 Pluszowa zawieszka Miś czarno-biały marki AKUKU. zabawki dla niemowląt i małych dzieci. SKU: 783771."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 50059,
+          "sku": "783771",
+          "title": "AKUKU A0470 Pluszowa zawieszka Miś czarno-biały",
+          "imageId": 48774,
+          "stock": 75,
+          "purchaseNet": 11.88,
+          "barcode": "5907644004706",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0470 Pluszowa zawieszka Miś czarno-biały",
+          "brand": "Akuku",
+          "collection": "Zabawki",
+          "baseTitle": "AKUKU A0470 Pluszowa zawieszka Miś czarno-biały",
+          "variantValue": "",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\783771-1.jpg"
+          ],
+          "salePrice": "19.01"
+        }
+      ]
+    },
+    {
+      "collectionTitle": "Zabawki",
+      "product": {
+        "id": "gid://shopify/Product/10655946113357",
+        "title": "AKUKU A0482 Grzechotka pluszowa HANTEL",
+        "handle": "akuku-a0482-grzechotka-pluszowa-hantel",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "5902728",
+              "barcode": "5907644004829",
+              "price": "15.94",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU A0482 Grzechotka pluszowa HANTEL",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Zabawki",
+              "handle": "zabawki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU A0482 Grzechotka pluszowa HANTEL | MamaPack",
+          "description": "AKUKU A0482 Grzechotka pluszowa HANTEL marki AKUKU. zabawki dla niemowląt i małych dzieci. SKU: 5902728."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 58420,
+          "sku": "5902728",
+          "title": "AKUKU A0482 Grzechotka pluszowa HANTEL",
+          "imageId": 63732,
+          "stock": 145,
+          "purchaseNet": 9.96,
+          "barcode": "5907644004829",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0482 Grzechotka pluszowa HANTEL",
+          "brand": "Akuku",
+          "collection": "Zabawki",
+          "baseTitle": "AKUKU A0482 Grzechotka pluszowa HANTEL",
+          "variantValue": "",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\5902728-1.jpg"
+          ],
+          "salePrice": "15.94"
+        }
+      ]
+    },
+    {
+      "collectionTitle": "Zabawki",
+      "product": {
+        "id": "gid://shopify/Product/10655946178893",
+        "title": "AKUKU A0483 Grzechotka pluszowa Maracas",
+        "handle": "akuku-a0483-grzechotka-pluszowa-maracas",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "5902729",
+              "barcode": "5907644004836",
+              "price": "13.09",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU A0483 Grzechotka pluszowa Maracas",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Zabawki",
+              "handle": "zabawki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU A0483 Grzechotka pluszowa Maracas | MamaPack",
+          "description": "AKUKU A0483 Grzechotka pluszowa Maracas marki AKUKU. zabawki dla niemowląt i małych dzieci. SKU: 5902729."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 58421,
+          "sku": "5902729",
+          "title": "AKUKU A0483 Grzechotka pluszowa Maracas",
+          "imageId": 63733,
+          "stock": 113,
+          "purchaseNet": 8.18,
+          "barcode": "5907644004836",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0483 Grzechotka pluszowa Maracas",
+          "brand": "Akuku",
+          "collection": "Zabawki",
+          "baseTitle": "AKUKU A0483 Grzechotka pluszowa Maracas",
+          "variantValue": "",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\5902729-1.jpg"
+          ],
+          "salePrice": "13.09"
+        }
+      ]
+    },
+    {
+      "collectionTitle": "Zabawki",
+      "product": {
+        "id": "gid://shopify/Product/10655946342733",
+        "title": "AKUKU A0679 Grzechotka Krówka",
+        "handle": "akuku-a0679-grzechotka-krowka",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "5911655",
+              "barcode": "5907644006793",
+              "price": "10.54",
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU A0679 Grzechotka Krówka",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Zabawki",
+              "handle": "zabawki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU A0679 Grzechotka Krówka | MamaPack",
+          "description": "AKUKU A0679 Grzechotka Krówka marki AKUKU. zabawki dla niemowląt i małych dzieci. SKU: 5911655."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 68137,
+          "sku": "5911655",
+          "title": "AKUKU A0679 Grzechotka Krówka",
+          "imageId": 82269,
+          "stock": 23,
+          "purchaseNet": 6.59,
+          "barcode": "5907644006793",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0679 Grzechotka Krówka",
+          "brand": "Akuku",
+          "collection": "Zabawki",
+          "baseTitle": "AKUKU A0679 Grzechotka Krówka",
+          "variantValue": "",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\5911655-1.jpg"
+          ],
+          "salePrice": "10.54"
+        }
+      ]
+    },
+    {
+      "collectionTitle": "Gryzaki",
+      "product": {
+        "id": "gid://shopify/Product/10655946375501",
+        "title": "AKUKU Gryzak silikonowy Ślimak",
+        "handle": "akuku-gryzak-silikonowy-slimak",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "782872",
+              "barcode": "5907644001149",
+              "price": "21.28",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "niebieski"
+                }
+              ]
+            },
+            {
+              "sku": "782873",
+              "barcode": "5907644001156",
+              "price": "21.28",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "różowy"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU Gryzak silikonowy Ślimak",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "AKUKU Gryzak silikonowy Ślimak",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Gryzaki",
+              "handle": "gryzaki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU Gryzak silikonowy Ślimak | MamaPack",
+          "description": "AKUKU Gryzak silikonowy Ślimak marki AKUKU. gryzaki dla niemowląt i małych dzieci. SKU: 782872, 782873."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 49120,
+          "sku": "782872",
+          "title": "AKUKU A0114 Gryzak silikonowy Ślimak niebieski",
+          "imageId": 44520,
+          "stock": 15,
+          "purchaseNet": 13.3,
+          "barcode": "5907644001149",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0114 Gryzak silikonowy Ślimak niebieski",
+          "brand": "Akuku",
+          "collection": "Gryzaki",
+          "baseTitle": "AKUKU Gryzak silikonowy Ślimak",
+          "variantValue": "niebieski",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\782872-1.jpg"
+          ],
+          "salePrice": "21.28"
+        },
+        {
+          "id": 49121,
+          "sku": "782873",
+          "title": "AKUKU A0115 Gryzak silikonowy Ślimak różowy",
+          "imageId": 44522,
+          "stock": 17,
+          "purchaseNet": 13.3,
+          "barcode": "5907644001156",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0115 Gryzak silikonowy Ślimak różowy",
+          "brand": "Akuku",
+          "collection": "Gryzaki",
+          "baseTitle": "AKUKU Gryzak silikonowy Ślimak",
+          "variantValue": "różowy",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\782873-1.jpg"
+          ],
+          "salePrice": "21.28"
+        }
+      ]
+    },
+    {
+      "collectionTitle": "Zabawki",
+      "product": {
+        "id": "gid://shopify/Product/10655946408269",
+        "title": "AKUKU Grzechotka Klucze",
+        "handle": "akuku-grzechotka-klucze",
+        "status": "DRAFT",
+        "variants": {
+          "nodes": [
+            {
+              "sku": "5911656",
+              "barcode": "5907644006809",
+              "price": "10.02",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "jasne"
+                }
+              ]
+            },
+            {
+              "sku": "5911657",
+              "barcode": "5907644006816",
+              "price": "9.34",
+              "selectedOptions": [
+                {
+                  "name": "Kolor",
+                  "value": "ciemne"
+                }
+              ]
+            }
+          ]
+        },
+        "media": {
+          "nodes": [
+            {
+              "status": "READY",
+              "alt": "AKUKU Grzechotka Klucze",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "status": "READY",
+              "alt": "AKUKU Grzechotka Klucze",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "collections": {
+          "nodes": [
+            {
+              "title": "Zabawki",
+              "handle": "zabawki"
+            }
+          ]
+        },
+        "seo": {
+          "title": "AKUKU Grzechotka Klucze | MamaPack",
+          "description": "AKUKU Grzechotka Klucze marki AKUKU. zabawki dla niemowląt i małych dzieci. SKU: 5911656, 5911657."
+        }
+      },
+      "sourceItems": [
+        {
+          "id": 68138,
+          "sku": "5911656",
+          "title": "AKUKU A0680 Grzechotka Klucze jasne",
+          "imageId": 82266,
+          "stock": 21,
+          "purchaseNet": 6.26,
+          "barcode": "5907644006809",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0680 Grzechotka Klucze jasne",
+          "brand": "Akuku",
+          "collection": "Zabawki",
+          "baseTitle": "AKUKU Grzechotka Klucze",
+          "variantValue": "jasne",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\5911656-1.jpg"
+          ],
+          "salePrice": "10.02"
+        },
+        {
+          "id": 68139,
+          "sku": "5911657",
+          "title": "AKUKU A0681 Grzechotka Klucze ciemne",
+          "imageId": 82263,
+          "stock": 20,
+          "purchaseNet": 5.84,
+          "barcode": "5907644006816",
+          "priceList": true,
+          "sourceTitle": "AKUKU A0681 Grzechotka Klucze ciemne",
+          "brand": "Akuku",
+          "collection": "Zabawki",
+          "baseTitle": "AKUKU Grzechotka Klucze",
+          "variantValue": "ciemne",
+          "imagePaths": [
+            "C:\\Users\\User\\Desktop\\projects\\mamaPack\\wholesale_sources\\marini\\images\\group_25_toys\\5911657-1.jpg"
+          ],
+          "salePrice": "9.34"
+        }
+      ]
+    }
+  ]
+}

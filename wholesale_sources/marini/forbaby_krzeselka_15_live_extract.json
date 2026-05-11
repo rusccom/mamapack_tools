@@ -1,0 +1,1267 @@
+﻿{
+    "checkedAt":  "2026-05-09T21:54:37.9633994+03:00",
+    "sourceUrl":  "https://b2b.marini.pl/items/15?parent=10",
+    "extract":  {
+                    "url":  "https://b2b.marini.pl/items/15?parent=10",
+                    "selectedCategories":  [
+                                               {
+                                                   "text":  "KrzeseЕ‚ka do karmienia",
+                                                   "route":  "/items/15?parent=10",
+                                                   "groupId":  15
+                                               }
+                                           ],
+                    "groups":  [
+                                   {
+                                       "category":  {
+                                                        "text":  "KrzeseЕ‚ka do karmienia",
+                                                        "route":  "/items/15?parent=10",
+                                                        "groupId":  15
+                                                    },
+                                       "pages":  [
+                                                     {
+                                                         "url":  "/api/items/articleListXl/?groupId=15\u0026filterInGroup=false\u0026pageNumber=1\u0026sortMode=NameAsc\u0026onlyAvailable=false\u0026warehouseId=1\u0026stockLevelFilter=0",
+                                                         "ok":  true,
+                                                         "status":  200,
+                                                         "json":  {
+                                                                      "articleList":  [
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  61781,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  68419,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "4 BABY Krzesełko dziecięce DECCO BLACK",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "5905810",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  1,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  61783,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  68428,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "4 BABY Krzesełko dziecięce DECCO CAMEL",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "5905811",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  2,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  28393,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  68425,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "4 BABY Krzesełko dziecięce DECCO GREEN",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "764724",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  3,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  61773,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  68422,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "4 BABY Krzesełko dziecięce DECCO GREY",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "5905803",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  4,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  63416,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  72132,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "4 BABY Krzesełko dziecięce ICON beige",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "5907348",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  5,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  52543,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  52052,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "4 BABY Krzesełko dziecięce MASTER black",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "786186",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  6,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  68456,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  82571,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "4 BABY Krzesełko dziecięce MASTER XXIII CAMEL",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "5911948",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  7,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  66486,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  79011,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "4 BABY Krzesełko dziecięce MASTER XXIII GREEN",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "5910133",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  true
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  8,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          },
+                                                                                          {
+                                                                                              "article":  {
+                                                                                                              "id":  64403,
+                                                                                                              "image":  {
+                                                                                                                            "imageType":  1,
+                                                                                                                            "imageId":  75557,
+                                                                                                                            "imageUrl":  null
+                                                                                                                        },
+                                                                                                              "name":  "4 BABY Krzesełko dziecięce MASTER XXIII GREY",
+                                                                                                              "code":  {
+                                                                                                                           "value":  "5908248",
+                                                                                                                           "representsExistingValue":  true
+                                                                                                                       },
+                                                                                                              "symbol":  null,
+                                                                                                              "type":  1,
+                                                                                                              "discountPermission":  false
+                                                                                                          },
+                                                                                              "flag":  0,
+                                                                                              "status":  "Available",
+                                                                                              "rowNumber":  9,
+                                                                                              "objectExtension":  {
+                                                                                                                      "extendedItemsList":  [
+
+                                                                                                                                            ]
+                                                                                                                  },
+                                                                                              "extensions":  {
+                                                                                                                 "extendedItemsList":  {
+
+                                                                                                                                       }
+                                                                                                             }
+                                                                                          }
+                                                                                      ],
+                                                                      "paging":  {
+                                                                                     "currentPage":  1,
+                                                                                     "totalPages":  1,
+                                                                                     "buildPager":  false
+                                                                                 }
+                                                                  }
+                                                     }
+                                                 ],
+                                       "articleList":  [
+                                                           {
+                                                               "article":  {
+                                                                               "id":  61781,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  68419,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "4 BABY Krzesełko dziecięce DECCO BLACK",
+                                                                               "code":  {
+                                                                                            "value":  "5905810",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  1,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  61783,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  68428,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "4 BABY Krzesełko dziecięce DECCO CAMEL",
+                                                                               "code":  {
+                                                                                            "value":  "5905811",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  2,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  28393,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  68425,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "4 BABY Krzesełko dziecięce DECCO GREEN",
+                                                                               "code":  {
+                                                                                            "value":  "764724",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  3,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  61773,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  68422,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "4 BABY Krzesełko dziecięce DECCO GREY",
+                                                                               "code":  {
+                                                                                            "value":  "5905803",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  4,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  63416,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  72132,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "4 BABY Krzesełko dziecięce ICON beige",
+                                                                               "code":  {
+                                                                                            "value":  "5907348",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  5,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  52543,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  52052,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "4 BABY Krzesełko dziecięce MASTER black",
+                                                                               "code":  {
+                                                                                            "value":  "786186",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  6,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  68456,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  82571,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "4 BABY Krzesełko dziecięce MASTER XXIII CAMEL",
+                                                                               "code":  {
+                                                                                            "value":  "5911948",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  7,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  66486,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  79011,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "4 BABY Krzesełko dziecięce MASTER XXIII GREEN",
+                                                                               "code":  {
+                                                                                            "value":  "5910133",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  true
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  8,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           },
+                                                           {
+                                                               "article":  {
+                                                                               "id":  64403,
+                                                                               "image":  {
+                                                                                             "imageType":  1,
+                                                                                             "imageId":  75557,
+                                                                                             "imageUrl":  null
+                                                                                         },
+                                                                               "name":  "4 BABY Krzesełko dziecięce MASTER XXIII GREY",
+                                                                               "code":  {
+                                                                                            "value":  "5908248",
+                                                                                            "representsExistingValue":  true
+                                                                                        },
+                                                                               "symbol":  null,
+                                                                               "type":  1,
+                                                                               "discountPermission":  false
+                                                                           },
+                                                               "flag":  0,
+                                                               "status":  "Available",
+                                                               "rowNumber":  9,
+                                                               "objectExtension":  {
+                                                                                       "extendedItemsList":  [
+
+                                                                                                             ]
+                                                                                   },
+                                                               "extensions":  {
+                                                                                  "extendedItemsList":  {
+
+                                                                                                        }
+                                                                              }
+                                                           }
+                                                       ],
+                                       "details":  [
+                                                       {
+                                                           "id":  61781,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=61781\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  199.8,
+                                                                                      "grossPrice":  245.754,
+                                                                                      "baseNetPrice":  222,
+                                                                                      "baseGrossPrice":  273.06,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "2",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5901691958753",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  61783,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=61783\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  199.8,
+                                                                                      "grossPrice":  245.754,
+                                                                                      "baseNetPrice":  222,
+                                                                                      "baseGrossPrice":  273.06,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "4",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5901691958760",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  28393,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=28393\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  199.8,
+                                                                                      "grossPrice":  245.754,
+                                                                                      "baseNetPrice":  222,
+                                                                                      "baseGrossPrice":  273.06,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "9",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5901691958777",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  61773,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=61773\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  199.8,
+                                                                                      "grossPrice":  245.754,
+                                                                                      "baseNetPrice":  222,
+                                                                                      "baseGrossPrice":  273.06,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "0",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5901691958784",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  63416,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=63416\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  305.1,
+                                                                                      "grossPrice":  375.273,
+                                                                                      "baseNetPrice":  339,
+                                                                                      "baseGrossPrice":  416.97,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "5",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5901691958845",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  52543,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=52543\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  259,
+                                                                                      "grossPrice":  318.57,
+                                                                                      "baseNetPrice":  259,
+                                                                                      "baseGrossPrice":  318.57,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "7",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5901691957527",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  68456,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=68456\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  233.1,
+                                                                                      "grossPrice":  286.713,
+                                                                                      "baseNetPrice":  259,
+                                                                                      "baseGrossPrice":  318.57,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "0",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5901691958685",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  66486,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=66486\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  233.1,
+                                                                                      "grossPrice":  286.713,
+                                                                                      "baseNetPrice":  259,
+                                                                                      "baseGrossPrice":  318.57,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "0",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5901691958692",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       },
+                                                       {
+                                                           "id":  64403,
+                                                           "url":  "/api/items/articleFromListXl/?articleId=64403\u0026warehouseId=1",
+                                                           "ok":  true,
+                                                           "status":  200,
+                                                           "json":  {
+                                                                        "unit":  {
+                                                                                     "unitLockChange":  false,
+                                                                                     "auxiliaryUnit":  {
+                                                                                                           "unit":  null,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                     "numerator":  {
+                                                                                                       "value":  1,
+                                                                                                       "representsExistingValue":  true
+                                                                                                   },
+                                                                                     "denominator":  {
+                                                                                                         "value":  1,
+                                                                                                         "representsExistingValue":  true
+                                                                                                     },
+                                                                                     "basicUnit":  "szt.",
+                                                                                     "defaultUnitNo":  0,
+                                                                                     "isUnitTotal":  true
+                                                                                 },
+                                                                        "price":  {
+                                                                                      "currency":  "PLN",
+                                                                                      "netPrice":  259,
+                                                                                      "grossPrice":  318.57,
+                                                                                      "baseNetPrice":  259,
+                                                                                      "baseGrossPrice":  318.57,
+                                                                                      "unitNetPrice":  {
+                                                                                                           "value":  0,
+                                                                                                           "representsExistingValue":  false
+                                                                                                       },
+                                                                                      "unitGrossPrice":  {
+                                                                                                             "value":  0,
+                                                                                                             "representsExistingValue":  false
+                                                                                                         },
+                                                                                      "vatValue":  23
+                                                                                  },
+                                                                        "stockLevel":  {
+                                                                                           "value":  "0",
+                                                                                           "representsExistingValue":  true
+                                                                                       },
+                                                                        "itemExistsInCurrentPriceList":  true,
+                                                                        "thresholdPriceLists":  {
+                                                                                                    "constPriceThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "valuableThresholdPriceList":  [
+
+                                                                                                                                   ],
+                                                                                                    "percentageThresholdPriceList":  [
+
+                                                                                                                                     ],
+                                                                                                    "hasAnyThresholdPriceList":  false
+                                                                                                },
+                                                                        "articleDetailsType":  "NotContainVariants",
+                                                                        "ean":  "5901691958708",
+                                                                        "objectExtension":  {
+                                                                                                "extendedItemsList":  [
+
+                                                                                                                      ]
+                                                                                            },
+                                                                        "extensions":  {
+                                                                                           "extendedItemsList":  {
+
+                                                                                                                 }
+                                                                                       },
+                                                                        "articleInCart":  {
+                                                                                              "quantity":  null
+                                                                                          }
+                                                                    }
+                                                       }
+                                                   ]
+                                   }
+                               ]
+                }
+}

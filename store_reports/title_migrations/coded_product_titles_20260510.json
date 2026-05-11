@@ -1,0 +1,4651 @@
+{
+  "createdAt": "2026-05-10T18:42:59.524342+03:00",
+  "applied": true,
+  "updateCount": 87,
+  "updates": [
+    {
+      "productId": "gid://shopify/Product/10644508737869",
+      "handle": "tega-baby-wanna-dziecieca-kaczka-86-cm",
+      "status": "ACTIVE",
+      "category": "Wanienki",
+      "oldTitle": "Tega Baby Wanna dziecięca Kaczka 86 cm",
+      "newTitle": "Tega Baby DK-004-122(129, 130, 131, 132) - Wanna dziecięca Kaczka 86 cm",
+      "skus": [
+        "772185",
+        "771956",
+        "772049",
+        "772050",
+        "772051"
+      ],
+      "variants": [
+        {
+          "sku": "772185",
+          "value": "jasny szary"
+        },
+        {
+          "sku": "771956",
+          "value": "jasny niebieski"
+        },
+        {
+          "sku": "772049",
+          "value": "jasny różowy"
+        },
+        {
+          "sku": "772050",
+          "value": "jasny zielony"
+        },
+        {
+          "sku": "772051",
+          "value": "jasny żółty"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10644509065549",
+      "handle": "tega-baby-wanna-dziecieca-kaczka-102-cm",
+      "status": "ACTIVE",
+      "category": "Wanienki",
+      "oldTitle": "Tega Baby Wanna dziecięca Kaczka 102 cm",
+      "newTitle": "Tega Baby DK-005-122(129, 130, 131, 132) - Wanna dziecięca Kaczka 102 cm",
+      "skus": [
+        "772187",
+        "771957",
+        "772044",
+        "772045",
+        "772046"
+      ],
+      "variants": [
+        {
+          "sku": "772187",
+          "value": "jasny szary"
+        },
+        {
+          "sku": "771957",
+          "value": "jasny niebieski"
+        },
+        {
+          "sku": "772044",
+          "value": "jasny różowy"
+        },
+        {
+          "sku": "772045",
+          "value": "jasny zielony"
+        },
+        {
+          "sku": "772046",
+          "value": "jasny żółty"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10644510146893",
+      "handle": "tega-baby-wanna-dziecieca-lesna-opowiesc-86-cm",
+      "status": "ACTIVE",
+      "category": "Wanienki",
+      "oldTitle": "Tega Baby Wanna dziecięca Leśna Opowieść 86 cm",
+      "newTitle": "Tega Baby FF-004-111(108, 107, 112, 109) - Wanna dziecięca Leśna Opowieść 86 cm",
+      "skus": [
+        "772418",
+        "772419",
+        "772420",
+        "772421",
+        "772422"
+      ],
+      "variants": [
+        {
+          "sku": "772418",
+          "value": "jasny beżowy"
+        },
+        {
+          "sku": "772419",
+          "value": "jasny niebieski"
+        },
+        {
+          "sku": "772420",
+          "value": "jasny różowy"
+        },
+        {
+          "sku": "772421",
+          "value": "jasny zielony"
+        },
+        {
+          "sku": "772422",
+          "value": "jasny żółty"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10644510441805",
+      "handle": "tega-baby-wanna-dziecieca-lesna-opowiesc-102-cm",
+      "status": "ACTIVE",
+      "category": "Wanienki",
+      "oldTitle": "Tega Baby Wanna dziecięca Leśna Opowieść 102 cm",
+      "newTitle": "Tega Baby FF-005-111(108, 107, 112, 109) - Wanna dziecięca Leśna Opowieść 102 cm",
+      "skus": [
+        "772413",
+        "772414",
+        "772415",
+        "772416",
+        "772417"
+      ],
+      "variants": [
+        {
+          "sku": "772413",
+          "value": "jasny beżowy"
+        },
+        {
+          "sku": "772414",
+          "value": "jasny niebieski"
+        },
+        {
+          "sku": "772415",
+          "value": "jasny różowy"
+        },
+        {
+          "sku": "772416",
+          "value": "jasny zielony"
+        },
+        {
+          "sku": "772417",
+          "value": "jasny żółty"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10644510540109",
+      "handle": "tega-baby-wanna-dziecieca-kroliczki-z-odplywem-86-cm",
+      "status": "ACTIVE",
+      "category": "Wanienki",
+      "oldTitle": "Tega Baby Wanna dziecięca Króliczki z odpływem 86 cm",
+      "newTitle": "Tega Baby KR-004-103(105) - Wanna dziecięca Króliczki z odpływem 86 cm",
+      "skus": [
+        "762787",
+        "788737"
+      ],
+      "variants": [
+        {
+          "sku": "762787",
+          "value": "biały"
+        },
+        {
+          "sku": "788737",
+          "value": "jasny zielony"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10644510671181",
+      "handle": "tega-baby-wanna-dziecieca-kroliczki-z-odplywem-102-cm",
+      "status": "ACTIVE",
+      "category": "Wanienki",
+      "oldTitle": "Tega Baby Wanna dziecięca Króliczki z odpływem 102 cm",
+      "newTitle": "Tega Baby KR-005-103(104, 105) - Wanna dziecięca Króliczki z odpływem 102 cm",
+      "skus": [
+        "762788",
+        "791380",
+        "791381"
+      ],
+      "variants": [
+        {
+          "sku": "762788",
+          "value": "biały"
+        },
+        {
+          "sku": "791380",
+          "value": "jasny różowy"
+        },
+        {
+          "sku": "791381",
+          "value": "jasny zielony"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10644510900557",
+      "handle": "tega-baby-wanna-dziecieca-meteo-z-odplywem-86-cm",
+      "status": "ACTIVE",
+      "category": "Wanienki",
+      "oldTitle": "Tega Baby Wanna dziecięca Meteo z odpływem 86 cm",
+      "newTitle": "Tega Baby ME-004 - Wanna dziecięca Meteo z odpływem 86 cm",
+      "skus": [
+        "786680",
+        "786683",
+        "786682"
+      ],
+      "variants": [
+        {
+          "sku": "786680",
+          "value": "granatowy"
+        },
+        {
+          "sku": "786683",
+          "value": "turkusowy"
+        },
+        {
+          "sku": "786682",
+          "value": "różowy"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10644511064397",
+      "handle": "tega-baby-wanna-dziecieca-meteo-z-odplywem-102-cm",
+      "status": "ACTIVE",
+      "category": "Wanienki",
+      "oldTitle": "Tega Baby Wanna dziecięca Meteo z odpływem 102 cm",
+      "newTitle": "Tega Baby ME-005 - Wanna dziecięca Meteo z odpływem 102 cm",
+      "skus": [
+        "786676",
+        "786678",
+        "786679"
+      ],
+      "variants": [
+        {
+          "sku": "786676",
+          "value": "granatowy"
+        },
+        {
+          "sku": "786678",
+          "value": "turkusowy"
+        },
+        {
+          "sku": "786679",
+          "value": "różowy"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10644511195469",
+      "handle": "tega-baby-wanienka-monsters-z-odplywem-86-cm",
+      "status": "ACTIVE",
+      "category": "Wanienki",
+      "oldTitle": "Tega Baby Wanienka Monsters z odpływem 86 cm",
+      "newTitle": "Tega Baby MN-004-124 - Wanienka Monsters z odpływem 86 cm",
+      "skus": [
+        "5906227"
+      ],
+      "variants": [
+        {
+          "sku": "5906227",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10644511228237",
+      "handle": "tega-baby-wanienka-monsters-z-odplywem-102-cm",
+      "status": "ACTIVE",
+      "category": "Wanienki",
+      "oldTitle": "Tega Baby Wanienka Monsters z odpływem 102 cm",
+      "newTitle": "Tega Baby MN-005-124 - Wanienka Monsters z odpływem 102 cm",
+      "skus": [
+        "5906224"
+      ],
+      "variants": [
+        {
+          "sku": "5906224",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10644509393229",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-86-cm",
+      "status": "ACTIVE",
+      "category": "Wanienki",
+      "oldTitle": "Tega Baby Wanna dziecięca Dziki Zachód 86 cm",
+      "newTitle": "Tega Baby DZ-004-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód 86 cm",
+      "skus": [
+        "779257",
+        "779245"
+      ],
+      "variants": [
+        {
+          "sku": "779257",
+          "value": "Jelonek"
+        },
+        {
+          "sku": "779245",
+          "value": "Słonik"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10644509622605",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-102-cm",
+      "status": "ACTIVE",
+      "category": "Wanienki",
+      "oldTitle": "Tega Baby Wanna dziecięca Dziki Zachód 102 cm",
+      "newTitle": "Tega Baby DZ-005-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód 102 cm",
+      "skus": [
+        "779256",
+        "779244"
+      ],
+      "variants": [
+        {
+          "sku": "779256",
+          "value": "Jelonek"
+        },
+        {
+          "sku": "779244",
+          "value": "Słonik"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10644509524301",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-z-odplywem-86-cm",
+      "status": "ACTIVE",
+      "category": "Wanienki",
+      "oldTitle": "Tega Baby Wanna dziecięca Dziki Zachód z odpływem 86 cm",
+      "newTitle": "Tega Baby DZ-004-ODPŁYW-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód z odpływem 86 cm",
+      "skus": [
+        "779258",
+        "779246"
+      ],
+      "variants": [
+        {
+          "sku": "779258",
+          "value": "Jelonek"
+        },
+        {
+          "sku": "779246",
+          "value": "Słonik"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10644509720909",
+      "handle": "tega-baby-wanienka-skladana-z-odplywem-standard",
+      "status": "ACTIVE",
+      "category": "Wanienki",
+      "oldTitle": "Tega Baby Wanienka składana z odpływem standard",
+      "newTitle": "Tega Baby FB-004-119(129, 130) - Wanienka składana z odpływem standard",
+      "skus": [
+        "5914538",
+        "5914539",
+        "5914540"
+      ],
+      "variants": [
+        {
+          "sku": "5914538",
+          "value": "beżowy"
+        },
+        {
+          "sku": "5914539",
+          "value": "jasny niebieski"
+        },
+        {
+          "sku": "5914540",
+          "value": "jasny różowy"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10644511293773",
+      "handle": "tega-baby-wanna-dziecieca-mis-86-cm",
+      "status": "ACTIVE",
+      "category": "Wanienki",
+      "oldTitle": "Tega Baby Wanna dziecięca Miś 86 cm",
+      "newTitle": "Tega Baby MS-004-119 - Wanna dziecięca Miś 86 cm",
+      "skus": [
+        "10953"
+      ],
+      "variants": [
+        {
+          "sku": "10953",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10644511359309",
+      "handle": "tega-baby-wanna-dziecieca-mis-102-cm",
+      "status": "ACTIVE",
+      "category": "Wanienki",
+      "oldTitle": "Tega Baby Wanna dziecięca Miś 102 cm",
+      "newTitle": "Tega Baby MS-005-LUX-118 - Wanna dziecięca Miś 102 cm",
+      "skus": [
+        "771546"
+      ],
+      "variants": [
+        {
+          "sku": "771546",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10645600698701",
+      "handle": "tega-baby-lezaczek-do-kapieli-100-bawelna",
+      "status": "DRAFT",
+      "category": "Leżaczki do wanny",
+      "oldTitle": "Tega Baby Leżaczek do kąpieli 100% bawełna",
+      "newTitle": "Tega Baby DM-020-103(106, 135, 136, 137, 138, 140, 157) - Leżaczek do kąpieli 100% bawełna",
+      "skus": [
+        "777113",
+        "777568",
+        "777114",
+        "777115",
+        "777117",
+        "777116",
+        "786151",
+        "777565"
+      ],
+      "variants": [
+        {
+          "sku": "777113",
+          "value": "biały"
+        },
+        {
+          "sku": "777568",
+          "value": "szary"
+        },
+        {
+          "sku": "777114",
+          "value": "jasny niebieski"
+        },
+        {
+          "sku": "777115",
+          "value": "jasny różowy"
+        },
+        {
+          "sku": "777117",
+          "value": "żółty"
+        },
+        {
+          "sku": "777116",
+          "value": "jasny zielony"
+        },
+        {
+          "sku": "786151",
+          "value": "turkus"
+        },
+        {
+          "sku": "777565",
+          "value": "ecru"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10645600731469",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-dziki-zachod",
+      "status": "DRAFT",
+      "category": "Leżaczki do wanny",
+      "oldTitle": "Tega Baby Leżaczek kąpielowy z wizerunkiem Dziki Zachód",
+      "newTitle": "Tega Baby DZ-026-103-JELONEK(SŁONIK) - Leżaczek kąpielowy z wizerunkiem Dziki Zachód",
+      "skus": [
+        "779260",
+        "779248"
+      ],
+      "variants": [
+        {
+          "sku": "779260",
+          "value": "Jelonek"
+        },
+        {
+          "sku": "779248",
+          "value": "Słonik"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10645600764237",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-lesna-opowiesc",
+      "status": "DRAFT",
+      "category": "Leżaczki do wanny",
+      "oldTitle": "Tega Baby Fotelik do kąpieli antypoślizgowy Leśna Opowieść",
+      "newTitle": "Tega Baby FF-003-107(108, 109, 111, 112) - Fotelik do kąpieli antypoślizgowy Leśna Opowieść",
+      "skus": [
+        "772353",
+        "772352",
+        "772355",
+        "772351",
+        "772354"
+      ],
+      "variants": [
+        {
+          "sku": "772353",
+          "value": "jasny różowy"
+        },
+        {
+          "sku": "772352",
+          "value": "jasny niebieski"
+        },
+        {
+          "sku": "772355",
+          "value": "jasny żółty"
+        },
+        {
+          "sku": "772351",
+          "value": "jasny beżowy"
+        },
+        {
+          "sku": "772354",
+          "value": "jasny zielony"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10645600797005",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-kroliczki",
+      "status": "DRAFT",
+      "category": "Leżaczki do wanny",
+      "oldTitle": "Tega Baby Fotelik do kąpieli antypoślizgowy Króliczki",
+      "newTitle": "Tega Baby KR-003-103(104, 105) - Fotelik do kąpieli antypoślizgowy Króliczki",
+      "skus": [
+        "780954",
+        "762776",
+        "780955"
+      ],
+      "variants": [
+        {
+          "sku": "780954",
+          "value": "biały"
+        },
+        {
+          "sku": "762776",
+          "value": "jasny różowy"
+        },
+        {
+          "sku": "780955",
+          "value": "jasny zielony"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10645600829773",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-kroliczki",
+      "status": "DRAFT",
+      "category": "Leżaczki do wanny",
+      "oldTitle": "Tega Baby Leżaczek kąpielowy z wizerunkiem Króliczki",
+      "newTitle": "Tega Baby KR-026-103(104, 105) - Leżaczek kąpielowy z wizerunkiem Króliczki",
+      "skus": [
+        "771343",
+        "771344",
+        "771345"
+      ],
+      "variants": [
+        {
+          "sku": "771343",
+          "value": "biały"
+        },
+        {
+          "sku": "771344",
+          "value": "jasny różowy"
+        },
+        {
+          "sku": "771345",
+          "value": "jasny zielony"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10645600862541",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-meteo",
+      "status": "DRAFT",
+      "category": "Leżaczki do wanny",
+      "oldTitle": "Tega Baby Fotelik do kąpieli antypoślizgowy Meteo",
+      "newTitle": "Tega Baby ME-003-123(164, 165, 166) - Fotelik do kąpieli antypoślizgowy Meteo",
+      "skus": [
+        "786638",
+        "786636",
+        "786639",
+        "786637"
+      ],
+      "variants": [
+        {
+          "sku": "786638",
+          "value": "różowy"
+        },
+        {
+          "sku": "786636",
+          "value": "granatowy"
+        },
+        {
+          "sku": "786639",
+          "value": "turkusowy"
+        },
+        {
+          "sku": "786637",
+          "value": "musztardowy"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10645600928077",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-meteo",
+      "status": "DRAFT",
+      "category": "Leżaczki do wanny",
+      "oldTitle": "Tega Baby Leżaczek kąpielowy z wizerunkiem Meteo",
+      "newTitle": "Tega Baby ME-026-165 - Leżaczek kąpielowy z wizerunkiem Meteo",
+      "skus": [
+        "787100"
+      ],
+      "variants": [
+        {
+          "sku": "787100",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10645600960845",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-monsters",
+      "status": "DRAFT",
+      "category": "Leżaczki do wanny",
+      "oldTitle": "Tega Baby Fotelik do kąpieli antypoślizgowy Monsters",
+      "newTitle": "Tega Baby MN-003-124 - Fotelik do kąpieli antypoślizgowy Monsters",
+      "skus": [
+        "5906192"
+      ],
+      "variants": [
+        {
+          "sku": "5906192",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10645600993613",
+      "handle": "tega-baby-podnozek-antyposlizgowy-monsters",
+      "status": "DRAFT",
+      "category": "Leżaczki do wanny",
+      "oldTitle": "Tega Baby Podnóżek antypoślizgowy Monsters",
+      "newTitle": "Tega Baby MN-006-124 - Podnóżek antypoślizgowy Monsters",
+      "skus": [
+        "5906215"
+      ],
+      "variants": [
+        {
+          "sku": "5906215",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10645601059149",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-mis",
+      "status": "DRAFT",
+      "category": "Leżaczki do wanny",
+      "oldTitle": "Tega Baby Fotelik do kąpieli antypoślizgowy Miś",
+      "newTitle": "Tega Baby MS-003-118(119) - Fotelik do kąpieli antypoślizgowy Miś",
+      "skus": [
+        "774691",
+        "3605"
+      ],
+      "variants": [
+        {
+          "sku": "774691",
+          "value": "biała perła"
+        },
+        {
+          "sku": "3605",
+          "value": "beżowy"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10645601091917",
+      "handle": "tega-baby-nakladka-sedesowa-miekka-mis",
+      "status": "DRAFT",
+      "category": "Leżaczki do wanny",
+      "oldTitle": "Tega Baby Nakładka sedesowa miękka Miś",
+      "newTitle": "Tega Baby MS-020-119 - Nakładka sedesowa miękka Miś",
+      "skus": [
+        "774692"
+      ],
+      "variants": [
+        {
+          "sku": "774692",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10645601124685",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-mis",
+      "status": "DRAFT",
+      "category": "Leżaczki do wanny",
+      "oldTitle": "Tega Baby Leżaczek kąpielowy z wizerunkiem Miś",
+      "newTitle": "Tega Baby MS-026-103(119) - Leżaczek kąpielowy z wizerunkiem Miś",
+      "skus": [
+        "770969",
+        "770968"
+      ],
+      "variants": [
+        {
+          "sku": "770969",
+          "value": "biały"
+        },
+        {
+          "sku": "770968",
+          "value": "beżowy"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10645601157453",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-sowa",
+      "status": "DRAFT",
+      "category": "Leżaczki do wanny",
+      "oldTitle": "Tega Baby Fotelik do kąpieli antypoślizgowy Sowa",
+      "newTitle": "Tega Baby SO-003-106 - Fotelik do kąpieli antypoślizgowy Sowa",
+      "skus": [
+        "776017"
+      ],
+      "variants": [
+        {
+          "sku": "776017",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10645601190221",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-sowa",
+      "status": "DRAFT",
+      "category": "Leżaczki do wanny",
+      "oldTitle": "Tega Baby Leżaczek kąpielowy z wizerunkiem Sowa",
+      "newTitle": "Tega Baby SO-026-103(106) - Leżaczek kąpielowy z wizerunkiem Sowa",
+      "skus": [
+        "771758",
+        "770973"
+      ],
+      "variants": [
+        {
+          "sku": "771758",
+          "value": "biały"
+        },
+        {
+          "sku": "770973",
+          "value": "szary"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10654682120525",
+      "handle": "tega-baby-stojak-uniwersalny-86-102-lux",
+      "status": "DRAFT",
+      "category": "Stojaki do wanienek",
+      "oldTitle": "Tega Baby Stojak uniwersalny 86/102 LUX",
+      "newTitle": "Tega Baby DM-008 - Stojak uniwersalny 86/102 LUX",
+      "skus": [
+        "3151",
+        "784480"
+      ],
+      "variants": [
+        {
+          "sku": "3151",
+          "value": "biały"
+        },
+        {
+          "sku": "784480",
+          "value": "grafitowy"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10654682448205",
+      "handle": "tega-baby-podstawa-uniwersalna-102-102-lux",
+      "status": "DRAFT",
+      "category": "Stojaki do wanienek",
+      "oldTitle": "Tega Baby Podstawa uniwersalna 102/102 LUX",
+      "newTitle": "Tega Baby DM-018(103) - Podstawa uniwersalna 102/102 LUX",
+      "skus": [
+        "771230",
+        "768291"
+      ],
+      "variants": [
+        {
+          "sku": "771230",
+          "value": "czarny"
+        },
+        {
+          "sku": "768291",
+          "value": "biały"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10654682808653",
+      "handle": "tega-baby-dm-035-103-stojak-pod-wanienke-teggi-bialy",
+      "status": "DRAFT",
+      "category": "Stojaki do wanienek",
+      "oldTitle": "Tega Baby DM-035-103 Stojak pod wanienkę TEGGI biały",
+      "newTitle": "Tega Baby DM-035-103 - Stojak pod wanienkę TEGGI biały",
+      "skus": [
+        "5909167"
+      ],
+      "variants": [
+        {
+          "sku": "5909167",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10654683038029",
+      "handle": "tega-baby-dm-037-103-stojak-pod-wanienke-skladana-bialy",
+      "status": "DRAFT",
+      "category": "Stojaki do wanienek",
+      "oldTitle": "Tega Baby DM-037-103 Stojak pod wanienkę składaną biały",
+      "newTitle": "Tega Baby DM-037-103 - Stojak pod wanienkę składaną biały",
+      "skus": [
+        "5914537"
+      ],
+      "variants": [
+        {
+          "sku": "5914537",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10654683234637",
+      "handle": "tega-baby-dm-038-103-stojak-pod-wanienke-skladana-do-montazu-bialy",
+      "status": "DRAFT",
+      "category": "Stojaki do wanienek",
+      "oldTitle": "Tega Baby DM-038-103 Stojak pod wanienkę składaną do montażu biały",
+      "newTitle": "Tega Baby DM-038-103 - Stojak pod wanienkę składaną do montażu biały",
+      "skus": [
+        "5914536"
+      ],
+      "variants": [
+        {
+          "sku": "5914536",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655945457997",
+      "handle": "akuku-a0055-gryzak-silikonowy-panda",
+      "status": "DRAFT",
+      "category": "Gryzaki",
+      "oldTitle": "AKUKU A0055 Gryzak silikonowy Panda",
+      "newTitle": "AKUKU A0055 - Gryzak silikonowy Panda",
+      "skus": [
+        "778303"
+      ],
+      "variants": [
+        {
+          "sku": "778303",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655945490765",
+      "handle": "akuku-a0355-gryzak-wodny-serce",
+      "status": "DRAFT",
+      "category": "Gryzaki",
+      "oldTitle": "AKUKU A0355 Gryzak wodny Serce",
+      "newTitle": "AKUKU A0355 - Gryzak wodny Serce",
+      "skus": [
+        "765856"
+      ],
+      "variants": [
+        {
+          "sku": "765856",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655945556301",
+      "handle": "akuku-a0356-gryzak-wodny-ster",
+      "status": "DRAFT",
+      "category": "Gryzaki",
+      "oldTitle": "AKUKU A0356 Gryzak wodny Ster",
+      "newTitle": "AKUKU A0356 - Gryzak wodny Ster",
+      "skus": [
+        "773847"
+      ],
+      "variants": [
+        {
+          "sku": "773847",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655945654605",
+      "handle": "akuku-a0357-gryzak-wodny-slonik",
+      "status": "DRAFT",
+      "category": "Gryzaki",
+      "oldTitle": "AKUKU A0357 Gryzak wodny Słonik",
+      "newTitle": "AKUKU A0357 - Gryzak wodny Słonik",
+      "skus": [
+        "765858"
+      ],
+      "variants": [
+        {
+          "sku": "765858",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655945687373",
+      "handle": "akuku-a0358-gryzak-wodny-zyrafa",
+      "status": "DRAFT",
+      "category": "Gryzaki",
+      "oldTitle": "AKUKU A0358 Gryzak wodny Żyrafa",
+      "newTitle": "AKUKU A0358 - Gryzak wodny Żyrafa",
+      "skus": [
+        "773848"
+      ],
+      "variants": [
+        {
+          "sku": "773848",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655945720141",
+      "handle": "akuku-a0362-zabawki-kapielowe-4szt",
+      "status": "DRAFT",
+      "category": "Zabawki do kąpieli",
+      "oldTitle": "AKUKU A0362 Zabawki kąpielowe 4szt.",
+      "newTitle": "AKUKU A0362 - Zabawki kąpielowe 4szt.",
+      "skus": [
+        "767731"
+      ],
+      "variants": [
+        {
+          "sku": "767731",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655945752909",
+      "handle": "akuku-a0363-zabawki-kapielowe-5szt",
+      "status": "DRAFT",
+      "category": "Zabawki do kąpieli",
+      "oldTitle": "AKUKU A0363 Zabawki kąpielowe 5szt.",
+      "newTitle": "AKUKU A0363 - Zabawki kąpielowe 5szt.",
+      "skus": [
+        "767732"
+      ],
+      "variants": [
+        {
+          "sku": "767732",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655945818445",
+      "handle": "akuku-a0413-grzechotko-gryzak",
+      "status": "DRAFT",
+      "category": "Gryzaki",
+      "oldTitle": "AKUKU A0413 Grzechotko gryzak",
+      "newTitle": "AKUKU A0413 - Grzechotko gryzak",
+      "skus": [
+        "774732"
+      ],
+      "variants": [
+        {
+          "sku": "774732",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655945851213",
+      "handle": "akuku-a0449-grzechotka-lew",
+      "status": "DRAFT",
+      "category": "Zabawki",
+      "oldTitle": "AKUKU A0449 Grzechotka Lew",
+      "newTitle": "AKUKU A0449 - Grzechotka Lew",
+      "skus": [
+        "780926"
+      ],
+      "variants": [
+        {
+          "sku": "780926",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655945883981",
+      "handle": "akuku-a0450-grzechotka-slon",
+      "status": "DRAFT",
+      "category": "Zabawki",
+      "oldTitle": "AKUKU A0450 Grzechotka Słoń",
+      "newTitle": "AKUKU A0450 - Grzechotka Słoń",
+      "skus": [
+        "780927"
+      ],
+      "variants": [
+        {
+          "sku": "780927",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655945916749",
+      "handle": "akuku-a0460-gryzak-silikonowy-mis",
+      "status": "DRAFT",
+      "category": "Gryzaki",
+      "oldTitle": "AKUKU A0460 Gryzak silikonowy Miś",
+      "newTitle": "AKUKU A0460 - Gryzak silikonowy Miś",
+      "skus": [
+        "787885"
+      ],
+      "variants": [
+        {
+          "sku": "787885",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655946015053",
+      "handle": "akuku-a0467-grzechotka-czarno-bialy-mis",
+      "status": "DRAFT",
+      "category": "Zabawki",
+      "oldTitle": "AKUKU A0467 Grzechotka czarno-biały Miś",
+      "newTitle": "AKUKU A0467 - Grzechotka czarno-biały Miś",
+      "skus": [
+        "783769"
+      ],
+      "variants": [
+        {
+          "sku": "783769",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655946080589",
+      "handle": "akuku-a0470-pluszowa-zawieszka-mis-czarno-bialy",
+      "status": "DRAFT",
+      "category": "Zabawki",
+      "oldTitle": "AKUKU A0470 Pluszowa zawieszka Miś czarno-biały",
+      "newTitle": "AKUKU A0470 - Pluszowa zawieszka Miś czarno-biały",
+      "skus": [
+        "783771"
+      ],
+      "variants": [
+        {
+          "sku": "783771",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655946113357",
+      "handle": "akuku-a0482-grzechotka-pluszowa-hantel",
+      "status": "DRAFT",
+      "category": "Zabawki",
+      "oldTitle": "AKUKU A0482 Grzechotka pluszowa HANTEL",
+      "newTitle": "AKUKU A0482 - Grzechotka pluszowa HANTEL",
+      "skus": [
+        "5902728"
+      ],
+      "variants": [
+        {
+          "sku": "5902728",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655946178893",
+      "handle": "akuku-a0483-grzechotka-pluszowa-maracas",
+      "status": "DRAFT",
+      "category": "Zabawki",
+      "oldTitle": "AKUKU A0483 Grzechotka pluszowa Maracas",
+      "newTitle": "AKUKU A0483 - Grzechotka pluszowa Maracas",
+      "skus": [
+        "5902729"
+      ],
+      "variants": [
+        {
+          "sku": "5902729",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655946342733",
+      "handle": "akuku-a0679-grzechotka-krowka",
+      "status": "DRAFT",
+      "category": "Zabawki",
+      "oldTitle": "AKUKU A0679 Grzechotka Krówka",
+      "newTitle": "AKUKU A0679 - Grzechotka Krówka",
+      "skus": [
+        "5911655"
+      ],
+      "variants": [
+        {
+          "sku": "5911655",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655946375501",
+      "handle": "akuku-gryzak-silikonowy-slimak",
+      "status": "DRAFT",
+      "category": "Gryzaki",
+      "oldTitle": "AKUKU Gryzak silikonowy Ślimak",
+      "newTitle": "AKUKU A0114(15) - Gryzak silikonowy Ślimak",
+      "skus": [
+        "782872",
+        "782873"
+      ],
+      "variants": [
+        {
+          "sku": "782872",
+          "value": "niebieski"
+        },
+        {
+          "sku": "782873",
+          "value": "różowy"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655946408269",
+      "handle": "akuku-grzechotka-klucze",
+      "status": "DRAFT",
+      "category": "Zabawki",
+      "oldTitle": "AKUKU Grzechotka Klucze",
+      "newTitle": "AKUKU A0680(81) - Grzechotka Klucze",
+      "skus": [
+        "5911656",
+        "5911657"
+      ],
+      "variants": [
+        {
+          "sku": "5911656",
+          "value": "jasne"
+        },
+        {
+          "sku": "5911657",
+          "value": "ciemne"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655495291213",
+      "handle": "canpol-2-083-miekka-ksiazeczka-kapielowa-z-piszczkiem",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 2/083 Miękka książeczka kąpielowa z piszczkiem",
+      "newTitle": "CANPOL 2/083 - Miękka książeczka kąpielowa z piszczkiem",
+      "skus": [
+        "5909898",
+        "5909899"
+      ],
+      "variants": [
+        {
+          "sku": "5909898",
+          "value": "Farma"
+        },
+        {
+          "sku": "5909899",
+          "value": "Wild Animals"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655495356749",
+      "handle": "canpol-2-606-grzechotka-sztanga",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 2/606 Grzechotka Sztanga",
+      "newTitle": "CANPOL 2/606 - Grzechotka Sztanga",
+      "skus": [
+        "776063",
+        "774433",
+        "774434"
+      ],
+      "variants": [
+        {
+          "sku": "776063",
+          "value": "zielona"
+        },
+        {
+          "sku": "774433",
+          "value": "niebieska"
+        },
+        {
+          "sku": "774434",
+          "value": "różowa"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655495455053",
+      "handle": "canpol-2-992-zabawki-piszczace-kaczuszki",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 2/992 Zabawki piszczące kaczuszki",
+      "newTitle": "CANPOL 2/992 - Zabawki piszczące kaczuszki",
+      "skus": [
+        "5909901",
+        "5909900",
+        "5909902"
+      ],
+      "variants": [
+        {
+          "sku": "5909901",
+          "value": "Hokeista red"
+        },
+        {
+          "sku": "5909900",
+          "value": "Magik black"
+        },
+        {
+          "sku": "5909902",
+          "value": "Malarz blue"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655495553357",
+      "handle": "canpol-56-153-grzechotka-z-obrotowym-elementem-sztanga",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 56/153 Grzechotka z obrotowym elementem Sztanga",
+      "newTitle": "CANPOL 56/153 - Grzechotka z obrotowym elementem Sztanga",
+      "skus": [
+        "779906",
+        "779907"
+      ],
+      "variants": [
+        {
+          "sku": "779906",
+          "value": "róż"
+        },
+        {
+          "sku": "779907",
+          "value": "turkus"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655495586125",
+      "handle": "canpol-56-610-sensoryczna-grzechotka-z-gryzakiem",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 56/610 Sensoryczna grzechotka z gryzakiem",
+      "newTitle": "CANPOL 56/610 - Sensoryczna grzechotka z gryzakiem",
+      "skus": [
+        "788671",
+        "788672",
+        "788673"
+      ],
+      "variants": [
+        {
+          "sku": "788671",
+          "value": "czerwona"
+        },
+        {
+          "sku": "788672",
+          "value": "różowa"
+        },
+        {
+          "sku": "788673",
+          "value": "zielona"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655495618893",
+      "handle": "canpol-68-061-pluszowa-zabawka-z-grzechotka-i-lusterkiem-dugie-uszy",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/061 Pluszowa zabawka z grzechotką i lusterkiem DŁUGIE USZY",
+      "newTitle": "CANPOL 68/061 - Pluszowa zabawka z grzechotką i lusterkiem DŁUGIE USZY",
+      "skus": [
+        "5912939",
+        "5912940"
+      ],
+      "variants": [
+        {
+          "sku": "5912939",
+          "value": "niebieska"
+        },
+        {
+          "sku": "5912940",
+          "value": "różowa"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655495651661",
+      "handle": "canpol-68-063-interaktywna-spirala-do-ozeczka-wozka-zigzag",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/063 Interaktywna spirala do łóżeczka/wózka ZIGZAG",
+      "newTitle": "CANPOL 68/063 - Interaktywna spirala do łóżeczka/wózka ZIGZAG",
+      "skus": [
+        "776188",
+        "776187"
+      ],
+      "variants": [
+        {
+          "sku": "776188",
+          "value": "czerwona"
+        },
+        {
+          "sku": "776187",
+          "value": "niebieska"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655495815501",
+      "handle": "canpol-68-095-zabawka-sensoryczna-z-piszczkiem-babiesboo",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/095 Zabawka sensoryczna z piszczkiem BabiesBoo",
+      "newTitle": "CANPOL 68/095 - Zabawka sensoryczna z piszczkiem BabiesBoo",
+      "skus": [
+        "5910715",
+        "5910716"
+      ],
+      "variants": [
+        {
+          "sku": "5910715",
+          "value": "leniwiec"
+        },
+        {
+          "sku": "5910716",
+          "value": "panda"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655486345549",
+      "handle": "canpol-13-107-grzechotka-z-gryzaczkiem",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 13/107 Grzechotka z gryzaczkiem",
+      "newTitle": "CANPOL 13/107 - Grzechotka z gryzaczkiem",
+      "skus": [
+        "777893"
+      ],
+      "variants": [
+        {
+          "sku": "777893",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655495946573",
+      "handle": "canpol-2-187-grzechotka-sowa-zielony",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 2/187 Grzechotka Sowa zielony",
+      "newTitle": "CANPOL 2/187 - Grzechotka Sowa zielony",
+      "skus": [
+        "774263"
+      ],
+      "variants": [
+        {
+          "sku": "774263",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496012109",
+      "handle": "canpol-2-450-grzechotka-kolorowe-kulki",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 2/450 Grzechotka kolorowe kulki",
+      "newTitle": "CANPOL 2/450 - Grzechotka kolorowe kulki",
+      "skus": [
+        "774265"
+      ],
+      "variants": [
+        {
+          "sku": "774265",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496044877",
+      "handle": "canpol-2-457-grzechotka-z-tykajaca-kulka-kulki-czerwone",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 2/457 Grzechotka z tykającą kulką kulki czerwone",
+      "newTitle": "CANPOL 2/457 - Grzechotka z tykającą kulką kulki czerwone",
+      "skus": [
+        "5911122"
+      ],
+      "variants": [
+        {
+          "sku": "5911122",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496077645",
+      "handle": "canpol-2-817-kostka-edukacyjna-miekka-6szt",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 2/817 Kostka edukacyjna miękka 6szt",
+      "newTitle": "CANPOL 2/817 - Kostka edukacyjna miękka 6szt",
+      "skus": [
+        "774298"
+      ],
+      "variants": [
+        {
+          "sku": "774298",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496110413",
+      "handle": "canpol-2-890-miekka-zabawka-z-grzechotka-pika",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 2/890 Miękka zabawka z grzechotką Piłka",
+      "newTitle": "CANPOL 2/890 - Miękka zabawka z grzechotką Piłka",
+      "skus": [
+        "774277"
+      ],
+      "variants": [
+        {
+          "sku": "774277",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496143181",
+      "handle": "canpol-2-891-miekka-zabawka-z-grzechotka-motek",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 2/891 Miękka zabawka z grzechotką Młotek",
+      "newTitle": "CANPOL 2/891 - Miękka zabawka z grzechotką Młotek",
+      "skus": [
+        "774278"
+      ],
+      "variants": [
+        {
+          "sku": "774278",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496175949",
+      "handle": "canpol-56-127-grzechotka-z-gryzakiem-wodnym-lizak",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 56/127 Grzechotka z gryzakiem wodnym Lizak",
+      "newTitle": "CANPOL 56/127 - Grzechotka z gryzakiem wodnym Lizak",
+      "skus": [
+        "780511"
+      ],
+      "variants": [
+        {
+          "sku": "780511",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496274253",
+      "handle": "canpol-56-145-grzechotka-z-kolorowymi-koralikami",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 56/145 Grzechotka z kolorowymi koralikami",
+      "newTitle": "CANPOL 56/145 - Grzechotka z kolorowymi koralikami",
+      "skus": [
+        "776013"
+      ],
+      "variants": [
+        {
+          "sku": "776013",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496307021",
+      "handle": "canpol-56-146-grzechotka-z-gryzakiem-wodnym-zwierzatka",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 56/146 Grzechotka z gryzakiem wodnym Zwierzątka",
+      "newTitle": "CANPOL 56/146 - Grzechotka z gryzakiem wodnym Zwierzątka",
+      "skus": [
+        "775151"
+      ],
+      "variants": [
+        {
+          "sku": "775151",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496339789",
+      "handle": "canpol-56-498-zabawki-do-kapieli-3-szt-kaczki",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 56/498 Zabawki do kąpieli 3 szt Kaczki",
+      "newTitle": "CANPOL 56/498 - Zabawki do kąpieli 3 szt Kaczki",
+      "skus": [
+        "780503"
+      ],
+      "variants": [
+        {
+          "sku": "780503",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496372557",
+      "handle": "canpol-68-053-pluszowa-zabawka-z-pozytywka-0-bears-szara",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/053 Pluszowa zabawka z pozytywką 0+ Bears szara",
+      "newTitle": "CANPOL 68/053 - Pluszowa zabawka z pozytywką 0+ Bears szara",
+      "skus": [
+        "774279"
+      ],
+      "variants": [
+        {
+          "sku": "774279",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496438093",
+      "handle": "canpol-68-077-pluszowa-sensoryczna-mata-do-zabawy-sensory-toys",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/077 Pluszowa sensoryczna mata do zabawy Sensory Toys",
+      "newTitle": "CANPOL 68/077 - Pluszowa sensoryczna mata do zabawy Sensory Toys",
+      "skus": [
+        "778017"
+      ],
+      "variants": [
+        {
+          "sku": "778017",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496470861",
+      "handle": "canpol-68-080-zabawka-kontrastowa-z-piszczkiem-i-lusterkiem-sensory-toys",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/080 Zabawka kontrastowa z piszczkiem i lusterkiem SENSORY TOYS",
+      "newTitle": "CANPOL 68/080 - Zabawka kontrastowa z piszczkiem i lusterkiem SENSORY TOYS",
+      "skus": [
+        "778840"
+      ],
+      "variants": [
+        {
+          "sku": "778840",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496503629",
+      "handle": "canpol-68-081-pluszowa-kontrastowa-ksiazeczka-edukacyjna-sensory-toys",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/081 Pluszowa kontrastowa książeczka edukacyjna SENSORY TOYS",
+      "newTitle": "CANPOL 68/081 - Pluszowa kontrastowa książeczka edukacyjna SENSORY TOYS",
+      "skus": [
+        "778838"
+      ],
+      "variants": [
+        {
+          "sku": "778838",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496569165",
+      "handle": "canpol-68-082-pluszowa-pika-kontrastowa-sensory-toys",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/082 Pluszowa piłka kontrastowa SENSORY TOYS",
+      "newTitle": "CANPOL 68/082 - Pluszowa piłka kontrastowa SENSORY TOYS",
+      "skus": [
+        "778839"
+      ],
+      "variants": [
+        {
+          "sku": "778839",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496601933",
+      "handle": "canpol-68-083-kontrastowa-karuzelka-podrozna-do-wozka-fotelika-sensory",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/083 Kontrastowa karuzelka podróżna do wózka/fotelika SENSORY",
+      "newTitle": "CANPOL 68/083 - Kontrastowa karuzelka podróżna do wózka/fotelika SENSORY",
+      "skus": [
+        "778837"
+      ],
+      "variants": [
+        {
+          "sku": "778837",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496667469",
+      "handle": "canpol-68-084-kontrastowa-karuzela-z-pozytywka-sensory-toys",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/084 Kontrastowa karuzela z pozytywką SENSORY TOYS",
+      "newTitle": "CANPOL 68/084 - Kontrastowa karuzela z pozytywką SENSORY TOYS",
+      "skus": [
+        "778836"
+      ],
+      "variants": [
+        {
+          "sku": "778836",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496700237",
+      "handle": "canpol-68-085-sensoryczna-zawieszka-do-wozka-babiesboo",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/085 Sensoryczna zawieszka do wózka BabiesBoo",
+      "newTitle": "CANPOL 68/085 - Sensoryczna zawieszka do wózka BabiesBoo",
+      "skus": [
+        "791344"
+      ],
+      "variants": [
+        {
+          "sku": "791344",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655496765773",
+      "handle": "canpol-68-086-sensoryczna-zabawka-z-gryzakiem-i-grzechotka-babiesboo",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/086 Sensoryczna zabawka z gryzakiem i grzechotką BabiesBoo",
+      "newTitle": "CANPOL 68/086 - Sensoryczna zabawka z gryzakiem i grzechotką BabiesBoo",
+      "skus": [
+        "791345"
+      ],
+      "variants": [
+        {
+          "sku": "791345",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655497027917",
+      "handle": "canpol-68-088-sensoryczna-ksiazeczka-manipulacyjna-babiesboo-panda",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/088 Sensoryczna książeczka manipulacyjna BabiesBoo Panda",
+      "newTitle": "CANPOL 68/088 - Sensoryczna książeczka manipulacyjna BabiesBoo Panda",
+      "skus": [
+        "791347"
+      ],
+      "variants": [
+        {
+          "sku": "791347",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655497093453",
+      "handle": "canpol-68-089-sensoryczna-pika-z-grzechotka-i-piszczkiem-babiesboo",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/089 Sensoryczna piłka z grzechotką i piszczkiem BabiesBoo",
+      "newTitle": "CANPOL 68/089 - Sensoryczna piłka z grzechotką i piszczkiem BabiesBoo",
+      "skus": [
+        "791346"
+      ],
+      "variants": [
+        {
+          "sku": "791346",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655497683277",
+      "handle": "canpol-68-090-interaktywna-sensoryczna-zabawka-babiesboo-leniwiec",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/090 Interaktywna sensoryczna zabawka BabiesBoo Leniwiec",
+      "newTitle": "CANPOL 68/090 - Interaktywna sensoryczna zabawka BabiesBoo Leniwiec",
+      "skus": [
+        "791342"
+      ],
+      "variants": [
+        {
+          "sku": "791342",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655497716045",
+      "handle": "canpol-68-091-sensoryczna-karuzela-podrozna-babiesboo",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/091 Sensoryczna karuzela podróżna BabiesBoo",
+      "newTitle": "CANPOL 68/091 - Sensoryczna karuzela podróżna BabiesBoo",
+      "skus": [
+        "791341"
+      ],
+      "variants": [
+        {
+          "sku": "791341",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655497748813",
+      "handle": "canpol-68-092-sensoryczna-mata-edukacyjna-z-lusterkiem-babiesboo",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/092 Sensoryczna mata edukacyjna z lusterkiem BabiesBoo",
+      "newTitle": "CANPOL 68/092 - Sensoryczna mata edukacyjna z lusterkiem BabiesBoo",
+      "skus": [
+        "791339"
+      ],
+      "variants": [
+        {
+          "sku": "791339",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    },
+    {
+      "productId": "gid://shopify/Product/10655497781581",
+      "handle": "canpol-68-093-sensoryczna-karuzela-z-pozytywka-bluetooth-babiesboo",
+      "status": "DRAFT",
+      "category": "Gryzaki/Zabawki",
+      "oldTitle": "CANPOL 68/093 Sensoryczna karuzela z pozytywką/Bluetooth BabiesBoo",
+      "newTitle": "CANPOL 68/093 - Sensoryczna karuzela z pozytywką/Bluetooth BabiesBoo",
+      "skus": [
+        "791340"
+      ],
+      "variants": [
+        {
+          "sku": "791340",
+          "value": "Default Title"
+        }
+      ],
+      "reason": ""
+    }
+  ],
+  "shopify": [
+    {
+      "id": "gid://shopify/Product/10644508737869",
+      "title": "Tega Baby DK-004-122(129, 130, 131, 132) - Wanna dziecięca Kaczka 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-kaczka-86-cm",
+      "status": "ACTIVE",
+      "seo": {
+        "title": "Tega Baby DK-004-122(129, 130, 131, 132) - Wanna dziecięca Kaczka 86 cm | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10644509065549",
+      "title": "Tega Baby DK-005-122(129, 130, 131, 132) - Wanna dziecięca Kaczka 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-kaczka-102-cm",
+      "status": "ACTIVE",
+      "seo": {
+        "title": "Tega Baby DK-005-122(129, 130, 131, 132) - Wanna dziecięca Kaczka 102 cm | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10644510146893",
+      "title": "Tega Baby FF-004-111(108, 107, 112, 109) - Wanna dziecięca Leśna Opowieść 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-lesna-opowiesc-86-cm",
+      "status": "ACTIVE",
+      "seo": {
+        "title": "Tega Baby FF-004-111(108, 107, 112, 109) - Wanna dziecięca Leśna Opowieść 86 cm | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10644510441805",
+      "title": "Tega Baby FF-005-111(108, 107, 112, 109) - Wanna dziecięca Leśna Opowieść 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-lesna-opowiesc-102-cm",
+      "status": "ACTIVE",
+      "seo": {
+        "title": "Tega Baby FF-005-111(108, 107, 112, 109) - Wanna dziecięca Leśna Opowieść 102 cm | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10644510540109",
+      "title": "Tega Baby KR-004-103(105) - Wanna dziecięca Króliczki z odpływem 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-kroliczki-z-odplywem-86-cm",
+      "status": "ACTIVE",
+      "seo": {
+        "title": "Tega Baby KR-004-103(105) - Wanna dziecięca Króliczki z odpływem 86 cm | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10644510671181",
+      "title": "Tega Baby KR-005-103(104, 105) - Wanna dziecięca Króliczki z odpływem 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-kroliczki-z-odplywem-102-cm",
+      "status": "ACTIVE",
+      "seo": {
+        "title": "Tega Baby KR-005-103(104, 105) - Wanna dziecięca Króliczki z odpływem 102 cm | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10644510900557",
+      "title": "Tega Baby ME-004 - Wanna dziecięca Meteo z odpływem 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-meteo-z-odplywem-86-cm",
+      "status": "ACTIVE",
+      "seo": {
+        "title": "Tega Baby ME-004 - Wanna dziecięca Meteo z odpływem 86 cm | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10644511064397",
+      "title": "Tega Baby ME-005 - Wanna dziecięca Meteo z odpływem 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-meteo-z-odplywem-102-cm",
+      "status": "ACTIVE",
+      "seo": {
+        "title": "Tega Baby ME-005 - Wanna dziecięca Meteo z odpływem 102 cm | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10644511195469",
+      "title": "Tega Baby MN-004-124 - Wanienka Monsters z odpływem 86 cm",
+      "handle": "tega-baby-wanienka-monsters-z-odplywem-86-cm",
+      "status": "ACTIVE",
+      "seo": {
+        "title": "Tega Baby MN-004-124 - Wanienka Monsters z odpływem 86 cm | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10644511228237",
+      "title": "Tega Baby MN-005-124 - Wanienka Monsters z odpływem 102 cm",
+      "handle": "tega-baby-wanienka-monsters-z-odplywem-102-cm",
+      "status": "ACTIVE",
+      "seo": {
+        "title": "Tega Baby MN-005-124 - Wanienka Monsters z odpływem 102 cm | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10644509393229",
+      "title": "Tega Baby DZ-004-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-86-cm",
+      "status": "ACTIVE",
+      "seo": {
+        "title": "Tega Baby DZ-004-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód 86 cm | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10644509622605",
+      "title": "Tega Baby DZ-005-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-102-cm",
+      "status": "ACTIVE",
+      "seo": {
+        "title": "Tega Baby DZ-005-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód 102 cm | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10644509524301",
+      "title": "Tega Baby DZ-004-ODPŁYW-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód z odpływem 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-dziki-zachod-z-odplywem-86-cm",
+      "status": "ACTIVE",
+      "seo": {
+        "title": "Tega Baby DZ-004-ODPŁYW-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód z odpływem 86 cm | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10644509720909",
+      "title": "Tega Baby FB-004-119(129, 130) - Wanienka składana z odpływem standard",
+      "handle": "tega-baby-wanienka-skladana-z-odplywem-standard",
+      "status": "ACTIVE",
+      "seo": {
+        "title": "Tega Baby FB-004-119(129, 130) - Wanienka składana z odpływem standard | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10644511293773",
+      "title": "Tega Baby MS-004-119 - Wanna dziecięca Miś 86 cm",
+      "handle": "tega-baby-wanna-dziecieca-mis-86-cm",
+      "status": "ACTIVE",
+      "seo": {
+        "title": "Tega Baby MS-004-119 - Wanna dziecięca Miś 86 cm | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10644511359309",
+      "title": "Tega Baby MS-005-LUX-118 - Wanna dziecięca Miś 102 cm",
+      "handle": "tega-baby-wanna-dziecieca-mis-102-cm",
+      "status": "ACTIVE",
+      "seo": {
+        "title": "Tega Baby MS-005-LUX-118 - Wanna dziecięca Miś 102 cm | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10645600698701",
+      "title": "Tega Baby DM-020-103(106, 135, 136, 137, 138, 140, 157) - Leżaczek do kąpieli 100% bawełna",
+      "handle": "tega-baby-lezaczek-do-kapieli-100-bawelna",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby DM-020-103(106, 135, 136, 137, 138, 140, 157) - Leżaczek do kąpieli 100% bawełna | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10645600731469",
+      "title": "Tega Baby DZ-026-103-JELONEK(SŁONIK) - Leżaczek kąpielowy z wizerunkiem Dziki Zachód",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-dziki-zachod",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby DZ-026-103-JELONEK(SŁONIK) - Leżaczek kąpielowy z wizerunkiem Dziki Zachód | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10645600764237",
+      "title": "Tega Baby FF-003-107(108, 109, 111, 112) - Fotelik do kąpieli antypoślizgowy Leśna Opowieść",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-lesna-opowiesc",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby FF-003-107(108, 109, 111, 112) - Fotelik do kąpieli antypoślizgowy Leśna Opowieść | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10645600797005",
+      "title": "Tega Baby KR-003-103(104, 105) - Fotelik do kąpieli antypoślizgowy Króliczki",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-kroliczki",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby KR-003-103(104, 105) - Fotelik do kąpieli antypoślizgowy Króliczki | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10645600829773",
+      "title": "Tega Baby KR-026-103(104, 105) - Leżaczek kąpielowy z wizerunkiem Króliczki",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-kroliczki",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby KR-026-103(104, 105) - Leżaczek kąpielowy z wizerunkiem Króliczki | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10645600862541",
+      "title": "Tega Baby ME-003-123(164, 165, 166) - Fotelik do kąpieli antypoślizgowy Meteo",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-meteo",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby ME-003-123(164, 165, 166) - Fotelik do kąpieli antypoślizgowy Meteo | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10645600928077",
+      "title": "Tega Baby ME-026-165 - Leżaczek kąpielowy z wizerunkiem Meteo",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-meteo",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby ME-026-165 - Leżaczek kąpielowy z wizerunkiem Meteo | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10645600960845",
+      "title": "Tega Baby MN-003-124 - Fotelik do kąpieli antypoślizgowy Monsters",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-monsters",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby MN-003-124 - Fotelik do kąpieli antypoślizgowy Monsters | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10645600993613",
+      "title": "Tega Baby MN-006-124 - Podnóżek antypoślizgowy Monsters",
+      "handle": "tega-baby-podnozek-antyposlizgowy-monsters",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby MN-006-124 - Podnóżek antypoślizgowy Monsters | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10645601059149",
+      "title": "Tega Baby MS-003-118(119) - Fotelik do kąpieli antypoślizgowy Miś",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-mis",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby MS-003-118(119) - Fotelik do kąpieli antypoślizgowy Miś | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10645601091917",
+      "title": "Tega Baby MS-020-119 - Nakładka sedesowa miękka Miś",
+      "handle": "tega-baby-nakladka-sedesowa-miekka-mis",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby MS-020-119 - Nakładka sedesowa miękka Miś | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10645601124685",
+      "title": "Tega Baby MS-026-103(119) - Leżaczek kąpielowy z wizerunkiem Miś",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-mis",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby MS-026-103(119) - Leżaczek kąpielowy z wizerunkiem Miś | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10645601157453",
+      "title": "Tega Baby SO-003-106 - Fotelik do kąpieli antypoślizgowy Sowa",
+      "handle": "tega-baby-fotelik-do-kapieli-antyposlizgowy-sowa",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby SO-003-106 - Fotelik do kąpieli antypoślizgowy Sowa | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10645601190221",
+      "title": "Tega Baby SO-026-103(106) - Leżaczek kąpielowy z wizerunkiem Sowa",
+      "handle": "tega-baby-lezaczek-kapielowy-z-wizerunkiem-sowa",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby SO-026-103(106) - Leżaczek kąpielowy z wizerunkiem Sowa | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10654682120525",
+      "title": "Tega Baby DM-008 - Stojak uniwersalny 86/102 LUX",
+      "handle": "tega-baby-stojak-uniwersalny-86-102-lux",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby DM-008 - Stojak uniwersalny 86/102 LUX | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10654682448205",
+      "title": "Tega Baby DM-018(103) - Podstawa uniwersalna 102/102 LUX",
+      "handle": "tega-baby-podstawa-uniwersalna-102-102-lux",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby DM-018(103) - Podstawa uniwersalna 102/102 LUX | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10654682808653",
+      "title": "Tega Baby DM-035-103 - Stojak pod wanienkę TEGGI biały",
+      "handle": "tega-baby-dm-035-103-stojak-pod-wanienke-teggi-bialy",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby DM-035-103 - Stojak pod wanienkę TEGGI biały | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10654683038029",
+      "title": "Tega Baby DM-037-103 - Stojak pod wanienkę składaną biały",
+      "handle": "tega-baby-dm-037-103-stojak-pod-wanienke-skladana-bialy",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby DM-037-103 - Stojak pod wanienkę składaną biały | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10654683234637",
+      "title": "Tega Baby DM-038-103 - Stojak pod wanienkę składaną do montażu biały",
+      "handle": "tega-baby-dm-038-103-stojak-pod-wanienke-skladana-do-montazu-bialy",
+      "status": "DRAFT",
+      "seo": {
+        "title": "Tega Baby DM-038-103 - Stojak pod wanienkę składaną do montażu biały | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655945457997",
+      "title": "AKUKU A0055 - Gryzak silikonowy Panda",
+      "handle": "akuku-a0055-gryzak-silikonowy-panda",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0055 - Gryzak silikonowy Panda | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655945490765",
+      "title": "AKUKU A0355 - Gryzak wodny Serce",
+      "handle": "akuku-a0355-gryzak-wodny-serce",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0355 - Gryzak wodny Serce | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655945556301",
+      "title": "AKUKU A0356 - Gryzak wodny Ster",
+      "handle": "akuku-a0356-gryzak-wodny-ster",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0356 - Gryzak wodny Ster | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655945654605",
+      "title": "AKUKU A0357 - Gryzak wodny Słonik",
+      "handle": "akuku-a0357-gryzak-wodny-slonik",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0357 - Gryzak wodny Słonik | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655945687373",
+      "title": "AKUKU A0358 - Gryzak wodny Żyrafa",
+      "handle": "akuku-a0358-gryzak-wodny-zyrafa",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0358 - Gryzak wodny Żyrafa | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655945720141",
+      "title": "AKUKU A0362 - Zabawki kąpielowe 4szt.",
+      "handle": "akuku-a0362-zabawki-kapielowe-4szt",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0362 - Zabawki kąpielowe 4szt. | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655945752909",
+      "title": "AKUKU A0363 - Zabawki kąpielowe 5szt.",
+      "handle": "akuku-a0363-zabawki-kapielowe-5szt",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0363 - Zabawki kąpielowe 5szt. | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655945818445",
+      "title": "AKUKU A0413 - Grzechotko gryzak",
+      "handle": "akuku-a0413-grzechotko-gryzak",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0413 - Grzechotko gryzak | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655945851213",
+      "title": "AKUKU A0449 - Grzechotka Lew",
+      "handle": "akuku-a0449-grzechotka-lew",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0449 - Grzechotka Lew | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655945883981",
+      "title": "AKUKU A0450 - Grzechotka Słoń",
+      "handle": "akuku-a0450-grzechotka-slon",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0450 - Grzechotka Słoń | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655945916749",
+      "title": "AKUKU A0460 - Gryzak silikonowy Miś",
+      "handle": "akuku-a0460-gryzak-silikonowy-mis",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0460 - Gryzak silikonowy Miś | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655946015053",
+      "title": "AKUKU A0467 - Grzechotka czarno-biały Miś",
+      "handle": "akuku-a0467-grzechotka-czarno-bialy-mis",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0467 - Grzechotka czarno-biały Miś | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655946080589",
+      "title": "AKUKU A0470 - Pluszowa zawieszka Miś czarno-biały",
+      "handle": "akuku-a0470-pluszowa-zawieszka-mis-czarno-bialy",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0470 - Pluszowa zawieszka Miś czarno-biały | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655946113357",
+      "title": "AKUKU A0482 - Grzechotka pluszowa HANTEL",
+      "handle": "akuku-a0482-grzechotka-pluszowa-hantel",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0482 - Grzechotka pluszowa HANTEL | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655946178893",
+      "title": "AKUKU A0483 - Grzechotka pluszowa Maracas",
+      "handle": "akuku-a0483-grzechotka-pluszowa-maracas",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0483 - Grzechotka pluszowa Maracas | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655946342733",
+      "title": "AKUKU A0679 - Grzechotka Krówka",
+      "handle": "akuku-a0679-grzechotka-krowka",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0679 - Grzechotka Krówka | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655946375501",
+      "title": "AKUKU A0114(15) - Gryzak silikonowy Ślimak",
+      "handle": "akuku-gryzak-silikonowy-slimak",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0114(15) - Gryzak silikonowy Ślimak | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655946408269",
+      "title": "AKUKU A0680(81) - Grzechotka Klucze",
+      "handle": "akuku-grzechotka-klucze",
+      "status": "DRAFT",
+      "seo": {
+        "title": "AKUKU A0680(81) - Grzechotka Klucze | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655495291213",
+      "title": "CANPOL 2/083 - Miękka książeczka kąpielowa z piszczkiem",
+      "handle": "canpol-2-083-miekka-ksiazeczka-kapielowa-z-piszczkiem",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 2/083 - Miękka książeczka kąpielowa z piszczkiem | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655495356749",
+      "title": "CANPOL 2/606 - Grzechotka Sztanga",
+      "handle": "canpol-2-606-grzechotka-sztanga",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 2/606 - Grzechotka Sztanga | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655495455053",
+      "title": "CANPOL 2/992 - Zabawki piszczące kaczuszki",
+      "handle": "canpol-2-992-zabawki-piszczace-kaczuszki",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 2/992 - Zabawki piszczące kaczuszki | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655495553357",
+      "title": "CANPOL 56/153 - Grzechotka z obrotowym elementem Sztanga",
+      "handle": "canpol-56-153-grzechotka-z-obrotowym-elementem-sztanga",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 56/153 - Grzechotka z obrotowym elementem Sztanga | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655495586125",
+      "title": "CANPOL 56/610 - Sensoryczna grzechotka z gryzakiem",
+      "handle": "canpol-56-610-sensoryczna-grzechotka-z-gryzakiem",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 56/610 - Sensoryczna grzechotka z gryzakiem | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655495618893",
+      "title": "CANPOL 68/061 - Pluszowa zabawka z grzechotką i lusterkiem DŁUGIE USZY",
+      "handle": "canpol-68-061-pluszowa-zabawka-z-grzechotka-i-lusterkiem-dugie-uszy",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/061 - Pluszowa zabawka z grzechotką i lusterkiem DŁUGIE USZY | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655495651661",
+      "title": "CANPOL 68/063 - Interaktywna spirala do łóżeczka/wózka ZIGZAG",
+      "handle": "canpol-68-063-interaktywna-spirala-do-ozeczka-wozka-zigzag",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/063 - Interaktywna spirala do łóżeczka/wózka ZIGZAG | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655495815501",
+      "title": "CANPOL 68/095 - Zabawka sensoryczna z piszczkiem BabiesBoo",
+      "handle": "canpol-68-095-zabawka-sensoryczna-z-piszczkiem-babiesboo",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/095 - Zabawka sensoryczna z piszczkiem BabiesBoo | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655486345549",
+      "title": "CANPOL 13/107 - Grzechotka z gryzaczkiem",
+      "handle": "canpol-13-107-grzechotka-z-gryzaczkiem",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 13/107 - Grzechotka z gryzaczkiem | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655495946573",
+      "title": "CANPOL 2/187 - Grzechotka Sowa zielony",
+      "handle": "canpol-2-187-grzechotka-sowa-zielony",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 2/187 - Grzechotka Sowa zielony | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496012109",
+      "title": "CANPOL 2/450 - Grzechotka kolorowe kulki",
+      "handle": "canpol-2-450-grzechotka-kolorowe-kulki",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 2/450 - Grzechotka kolorowe kulki | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496044877",
+      "title": "CANPOL 2/457 - Grzechotka z tykającą kulką kulki czerwone",
+      "handle": "canpol-2-457-grzechotka-z-tykajaca-kulka-kulki-czerwone",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 2/457 - Grzechotka z tykającą kulką kulki czerwone | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496077645",
+      "title": "CANPOL 2/817 - Kostka edukacyjna miękka 6szt",
+      "handle": "canpol-2-817-kostka-edukacyjna-miekka-6szt",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 2/817 - Kostka edukacyjna miękka 6szt | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496110413",
+      "title": "CANPOL 2/890 - Miękka zabawka z grzechotką Piłka",
+      "handle": "canpol-2-890-miekka-zabawka-z-grzechotka-pika",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 2/890 - Miękka zabawka z grzechotką Piłka | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496143181",
+      "title": "CANPOL 2/891 - Miękka zabawka z grzechotką Młotek",
+      "handle": "canpol-2-891-miekka-zabawka-z-grzechotka-motek",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 2/891 - Miękka zabawka z grzechotką Młotek | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496175949",
+      "title": "CANPOL 56/127 - Grzechotka z gryzakiem wodnym Lizak",
+      "handle": "canpol-56-127-grzechotka-z-gryzakiem-wodnym-lizak",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 56/127 - Grzechotka z gryzakiem wodnym Lizak | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496274253",
+      "title": "CANPOL 56/145 - Grzechotka z kolorowymi koralikami",
+      "handle": "canpol-56-145-grzechotka-z-kolorowymi-koralikami",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 56/145 - Grzechotka z kolorowymi koralikami | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496307021",
+      "title": "CANPOL 56/146 - Grzechotka z gryzakiem wodnym Zwierzątka",
+      "handle": "canpol-56-146-grzechotka-z-gryzakiem-wodnym-zwierzatka",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 56/146 - Grzechotka z gryzakiem wodnym Zwierzątka | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496339789",
+      "title": "CANPOL 56/498 - Zabawki do kąpieli 3 szt Kaczki",
+      "handle": "canpol-56-498-zabawki-do-kapieli-3-szt-kaczki",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 56/498 - Zabawki do kąpieli 3 szt Kaczki | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496372557",
+      "title": "CANPOL 68/053 - Pluszowa zabawka z pozytywką 0+ Bears szara",
+      "handle": "canpol-68-053-pluszowa-zabawka-z-pozytywka-0-bears-szara",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/053 - Pluszowa zabawka z pozytywką 0+ Bears szara | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496438093",
+      "title": "CANPOL 68/077 - Pluszowa sensoryczna mata do zabawy Sensory Toys",
+      "handle": "canpol-68-077-pluszowa-sensoryczna-mata-do-zabawy-sensory-toys",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/077 - Pluszowa sensoryczna mata do zabawy Sensory Toys | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496470861",
+      "title": "CANPOL 68/080 - Zabawka kontrastowa z piszczkiem i lusterkiem SENSORY TOYS",
+      "handle": "canpol-68-080-zabawka-kontrastowa-z-piszczkiem-i-lusterkiem-sensory-toys",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/080 - Zabawka kontrastowa z piszczkiem i lusterkiem SENSORY TOYS | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496503629",
+      "title": "CANPOL 68/081 - Pluszowa kontrastowa książeczka edukacyjna SENSORY TOYS",
+      "handle": "canpol-68-081-pluszowa-kontrastowa-ksiazeczka-edukacyjna-sensory-toys",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/081 - Pluszowa kontrastowa książeczka edukacyjna SENSORY TOYS | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496569165",
+      "title": "CANPOL 68/082 - Pluszowa piłka kontrastowa SENSORY TOYS",
+      "handle": "canpol-68-082-pluszowa-pika-kontrastowa-sensory-toys",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/082 - Pluszowa piłka kontrastowa SENSORY TOYS | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496601933",
+      "title": "CANPOL 68/083 - Kontrastowa karuzelka podróżna do wózka/fotelika SENSORY",
+      "handle": "canpol-68-083-kontrastowa-karuzelka-podrozna-do-wozka-fotelika-sensory",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/083 - Kontrastowa karuzelka podróżna do wózka/fotelika SENSORY | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496667469",
+      "title": "CANPOL 68/084 - Kontrastowa karuzela z pozytywką SENSORY TOYS",
+      "handle": "canpol-68-084-kontrastowa-karuzela-z-pozytywka-sensory-toys",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/084 - Kontrastowa karuzela z pozytywką SENSORY TOYS | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496700237",
+      "title": "CANPOL 68/085 - Sensoryczna zawieszka do wózka BabiesBoo",
+      "handle": "canpol-68-085-sensoryczna-zawieszka-do-wozka-babiesboo",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/085 - Sensoryczna zawieszka do wózka BabiesBoo | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655496765773",
+      "title": "CANPOL 68/086 - Sensoryczna zabawka z gryzakiem i grzechotką BabiesBoo",
+      "handle": "canpol-68-086-sensoryczna-zabawka-z-gryzakiem-i-grzechotka-babiesboo",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/086 - Sensoryczna zabawka z gryzakiem i grzechotką BabiesBoo | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655497027917",
+      "title": "CANPOL 68/088 - Sensoryczna książeczka manipulacyjna BabiesBoo Panda",
+      "handle": "canpol-68-088-sensoryczna-ksiazeczka-manipulacyjna-babiesboo-panda",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/088 - Sensoryczna książeczka manipulacyjna BabiesBoo Panda | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655497093453",
+      "title": "CANPOL 68/089 - Sensoryczna piłka z grzechotką i piszczkiem BabiesBoo",
+      "handle": "canpol-68-089-sensoryczna-pika-z-grzechotka-i-piszczkiem-babiesboo",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/089 - Sensoryczna piłka z grzechotką i piszczkiem BabiesBoo | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655497683277",
+      "title": "CANPOL 68/090 - Interaktywna sensoryczna zabawka BabiesBoo Leniwiec",
+      "handle": "canpol-68-090-interaktywna-sensoryczna-zabawka-babiesboo-leniwiec",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/090 - Interaktywna sensoryczna zabawka BabiesBoo Leniwiec | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655497716045",
+      "title": "CANPOL 68/091 - Sensoryczna karuzela podróżna BabiesBoo",
+      "handle": "canpol-68-091-sensoryczna-karuzela-podrozna-babiesboo",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/091 - Sensoryczna karuzela podróżna BabiesBoo | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655497748813",
+      "title": "CANPOL 68/092 - Sensoryczna mata edukacyjna z lusterkiem BabiesBoo",
+      "handle": "canpol-68-092-sensoryczna-mata-edukacyjna-z-lusterkiem-babiesboo",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/092 - Sensoryczna mata edukacyjna z lusterkiem BabiesBoo | MamaPack",
+        "description": null
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10655497781581",
+      "title": "CANPOL 68/093 - Sensoryczna karuzela z pozytywką/Bluetooth BabiesBoo",
+      "handle": "canpol-68-093-sensoryczna-karuzela-z-pozytywka-bluetooth-babiesboo",
+      "status": "DRAFT",
+      "seo": {
+        "title": "CANPOL 68/093 - Sensoryczna karuzela z pozytywką/Bluetooth BabiesBoo | MamaPack",
+        "description": null
+      }
+    }
+  ],
+  "baselinker": {
+    "updated": [
+      {
+        "parentId": "584232277",
+        "title": "Tega Baby DK-004-122(129, 130, 131, 132) - Wanna dziecięca Kaczka 86 cm",
+        "variants": [
+          {
+            "id": "584232283",
+            "sku": "772185",
+            "name": "jasny szary"
+          },
+          {
+            "id": "584232290",
+            "sku": "771956",
+            "name": "jasny niebieski"
+          },
+          {
+            "id": "584232297",
+            "sku": "772049",
+            "name": "jasny różowy"
+          },
+          {
+            "id": "584232304",
+            "sku": "772050",
+            "name": "jasny zielony"
+          },
+          {
+            "id": "584232310",
+            "sku": "772051",
+            "name": "jasny żółty"
+          }
+        ]
+      },
+      {
+        "parentId": "584232230",
+        "title": "Tega Baby DK-005-122(129, 130, 131, 132) - Wanna dziecięca Kaczka 102 cm",
+        "variants": [
+          {
+            "id": "584232238",
+            "sku": "772187",
+            "name": "jasny szary"
+          },
+          {
+            "id": "584232247",
+            "sku": "771957",
+            "name": "jasny niebieski"
+          },
+          {
+            "id": "584232254",
+            "sku": "772044",
+            "name": "jasny różowy"
+          },
+          {
+            "id": "584232260",
+            "sku": "772045",
+            "name": "jasny zielony"
+          },
+          {
+            "id": "584232270",
+            "sku": "772046",
+            "name": "jasny żółty"
+          }
+        ]
+      },
+      {
+        "parentId": "584232451",
+        "title": "Tega Baby FF-004-111(108, 107, 112, 109) - Wanna dziecięca Leśna Opowieść 86 cm",
+        "variants": [
+          {
+            "id": "584232461",
+            "sku": "772418",
+            "name": "jasny beżowy"
+          },
+          {
+            "id": "584232468",
+            "sku": "772419",
+            "name": "jasny niebieski"
+          },
+          {
+            "id": "584232474",
+            "sku": "772420",
+            "name": "jasny różowy"
+          },
+          {
+            "id": "584232485",
+            "sku": "772421",
+            "name": "jasny zielony"
+          },
+          {
+            "id": "584232491",
+            "sku": "772422",
+            "name": "jasny żółty"
+          }
+        ]
+      },
+      {
+        "parentId": "584232376",
+        "title": "Tega Baby FF-005-111(108, 107, 112, 109) - Wanna dziecięca Leśna Opowieść 102 cm",
+        "variants": [
+          {
+            "id": "584232396",
+            "sku": "772413",
+            "name": "jasny beżowy"
+          },
+          {
+            "id": "584232436",
+            "sku": "772414",
+            "name": "jasny niebieski"
+          },
+          {
+            "id": "584232448",
+            "sku": "772415",
+            "name": "jasny różowy"
+          },
+          {
+            "id": "584232449",
+            "sku": "772416",
+            "name": "jasny zielony"
+          },
+          {
+            "id": "584232450",
+            "sku": "772417",
+            "name": "jasny żółty"
+          }
+        ]
+      },
+      {
+        "parentId": "584232338",
+        "title": "Tega Baby KR-004-103(105) - Wanna dziecięca Króliczki z odpływem 86 cm",
+        "variants": [
+          {
+            "id": "584232340",
+            "sku": "762787",
+            "name": "biały"
+          },
+          {
+            "id": "584232360",
+            "sku": "788737",
+            "name": "jasny zielony"
+          }
+        ]
+      },
+      {
+        "parentId": "584232316",
+        "title": "Tega Baby KR-005-103(104, 105) - Wanna dziecięca Króliczki z odpływem 102 cm",
+        "variants": [
+          {
+            "id": "584232322",
+            "sku": "762788",
+            "name": "biały"
+          },
+          {
+            "id": "584232328",
+            "sku": "791380",
+            "name": "jasny różowy"
+          },
+          {
+            "id": "584232337",
+            "sku": "791381",
+            "name": "jasny zielony"
+          }
+        ]
+      },
+      {
+        "parentId": "584232519",
+        "title": "Tega Baby ME-004 - Wanna dziecięca Meteo z odpływem 86 cm",
+        "variants": [
+          {
+            "id": "584232524",
+            "sku": "786680",
+            "name": "granatowy"
+          },
+          {
+            "id": "584232530",
+            "sku": "786683",
+            "name": "turkusowy"
+          },
+          {
+            "id": "584232536",
+            "sku": "786682",
+            "name": "różowy"
+          }
+        ]
+      },
+      {
+        "parentId": "584232497",
+        "title": "Tega Baby ME-005 - Wanna dziecięca Meteo z odpływem 102 cm",
+        "variants": [
+          {
+            "id": "584232502",
+            "sku": "786676",
+            "name": "granatowy"
+          },
+          {
+            "id": "584232508",
+            "sku": "786678",
+            "name": "turkusowy"
+          },
+          {
+            "id": "584232514",
+            "sku": "786679",
+            "name": "różowy"
+          }
+        ]
+      },
+      {
+        "parentId": "584232163",
+        "title": "Tega Baby MN-004-124 - Wanienka Monsters z odpływem 86 cm",
+        "variants": []
+      },
+      {
+        "parentId": "584232154",
+        "title": "Tega Baby MN-005-124 - Wanienka Monsters z odpływem 102 cm",
+        "variants": []
+      },
+      {
+        "parentId": "584232216",
+        "title": "Tega Baby DZ-004-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód 86 cm",
+        "variants": [
+          {
+            "id": "584232217",
+            "sku": "779257",
+            "name": "Jelonek"
+          },
+          {
+            "id": "584232219",
+            "sku": "779245",
+            "name": "Słonik"
+          }
+        ]
+      },
+      {
+        "parentId": "584232199",
+        "title": "Tega Baby DZ-005-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód 102 cm",
+        "variants": [
+          {
+            "id": "584232207",
+            "sku": "779256",
+            "name": "Jelonek"
+          },
+          {
+            "id": "584232215",
+            "sku": "779244",
+            "name": "Słonik"
+          }
+        ]
+      },
+      {
+        "parentId": "584232220",
+        "title": "Tega Baby DZ-004-ODPŁYW-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód z odpływem 86 cm",
+        "variants": [
+          {
+            "id": "584232221",
+            "sku": "779258",
+            "name": "Jelonek"
+          },
+          {
+            "id": "584232223",
+            "sku": "779246",
+            "name": "Słonik"
+          }
+        ]
+      },
+      {
+        "parentId": "584232170",
+        "title": "Tega Baby FB-004-119(129, 130) - Wanienka składana z odpływem standard",
+        "variants": [
+          {
+            "id": "584232175",
+            "sku": "5914538",
+            "name": "beżowy"
+          },
+          {
+            "id": "584232183",
+            "sku": "5914539",
+            "name": "jasny niebieski"
+          },
+          {
+            "id": "584232191",
+            "sku": "5914540",
+            "name": "jasny różowy"
+          }
+        ]
+      },
+      {
+        "parentId": "584232546",
+        "title": "Tega Baby MS-004-119 - Wanna dziecięca Miś 86 cm",
+        "variants": []
+      },
+      {
+        "parentId": "584232541",
+        "title": "Tega Baby MS-005-LUX-118 - Wanna dziecięca Miś 102 cm",
+        "variants": []
+      },
+      {
+        "productId": "gid://shopify/Product/10645600698701",
+        "skipped": "not found in BaseLinker"
+      },
+      {
+        "productId": "gid://shopify/Product/10645600731469",
+        "skipped": "not found in BaseLinker"
+      },
+      {
+        "productId": "gid://shopify/Product/10645600764237",
+        "skipped": "not found in BaseLinker"
+      },
+      {
+        "productId": "gid://shopify/Product/10645600797005",
+        "skipped": "not found in BaseLinker"
+      },
+      {
+        "productId": "gid://shopify/Product/10645600829773",
+        "skipped": "not found in BaseLinker"
+      },
+      {
+        "productId": "gid://shopify/Product/10645600862541",
+        "skipped": "not found in BaseLinker"
+      },
+      {
+        "productId": "gid://shopify/Product/10645600928077",
+        "skipped": "not found in BaseLinker"
+      },
+      {
+        "productId": "gid://shopify/Product/10645600960845",
+        "skipped": "not found in BaseLinker"
+      },
+      {
+        "productId": "gid://shopify/Product/10645600993613",
+        "skipped": "not found in BaseLinker"
+      },
+      {
+        "productId": "gid://shopify/Product/10645601059149",
+        "skipped": "not found in BaseLinker"
+      },
+      {
+        "productId": "gid://shopify/Product/10645601091917",
+        "skipped": "not found in BaseLinker"
+      },
+      {
+        "productId": "gid://shopify/Product/10645601124685",
+        "skipped": "not found in BaseLinker"
+      },
+      {
+        "productId": "gid://shopify/Product/10645601157453",
+        "skipped": "not found in BaseLinker"
+      },
+      {
+        "productId": "gid://shopify/Product/10645601190221",
+        "skipped": "not found in BaseLinker"
+      },
+      {
+        "parentId": "590109395",
+        "title": "Tega Baby DM-008 - Stojak uniwersalny 86/102 LUX",
+        "variants": [
+          {
+            "id": "590109402",
+            "sku": "3151",
+            "name": "biały"
+          },
+          {
+            "id": "590109409",
+            "sku": "784480",
+            "name": "grafitowy"
+          }
+        ]
+      },
+      {
+        "parentId": "590109416",
+        "title": "Tega Baby DM-018(103) - Podstawa uniwersalna 102/102 LUX",
+        "variants": [
+          {
+            "id": "590109423",
+            "sku": "771230",
+            "name": "czarny"
+          },
+          {
+            "id": "590109428",
+            "sku": "768291",
+            "name": "biały"
+          }
+        ]
+      },
+      {
+        "parentId": "590109429",
+        "title": "Tega Baby DM-035-103 - Stojak pod wanienkę TEGGI biały",
+        "variants": []
+      },
+      {
+        "parentId": "590109430",
+        "title": "Tega Baby DM-037-103 - Stojak pod wanienkę składaną biały",
+        "variants": []
+      },
+      {
+        "parentId": "590109431",
+        "title": "Tega Baby DM-038-103 - Stojak pod wanienkę składaną do montażu biały",
+        "variants": []
+      },
+      {
+        "parentId": "590794640",
+        "title": "AKUKU A0055 - Gryzak silikonowy Panda",
+        "variants": []
+      },
+      {
+        "parentId": "590794641",
+        "title": "AKUKU A0355 - Gryzak wodny Serce",
+        "variants": []
+      },
+      {
+        "parentId": "590794642",
+        "title": "AKUKU A0356 - Gryzak wodny Ster",
+        "variants": []
+      },
+      {
+        "parentId": "590794643",
+        "title": "AKUKU A0357 - Gryzak wodny Słonik",
+        "variants": []
+      },
+      {
+        "parentId": "590794644",
+        "title": "AKUKU A0358 - Gryzak wodny Żyrafa",
+        "variants": []
+      },
+      {
+        "parentId": "590794659",
+        "title": "AKUKU A0362 - Zabawki kąpielowe 4szt.",
+        "variants": []
+      },
+      {
+        "parentId": "590794660",
+        "title": "AKUKU A0363 - Zabawki kąpielowe 5szt.",
+        "variants": []
+      },
+      {
+        "parentId": "590794645",
+        "title": "AKUKU A0413 - Grzechotko gryzak",
+        "variants": []
+      },
+      {
+        "parentId": "590794661",
+        "title": "AKUKU A0449 - Grzechotka Lew",
+        "variants": []
+      },
+      {
+        "parentId": "590794662",
+        "title": "AKUKU A0450 - Grzechotka Słoń",
+        "variants": []
+      },
+      {
+        "parentId": "590794646",
+        "title": "AKUKU A0460 - Gryzak silikonowy Miś",
+        "variants": []
+      },
+      {
+        "parentId": "590794663",
+        "title": "AKUKU A0467 - Grzechotka czarno-biały Miś",
+        "variants": []
+      },
+      {
+        "parentId": "590794664",
+        "title": "AKUKU A0470 - Pluszowa zawieszka Miś czarno-biały",
+        "variants": []
+      },
+      {
+        "parentId": "590794665",
+        "title": "AKUKU A0482 - Grzechotka pluszowa HANTEL",
+        "variants": []
+      },
+      {
+        "parentId": "590794666",
+        "title": "AKUKU A0483 - Grzechotka pluszowa Maracas",
+        "variants": []
+      },
+      {
+        "parentId": "590794667",
+        "title": "AKUKU A0679 - Grzechotka Krówka",
+        "variants": []
+      },
+      {
+        "parentId": "590794647",
+        "title": "AKUKU A0114(15) - Gryzak silikonowy Ślimak",
+        "variants": [
+          {
+            "id": "590794648",
+            "sku": "782872",
+            "name": "niebieski"
+          },
+          {
+            "id": "590794658",
+            "sku": "782873",
+            "name": "różowy"
+          }
+        ]
+      },
+      {
+        "parentId": "590794668",
+        "title": "AKUKU A0680(81) - Grzechotka Klucze",
+        "variants": [
+          {
+            "id": "590794669",
+            "sku": "5911656",
+            "name": "jasne"
+          },
+          {
+            "id": "590794670",
+            "sku": "5911657",
+            "name": "ciemne"
+          }
+        ]
+      },
+      {
+        "parentId": "590503458",
+        "title": "CANPOL 2/083 - Miękka książeczka kąpielowa z piszczkiem",
+        "variants": [
+          {
+            "id": "590503464",
+            "sku": "5909898",
+            "name": "Farma"
+          },
+          {
+            "id": "590503472",
+            "sku": "5909899",
+            "name": "Wild Animals"
+          }
+        ]
+      },
+      {
+        "parentId": "590503478",
+        "title": "CANPOL 2/606 - Grzechotka Sztanga",
+        "variants": [
+          {
+            "id": "590503483",
+            "sku": "776063",
+            "name": "zielona"
+          },
+          {
+            "id": "590503489",
+            "sku": "774433",
+            "name": "niebieska"
+          },
+          {
+            "id": "590503495",
+            "sku": "774434",
+            "name": "różowa"
+          }
+        ]
+      },
+      {
+        "parentId": "590503501",
+        "title": "CANPOL 2/992 - Zabawki piszczące kaczuszki",
+        "variants": [
+          {
+            "id": "590503503",
+            "sku": "5909901",
+            "name": "Hokeista red"
+          },
+          {
+            "id": "590503504",
+            "sku": "5909900",
+            "name": "Magik black"
+          },
+          {
+            "id": "590503506",
+            "sku": "5909902",
+            "name": "Malarz blue"
+          }
+        ]
+      },
+      {
+        "parentId": "590503507",
+        "title": "CANPOL 56/153 - Grzechotka z obrotowym elementem Sztanga",
+        "variants": [
+          {
+            "id": "590503508",
+            "sku": "779906",
+            "name": "róż"
+          },
+          {
+            "id": "590503509",
+            "sku": "779907",
+            "name": "turkus"
+          }
+        ]
+      },
+      {
+        "parentId": "590503392",
+        "title": "CANPOL 56/610 - Sensoryczna grzechotka z gryzakiem",
+        "variants": [
+          {
+            "id": "590503396",
+            "sku": "788671",
+            "name": "czerwona"
+          },
+          {
+            "id": "590503400",
+            "sku": "788672",
+            "name": "różowa"
+          },
+          {
+            "id": "590503405",
+            "sku": "788673",
+            "name": "zielona"
+          }
+        ]
+      },
+      {
+        "parentId": "590503510",
+        "title": "CANPOL 68/061 - Pluszowa zabawka z grzechotką i lusterkiem DŁUGIE USZY",
+        "variants": [
+          {
+            "id": "590503511",
+            "sku": "5912939",
+            "name": "niebieska"
+          },
+          {
+            "id": "590503512",
+            "sku": "5912940",
+            "name": "różowa"
+          }
+        ]
+      },
+      {
+        "parentId": "590503513",
+        "title": "CANPOL 68/063 - Interaktywna spirala do łóżeczka/wózka ZIGZAG",
+        "variants": [
+          {
+            "id": "590503514",
+            "sku": "776188",
+            "name": "czerwona"
+          },
+          {
+            "id": "590503515",
+            "sku": "776187",
+            "name": "niebieska"
+          }
+        ]
+      },
+      {
+        "parentId": "590503516",
+        "title": "CANPOL 68/095 - Zabawka sensoryczna z piszczkiem BabiesBoo",
+        "variants": [
+          {
+            "id": "590503517",
+            "sku": "5910715",
+            "name": "leniwiec"
+          },
+          {
+            "id": "590503518",
+            "sku": "5910716",
+            "name": "panda"
+          }
+        ]
+      },
+      {
+        "parentId": "590496900",
+        "title": "CANPOL 13/107 - Grzechotka z gryzaczkiem",
+        "variants": []
+      },
+      {
+        "parentId": "590503522",
+        "title": "CANPOL 2/187 - Grzechotka Sowa zielony",
+        "variants": []
+      },
+      {
+        "parentId": "590503523",
+        "title": "CANPOL 2/450 - Grzechotka kolorowe kulki",
+        "variants": []
+      },
+      {
+        "parentId": "590503524",
+        "title": "CANPOL 2/457 - Grzechotka z tykającą kulką kulki czerwone",
+        "variants": []
+      },
+      {
+        "parentId": "590503525",
+        "title": "CANPOL 2/817 - Kostka edukacyjna miękka 6szt",
+        "variants": []
+      },
+      {
+        "parentId": "590503526",
+        "title": "CANPOL 2/890 - Miękka zabawka z grzechotką Piłka",
+        "variants": []
+      },
+      {
+        "parentId": "590503527",
+        "title": "CANPOL 2/891 - Miękka zabawka z grzechotką Młotek",
+        "variants": []
+      },
+      {
+        "parentId": "590503414",
+        "title": "CANPOL 56/127 - Grzechotka z gryzakiem wodnym Lizak",
+        "variants": []
+      },
+      {
+        "parentId": "590503528",
+        "title": "CANPOL 56/145 - Grzechotka z kolorowymi koralikami",
+        "variants": []
+      },
+      {
+        "parentId": "590503420",
+        "title": "CANPOL 56/146 - Grzechotka z gryzakiem wodnym Zwierzątka",
+        "variants": []
+      },
+      {
+        "parentId": "590503529",
+        "title": "CANPOL 56/498 - Zabawki do kąpieli 3 szt Kaczki",
+        "variants": []
+      },
+      {
+        "parentId": "590503530",
+        "title": "CANPOL 68/053 - Pluszowa zabawka z pozytywką 0+ Bears szara",
+        "variants": []
+      },
+      {
+        "parentId": "590503531",
+        "title": "CANPOL 68/077 - Pluszowa sensoryczna mata do zabawy Sensory Toys",
+        "variants": []
+      },
+      {
+        "parentId": "590503532",
+        "title": "CANPOL 68/080 - Zabawka kontrastowa z piszczkiem i lusterkiem SENSORY TOYS",
+        "variants": []
+      },
+      {
+        "parentId": "590503533",
+        "title": "CANPOL 68/081 - Pluszowa kontrastowa książeczka edukacyjna SENSORY TOYS",
+        "variants": []
+      },
+      {
+        "parentId": "590503534",
+        "title": "CANPOL 68/082 - Pluszowa piłka kontrastowa SENSORY TOYS",
+        "variants": []
+      },
+      {
+        "parentId": "590503535",
+        "title": "CANPOL 68/083 - Kontrastowa karuzelka podróżna do wózka/fotelika SENSORY",
+        "variants": []
+      },
+      {
+        "parentId": "590503536",
+        "title": "CANPOL 68/084 - Kontrastowa karuzela z pozytywką SENSORY TOYS",
+        "variants": []
+      },
+      {
+        "parentId": "590503537",
+        "title": "CANPOL 68/085 - Sensoryczna zawieszka do wózka BabiesBoo",
+        "variants": []
+      },
+      {
+        "parentId": "590503425",
+        "title": "CANPOL 68/086 - Sensoryczna zabawka z gryzakiem i grzechotką BabiesBoo",
+        "variants": []
+      },
+      {
+        "parentId": "590503538",
+        "title": "CANPOL 68/088 - Sensoryczna książeczka manipulacyjna BabiesBoo Panda",
+        "variants": []
+      },
+      {
+        "parentId": "590503539",
+        "title": "CANPOL 68/089 - Sensoryczna piłka z grzechotką i piszczkiem BabiesBoo",
+        "variants": []
+      },
+      {
+        "parentId": "590503540",
+        "title": "CANPOL 68/090 - Interaktywna sensoryczna zabawka BabiesBoo Leniwiec",
+        "variants": []
+      },
+      {
+        "parentId": "590503541",
+        "title": "CANPOL 68/091 - Sensoryczna karuzela podróżna BabiesBoo",
+        "variants": []
+      },
+      {
+        "parentId": "590503542",
+        "title": "CANPOL 68/092 - Sensoryczna mata edukacyjna z lusterkiem BabiesBoo",
+        "variants": []
+      },
+      {
+        "parentId": "590503543",
+        "title": "CANPOL 68/093 - Sensoryczna karuzela z pozytywką/Bluetooth BabiesBoo",
+        "variants": []
+      }
+    ],
+    "nameCheck": [
+      {
+        "id": "584232154",
+        "name": "Tega Baby MN-005-124 - Wanienka Monsters z odpływem 102 cm"
+      },
+      {
+        "id": "584232163",
+        "name": "Tega Baby MN-004-124 - Wanienka Monsters z odpływem 86 cm"
+      },
+      {
+        "id": "584232170",
+        "name": "Tega Baby FB-004-119(129, 130) - Wanienka składana z odpływem standard"
+      },
+      {
+        "id": "584232199",
+        "name": "Tega Baby DZ-005-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód 102 cm"
+      },
+      {
+        "id": "584232216",
+        "name": "Tega Baby DZ-004-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód 86 cm"
+      },
+      {
+        "id": "584232220",
+        "name": "Tega Baby DZ-004-ODPŁYW-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód z odpływem 86 cm"
+      },
+      {
+        "id": "584232230",
+        "name": "Tega Baby DK-005-122(129, 130, 131, 132) - Wanna dziecięca Kaczka 102 cm"
+      },
+      {
+        "id": "584232277",
+        "name": "Tega Baby DK-004-122(129, 130, 131, 132) - Wanna dziecięca Kaczka 86 cm"
+      },
+      {
+        "id": "584232316",
+        "name": "Tega Baby KR-005-103(104, 105) - Wanna dziecięca Króliczki z odpływem 102 cm"
+      },
+      {
+        "id": "584232338",
+        "name": "Tega Baby KR-004-103(105) - Wanna dziecięca Króliczki z odpływem 86 cm"
+      },
+      {
+        "id": "584232376",
+        "name": "Tega Baby FF-005-111(108, 107, 112, 109) - Wanna dziecięca Leśna Opowieść 102 cm"
+      },
+      {
+        "id": "584232451",
+        "name": "Tega Baby FF-004-111(108, 107, 112, 109) - Wanna dziecięca Leśna Opowieść 86 cm"
+      },
+      {
+        "id": "584232497",
+        "name": "Tega Baby ME-005 - Wanna dziecięca Meteo z odpływem 102 cm"
+      },
+      {
+        "id": "584232519",
+        "name": "Tega Baby ME-004 - Wanna dziecięca Meteo z odpływem 86 cm"
+      },
+      {
+        "id": "584232541",
+        "name": "Tega Baby MS-005-LUX-118 - Wanna dziecięca Miś 102 cm"
+      },
+      {
+        "id": "584232546",
+        "name": "Tega Baby MS-004-119 - Wanna dziecięca Miś 86 cm"
+      },
+      {
+        "id": "590109395",
+        "name": "Tega Baby DM-008 - Stojak uniwersalny 86/102 LUX"
+      },
+      {
+        "id": "590109416",
+        "name": "Tega Baby DM-018(103) - Podstawa uniwersalna 102/102 LUX"
+      },
+      {
+        "id": "590109429",
+        "name": "Tega Baby DM-035-103 - Stojak pod wanienkę TEGGI biały"
+      },
+      {
+        "id": "590109430",
+        "name": "Tega Baby DM-037-103 - Stojak pod wanienkę składaną biały"
+      },
+      {
+        "id": "590109431",
+        "name": "Tega Baby DM-038-103 - Stojak pod wanienkę składaną do montażu biały"
+      },
+      {
+        "id": "590496900",
+        "name": "CANPOL 13/107 - Grzechotka z gryzaczkiem"
+      },
+      {
+        "id": "590503392",
+        "name": "CANPOL 56/610 - Sensoryczna grzechotka z gryzakiem"
+      },
+      {
+        "id": "590503414",
+        "name": "CANPOL 56/127 - Grzechotka z gryzakiem wodnym Lizak"
+      },
+      {
+        "id": "590503420",
+        "name": "CANPOL 56/146 - Grzechotka z gryzakiem wodnym Zwierzątka"
+      },
+      {
+        "id": "590503425",
+        "name": "CANPOL 68/086 - Sensoryczna zabawka z gryzakiem i grzechotką BabiesBoo"
+      },
+      {
+        "id": "590503458",
+        "name": "CANPOL 2/083 - Miękka książeczka kąpielowa z piszczkiem"
+      },
+      {
+        "id": "590503478",
+        "name": "CANPOL 2/606 - Grzechotka Sztanga"
+      },
+      {
+        "id": "590503501",
+        "name": "CANPOL 2/992 - Zabawki piszczące kaczuszki"
+      },
+      {
+        "id": "590503507",
+        "name": "CANPOL 56/153 - Grzechotka z obrotowym elementem Sztanga"
+      },
+      {
+        "id": "590503510",
+        "name": "CANPOL 68/061 - Pluszowa zabawka z grzechotką i lusterkiem DŁUGIE USZY"
+      },
+      {
+        "id": "590503513",
+        "name": "CANPOL 68/063 - Interaktywna spirala do łóżeczka/wózka ZIGZAG"
+      },
+      {
+        "id": "590503516",
+        "name": "CANPOL 68/095 - Zabawka sensoryczna z piszczkiem BabiesBoo"
+      },
+      {
+        "id": "590503522",
+        "name": "CANPOL 2/187 - Grzechotka Sowa zielony"
+      },
+      {
+        "id": "590503523",
+        "name": "CANPOL 2/450 - Grzechotka kolorowe kulki"
+      },
+      {
+        "id": "590503524",
+        "name": "CANPOL 2/457 - Grzechotka z tykającą kulką kulki czerwone"
+      },
+      {
+        "id": "590503525",
+        "name": "CANPOL 2/817 - Kostka edukacyjna miękka 6szt"
+      },
+      {
+        "id": "590503526",
+        "name": "CANPOL 2/890 - Miękka zabawka z grzechotką Piłka"
+      },
+      {
+        "id": "590503527",
+        "name": "CANPOL 2/891 - Miękka zabawka z grzechotką Młotek"
+      },
+      {
+        "id": "590503528",
+        "name": "CANPOL 56/145 - Grzechotka z kolorowymi koralikami"
+      },
+      {
+        "id": "590503529",
+        "name": "CANPOL 56/498 - Zabawki do kąpieli 3 szt Kaczki"
+      },
+      {
+        "id": "590503530",
+        "name": "CANPOL 68/053 - Pluszowa zabawka z pozytywką 0+ Bears szara"
+      },
+      {
+        "id": "590503531",
+        "name": "CANPOL 68/077 - Pluszowa sensoryczna mata do zabawy Sensory Toys"
+      },
+      {
+        "id": "590503532",
+        "name": "CANPOL 68/080 - Zabawka kontrastowa z piszczkiem i lusterkiem SENSORY TOYS"
+      },
+      {
+        "id": "590503533",
+        "name": "CANPOL 68/081 - Pluszowa kontrastowa książeczka edukacyjna SENSORY TOYS"
+      },
+      {
+        "id": "590503534",
+        "name": "CANPOL 68/082 - Pluszowa piłka kontrastowa SENSORY TOYS"
+      },
+      {
+        "id": "590503535",
+        "name": "CANPOL 68/083 - Kontrastowa karuzelka podróżna do wózka/fotelika SENSORY"
+      },
+      {
+        "id": "590503536",
+        "name": "CANPOL 68/084 - Kontrastowa karuzela z pozytywką SENSORY TOYS"
+      },
+      {
+        "id": "590503537",
+        "name": "CANPOL 68/085 - Sensoryczna zawieszka do wózka BabiesBoo"
+      },
+      {
+        "id": "590503538",
+        "name": "CANPOL 68/088 - Sensoryczna książeczka manipulacyjna BabiesBoo Panda"
+      },
+      {
+        "id": "590503539",
+        "name": "CANPOL 68/089 - Sensoryczna piłka z grzechotką i piszczkiem BabiesBoo"
+      },
+      {
+        "id": "590503540",
+        "name": "CANPOL 68/090 - Interaktywna sensoryczna zabawka BabiesBoo Leniwiec"
+      },
+      {
+        "id": "590503541",
+        "name": "CANPOL 68/091 - Sensoryczna karuzela podróżna BabiesBoo"
+      },
+      {
+        "id": "590503542",
+        "name": "CANPOL 68/092 - Sensoryczna mata edukacyjna z lusterkiem BabiesBoo"
+      },
+      {
+        "id": "590503543",
+        "name": "CANPOL 68/093 - Sensoryczna karuzela z pozytywką/Bluetooth BabiesBoo"
+      },
+      {
+        "id": "590794640",
+        "name": "AKUKU A0055 - Gryzak silikonowy Panda"
+      },
+      {
+        "id": "590794641",
+        "name": "AKUKU A0355 - Gryzak wodny Serce"
+      },
+      {
+        "id": "590794642",
+        "name": "AKUKU A0356 - Gryzak wodny Ster"
+      },
+      {
+        "id": "590794643",
+        "name": "AKUKU A0357 - Gryzak wodny Słonik"
+      },
+      {
+        "id": "590794644",
+        "name": "AKUKU A0358 - Gryzak wodny Żyrafa"
+      },
+      {
+        "id": "590794645",
+        "name": "AKUKU A0413 - Grzechotko gryzak"
+      },
+      {
+        "id": "590794646",
+        "name": "AKUKU A0460 - Gryzak silikonowy Miś"
+      },
+      {
+        "id": "590794647",
+        "name": "AKUKU A0114(15) - Gryzak silikonowy Ślimak"
+      },
+      {
+        "id": "590794659",
+        "name": "AKUKU A0362 - Zabawki kąpielowe 4szt."
+      },
+      {
+        "id": "590794660",
+        "name": "AKUKU A0363 - Zabawki kąpielowe 5szt."
+      },
+      {
+        "id": "590794661",
+        "name": "AKUKU A0449 - Grzechotka Lew"
+      },
+      {
+        "id": "590794662",
+        "name": "AKUKU A0450 - Grzechotka Słoń"
+      },
+      {
+        "id": "590794663",
+        "name": "AKUKU A0467 - Grzechotka czarno-biały Miś"
+      },
+      {
+        "id": "590794664",
+        "name": "AKUKU A0470 - Pluszowa zawieszka Miś czarno-biały"
+      },
+      {
+        "id": "590794665",
+        "name": "AKUKU A0482 - Grzechotka pluszowa HANTEL"
+      },
+      {
+        "id": "590794666",
+        "name": "AKUKU A0483 - Grzechotka pluszowa Maracas"
+      },
+      {
+        "id": "590794667",
+        "name": "AKUKU A0679 - Grzechotka Krówka"
+      },
+      {
+        "id": "590794668",
+        "name": "AKUKU A0680(81) - Grzechotka Klucze"
+      }
+    ]
+  },
+  "verifyShopify": [
+    {
+      "id": "gid://shopify/Product/10644508737869",
+      "title": "Tega Baby DK-004-122(129, 130, 131, 132) - Wanna dziecięca Kaczka 86 cm",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10644509065549",
+      "title": "Tega Baby DK-005-122(129, 130, 131, 132) - Wanna dziecięca Kaczka 102 cm",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10644510146893",
+      "title": "Tega Baby FF-004-111(108, 107, 112, 109) - Wanna dziecięca Leśna Opowieść 86 cm",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10644510441805",
+      "title": "Tega Baby FF-005-111(108, 107, 112, 109) - Wanna dziecięca Leśna Opowieść 102 cm",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10644510540109",
+      "title": "Tega Baby KR-004-103(105) - Wanna dziecięca Króliczki z odpływem 86 cm",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10644510671181",
+      "title": "Tega Baby KR-005-103(104, 105) - Wanna dziecięca Króliczki z odpływem 102 cm",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10644510900557",
+      "title": "Tega Baby ME-004 - Wanna dziecięca Meteo z odpływem 86 cm",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10644511064397",
+      "title": "Tega Baby ME-005 - Wanna dziecięca Meteo z odpływem 102 cm",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10644511195469",
+      "title": "Tega Baby MN-004-124 - Wanienka Monsters z odpływem 86 cm",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10644511228237",
+      "title": "Tega Baby MN-005-124 - Wanienka Monsters z odpływem 102 cm",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10644509393229",
+      "title": "Tega Baby DZ-004-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód 86 cm",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10644509622605",
+      "title": "Tega Baby DZ-005-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód 102 cm",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10644509524301",
+      "title": "Tega Baby DZ-004-ODPŁYW-103-JELONEK(SŁONIK) - Wanna dziecięca Dziki Zachód z odpływem 86 cm",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10644509720909",
+      "title": "Tega Baby FB-004-119(129, 130) - Wanienka składana z odpływem standard",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10644511293773",
+      "title": "Tega Baby MS-004-119 - Wanna dziecięca Miś 86 cm",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10644511359309",
+      "title": "Tega Baby MS-005-LUX-118 - Wanna dziecięca Miś 102 cm",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10645600698701",
+      "title": "Tega Baby DM-020-103(106, 135, 136, 137, 138, 140, 157) - Leżaczek do kąpieli 100% bawełna",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10645600731469",
+      "title": "Tega Baby DZ-026-103-JELONEK(SŁONIK) - Leżaczek kąpielowy z wizerunkiem Dziki Zachód",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10645600764237",
+      "title": "Tega Baby FF-003-107(108, 109, 111, 112) - Fotelik do kąpieli antypoślizgowy Leśna Opowieść",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10645600797005",
+      "title": "Tega Baby KR-003-103(104, 105) - Fotelik do kąpieli antypoślizgowy Króliczki",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10645600829773",
+      "title": "Tega Baby KR-026-103(104, 105) - Leżaczek kąpielowy z wizerunkiem Króliczki",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10645600862541",
+      "title": "Tega Baby ME-003-123(164, 165, 166) - Fotelik do kąpieli antypoślizgowy Meteo",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10645600928077",
+      "title": "Tega Baby ME-026-165 - Leżaczek kąpielowy z wizerunkiem Meteo",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10645600960845",
+      "title": "Tega Baby MN-003-124 - Fotelik do kąpieli antypoślizgowy Monsters",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10645600993613",
+      "title": "Tega Baby MN-006-124 - Podnóżek antypoślizgowy Monsters",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10645601059149",
+      "title": "Tega Baby MS-003-118(119) - Fotelik do kąpieli antypoślizgowy Miś",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10645601091917",
+      "title": "Tega Baby MS-020-119 - Nakładka sedesowa miękka Miś",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10645601124685",
+      "title": "Tega Baby MS-026-103(119) - Leżaczek kąpielowy z wizerunkiem Miś",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10645601157453",
+      "title": "Tega Baby SO-003-106 - Fotelik do kąpieli antypoślizgowy Sowa",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10645601190221",
+      "title": "Tega Baby SO-026-103(106) - Leżaczek kąpielowy z wizerunkiem Sowa",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10654682120525",
+      "title": "Tega Baby DM-008 - Stojak uniwersalny 86/102 LUX",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10654682448205",
+      "title": "Tega Baby DM-018(103) - Podstawa uniwersalna 102/102 LUX",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10654682808653",
+      "title": "Tega Baby DM-035-103 - Stojak pod wanienkę TEGGI biały",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10654683038029",
+      "title": "Tega Baby DM-037-103 - Stojak pod wanienkę składaną biały",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10654683234637",
+      "title": "Tega Baby DM-038-103 - Stojak pod wanienkę składaną do montażu biały",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655945457997",
+      "title": "AKUKU A0055 - Gryzak silikonowy Panda",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655945490765",
+      "title": "AKUKU A0355 - Gryzak wodny Serce",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655945556301",
+      "title": "AKUKU A0356 - Gryzak wodny Ster",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655945654605",
+      "title": "AKUKU A0357 - Gryzak wodny Słonik",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655945687373",
+      "title": "AKUKU A0358 - Gryzak wodny Żyrafa",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655945720141",
+      "title": "AKUKU A0362 - Zabawki kąpielowe 4szt.",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655945752909",
+      "title": "AKUKU A0363 - Zabawki kąpielowe 5szt.",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655945818445",
+      "title": "AKUKU A0413 - Grzechotko gryzak",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655945851213",
+      "title": "AKUKU A0449 - Grzechotka Lew",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655945883981",
+      "title": "AKUKU A0450 - Grzechotka Słoń",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655945916749",
+      "title": "AKUKU A0460 - Gryzak silikonowy Miś",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655946015053",
+      "title": "AKUKU A0467 - Grzechotka czarno-biały Miś",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655946080589",
+      "title": "AKUKU A0470 - Pluszowa zawieszka Miś czarno-biały",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655946113357",
+      "title": "AKUKU A0482 - Grzechotka pluszowa HANTEL",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655946178893",
+      "title": "AKUKU A0483 - Grzechotka pluszowa Maracas",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655946342733",
+      "title": "AKUKU A0679 - Grzechotka Krówka",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655946375501",
+      "title": "AKUKU A0114(15) - Gryzak silikonowy Ślimak",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655946408269",
+      "title": "AKUKU A0680(81) - Grzechotka Klucze",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655495291213",
+      "title": "CANPOL 2/083 - Miękka książeczka kąpielowa z piszczkiem",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655495356749",
+      "title": "CANPOL 2/606 - Grzechotka Sztanga",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655495455053",
+      "title": "CANPOL 2/992 - Zabawki piszczące kaczuszki",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655495553357",
+      "title": "CANPOL 56/153 - Grzechotka z obrotowym elementem Sztanga",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655495586125",
+      "title": "CANPOL 56/610 - Sensoryczna grzechotka z gryzakiem",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655495618893",
+      "title": "CANPOL 68/061 - Pluszowa zabawka z grzechotką i lusterkiem DŁUGIE USZY",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655495651661",
+      "title": "CANPOL 68/063 - Interaktywna spirala do łóżeczka/wózka ZIGZAG",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655495815501",
+      "title": "CANPOL 68/095 - Zabawka sensoryczna z piszczkiem BabiesBoo",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655486345549",
+      "title": "CANPOL 13/107 - Grzechotka z gryzaczkiem",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655495946573",
+      "title": "CANPOL 2/187 - Grzechotka Sowa zielony",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496012109",
+      "title": "CANPOL 2/450 - Grzechotka kolorowe kulki",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496044877",
+      "title": "CANPOL 2/457 - Grzechotka z tykającą kulką kulki czerwone",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496077645",
+      "title": "CANPOL 2/817 - Kostka edukacyjna miękka 6szt",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496110413",
+      "title": "CANPOL 2/890 - Miękka zabawka z grzechotką Piłka",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496143181",
+      "title": "CANPOL 2/891 - Miękka zabawka z grzechotką Młotek",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496175949",
+      "title": "CANPOL 56/127 - Grzechotka z gryzakiem wodnym Lizak",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496274253",
+      "title": "CANPOL 56/145 - Grzechotka z kolorowymi koralikami",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496307021",
+      "title": "CANPOL 56/146 - Grzechotka z gryzakiem wodnym Zwierzątka",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496339789",
+      "title": "CANPOL 56/498 - Zabawki do kąpieli 3 szt Kaczki",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496372557",
+      "title": "CANPOL 68/053 - Pluszowa zabawka z pozytywką 0+ Bears szara",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496438093",
+      "title": "CANPOL 68/077 - Pluszowa sensoryczna mata do zabawy Sensory Toys",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496470861",
+      "title": "CANPOL 68/080 - Zabawka kontrastowa z piszczkiem i lusterkiem SENSORY TOYS",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496503629",
+      "title": "CANPOL 68/081 - Pluszowa kontrastowa książeczka edukacyjna SENSORY TOYS",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496569165",
+      "title": "CANPOL 68/082 - Pluszowa piłka kontrastowa SENSORY TOYS",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496601933",
+      "title": "CANPOL 68/083 - Kontrastowa karuzelka podróżna do wózka/fotelika SENSORY",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496667469",
+      "title": "CANPOL 68/084 - Kontrastowa karuzela z pozytywką SENSORY TOYS",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496700237",
+      "title": "CANPOL 68/085 - Sensoryczna zawieszka do wózka BabiesBoo",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655496765773",
+      "title": "CANPOL 68/086 - Sensoryczna zabawka z gryzakiem i grzechotką BabiesBoo",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655497027917",
+      "title": "CANPOL 68/088 - Sensoryczna książeczka manipulacyjna BabiesBoo Panda",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655497093453",
+      "title": "CANPOL 68/089 - Sensoryczna piłka z grzechotką i piszczkiem BabiesBoo",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655497683277",
+      "title": "CANPOL 68/090 - Interaktywna sensoryczna zabawka BabiesBoo Leniwiec",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655497716045",
+      "title": "CANPOL 68/091 - Sensoryczna karuzela podróżna BabiesBoo",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655497748813",
+      "title": "CANPOL 68/092 - Sensoryczna mata edukacyjna z lusterkiem BabiesBoo",
+      "ok": true
+    },
+    {
+      "id": "gid://shopify/Product/10655497781581",
+      "title": "CANPOL 68/093 - Sensoryczna karuzela z pozytywką/Bluetooth BabiesBoo",
+      "ok": true
+    }
+  ],
+  "secondPassAt": "2026-05-10T18:45:34.976235+03:00",
+  "secondPassUpdates": [
+    {
+      "productId": "gid://shopify/Product/10655497814349",
+      "oldTitle": "CANPOL 68/096 Miękkie kontrastowe karty sensoryczne z gryzak BabiesBoo",
+      "newTitle": "CANPOL 68/096 - Miękkie kontrastowe karty sensoryczne z gryzak BabiesBoo",
+      "skus": [
+        "5910717"
+      ],
+      "shopify": {
+        "id": "gid://shopify/Product/10655497814349",
+        "title": "CANPOL 68/096 - Miękkie kontrastowe karty sensoryczne z gryzak BabiesBoo",
+        "handle": "canpol-68-096-miekkie-kontrastowe-karty-sensoryczne-z-gryzak-babiesboo",
+        "status": "DRAFT",
+        "seo": {
+          "title": "CANPOL 68/096 - Miękkie kontrastowe karty sensoryczne z gryzak BabiesBoo | MamaPack",
+          "description": null
+        }
+      },
+      "baselinker": {
+        "parentId": "590503431",
+        "variants": []
+      }
+    },
+    {
+      "productId": "gid://shopify/Product/10655497879885",
+      "oldTitle": "CANPOL 68/097 Sensoryczna miękka książeczka edukacyjna BabiesBoo",
+      "newTitle": "CANPOL 68/097 - Sensoryczna miękka książeczka edukacyjna BabiesBoo",
+      "skus": [
+        "5910718"
+      ],
+      "shopify": {
+        "id": "gid://shopify/Product/10655497879885",
+        "title": "CANPOL 68/097 - Sensoryczna miękka książeczka edukacyjna BabiesBoo",
+        "handle": "canpol-68-097-sensoryczna-miekka-ksiazeczka-edukacyjna-babiesboo",
+        "status": "DRAFT",
+        "seo": {
+          "title": "CANPOL 68/097 - Sensoryczna miękka książeczka edukacyjna BabiesBoo | MamaPack",
+          "description": null
+        }
+      },
+      "baselinker": {
+        "parentId": "590503544",
+        "variants": []
+      }
+    },
+    {
+      "productId": "gid://shopify/Product/10655497912653",
+      "oldTitle": "CANPOL 68/098 Miękka konstastowa kostka sensoryczna BabiesBoo",
+      "newTitle": "CANPOL 68/098 - Miękka konstastowa kostka sensoryczna BabiesBoo",
+      "skus": [
+        "5910719"
+      ],
+      "shopify": {
+        "id": "gid://shopify/Product/10655497912653",
+        "title": "CANPOL 68/098 - Miękka konstastowa kostka sensoryczna BabiesBoo",
+        "handle": "canpol-68-098-miekka-konstastowa-kostka-sensoryczna-babiesboo",
+        "status": "DRAFT",
+        "seo": {
+          "title": "CANPOL 68/098 - Miękka konstastowa kostka sensoryczna BabiesBoo | MamaPack",
+          "description": null
+        }
+      },
+      "baselinker": {
+        "parentId": "590503545",
+        "variants": []
+      }
+    },
+    {
+      "productId": "gid://shopify/Product/10655497945421",
+      "oldTitle": "CANPOL 68/099 Lusterko sensoryczne z elem.interaktywnymi BabiesBoo",
+      "newTitle": "CANPOL 68/099 - Lusterko sensoryczne z elem.interaktywnymi BabiesBoo",
+      "skus": [
+        "5910720"
+      ],
+      "shopify": {
+        "id": "gid://shopify/Product/10655497945421",
+        "title": "CANPOL 68/099 - Lusterko sensoryczne z elem.interaktywnymi BabiesBoo",
+        "handle": "canpol-68-099-lusterko-sensoryczne-z-elem-interaktywnymi-babiesboo",
+        "status": "DRAFT",
+        "seo": {
+          "title": "CANPOL 68/099 - Lusterko sensoryczne z elem.interaktywnymi BabiesBoo | MamaPack",
+          "description": null
+        }
+      },
+      "baselinker": {
+        "parentId": "590503546",
+        "variants": []
+      }
+    },
+    {
+      "productId": "gid://shopify/Product/10655497978189",
+      "oldTitle": "CANPOL 68/100 Leniwiec z pozytywką i projektorem 3w1 BabiesBoo",
+      "newTitle": "CANPOL 68/100 - Leniwiec z pozytywką i projektorem 3w1 BabiesBoo",
+      "skus": [
+        "5911947"
+      ],
+      "shopify": {
+        "id": "gid://shopify/Product/10655497978189",
+        "title": "CANPOL 68/100 - Leniwiec z pozytywką i projektorem 3w1 BabiesBoo",
+        "handle": "canpol-68-100-leniwiec-z-pozytywka-i-projektorem-3w1-babiesboo",
+        "status": "DRAFT",
+        "seo": {
+          "title": "CANPOL 68/100 - Leniwiec z pozytywką i projektorem 3w1 BabiesBoo | MamaPack",
+          "description": null
+        }
+      },
+      "baselinker": {
+        "parentId": "590503547",
+        "variants": []
+      }
+    },
+    {
+      "productId": "gid://shopify/Product/10655498109261",
+      "oldTitle": "CANPOL 68/101 Pluszowa Panda z zawieszką pozytywką i lampką BabiesBoo",
+      "newTitle": "CANPOL 68/101 - Pluszowa Panda z zawieszką pozytywką i lampką BabiesBoo",
+      "skus": [
+        "5911949"
+      ],
+      "shopify": {
+        "id": "gid://shopify/Product/10655498109261",
+        "title": "CANPOL 68/101 - Pluszowa Panda z zawieszką pozytywką i lampką BabiesBoo",
+        "handle": "canpol-68-101-pluszowa-panda-z-zawieszka-pozytywka-i-lampka-babiesboo",
+        "status": "DRAFT",
+        "seo": {
+          "title": "CANPOL 68/101 - Pluszowa Panda z zawieszką pozytywką i lampką BabiesBoo | MamaPack",
+          "description": null
+        }
+      },
+      "baselinker": {
+        "parentId": "590503548",
+        "variants": []
+      }
+    },
+    {
+      "productId": "gid://shopify/Product/10655498174797",
+      "oldTitle": "CANPOL 75/200 Mata edukacyjna FOX",
+      "newTitle": "CANPOL 75/200 - Mata edukacyjna FOX",
+      "skus": [
+        "5908157"
+      ],
+      "shopify": {
+        "id": "gid://shopify/Product/10655498174797",
+        "title": "CANPOL 75/200 - Mata edukacyjna FOX",
+        "handle": "canpol-75-200-mata-edukacyjna-fox",
+        "status": "DRAFT",
+        "seo": {
+          "title": "CANPOL 75/200 - Mata edukacyjna FOX | MamaPack",
+          "description": null
+        }
+      },
+      "baselinker": {
+        "parentId": "590503549",
+        "variants": []
+      }
+    },
+    {
+      "productId": "gid://shopify/Product/10655498207565",
+      "oldTitle": "CANPOL 75/201 Karuzela z pozytywką nad łóżeczko FOX",
+      "newTitle": "CANPOL 75/201 - Karuzela z pozytywką nad łóżeczko FOX",
+      "skus": [
+        "5908156"
+      ],
+      "shopify": {
+        "id": "gid://shopify/Product/10655498207565",
+        "title": "CANPOL 75/201 - Karuzela z pozytywką nad łóżeczko FOX",
+        "handle": "canpol-75-201-karuzela-z-pozytywka-nad-ozeczko-fox",
+        "status": "DRAFT",
+        "seo": {
+          "title": "CANPOL 75/201 - Karuzela z pozytywką nad łóżeczko FOX | MamaPack",
+          "description": null
+        }
+      },
+      "baselinker": {
+        "parentId": "590503551",
+        "variants": []
+      }
+    },
+    {
+      "productId": "gid://shopify/Product/10655498273101",
+      "oldTitle": "CANPOL 75/202 Pluszowa książeczka edukacyjna FOX",
+      "newTitle": "CANPOL 75/202 - Pluszowa książeczka edukacyjna FOX",
+      "skus": [
+        "5908158"
+      ],
+      "shopify": {
+        "id": "gid://shopify/Product/10655498273101",
+        "title": "CANPOL 75/202 - Pluszowa książeczka edukacyjna FOX",
+        "handle": "canpol-75-202-pluszowa-ksiazeczka-edukacyjna-fox",
+        "status": "DRAFT",
+        "seo": {
+          "title": "CANPOL 75/202 - Pluszowa książeczka edukacyjna FOX | MamaPack",
+          "description": null
+        }
+      },
+      "baselinker": {
+        "parentId": "590503556",
+        "variants": []
+      }
+    },
+    {
+      "productId": "gid://shopify/Product/10655495881037",
+      "oldTitle": "CANPOL 79/101 Interaktywna zabawka z grzechotką MIŚ",
+      "newTitle": "CANPOL 79/101 - Interaktywna zabawka z grzechotką MIŚ",
+      "skus": [
+        "774971",
+        "5912648"
+      ],
+      "shopify": {
+        "id": "gid://shopify/Product/10655495881037",
+        "title": "CANPOL 79/101 - Interaktywna zabawka z grzechotką MIŚ",
+        "handle": "canpol-79-101-interaktywna-zabawka-z-grzechotka-mis",
+        "status": "DRAFT",
+        "seo": {
+          "title": "CANPOL 79/101 - Interaktywna zabawka z grzechotką MIŚ | MamaPack",
+          "description": null
+        }
+      },
+      "baselinker": {
+        "parentId": "590503519",
+        "variants": [
+          {
+            "sku": "774971",
+            "name": "czerwony"
+          },
+          {
+            "sku": "5912648",
+            "name": "zielony"
+          }
+        ]
+      }
+    },
+    {
+      "productId": "gid://shopify/Product/10655498338637",
+      "oldTitle": "CANPOL 79/102 Miękkie klocki sensoryczne 12szt",
+      "newTitle": "CANPOL 79/102 - Miękkie klocki sensoryczne 12szt",
+      "skus": [
+        "776414"
+      ],
+      "shopify": {
+        "id": "gid://shopify/Product/10655498338637",
+        "title": "CANPOL 79/102 - Miękkie klocki sensoryczne 12szt",
+        "handle": "canpol-79-102-miekkie-klocki-sensoryczne-12szt",
+        "status": "DRAFT",
+        "seo": {
+          "title": "CANPOL 79/102 - Miękkie klocki sensoryczne 12szt | MamaPack",
+          "description": null
+        }
+      },
+      "baselinker": {
+        "parentId": "590503562",
+        "variants": []
+      }
+    },
+    {
+      "productId": "gid://shopify/Product/10655498371405",
+      "oldTitle": "CANPOL 79/103 Sensoryczna układanka piramidka",
+      "newTitle": "CANPOL 79/103 - Sensoryczna układanka piramidka",
+      "skus": [
+        "791204"
+      ],
+      "shopify": {
+        "id": "gid://shopify/Product/10655498371405",
+        "title": "CANPOL 79/103 - Sensoryczna układanka piramidka",
+        "handle": "canpol-79-103-sensoryczna-ukadanka-piramidka",
+        "status": "DRAFT",
+        "seo": {
+          "title": "CANPOL 79/103 - Sensoryczna układanka piramidka | MamaPack",
+          "description": null
+        }
+      },
+      "baselinker": {
+        "parentId": "590503567",
+        "variants": []
+      }
+    },
+    {
+      "productId": "gid://shopify/Product/10655498404173",
+      "oldTitle": "CANPOL 79/104 Zabawka kreatywna do zabawy w wodzie",
+      "newTitle": "CANPOL 79/104 - Zabawka kreatywna do zabawy w wodzie",
+      "skus": [
+        "780746"
+      ],
+      "shopify": {
+        "id": "gid://shopify/Product/10655498404173",
+        "title": "CANPOL 79/104 - Zabawka kreatywna do zabawy w wodzie",
+        "handle": "canpol-79-104-zabawka-kreatywna-do-zabawy-w-wodzie",
+        "status": "DRAFT",
+        "seo": {
+          "title": "CANPOL 79/104 - Zabawka kreatywna do zabawy w wodzie | MamaPack",
+          "description": null
+        }
+      },
+      "baselinker": {
+        "parentId": "590503573",
+        "variants": []
+      }
+    },
+    {
+      "productId": "gid://shopify/Product/10655498436941",
+      "oldTitle": "CANPOL 79/402 Miękkie piłeczki sensoryczne 6szt.",
+      "newTitle": "CANPOL 79/402 - Miękkie piłeczki sensoryczne 6szt.",
+      "skus": [
+        "786396"
+      ],
+      "shopify": {
+        "id": "gid://shopify/Product/10655498436941",
+        "title": "CANPOL 79/402 - Miękkie piłeczki sensoryczne 6szt.",
+        "handle": "canpol-79-402-miekkie-pieczki-sensoryczne-6szt",
+        "status": "DRAFT",
+        "seo": {
+          "title": "CANPOL 79/402 - Miękkie piłeczki sensoryczne 6szt. | MamaPack",
+          "description": null
+        }
+      },
+      "baselinker": {
+        "parentId": "590503578",
+        "variants": []
+      }
+    },
+    {
+      "productId": "gid://shopify/Product/10655498469709",
+      "oldTitle": "CANPOL 80/201 Miękka grzechotka Króliczek różowy",
+      "newTitle": "CANPOL 80/201 - Miękka grzechotka Króliczek różowy",
+      "skus": [
+        "780510"
+      ],
+      "shopify": {
+        "id": "gid://shopify/Product/10655498469709",
+        "title": "CANPOL 80/201 - Miękka grzechotka Króliczek różowy",
+        "handle": "canpol-80-201-miekka-grzechotka-kroliczek-rozowy",
+        "status": "DRAFT",
+        "seo": {
+          "title": "CANPOL 80/201 - Miękka grzechotka Króliczek różowy | MamaPack",
+          "description": null
+        }
+      },
+      "baselinker": {
+        "parentId": "590503584",
+        "variants": []
+      }
+    },
+    {
+      "productId": "gid://shopify/Product/10655498502477",
+      "oldTitle": "CANPOL 80/308 Zestaw odkręcanych zabawek silikonowych do kąpieli",
+      "newTitle": "CANPOL 80/308 - Zestaw odkręcanych zabawek silikonowych do kąpieli",
+      "skus": [
+        "5903867"
+      ],
+      "shopify": {
+        "id": "gid://shopify/Product/10655498502477",
+        "title": "CANPOL 80/308 - Zestaw odkręcanych zabawek silikonowych do kąpieli",
+        "handle": "canpol-80-308-zestaw-odkrecanych-zabawek-silikonowych-do-kapieli",
+        "status": "DRAFT",
+        "seo": {
+          "title": "CANPOL 80/308 - Zestaw odkręcanych zabawek silikonowych do kąpieli | MamaPack",
+          "description": null
+        }
+      },
+      "baselinker": {
+        "parentId": "590503590",
+        "variants": []
+      }
+    }
+  ],
+  "totalAppliedUpdates": 103
+}

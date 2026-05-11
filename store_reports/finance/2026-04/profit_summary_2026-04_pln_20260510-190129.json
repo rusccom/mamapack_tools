@@ -1,0 +1,225 @@
+{
+  "period": {
+    "label": "2026-04",
+    "timezone": "Europe/Warsaw CEST",
+    "start": "2026-04-01T00:00:00+02:00",
+    "end_exclusive": "2026-05-01T00:00:00+02:00",
+    "basis": "current BaseLinker status Wys?ane and date_in_status inside the period"
+  },
+  "filters": {
+    "included_status_ids": [
+      207299,
+      265758
+    ],
+    "included_status_names": {
+      "207299": "Wys?ane",
+      "265758": "Wys?ane"
+    },
+    "excluded_status_counts_in_period": {
+      "443219": 8,
+      "125363": 1
+    }
+  },
+  "currency": {
+    "reporting_currency": "PLN",
+    "revenue_conversion": "Order revenue in CZK/EUR converted to PLN using NBP table A mid rate on date_in_status; weekends use latest previous table.",
+    "cost_assumption": "BaseLinker average_cost/average_landed_cost treated as PLN inventory cost.",
+    "nbp_source": "https://api.nbp.pl/api/exchangerates/rates/a/{code}/2026-03-20/2026-04-30/?format=json",
+    "rates_used": {
+      "CZK": {
+        "2026-04-01": "0.1748",
+        "2026-04-02": "0.1747",
+        "2026-04-03": "0.1745",
+        "2026-04-07": "0.1742",
+        "2026-04-08": "0.1746",
+        "2026-04-09": "0.1746",
+        "2026-04-10": "0.1745",
+        "2026-04-13": "0.1744",
+        "2026-04-14": "0.1742",
+        "2026-04-15": "0.174",
+        "2026-04-16": "0.1742",
+        "2026-04-17": "0.1742",
+        "2026-04-20": "0.1743",
+        "2026-04-21": "0.1742",
+        "2026-04-22": "0.1742",
+        "2026-04-23": "0.1744",
+        "2026-04-24": "0.1741",
+        "2026-04-27": "0.1743",
+        "2026-04-28": "0.1743",
+        "2026-04-29": "0.1745",
+        "2026-04-30": "0.1747"
+      },
+      "EUR": {
+        "2026-04-01": "4.2874",
+        "2026-04-02": "4.2869",
+        "2026-04-03": "4.2776",
+        "2026-04-07": "4.2694",
+        "2026-04-08": "4.2623",
+        "2026-04-09": "4.261",
+        "2026-04-10": "4.2534",
+        "2026-04-13": "4.2507",
+        "2026-04-14": "4.2436",
+        "2026-04-15": "4.237",
+        "2026-04-16": "4.2411",
+        "2026-04-17": "4.2355",
+        "2026-04-20": "4.2346",
+        "2026-04-21": "4.232",
+        "2026-04-22": "4.2408",
+        "2026-04-23": "4.2501",
+        "2026-04-24": "4.2428",
+        "2026-04-27": "4.2445",
+        "2026-04-28": "4.247",
+        "2026-04-29": "4.2537",
+        "2026-04-30": "4.2589"
+      }
+    }
+  },
+  "data_sources": {
+    "orders": "BaseLinker getOrders",
+    "product_cost": "BaseLinker getInventoryProductsData: average_landed_cost if positive, otherwise average_cost",
+    "shipping_cost": "BaseLinker getOrderPackages + getPackageDetails cost_value",
+    "marketplace_commission": "not available in fetched BaseLinker order/transaction data; not included",
+    "advertising": "Allegro Ads credentials/data not present in project; not included"
+  },
+  "totals_pln": {
+    "orders": 140,
+    "item_lines": 2922,
+    "units_sold": 2975.0,
+    "product_line_sales_pln": 33345.8,
+    "order_adjustments_pln": 2617.28,
+    "item_sales_after_adjustments_pln": 35963.08,
+    "delivery_income_pln": 1467.73,
+    "total_revenue_pln": 37430.81,
+    "payment_done_pln": 36089.33,
+    "cogs_pln": 18135.53,
+    "shipping_cost_pln": 929.53,
+    "product_margin_before_shipping_pln": 17827.55,
+    "shipping_net_pln": 538.2,
+    "known_profit_before_marketplace_fees_and_ads_pln": 18365.75,
+    "known_profit_margin_pct": 49.07,
+    "marketplace_commission_included_pln": 0,
+    "ads_cost_included_pln": 0
+  },
+  "quality": {
+    "actual_product_lines_missing_cost": 2,
+    "actual_product_missing_cost_sales_pln": 99.89,
+    "orders_without_package_cost_row": 1,
+    "orders_with_package_cost_value_zero": 85,
+    "package_cost_currency_counts": {
+      "": 87,
+      "PLN": 54
+    },
+    "note": "Most Allegro package details returned cost_value 0 / empty currency, so Allegro shipping settlement costs may be absent."
+  },
+  "by_currency": [
+    {
+      "currency": "CZK",
+      "orders": 6,
+      "payment_done_original": 8374.0,
+      "total_revenue_pln": 1890.04,
+      "known_profit_pln": 1080.94
+    },
+    {
+      "currency": "EUR",
+      "orders": 3,
+      "payment_done_original": 203.43,
+      "total_revenue_pln": 862.65,
+      "known_profit_pln": 466.49
+    },
+    {
+      "currency": "PLN",
+      "orders": 131,
+      "payment_done_original": 33766.47,
+      "total_revenue_pln": 34678.12,
+      "known_profit_pln": 16818.32
+    }
+  ],
+  "by_source": [
+    {
+      "source": "allegro",
+      "orders": 87,
+      "product_line_sales_pln": 22751.92,
+      "order_adjustments_pln": 2617.28,
+      "item_sales_after_adjustments_pln": 25369.2,
+      "delivery_income_pln": 566.73,
+      "total_revenue_pln": 25935.93,
+      "cogs_pln": 12357.75,
+      "shipping_cost_pln": 29.48,
+      "known_profit_pln": 13548.7
+    },
+    {
+      "source": "shop",
+      "orders": 53,
+      "product_line_sales_pln": 10593.88,
+      "order_adjustments_pln": 0.0,
+      "item_sales_after_adjustments_pln": 10593.88,
+      "delivery_income_pln": 901.0,
+      "total_revenue_pln": 11494.88,
+      "cogs_pln": 5777.78,
+      "shipping_cost_pln": 900.05,
+      "known_profit_pln": 4817.05
+    }
+  ],
+  "by_payment_method": [
+    {
+      "payment_method": "Allegro Finance",
+      "orders": 68,
+      "product_line_sales_pln": 18385.6,
+      "order_adjustments_pln": 1294.18,
+      "item_sales_after_adjustments_pln": 19679.78,
+      "delivery_income_pln": 286.94,
+      "total_revenue_pln": 19966.72,
+      "cogs_pln": 9575.79,
+      "shipping_cost_pln": 10.8,
+      "known_profit_pln": 10380.13
+    },
+    {
+      "payment_method": "Cash on Delivery (COD)",
+      "orders": 23,
+      "product_line_sales_pln": 4757.76,
+      "order_adjustments_pln": 0.0,
+      "item_sales_after_adjustments_pln": 4757.76,
+      "delivery_income_pln": 391.0,
+      "total_revenue_pln": 5148.76,
+      "cogs_pln": 2595.46,
+      "shipping_cost_pln": 428.44,
+      "known_profit_pln": 2124.86
+    },
+    {
+      "payment_method": "PayU - Allegro Finance",
+      "orders": 3,
+      "product_line_sales_pln": 905.98,
+      "order_adjustments_pln": 52.82,
+      "item_sales_after_adjustments_pln": 958.8,
+      "delivery_income_pln": 23.44,
+      "total_revenue_pln": 982.24,
+      "cogs_pln": 472.25,
+      "shipping_cost_pln": 0.0,
+      "known_profit_pln": 509.99
+    },
+    {
+      "payment_method": "Przelewy24",
+      "orders": 30,
+      "product_line_sales_pln": 5836.12,
+      "order_adjustments_pln": 0.0,
+      "item_sales_after_adjustments_pln": 5836.12,
+      "delivery_income_pln": 510.0,
+      "total_revenue_pln": 6346.12,
+      "cogs_pln": 3182.32,
+      "shipping_cost_pln": 471.61,
+      "known_profit_pln": 2692.19
+    },
+    {
+      "payment_method": "Płatność przy odbiorze",
+      "orders": 16,
+      "product_line_sales_pln": 3460.34,
+      "order_adjustments_pln": 1270.28,
+      "item_sales_after_adjustments_pln": 4730.62,
+      "delivery_income_pln": 256.35,
+      "total_revenue_pln": 4986.97,
+      "cogs_pln": 2309.71,
+      "shipping_cost_pln": 18.68,
+      "known_profit_pln": 2658.58
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "summary": {
+    "productCount": 9,
+    "skuCount": 19,
+    "badCount": 0,
+    "bad": []
+  },
+  "checks": [
+    {
+      "id": "gid://shopify/Product/10655506104653",
+      "title": "4 Baby BOOST fotelik samochodowy 125-150 cm i-Size",
+      "handle": "4-baby-boost-fotelik-samochodowy-125-150-cm-i-size",
+      "status": "DRAFT",
+      "vendor": "4 Baby",
+      "productType": "Foteliki samochodowe",
+      "variantCount": 3,
+      "skus": [
+        "5911362",
+        "5908244",
+        "5908245"
+      ],
+      "options": [
+        [
+          {
+            "name": "Kolor",
+            "value": "dark green"
+          }
+        ],
+        [
+          {
+            "name": "Kolor",
+            "value": "graphite"
+          }
+        ],
+        [
+          {
+            "name": "Kolor",
+            "value": "grey"
+          }
+        ]
+      ],
+      "mediaCount": 3,
+      "mediaReady": true,
+      "collections": [
+        "foteliki-samochodowe"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655506137421",
+      "title": "4 Baby ENZO-FIX fotelik samochodowy 40-150 cm i-Size",
+      "handle": "4-baby-enzo-fix-fotelik-samochodowy-40-150-cm-i-size",
+      "status": "DRAFT",
+      "vendor": "4 Baby",
+      "productType": "Foteliki samochodowe",
+      "variantCount": 2,
+      "skus": [
+        "5907247",
+        "5907248"
+      ],
+      "options": [
+        [
+          {
+            "name": "Kolor",
+            "value": "black"
+          }
+        ],
+        [
+          {
+            "name": "Kolor",
+            "value": "dark green"
+          }
+        ]
+      ],
+      "mediaCount": 2,
+      "mediaReady": true,
+      "collections": [
+        "foteliki-samochodowe"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655506170189",
+      "title": "4 Baby MATT-FIX fotelik samochodowy 40-150 cm i-Size",
+      "handle": "4-baby-matt-fix-fotelik-samochodowy-40-150-cm-i-size",
+      "status": "DRAFT",
+      "vendor": "4 Baby",
+      "productType": "Foteliki samochodowe",
+      "variantCount": 3,
+      "skus": [
+        "5911423",
+        "5911424",
+        "5911425"
+      ],
+      "options": [
+        [
+          {
+            "name": "Kolor",
+            "value": "dark green"
+          }
+        ],
+        [
+          {
+            "name": "Kolor",
+            "value": "graphite"
+          }
+        ],
+        [
+          {
+            "name": "Kolor",
+            "value": "grey"
+          }
+        ]
+      ],
+      "mediaCount": 3,
+      "mediaReady": true,
+      "collections": [
+        "foteliki-samochodowe"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655506202957",
+      "title": "4 Baby NEO fotelik samochodowy 40-87 cm i-Size",
+      "handle": "4-baby-neo-fotelik-samochodowy-40-87-cm-i-size",
+      "status": "DRAFT",
+      "vendor": "4 Baby",
+      "productType": "Foteliki samochodowe",
+      "variantCount": 3,
+      "skus": [
+        "5913099",
+        "5913098",
+        "5913100"
+      ],
+      "options": [
+        [
+          {
+            "name": "Kolor",
+            "value": "black"
+          }
+        ],
+        [
+          {
+            "name": "Kolor",
+            "value": "dark green"
+          }
+        ],
+        [
+          {
+            "name": "Kolor",
+            "value": "graphite"
+          }
+        ]
+      ],
+      "mediaCount": 3,
+      "mediaReady": true,
+      "collections": [
+        "foteliki-samochodowe"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655506235725",
+      "title": "4 Baby NERO fotelik samochodowy 100-150 cm i-Size",
+      "handle": "4-baby-nero-fotelik-samochodowy-100-150-cm-i-size",
+      "status": "DRAFT",
+      "vendor": "4 Baby",
+      "productType": "Foteliki samochodowe",
+      "variantCount": 4,
+      "skus": [
+        "5912550",
+        "5912551",
+        "5912553",
+        "5912554"
+      ],
+      "options": [
+        [
+          {
+            "name": "Kolor",
+            "value": "black"
+          }
+        ],
+        [
+          {
+            "name": "Kolor",
+            "value": "dark green"
+          }
+        ],
+        [
+          {
+            "name": "Kolor",
+            "value": "graphite"
+          }
+        ],
+        [
+          {
+            "name": "Kolor",
+            "value": "mokka"
+          }
+        ]
+      ],
+      "mediaCount": 4,
+      "mediaReady": true,
+      "collections": [
+        "foteliki-samochodowe"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655506334029",
+      "title": "4 Baby HI-FIX fotelik samochodowy 125-150 cm dark green i-Size",
+      "handle": "4-baby-hi-fix-fotelik-samochodowy-125-150-cm-dark-green-i-size",
+      "status": "DRAFT",
+      "vendor": "4 Baby",
+      "productType": "Foteliki samochodowe",
+      "variantCount": 1,
+      "skus": [
+        "5911414"
+      ],
+      "options": [
+        [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "foteliki-samochodowe"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655506366797",
+      "title": "4 Baby NANO-FIX fotelik samochodowy 0-18 kg red",
+      "handle": "4-baby-nano-fix-fotelik-samochodowy-0-18-kg-red",
+      "status": "DRAFT",
+      "vendor": "4 Baby",
+      "productType": "Foteliki samochodowe",
+      "variantCount": 1,
+      "skus": [
+        "780113"
+      ],
+      "options": [
+        [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "foteliki-samochodowe"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655506399565",
+      "title": "4 Baby ROTO-FIX fotelik samochodowy 40-150 cm black i-Size",
+      "handle": "4-baby-roto-fix-fotelik-samochodowy-40-150-cm-black-i-size",
+      "status": "DRAFT",
+      "vendor": "4 Baby",
+      "productType": "Foteliki samochodowe",
+      "variantCount": 1,
+      "skus": [
+        "5907840"
+      ],
+      "options": [
+        [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "foteliki-samochodowe"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10655506432333",
+      "title": "4 Baby VEL-FIX fotelik samochodowy 40-150 cm black i-Size",
+      "handle": "4-baby-vel-fix-fotelik-samochodowy-40-150-cm-black-i-size",
+      "status": "DRAFT",
+      "vendor": "4 Baby",
+      "productType": "Foteliki samochodowe",
+      "variantCount": 1,
+      "skus": [
+        "5908249"
+      ],
+      "options": [
+        [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      ],
+      "mediaCount": 1,
+      "mediaReady": true,
+      "collections": [
+        "foteliki-samochodowe"
+      ]
+    }
+  ]
+}
