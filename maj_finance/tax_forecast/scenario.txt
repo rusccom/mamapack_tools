@@ -1,0 +1,96 @@
+MAJ Finance current tax forecast scenario
+
+Purpose
+- When asked for current tax exposure, produce a factual snapshot of PIT and
+  full ZUS for a requested period, usually from the first day of the current
+  month to today.
+- Do not assume future revenue, future invoices, future marketplace fees, or
+  documents that are not visible yet.
+- Treat the result as "if the period ended today" until MAJ Finance closes the
+  month or issues final declarations.
+
+Tax profile
+- SMART TRADE uses PIT-36 zaliczka from MAJ Finance declarations.
+- Treat this as Polish tax scale, not PIT-36L and not ryczalt.
+- The firm is non-VAT for this workflow, so costs use gross document values.
+
+Revenue
+- Source: BaseLinker.
+- Include orders whose current status name is Wyslane.
+- Current BaseLinker Wyslane status IDs found by API: 207299 and 265758.
+- Use order date_in_status inside the requested period.
+- Include COD/unpaid orders too; do not use payment_done as the inclusion rule.
+- Revenue is gross order value:
+  sum(products.price_brutto * quantity) + delivery_price.
+- If currency is not PLN, convert to PLN with NBP table A rate for date_in_status
+  or the latest previous available rate.
+
+Costs
+- Source: MAJ Finance documents and KPiR.
+- For closed months, use KPiR/Zestawienia as official.
+- For current-month snapshot, scan MAJ purchase/cost documents broadly enough
+  to catch documents the user just uploaded, even if the accountant has not
+  booked them yet.
+- For current-month MAJ purchase documents, include every visible active status:
+  booked, waiting for pickup, waiting in office, password-protected, and
+  informational/API Morfeusz. Exclude deleted and cancelled documents.
+- If a freshly uploaded document is visible but MAJ has not extracted amounts
+  yet, report it as pending/no visible amount; do not invent an amount.
+- Decide whether a document belongs to the requested period by service/sell date
+  when available; otherwise use issue date. Do not use MAJ registration date as
+  the period date for profit/cost summaries, because it can pull prior-month
+  invoices uploaded in the current month.
+- For cost/profit summaries, include only purchases/costs whose purchase,
+  service, or invoice date belongs to the requested period. Ignore documents
+  registered/uploaded during the period if their purchase/service/invoice date
+  is outside the period.
+- Use gross document amount, not netto.
+- Also include already visible KPiR cost rows for the period.
+- Avoid double-counting by matching document numbers between KPiR and purchase
+  document lists.
+
+PIT estimate
+- Use the latest closed PIT-36 declaration as the year-to-date baseline.
+- Add actual visible profit for the requested current period:
+  current_profit = visible_revenue - visible_costs.
+- Estimate cumulative tax on the cumulative income from year start.
+- For the 2026 tax scale use:
+  up to 120000 PLN: max(0, base * 12% - 3600 PLN)
+  above 120000 PLN: 10800 PLN + 32% of the surplus above 120000 PLN
+- Estimated current PIT advance equals cumulative estimated PIT minus PIT
+  advances already declared for previous months.
+
+ZUS estimate
+- If MAJ Finance has already issued ZUS DRA for the month, use that exact amount.
+- Otherwise estimate it from two parts:
+  fixed/social ZUS + current health contribution.
+- For PIT-36 tax scale, health contribution is estimated from income/profit,
+  not revenue alone:
+  zdrowotna = max(current_visible_income * 9%, minimum_health_contribution).
+- Use the latest MAJ Finance DRA/payroll details to infer the fixed/social ZUS
+  part, then add the estimated zdrowotna.
+- Timing note: MAJ Finance DRA for a month can use income from the previous
+  month for the health part.
+- Do not forecast next DRA unless explicitly asked. Report:
+  1) known DRA already issued by MAJ Finance,
+  2) current-month health/full ZUS exposure if the visible period ended today.
+- Latest confirmed amount found while creating this scenario:
+  April 2026 ZUS DRA = 1631.82 PLN, due 2026-05-20.
+- This April DRA matches fixed/social 420.86 PLN plus health 1210.96 PLN,
+  where health is 9% of March 2026 profit 13455.08 PLN.
+
+Output
+- Always show period, data freshness, snapshot status, revenue, costs, profit,
+  estimated PIT, estimated/full ZUS, and assumptions.
+- Mark confidence as one of:
+  official closed month, current visible snapshot, partial data.
+
+User summary preference
+- If the user asks in Russian for "сводку по затратам", "сводку по прибыли",
+  or similar wording for a period, use the current visible snapshot format.
+- Treat previous PIT and previous ZUS payments as already closed/paid unless
+  the user explicitly asks to include them.
+- Show only the new period exposure:
+  period, revenue, costs, profit, new PIT for the period, new ZUS exposure,
+  and total reserve for the new period.
+- Do not add prior-month DRA/PIT to the final payable total in this summary.

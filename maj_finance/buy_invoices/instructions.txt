@@ -1,0 +1,71 @@
+MAJ Finance / eSZOK BR - raport zakupow
+
+Folder
+- Mechanizm jest w katalogu:
+  maj_finance\buy_invoices
+- Folder maj_finance jest wspolnym miejscem dla przyszlych funkcji finansowych.
+- Portal: https://klient.mf.lublin.pl/invoices/buy
+- Skrypt nie pobiera PDF ani innych dokumentow.
+
+Dane logowania
+- customer_code: 7123475744
+- name: SMART TRADE RUSLAN YURCHENKO
+- password: podawac z konsoli albo przez env MAJ_PASSWORD
+
+Status dokumentow
+- Do snapshotu biezacego okresu bierzemy wszystkie aktywne widoczne statusy:
+  Dokumenty zaksiegowane, oczekujace na pobranie, oczekujace w Kancelarii,
+  z haslem i z informacja/API Morfeusz.
+- Nie bierzemy statusow: Dokumenty usuniete i Dokumenty anulowane.
+- Swiezo zaladowane dokumenty bez widocznej kwoty moga byc policzone dopiero,
+  gdy portal pokaze netto/VAT/brutto.
+- Kontrolnie pokazujemy added_documents i deleted_documents,
+  bo raport zamkniecia miesiaca liczy wszystkie dodane dokumenty.
+
+Daty
+- AccountingMonth = tryb zgodny z zamknieciem miesiaca MAJ Finance.
+- AccountingMonth filtruje po dacie dodania/rejestracji dokumentu:
+  created_at_min / created_at_max.
+- Do swiezej swodki kosztow/zysku za okres nie uzywac AccountingMonth jako
+  daty okresu, bo moze wciagnac starsze faktury zaladowane w tym miesiacu.
+- Do swodki kosztow/zysku uzywac SellDate, a gdy jej nie ma IssueDate.
+- Do swodki bierzemy tylko koszty zakupu/uslugi/faktury z liczonego okresu.
+  Ignorujemy dokumenty zaladowane w tym okresie, jesli dotycza poprzedniego
+  lub innego okresu.
+- RegistrationDate = Data rejestracji w portalu.
+- IssueDate = Data wystawienia faktury.
+- SellDate = Data sprzedazy/uslugi z karty faktury.
+- Domyslnie liczymy po AccountingMonth, bo ma sie zgadzac
+  z mailem biura rachunkowego o zamknieciu miesiaca.
+
+Jak uruchomic
+1. Otworz PowerShell w katalogu:
+   maj_finance\buy_invoices
+
+2. Ustaw stale pola bez zapisywania hasla:
+   $env:MAJ_CUSTOMER_CODE="7123475744"
+   $env:MAJ_USER_NAME="SMART TRADE RUSLAN YURCHENKO"
+
+3. Raport za zamkniety miesiac zgodnie z MAJ Finance:
+   .\get_buy_invoice_summary.ps1 -From "2026-04-01" -To "2026-04-30"
+
+4. Pokaz rowniez liste faktur:
+   .\get_buy_invoice_summary.ps1 -From "2026-04-01" -To "2026-04-30" -IncludeRows
+
+5. Raport po dacie wystawienia:
+   .\get_buy_invoice_summary.ps1 -From "2026-04-01" -To "2026-04-30" -DateField IssueDate
+
+6. Raport po dacie rejestracji:
+   .\get_buy_invoice_summary.ps1 -From "2026-04-01" -To "2026-04-30" -DateField RegistrationDate
+
+7. Raport po dacie sprzedazy/uslugi:
+   .\get_buy_invoice_summary.ps1 -From "2026-04-01" -To "2026-04-30" -DateField SellDate
+
+Wynik
+- added_documents = liczba z raportu zamkniecia miesiaca.
+- deleted_documents = dokumenty usuniete wliczane do added_documents.
+- invoices = liczba faktur.
+- total_net = suma netto.
+- total_vat = suma VAT.
+- total_gross = suma brutto.
+- scanned_rows = ile zaksiegowanych wierszy portal przejrzal.

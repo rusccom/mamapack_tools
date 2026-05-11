@@ -1,0 +1,43 @@
+2026-05-11
+
+Portal:
+- URL: https://klient.mf.lublin.pl/invoices/buy
+- Bez sesji portal przekierowuje na https://klient.mf.lublin.pl/login
+- Formularz logowania znaleziony.
+- Pola logowania: customer_code, name, password, _token.
+- CSRF token jest brany z hidden input _token.
+
+Sprawdzone dane:
+- customer_code: 7123475744
+- name: SMART TRADE RUSLAN YURCHENKO
+- password: nie zapisany w pliku
+
+Wynik:
+- Logowanie dziala.
+- Mechanizm przeniesiony do:
+  maj_finance\buy_invoices
+- Skrypt pobierania dokumentow zostal usuniety.
+- Aktualny mechanizm tylko czyta tabele i karty faktur.
+- Do raportu bierzemy status Dokumenty zaksiegowane:
+  filtr_status=1.
+- Domyslny tryb to AccountingMonth, zgodny z zamknieciem
+  miesiaca MAJ Finance.
+- Email biura za miesiac 4/2026 pokazal:
+  Ilosc dokumentow zakupu: 51
+- Endpoint zamkniecia miesiaca potwierdzil:
+  Dodanych dokumentow zakupu: 51
+  Dodanych dokumentow sprzedazy: 2
+- Te 51 dokumentow odpowiada filtrowi:
+  created_at_min=2026-04-01
+  created_at_max=2026-04-30
+- W tych 51 dokumentach jest 6 usunietych dokumentow.
+- Do sumy finansowej liczymy 45 dokumentow zaksiegowanych:
+  invoices: 45
+  total_net: 13706,43 PLN
+  total_vat: 2724,99 PLN
+  total_gross: 16431,42 PLN
+
+Uwaga:
+- Dokumenty PDF nie sa pobierane.
+- Testowe pliki i snapshoty zostaly usuniete.
+- Do dalszego uzycia korzystac z get_buy_invoice_summary.ps1.

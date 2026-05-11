@@ -8,3 +8,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 ~$*
+.playwright-cli/
+maj_finance/buy_invoices/downloads/
+maj_finance/buy_invoices/snapshots/
+data/allegro_token.json
